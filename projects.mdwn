@@ -1,0 +1,3 @@
+Projects:
+
+[[!inline pages="page(./projects/*)" show="10" actions=yes rootpage="projects"]]
