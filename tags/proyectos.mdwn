@@ -1,0 +1,4 @@
+[[!meta title="pages tagged proyectos"]]
+
+[[!inline pages="tagged(proyectos)" actions="no" archive="yes"
+feedshow=10]]
