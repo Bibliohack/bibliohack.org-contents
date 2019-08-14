@@ -11,5 +11,4 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
    </ul>
 </div>
 
-[[!inline show="10"
-actions=yes rootpage="posts"]]
+[[!inline pages="page(./posts/*)" show="10" actions=yes rootpage="posts"]]
