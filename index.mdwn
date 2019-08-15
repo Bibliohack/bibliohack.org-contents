@@ -1,7 +1,7 @@
 [[!template id=foo name="Sally" color="green" age=8 titulo="Lorem ipsum" texto="""
 Consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. 
 """]]
-[[!templatebody  <<ENDBODY
+[[!templatebody id=foo <<ENDBODY
 <span class="infobox">
     Name: [[<TMPL_VAR raw_name>]]<br />
     Age: <TMPL_VAR age><br />
