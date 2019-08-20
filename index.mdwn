@@ -1,4 +1,27 @@
-[[!pagetemplate  template="landing_page.tmpl"]]
+[[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
 Lorem Ipsum<br>
-[[!template  id=landing_page_section.tmpl texto="texto de la seccion numero uno"]]
+
+[[!template  
+  id=landing_page_section_about.tmpl 
+  titulo="Acerca de:" 
+  texto="texto de la seccion numero uno"
+]]
+
+[[!template 
+  id=landing_page_section_bullets.tmpl 
+  titulo="Secciones" 
+  item1_icon="fa-newspaper-o"
+  item1_titulo="Item numero uno"
+  item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item2_icon="fa-newspaper-o"
+  item2_titulo="Item numero dos"
+  item2_texto="Aenean commodo ligula eget dolor."
+  item3_icon="fa-newspaper-o"
+  item3_titulo="Item numero tres"
+  item3_texto="Natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  item4_icon="fa-newspaper-o"
+  item4_titulo="Item numero cuatro"
+  item4_texto="Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+]]
+
 
