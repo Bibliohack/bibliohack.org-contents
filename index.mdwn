@@ -1,4 +1,4 @@
 [[!pagetemplate  template="landing_page.tmpl"]]
 Lorem Ipsum<br>
-[[!template  id=landing_page_section.tmpl]]
+[[!template  id=landing_page_section.tmpl texto="texto de la seccion numero uno"]]
 
