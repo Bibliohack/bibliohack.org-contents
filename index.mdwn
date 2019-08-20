@@ -1,1 +1,4 @@
 [[!pagetemplate  template="landing_page.tmpl"]]
+Lorem Ipsum<br>
+[[!template  id=landing_page_section.tmpl]]
+
