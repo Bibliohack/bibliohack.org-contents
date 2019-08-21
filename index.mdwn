@@ -6,8 +6,7 @@
 "
 ]][[!template  
   id=landing_page_section_slide.tmpl 
-  data='data-ride="carousel"'
-  escape=none
+  data='data-ride'
 ]][[!template  
   id=landing_page_section_about.tmpl 
   titulo="Acerca de:" 
