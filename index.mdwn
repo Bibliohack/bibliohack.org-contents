@@ -3,7 +3,7 @@
 [[!template  
   id=landing_page_section_top.tmpl 
   titulo="" 
-  texto="Bibliohack es una organización cuya misión es integrar la digitalización, las nuevas tecnologías y la perspectiva del conocimiento abierto como parte de las prácticas institucionales de bibliotecas, archivos y museos --planteada desde la realidad política y económica del sur global. Trabajamos sobre tres ejes: 1) diseño y desarollo de tecnologías libres, adecuadas e innovadoras 2) capacitación, enseñanza y consultoría 3) incidencia institucional y en políticas públicas.
+  texto="**Bibliohack** es una iniciativa cuya misión es integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** como parte de las prácticas institucionales de **bibliotecas**, **archivos** y **museos** —planteada desde la realidad política y económica del sur global. Trabajamos sobre *tres ejes*: 1) diseño y desarollo de tecnologías libres, adecuadas e innovadoras 2) capacitación, enseñanza y consultoría 3) incidencia institucional y en políticas públicas.
 "
 ]]
 
