@@ -2,6 +2,12 @@
 Lorem Ipsum<br>
 
 [[!template  
+  id=landing_page_section_top.tmpl 
+  titulo="Top" 
+  texto="texto de la seccion top"
+]]
+
+[[!template  
   id=landing_page_section_about.tmpl 
   titulo="Acerca de:" 
   texto="texto de la seccion numero uno"
