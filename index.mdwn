@@ -19,16 +19,20 @@
   item2_texto="Aenean commodo ligula eget dolor."
   item3_icon="fa-newspaper-o"
   item3_titulo="Item numero tres"
-  item3_texto="Natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  item3_texto=" ac ipsum dignissim, varius sapien nec, rhoncus ante.."
   item4_icon="fa-newspaper-o"
   item4_titulo="Item numero cuatro"
   item4_texto="Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 ]][[!template  id=landing_page_section_slide.tmpl 
+  titulo="Un buen titulo para el item"
+  texto="""
+Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
+"""
   item1_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item1_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
   item2_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item2_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item2_txt="Aenean eu nisi eget ante suscipit porttitor"
   item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item3_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]]</div>
 
