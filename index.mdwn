@@ -24,4 +24,4 @@
   item4_titulo="Item numero cuatro"
   item4_texto="Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 ]]</div>
-[[!template id=test.tmpl text="mytag='zzz'" ]]
+[[!template id=test.tmpl text="mytag='xxx'" ]]
