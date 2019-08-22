@@ -55,16 +55,13 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 ]][[!template  id=landing_page_section_bullets.tmpl 
   titulo="Secciones" 
   item1_icon="fa-newspaper-o"
-  item1_titulo="Item numero uno"
+  item1_titulo="Wiki"
   item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
   item2_icon="fa-newspaper-o"
-  item2_titulo="Item numero dos"
+  item2_titulo="Blog"
   item2_texto="Aenean commodo ligula eget dolor."
   item3_icon="fa-newspaper-o"
-  item3_titulo="Item numero tres"
+  item3_titulo="Código"
   item3_texto=" ac ipsum dignissim, varius sapien nec, rhoncus ante.."
-  item4_icon="fa-newspaper-o"
-  item4_titulo="Item numero cuatro"
-  item4_texto="Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 ]]</div>
 
