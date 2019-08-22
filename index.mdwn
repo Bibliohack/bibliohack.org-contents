@@ -5,7 +5,9 @@
   texto="""
 <p>*Bibliohack* es una iniciativa cuya misión es integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** dentro de las prácticas institucionales de **bibliotecas**, **archivos** y **museos** desde la realidad política y económica del *Sur Global*. Trabajamos sobre *tres ejes*: 1) diseño y desarrollo de tecnologías libres, innovadoras y adecuadas 2) capacitación, enseñanza y consultoría 3) incidencia en políticas públicas.
 """
-]][[!template  id=landing_page_section_slide.tmpl 
+]]
+<div class="seccion-ejes">
+[[!template  id=landing_page_section_slide.tmpl 
   cid=1
   texto_izq=1
   texto="""
@@ -48,12 +50,13 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item2_txt="Aenean eu nisi eget ante suscipit porttitor"
   item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
-]][[!template  id=landing_page_section_about.tmpl 
+]]
+</div>[[!template  id=landing_page_section_about.tmpl 
   titulo="Acerca de:" 
   texto="texto de la seccion numero uno"
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
-  titulo="Secciones" 
+  titulo="Recursos" 
   item1_icon="fa-newspaper-o"
   item1_titulo="Wiki"
   item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
