@@ -27,10 +27,10 @@
   titulo="Un buen titulo para el item"
   texto="""
 Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
- * vestibulum blandit volutpat felis 
- * id finibus suspendisse 
- * ac ipsum dignissim, 
- * varius.
+  * vestibulum blandit volutpat felis 
+  * id finibus suspendisse 
+  * ac ipsum dignissim, 
+  * varius.
 """
   item1_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item1_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
