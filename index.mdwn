@@ -10,6 +10,7 @@
   texto="texto de la seccion numero uno"
 
 ]][[!template  id=landing_page_section_slide.tmpl 
+  id=1
   texto="""
 ## Vestibulum blandit volutpat
 
