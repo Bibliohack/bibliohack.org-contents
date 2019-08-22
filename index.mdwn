@@ -10,7 +10,7 @@
   texto="texto de la seccion numero uno"
 
 ]][[!template  id=landing_page_section_slide.tmpl 
-  id=1
+  cid=1
   texto="""
 ## Vestibulum blandit volutpat
 
@@ -28,6 +28,7 @@ Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce 
   item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]][[!template  id=landing_page_section_slide.tmpl 
+  cid=2
   texto="""
 ## Vestibulum blandit volutpat
 
