@@ -5,10 +5,6 @@
   texto="*Bibliohack* es una iniciativa cuya misión es integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** como parte de las prácticas institucionales de **bibliotecas**, **archivos** y **museos** —planteada desde la realidad política y económica del **Sur Global**. Trabajamos sobre *tres ejes*: 1) diseño y desarollo de tecnologías libres, *adecuadas* e innovadoras 2) capacitación, enseñanza y consultoría 3) incidencia institucional y en políticas públicas.
 "
 ]][[!template  
-  id=landing_page_section_slide.tmpl 
-  data=data-ride
-  die_on_bad_params=0
-]][[!template  
   id=landing_page_section_about.tmpl 
   titulo="Acerca de:" 
   texto="texto de la seccion numero uno"
