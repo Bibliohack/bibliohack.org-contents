@@ -26,7 +26,10 @@
 ]][[!template  id=landing_page_section_slide.tmpl 
   titulo="Un buen titulo para el item"
   texto="""
+## Vestibulum blandit volutpat
+
 Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
+
   * vestibulum blandit volutpat felis 
   * id finibus suspendisse 
   * ac ipsum dignissim, 
