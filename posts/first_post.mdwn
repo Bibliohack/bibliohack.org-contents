@@ -1,7 +1,7 @@
 [[!tag  prensa proyectos pino]]
 [[!meta title="The Beatles" sortas="Beatles, The"]]
 [[!meta name="foo" value="first_post/scanner.png"]]
-[[!field sarasa="imagenes/scanner.png"]]
+[[!field headerimg="img/estativo.jpg"]]
 
 ![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
 
