@@ -1,14 +1,13 @@
 [[!tag  prensa proyectos pino]]
 [[!meta title="The Beatles" sortas="Beatles, The"]]
-[[!meta name="foo" value="first_post/scanner.png"]]
-[[!field header_img="/img/estativo.jpg"]]
-[[!field header_img_txt="Etiam sit amet orci eget eros faucibus tincidunt."]]
-
-![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
+[[!field default_img="/img/estativo.jpg"]]
+[[!field default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."]]
 
 Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. 
 
 Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
+
+![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
 
 Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. 
 
