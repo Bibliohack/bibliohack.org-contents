@@ -1,12 +1,6 @@
-Blog sidebar!
-
-[[!if test="enabled(calendar)" then="""
+<!-- [[!if test="enabled(calendar)" then="""
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]]
-
+"""]] -->
 <!-- [[Recent Comments|comments]] -->
-
-[[Archives]]
-
-[[Tags]]:
-[[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
+Ver [[Archivos]] ó [[Etiquetas]]:
+<!-- [[!pagestats style="list" pages="./tags/*" among="./posts/*"]] -->
