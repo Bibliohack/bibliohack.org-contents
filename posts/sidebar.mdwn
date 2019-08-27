@@ -1,6 +1,10 @@
-<!-- [[!if test="enabled(calendar)" then="""
+<!-- 
+[[!if test="enabled(calendar)" then="""
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]] -->
-<!-- [[Recent Comments|comments]] -->
+"""]] 
+
+[[Recent Comments|comments]] 
+
 Ver [[Archivos]] ó [[Etiquetas]]:
-<!-- [[!pagestats style="list" pages="./tags/*" among="./posts/*"]] -->
+ [[!pagestats style="list" pages="./tags/*" among="./posts/*"]] 
+-->
