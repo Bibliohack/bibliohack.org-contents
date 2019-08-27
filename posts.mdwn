@@ -1,3 +1,3 @@
-Here is a full list of posts to the [[blog|index]].
-
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=yes rootpage="posts"]]
+<!--- inicio conenido -->
+[[!inline pages="page(./posts/*) show="10" actions=yes rootpage="posts"]]
+<!--- fin conenido -->
