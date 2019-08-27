@@ -1,6 +1,3 @@
----
-midato="sarasa"
----
 [[!tag  prensa proyectos pino]]
 [[!meta title="The Beatles" sortas="Beatles, The"]]
 [[!meta name="foo" content="first_post/scanner.png"]]
