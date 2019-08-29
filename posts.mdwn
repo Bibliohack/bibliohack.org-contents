@@ -1,9 +1,9 @@
 <!--- inicio conenido -->
 
-[[!inline pages="page(./posts/*)" show="10" actions=no rootpage="posts"]]
+[[!inline pages="page(./posts/*)" show="10" actions=no]]
 
 
-[[!inline pages="" show="0" actions=yes rootpage="posts"]]
+[[!inline rootpage="posts"]]
 
 <!--- fin conenido -->
 
