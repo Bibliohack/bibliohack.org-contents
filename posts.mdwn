@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl"]]
 <!--- inicio conenido -->
 <div class="card-deck">
-[[!inline pages="page(./posts/*)" show="10" actions=yes timestamp="%d/%m/%Y"]]
+[[!inline pages="page(./posts/*)" show="10" actions=yes timeformat="%d/%m/%Y"]]
 </div>
 
 [[!inline pages="" show="0" rootpage="posts"]]
