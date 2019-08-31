@@ -1,4 +1,5 @@
 [[!pagetemplate  template="page_postlist.tmpl"]]
+[[!edittemplate  template="blogtemplate" match="posts/*"]]
 <!--- inicio conenido -->
 <div class="card-deck">
 [[!inline pages="page(./posts/*)" show="10" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
