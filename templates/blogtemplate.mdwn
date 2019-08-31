@@ -1,6 +1,6 @@
 [[!tag prensa proyectos activismo eventos formación]]
 [[!meta 
-   title="Título del post" 
+   title="Blogtemplate, template para blog" 
    author="Equipo"
    license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field 
