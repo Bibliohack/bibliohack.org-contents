@@ -1,4 +1,5 @@
-[[!tag prensa proyectos activismo eventos formación]]
+[[!tag ]] 
+<!-- prensa proyectos activismo eventos formación -->
 [[!meta 
    title="Blogtemplate, template para blog" 
    author="Equipo"
