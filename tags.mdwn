@@ -1,3 +1,2 @@
 [[!pagestats pages="./tags/*" among="./posts/*"]]
-[[!edittemplate template="tagstemplate" match="tags/*" silent=yes]]
 
