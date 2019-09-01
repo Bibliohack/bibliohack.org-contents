@@ -1,5 +1,6 @@
 [[!meta title="pages tagged proyectos"]]
 <div class="row">
-[[!inline pages="tagged(proyectos)" actions="no" timeformat="%d/%m/%Y"
-feedshow=10]]
+[[!inline pages="tagged(proyectos)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
 </div>
+[[!inline pages="tagged(proyectos)" feedonly=yes feedshow=10]]
