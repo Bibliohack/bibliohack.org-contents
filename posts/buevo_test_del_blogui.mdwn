@@ -4,7 +4,7 @@
    author="Equipo"
    license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field 
-  featured=1
+  featured=yes
   default_img="/img/estativo.jpg"
   default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
