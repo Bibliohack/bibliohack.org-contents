@@ -71,5 +71,5 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 ]]</div>
 <hr>
 <div>
-[[!inline pages="field_item(featured 1)" show="3" feeds=no postform=no]]
+[[!inline pages="field_item(featured yes)" show="3" feeds=no postform=no]]
 </div>
