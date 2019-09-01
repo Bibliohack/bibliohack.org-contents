@@ -68,6 +68,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item3_icon="fa-newspaper-o"
   item3_titulo="Código"
   item3_texto=" ac ipsum dignissim, varius sapien nec, rhoncus ante.."
+]]<hr>[[!template  id=landing_page_section_featured.tmpl 
 ]]</div>
 <hr>
 <div>
