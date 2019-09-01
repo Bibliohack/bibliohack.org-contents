@@ -1,4 +1,4 @@
-[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!pagetemplate template="page_postlist.tmpl" sylent]]
 [[!meta title="Etiqueta: proyectos"]]
 <div class="row">
 [[!inline pages="tagged(proyectos)" show="10" actions="no" timeformat="%d/%m/%Y"
