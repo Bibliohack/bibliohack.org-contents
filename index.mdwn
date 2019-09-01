@@ -69,4 +69,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item3_titulo="Código"
   item3_texto=" ac ipsum dignissim, varius sapien nec, rhoncus ante.."
 ]]</div>
-
+<hr>
+<div>
+[[!inline pages="field_item(featured 1)" show="3" feeds=no postform=no]]
+</div>
