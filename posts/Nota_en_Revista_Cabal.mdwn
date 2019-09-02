@@ -3,9 +3,7 @@
 [[!meta date="2016-12-15T12:00:00Z"]]
 [[!field
   featured=yes
-  default_img="/img/estativo.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
-  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
+  default_img="posts/Nota_en_Revista_Cabal/escaner_cabal.jpg"
 ]]
 
 En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A continuación transcribimos el texto completo de la [nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), publicada en diciembre de 2016.
