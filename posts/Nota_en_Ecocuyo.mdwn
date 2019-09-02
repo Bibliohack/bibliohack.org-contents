@@ -1,8 +1,8 @@
 [[!tag prensa ]] 
 [[!meta date="2018-09-14T12:00:00Z"]]
 [[!field
-  default_img="/img/estativo.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+  default_img="/uploads/posts/Nota_en_Ecocuyo/TAIPEI1-90-1.jpg"
+  default_img_alt="Estativo en V instaldo en la biblioteca de la Dirección General de Irrigación en Mendoza"
 ]]
 <!-- 
   featured=yes
