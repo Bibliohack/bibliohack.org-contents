@@ -26,7 +26,7 @@ En el marco del **Convenio de Asistencia Técnica DGI-INCIHUSA-CONICET**, firmad
 
 Facundo Martín, investigador de Conicet-Incihusa  aseguró, "estamos haciendo una asistencia técnica entorno a la creación y organización del archivo histórico del agua. Esto que inauguramos hoy es un dispositivo especialmente diseñado para la digitalización histórica que busca preservar los documentos históricos, que son sensibles, de manera que se puedan manipular de una sola vez y para la consulta del propio personal de Irrigación como del público en general e investigadores", aseguró.
 
-### Un scanner de características únicas en el interior del país
+#### Un scanner de características únicas en el interior del país
 
 En el  marco de este convenio, en marzo el experto en digitalización de libros antiguos, Matías Butelman (Buenos Aires), desarrolló un taller de capacitación para investigadores en Irrigación. Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un innovador equipo para la digitalización. Este taller fue el inicio de las acciones que hoy se complementan con la incorporación de un scanner de características únicas en el interior del país, que estará en Irrigación durante 2 años.
 
@@ -34,7 +34,7 @@ El componente tecnológico se centra en un scanner especialmente diseñado para 
 
 El scanner es un dispositivo de bajo costo adaptado a las condiciones locales y está construido con materiales como MDF y cámaras digitales compactas de gama media. El software que utiliza se compone de diferentes piezas de software libre compartidas en internet. Entre las posibilidades de este scanner se destaca su cuna en V que permite la toma de copias de libros muy antiguos sin que sufran daño en su costura.  
 
-### Apertura a la biblioteca digital
+#### Apertura a la biblioteca digital
 
 La idea es que el público e investigadores de la provincia puedan acceder a documentos digitales una vez formado e inaugurado el archivo. Inclusive, investigadores del mundo participarán de este proyecto especial de digitalización como Mark Healy del Departamento de Historia de la  ECONN, (University of Conneticut).
 
