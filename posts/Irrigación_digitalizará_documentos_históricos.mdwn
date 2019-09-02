@@ -10,7 +10,7 @@
   summary=""
 ]]
 
-*A continuación reproducimos el [articulo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado en el sitio del Departamento General de Irrigación de Mendoza* 
+<big>A continuación reproducimos el [articulo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado en el sitio del Departamento General de Irrigación de Mendoza</big>
 
 ---
 
