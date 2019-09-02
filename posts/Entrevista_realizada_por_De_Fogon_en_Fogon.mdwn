@@ -5,10 +5,7 @@
   default_img="/uploads/posts/Entrevista_realizada_por_De_Fogon_en_Fogon/de_fogon_en_fogon_mamba.png"
   default_img_alt="Juan Pablo Suarez y Matias Butelman inventaron un escaner para la Biblioteca del Museo Moderno."
 ]]
-<!-- 
-https://www.youtube.com/watch?v=aK2EQH9GvZw
--->
-![texto alternativo]()
+
 
 Mini-entrevista realizada en el Museo de Arte Moderno para el programa radial "De Fogon en Fogon" (Radio Gráfica, FM 89.3 del Barrio de Barracas), durante el evento de presentación del proyecto de digitalización "Documentos de Arte Moderno".
 
