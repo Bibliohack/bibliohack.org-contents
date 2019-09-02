@@ -4,3 +4,5 @@
 [[!meta date="2017-09-18T12:00:00Z"]]
 
 <big>Compartimos el documento de la presentacion "Del catálogo informatizado a la biblioteca digital, digitalización y publicación en línea con software y hardware libres", realizada por Matías Butelman y Juan Suárez en el ["II Encuentro de Conservación y Digitalización"](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/) realizado el 18 d septiembre de 2017 en la Manzana de las Luces.</big>
+
+(**Del catálogo informatizado a la biblioteca digital**)[/posts/Del_cat%C3%A1logo_informatizado_a_la_biblioteca_digital/ppt-cabildo-para-publicar.pdf]
