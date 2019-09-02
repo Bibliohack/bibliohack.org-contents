@@ -8,7 +8,7 @@
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
 
-Tanscribimos la nota publicada en Infobae el 31 de diciembre de 2017, donde el periodista **Federico Millenaar** difunde algunas experiencias de proyectos de digitalización en instituciones culturales argentinas, entre ellas, el proyecto que Bibliohack lleva adelante junto a Museo de Arte Moderno de Buenos Aires.
+<big>Tanscribimos la nota publicada en Infobae el 31 de diciembre de 2017, donde el periodista **Federico Millenaar** difunde algunas experiencias de proyectos de digitalización en instituciones culturales argentinas, entre ellas, el proyecto que Bibliohack lleva adelante junto a Museo de Arte Moderno de Buenos Aires.</big>
 
 ---
 
