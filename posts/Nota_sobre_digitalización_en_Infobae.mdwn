@@ -1,4 +1,4 @@
-[[!tag prensa MAMBA]] 
+[[!tag prensa MAMBA digitalización]] 
 [[!meta title="Nota sobre digitalización en Infobae"]]
 [[!meta date="2017-12-31T12:00:00Z" ]]
 [[!field
@@ -10,9 +10,11 @@
 
 Tanscribimos la nota publicada en Infobae el 31 de diciembre de 2017, donde el periodista **Federico Millenaar** difunde algunas experiencias de proyectos de digitalización en instituciones culturales argentinas, entre ellas, el proyecto que Bibliohack lleva adelante junto a Museo de Arte Moderno de Buenos Aires.
 
+---
+
 ## Cómo trabajan los digitalizadores que buscan empujar las bibliotecas al siglo XXI
 
-<big>Facilitar la difusión y reducir la manipulación de los originales para protegerlos son las principales razones de la digitalización. Cuáles son los museos e instituciones argentinas a la vanguardia en esta tarea y las experiencias más destacadas a nivel mundial</big>
+*Facilitar la difusión y reducir la manipulación de los originales para protegerlos son las principales razones de la digitalización. Cuáles son los museos e instituciones argentinas a la vanguardia en esta tarea y las experiencias más destacadas a nivel mundial*
 
 *Por Federico Millenaar*
 
