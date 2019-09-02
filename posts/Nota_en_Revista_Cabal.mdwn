@@ -3,7 +3,7 @@
 [[!meta date="2016-12-15T12:00:00Z"]]
 [[!field
   featured=yes
-  default_img="posts/Nota_en_Revista_Cabal/escaner_cabal.jpg"
+  default_img="/uploads/posts/Nota_en_Revista_Cabal/escaner_cabal.jpg"
 ]]
 
 En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A continuación transcribimos el texto completo de la [nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), publicada en diciembre de 2016.
