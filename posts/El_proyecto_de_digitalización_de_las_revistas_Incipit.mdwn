@@ -1,0 +1,11 @@
+[[!tag documentos presentaciones eventos]] 
+[[!meta date="2018-11-09T12:00:00Z"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+
+<big>Presentación realizada por **Gabriela Striker**, **Agustina Miguens** y **Ileana Campagno Pizarro** (coordinada por **Juan Mendoza**) en el [**"III Congreso Internacional de la Asociación de Humanidades Digitales (AAHD)**"](https://rephip.unr.edu.ar/handle/2133/13443), organizado por La Asociación Argentina de Humanidades Digitales (AAHD) y la Facultad de Humanidades y Artes de la Universidad Nacional de Rosario (UNR), que se llevó a cabo en la ciudad de Rosario, Santa Fe, del 7 al 9 de noviembre de 2018.</big>
+
+<big>El documento se refiere al proyecto de digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual (SECRIT/CONICET), dirigido por el Dr. Leonardo Funes, que tiene por objeto la aplicación de software de código abierto para la digitalización de la colección de la revista académica Incipit y de otras publicaciones del mismo centro, donde Bibliohack colaboró con la construccion de un estativo en V y la capacitación en el uso del mismo y el software para captura y postproceso.</big>
+
+Mas info en el Repositorio Hipermedial UNR: ["El proyecto de digitalización de las revistas Incipit"](https://rephip.unr.edu.ar/handle/2133/13812).
+
+[Descargar el PDF aqui](#)
