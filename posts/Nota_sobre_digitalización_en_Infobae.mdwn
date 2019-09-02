@@ -3,8 +3,8 @@
 [[!meta date="2017-12-31T12:00:00Z" ]]
 [[!field
   featured=yes
-  default_img="/img/estativo.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+  default_img="/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png"
+  default_img_alt=" Digitalización de documentos (Museo de Arte Moderno de Buenos Aires)."
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
 
@@ -24,25 +24,25 @@ Existen dos razones básicas para digitalizar materiales: **facilitar la difusi�
 
 **Matías Butelman** y **Juan Pablo Suárez** tienen en común la influencia del movimiento de la "cultura libre", del "software abierto", del trabajo "colaborativo" y de la filosofía "hágalo usted mismo". Juntos **comenzaron a fabricar escaners baratos para instituciones con pocos recursos (proyecto Bibliohack)**.
 
-
+![Escaner con software libre (Museo de Arte Moderno de Buenos Aires)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae2.png)
 
 Los planos del primer prototipo los descargaron gratuitamente de un foro online y sobre esa base fueron evolucionando. Una estructura hecha de madera y fibrofacil, una cámara de fotos de gama media, lámparas comunes y un software gratuito son más que suficiente para digitalizar a bajo costo. Su primer proyecto fue en la biblioteca del Colegio Nacional Buenos Aires, y ya hicieron otro modelo que funciona en el Museo de Arte Moderno (MaMBA). Este último cuesta unos 30 mil pesos, con computadora, cámara y todo.
 
 "No teníamos presupuesto, infraestructura, ni prioridad en la agenda de la institución. Estos tres aspectos son los que aplacan este tipo de iniciativas", aseguró Butelman a **Infobae**. Pero como **lo más complicado fue acumular el "know how"** (conocimiento), ahora la misión es compartirlo.
 
-
+![ Museo de Arte Moderno de Buenos Aires ](/uploads/posts/Nota_sobre_digitalización_en_Infobae/mamba.png)
 
 Al otro lado de la Ciudad, en la Biblioteca Nacional, el panorama presenta similitudes y deferencias. Si bien **en 2013 se adquirieron dos escáners comerciales –que cuestan entre 20 y 30 mil dólares–** el proyecto comenzó a fines del ´99 cuando un empleado decidió rearmar una máquina de microfilm que había quedado abandonada en un depósito tras la mudanza del '92. Primero comenzaron digitalizando directamente desde el microfilm. Hoy, **Ruben Barbei** trabaja en el desarrollo y **fabricación de dos nuevos prototipos** para escanear directamente papel. Lo hace desde un pequeño taller en la planta baja. También es el encargado de reparar y mantener los equipos que ya tienen.
 
 "No se ha invertido tanto en esta biblioteca en relación al volumen del archivo que tiene, los depósitos son gigantescos. **Con la cantidad de documentación que hay podemos estar cien años digitalizando**. En nuestro país la cultura nunca es prioridad", explicó a **Infobae** **Miguel Stazzone**, jefe del Departamento de Microfilmación y Digitalización. "En la biblioteca de Harvard, por ejemplo, el proceso lo tienen robotizado", contrasta.
 
-
+![Escáner de digitalización de la Biblioteca Nacional](/uploads/posts/Nota_sobre_digitalización_en_Infobae/digitalizacion_bn.png)
 
 Según Stazzone, para llegar al nivel de las bibliotecas más avanzadas, como la del Congreso de Estados Unidos o la Nacional de Francia, sólo **hace falta más presupuesto** destinado a "tener mejores equipos y capacitar mejor a la gente, nosotros fuimos aprendiendo sobre la marcha y después formando al resto".
 
 Bajo su dirección, actualmente trabajan más de 80 personas en diferentes proyectos que van desde la digitalización de las colecciones completas de los diarios Crónica y Página 12, **hasta ejemplares de la biblioteca personal de Jorge Luis Borges (muchos guardan sus anotaciones de puño y letra)**. "Nosotros hicimos un plan a tres años para digitalizar y cada área determina cuál es la prioridad. Por ejemplo, Tesoro nos mandó algunos incunables", explicó Stazzone.
 
-
+![Algunos libros de la biblioteca personal de Borges guardados en una caja fuerte a la espera de ser digitalizados](/uploads/posts/Nota_sobre_digitalización_en_Infobae/libros.png)
 
 En el caso de la Biblioteca Nacional "la prioridad es la preservación". La segunda etapa, de difusión y libre accesibilidad, es más problemática debido a la cuestión de los derechos de autor. **El catálogo online ya cuenta con 30 mil ítems disponibles**, sólo los que han caído en el dominio público.
 
@@ -50,7 +50,7 @@ En el caso de la Biblioteca Nacional "la prioridad es la preservación". La segu
 
 "Los derechos son plata y nadie se lo quiere regalar al Estado. Por ejemplo, **María Kodama no te regala ni una hojita firmada por Borges**. Si no pagás, no te los deja subir. Se ampara en la ley", señala Stazzone en la misma línea.
 
-
+![Rubén Barbei (derecha) junto al prototipo que diseño en un taller de la Biblioteca Nacional](/uploads/posts/Nota_sobre_digitalización_en_Infobae/escaner_bn.png)
 
 La pelea por los derechos también se da en otro países. **Robert Darnton**, presidente de la biblioteca de Harvard, fue una de las voces que **se alzó contra el intento de Google de digitalizar todos los libros del mundo** alarmado por las tendencias monopólicas de esta megacorporación. Como alternativa, **impulsó la Digital Public Library of America**, **una federación descentralizada de bibliotecas** que comparten contenido digitalizado de dominio público.
 
@@ -58,7 +58,7 @@ La pelea por los derechos también se da en otro países. **Robert Darnton**, pr
 
 "Yo fantaseo con que el encuentro del año que viene sea mucho más grande", se entusiasma Butelman, "y saquemos una declaración por el tema de las excepciones culturales".
 
-
+![tPrimer encuentro OpenGLAM de archivos, bibliotecas y museos que buscan compartir sus colecciones](/uploads/posts/Nota_sobre_digitalización_en_Infobae/encuentro_openglam.png)
 
 Stazzone también sueña. "A mí **me gustaría hacer una biblioteca digital federal**, llevar estos equipos (una vez terminados y patentados) a todos los rincones del país. **Traer todo y centralizarlo acá**", detalló. Dos visiones diferentes para un mismo objetivo: democratizar más el acceso a la cultura.
 
@@ -70,10 +70,14 @@ Otras experiencias a nivel mundial
 
 – **Europeana** es una iniciativa regional, nacida en 2008, que **incluye a todos los países de la Comunidad Europea**. A través de un [sitio web](https://www.europeana.eu/portal/es) proporciona acceso a más de 50 millones de archivos digitalizados que incluyen libros, música y material gráfico, aportado por 2300 instituciones de 28 países: desde manuscritos medievales y colecciones de Vincent Van Gogh, hasta fotografías de la Primera Guerra Mundial y planos de antiguas catedrales.
 
-
+![Plano de la ciudad de París de 1938 (archivo Europeana)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/mapaparis.png)
 
 – **El Vaticano** atesora uno de los archivos más valiosos de la humanidad. Más de 80 mil manuscritos, 8.900 incunables y textos únicos como la Biblia de Gutenberg. Desde 2013 también comenzó con lento proyecto de digitalización que subió 300 documentos a su [catálogo](https://www.vatlib.it/home.php?pag=cataloghi_online) online.
 
 – Un acuerdo entre **Google** y el **Museo de Israel** dio origen en 2011 al proyecto digital [Manuscritos del Mar Muerto](http://dss.collections.imj.org.il/), que puso a disposición del público las versiones digitales de algunos de los manuscritos bíblicos más antiguos. Las imágenes fueron capturadas con extremas medidas de precaución para no dañar las pieles en las que **fueron escritos hace 2.000 años**. Sólo este proceso costó U$S 3.5 millones.
 
+![Manuscritos del Mar Muerto (Google – Museo de Israel)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/mar_muerto.png)
+
 – La Digital Public Library of America (Biblioteca Pública Digital de Estados Unidos) fue lanzada oficialmente en abril de 2013. Su principal característica es que se trata de una iniciativa descentralizada que **nuclea 16 millones de items digitalizados aportados por dos mil instituciones** norteamericanas (bibliotecas, archivos, museos, universidades, entre otros). En su [amplio catálogo](https://dp.la/) podemos encontrar, por ejemplo, colecciones de pósteres oficiales de enlistamiento en las fuerzas armadas durante las Guerras Mundiales.
+
+![Afiches para reclutar tropas (archivo DPLA)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/afiches_guerra.png)
