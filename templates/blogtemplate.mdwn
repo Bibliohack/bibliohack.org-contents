@@ -3,12 +3,19 @@
 [[!meta 
    title="Blogtemplate, template para blog" 
    author="Equipo"
-   license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-[[!field 
+
+   license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+]]<!--
+   date="2018-09-13T12:00:00Z"
+-->
+[[!field
   default_img="/img/estativo.jpg"
   default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
-]]
+]]<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+-->
 
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
