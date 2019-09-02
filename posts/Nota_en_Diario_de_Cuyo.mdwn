@@ -1,0 +1,65 @@
+[[!tag prensa ]] 
+[[!meta date="2018-10-18T12:00:00Z"]]
+[[!field
+  featured=yes
+  default_img="/uploads/posts/Nota_en_Diario_de_Cuyo/opi-mendoza_3.jpg"
+  default_img_alt="El primer scanner de última generación que funciona en Mendoza permite digitalizar documentos sobre hidrología. ."
+]]
+
+Reproducimos [la nota salida en Diario de Cuyo](https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html), sobre la puesta en marcha del laboratorio de digitalización de documentos de la biblioteca del Departamento General de Irrigación, donde colaboramos en la construccion del estativo en V, la capacitación y el despliegue del software de captura y postproceso.
+
+## Digitalización de documentos históricos del agua
+
+Por Ricardo Sánchez Alonso  
+Licenciado en Ciencias de la Educación
+
+El Departamento General de Irrigación de la Provincia de Mendoza, junto al Conicet, emprende trabajos que fundan un nuevo hito en la planificación cultural del organismo encargado, con la puesta en marcha del laboratorio de digitalización de documentos históricos del agua que se encuentran en la biblioteca del organismo.
+
+En el marco del Convenio de Asistencia Técnica DGI - Incihusa - Conicet, firmado en marzo de este año, Irrigación fortalece los vínculos de cooperación científico tecnológico e implementa acciones de carácter institucional, académico, científico y tecnológico con instituciones que aportan experticia en este proceso. "Es el primer scanner en un organismo del interior del país. Hay otros cinco que están en Buenos Aires. Es una herramienta que le sirve a cualquier institución que tenga patrimonio. Con esto se trata de incorporar una visión diferente y una filosofía distinta que incluye la participación y colaboración. El código abierto u "Open source'' es una forma de libre circulación de software de un fuerte carácter social y comunitario. "La aspiración es que cualquier ciudadano del mundo que esté investigando, conociendo Mendoza, su historia a partir del agua o cualquier ciudadano común, pueda entender la lógica con la cual se manejó el agua desde el comienzo. Para comprender el presente hay que repasar la historia y esta es la mejor manera de hacerlo con software libre''.
+
+En el marco de este convenio, en marzo, el experto en digitalización de libros antiguos, Matías Butelman (Buenos Aires), desarrolló un taller de capacitación para investigadores en Irrigación. Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los creadores de un innovador equipo para la digitalización. Este scanner de características únicas en el interior del país, estará en Irrigación de Mendoza durante 2 años.
+
+El componente tecnológico se centra en un scanner especialmente diseñado para la digitalización de documentos históricos que logra como resultado la preservación y accesibilidad de los mismos. Este scanner es desarrollado por Bibliohack, compañía de tecnología libre para bibliotecas, archivos y museos. El scanner es un dispositivo de bajo costo adaptado a las condiciones locales y está construido con materiales como MDF y cámaras digitales compactas de gama media. Entre las posibilidades de este scanner se destaca su cuna en V que permite la toma de copias de libros muy antiguos sin que sufran daño en su costura. 
+
+Resulta imprescindible, para conservar y recuperar las decenas de archivos deteriorados de la Provincia de San Juan, seguir este ejemplo de digitalización y conservación de documentos históricos, aprovechando de trabajar en red con distintas universidades e instituciones culturales de nuestro País.
+
+Sin olvidar el recurso importantísimo del Reconocimiento Óptico de Caracteres (OCR).
+
+
+<big>Esto es un texto destacado</big>
+
+Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+> En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
+
+Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
+
+### Subtitulo
+
+Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+ * item de lista
+ * otro item
+ * tercer elemento
+
+Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. 
+
+    bloque-de-texto = {"texto que sale en monospaced"};
+    otro_comando($a, $b);
+
+Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
+
+![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
+
+Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. 
+
+1. Sed aliquam ultrices mauris. 
+2. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. 
+3. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. 
+
+Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. 
+
+---
+
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
+
