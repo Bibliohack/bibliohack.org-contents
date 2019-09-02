@@ -1,14 +1,9 @@
 [[!tag prensa CNBA DEHFAA]] 
-[[!meta date="2018-09-13T12:00:00Z"]]
-<!--
-   author="Nombre"
-   date="2016-10-06T12:00:00Z"
--->
+[[!meta date="2016-10-06T12:00:00Z"]]
 [[!field
   featured=yes
   default_img="/uploads/posts/Nota_en_La_Nación/2280990h965.jpg"
   default_img_alt="El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX."
-
 ]]
 
 Luego de una entrevista realizada a Matías Butelman, a periodista de La Nación Cintia Perazo publicó [la siguiente nota](https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871) que compartimos acontinuación:
