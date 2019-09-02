@@ -1,0 +1,41 @@
+[[!tag prensa ]] 
+[[!meta date="2018-09-14T12:00:00Z"]]
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+-->
+
+La siguiente nota [fue publicada](https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/) en Ecocuyo, en septiembre de 2018.
+<!-- https://web.archive.org/web/20190902225238/https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/ -->
+
+---
+
+## Irrigación incorpora tecnología de avanzada para digitalizar documentos históricos
+
+En el marco del Convenio de Asistencia Técnica DGI-INCIHUSA-CONICET, firmado en marzo de este año, Irrigación fortalece los vínculos de cooperación científico tecnológica e implementa acciones de carácter institucional, académico, científico y tecnológico con instituciones que aportan experticia en este proceso.
+
+“Esta máquina que fue diseñada especialmente por investigadores del Conicect, digitaliza libros de tamaño considerable, por lo que permitirá a partir de ahora poder contemplar el patrimonio que tiene Irrigación, que durante muchos años ha sido cuidado por personal del organismo por voluntad propia ya que nunca se puso en relevancia”, aseguró el Superintendente Sergio Marinelli en el lanzamiento de la propuesta.
+
+“Es el primer scanner en un organismo del interior del país. Hay otros cinco que están en Buenos Aires. Es una herramienta que le sirve a cualquier institución que tenga patrimonio como nosotros. Con esto tratamos de incorporar una visión diferente y una filosofía distinta que incluye la participación y colaboración. El código abierto u ‘Open source’ es una forma de libre circulación de software de un fuerte carácter social y comunitario. Por lo tanto, esto se ha logrado de manera solidaria desde un principio, junto al Conicet-Incihusa y a diferentes visiones que lograron la evolución de este proyecto.”
+
+“La aspiración es que cualquier ciudadano del mundo que esté investigando, conociendo Mendoza, su historia a partir del agua o cualquier ciudadano común, pueda entender la lógica con la cual se manejó el agua desde el comienzo. Para comprender el presente hay que repasar la historia y esta es la mejor manera de hacerlo con software libre”, agregó.
+
+Facundo Martín, investigador de Conicet aseguró, “estamos haciendo una asistencia técnica entorno a la creación y organización del archivo histórico del agua. Esto que inauguramos hoy es un dispositivo especialmente diseñado para la digitalización histórica que busca preservar los documentos históricos, que son sensibles, de manera que se puedan manipular de una sola vez, para la consulta del propio personal de Irrigación como del público en general e investigadores”, aseguró.
+
+### Un scanner de características únicas en el interior del país
+
+En el marco de este convenio, en marzo el experto en digitalización de libros antiguos, Matías Butelman (Buenos Aires), desarrolló un taller de capacitación para investigadores en Irrigación. Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un innovador equipo para la digitalización. Este taller fue el inicio de las acciones que hoy se complementan con la incorporación de un scanner de características únicas en el interior del país, que estará en Irrigación durante 2 años.
+
+El componente tecnológico se centra en un scanner especialmente diseñado para la digitalización de documentos históricos que logra como resultado la preservación y accesibilidad de los mismos. Este scanner es desarrollado por Bibliohack, compañía de tecnología libre para bibliotecas, archivos y museos.
+
+El scanner es un dispositivo de bajo costo adaptado a las condiciones locales y está construido con materiales como MDF y cámaras digitales compactas de gama media. El software que utiliza se compone de diferentes piezas de software libre compartidas en internet. Entre las posibilidades de este scanner se destaca su cuna en V que permite la toma de copias de libros muy antiguos sin que sufran daño en su costura.
+
+### Apertura a la biblioteca digital
+
+La idea es que el público e investigadores de la provincia puedan acceder a documentos digitales una vez formado e inaugurado el archivo. Inclusive, investigadores del mundo participarán de este proyecto especial de digitalización como Mark Healy del Departamento de Historia de la ECONN, (University of Conneticut).
+
+Por otra parte, titulares de diversos organismos de preservación y archivamiento de nuestra provincia tuvieron la oportunidad, en el día de ayer, de observar las funciones que posee el scanner a través de una capacitación que brindaron expertos de Bibliohack en la Biblioteca de Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San Martín, Marta Babillón; el encargado del Centro de Documentación Histórica de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la Provincia, Alicia Guevara; se interiorizaron de los alcances de este laboratorio.
