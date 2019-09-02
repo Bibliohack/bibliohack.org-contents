@@ -17,6 +17,10 @@
   short_title="Titulo para teasers"
 -->
 
+<big>Esto es un texto destacado</big>
+
+Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
 Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
@@ -44,5 +48,9 @@ Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, impe
 2. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. 
 3. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. 
 
-Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
+Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. 
+
+---
+
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
 
