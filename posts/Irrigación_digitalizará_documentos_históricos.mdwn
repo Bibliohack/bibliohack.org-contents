@@ -10,9 +10,11 @@
   summary=""
 ]]
 
-<big>A continuación reproducimos el [articulo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado en el sitio del Departamento General de Irrigación de Mendoza, sobre la instalación de un estativo en V de Bibliohack.</big>
+<big>A continuación reproducimos el [artículo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado el 13 de septiembre de 2018 en el sitio del **Departamento General de Irrigación de Mendoza**, sobre la instalación de un estativo en V de Bibliohack.</big>
 
 ---
+
+## Irrigación digitalizará documentos históricos del agua con un scanner único en el interior del país
 
 El Departamento General de Irrigación, junto a CONICET, emprende trabajos que fundan un nuevo hito en la planificación cultural del organismo encargado del agua y la provincia, con la puesta en marcha del **laboratorio de digitalización de documentos históricos del agua que se encuentran en la biblioteca del organismo**.
 
