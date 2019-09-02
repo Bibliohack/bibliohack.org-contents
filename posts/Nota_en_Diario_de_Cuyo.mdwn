@@ -7,6 +7,9 @@
 ]]
 
 Reproducimos [la nota salida en Diario de Cuyo](https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html), sobre la puesta en marcha del laboratorio de digitalización de documentos de la biblioteca del Departamento General de Irrigación, donde colaboramos en la construccion del estativo en V, la capacitación y el despliegue del software de captura y postproceso.
+<!-- https://web.archive.org/save/https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html -->
+
+---
 
 ## Digitalización de documentos históricos del agua
 
