@@ -1,6 +1,5 @@
 [[!tag prensa Irrigación-INCIHUSA-CONICET]]
 [[!meta title="Irrigación digitalizará documentos históricos del agua"]]
-[[!meta author="Equipo"]]
 [[!meta date="2018-09-13T12:00:00Z"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field 
