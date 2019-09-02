@@ -1,4 +1,4 @@
-[[!tag prensa ]] 
+[[!tag prensa Irrigación-INCIHUSA-CONICET]] 
 [[!meta date="2018-09-14T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Nota_en_Ecocuyo/TAIPEI1-90-1.jpg"
