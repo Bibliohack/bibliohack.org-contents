@@ -1,0 +1,54 @@
+[[!tag prensa MAMBA]] 
+[[!meta date="2017-11-07T12:00:00Z"]]
+[[!field
+  featured=yes
+  default_img="/uploads/posts/Entrevista_realizada_por_De_Fogon_en_Fogon/de_fogon_en_fogon_mamba.png"
+  default_img_alt="Juan Pablo Suarez y Matias Butelman inventaron un escaner para la Biblioteca del Museo Moderno."
+]]
+<!-- 
+https://www.youtube.com/watch?v=aK2EQH9GvZw
+-->
+![texto alternativo]()
+
+Mini-entrevista realizada en el Museo de Arte Moderno para el programa radial "De Fogon en Fogon" (Radio Gráfica, FM 89.3 del Barrio de Barracas), durante el evento de presentación del proyecto de digitalización "Documentos de Arte Moderno".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aK2EQH9GvZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<big>Esto es un texto destacado</big>
+
+Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+> En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
+
+Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
+
+### Subtitulo
+
+Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+ * item de lista
+ * otro item
+ * tercer elemento
+
+Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. 
+
+    bloque-de-texto = {"texto que sale en monospaced"};
+    otro_comando($a, $b);
+
+Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
+
+![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
+
+Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. 
+
+1. Sed aliquam ultrices mauris. 
+2. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. 
+3. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. 
+
+Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. 
+
+---
+
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
+
