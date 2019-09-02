@@ -2,7 +2,7 @@
 [[!meta 
    title="Irrigación digitalizará documentos históricos del agua" 
    author="Equipo"
-   date="2018-09-13T12:00:00Z"
+   date=2018-09-13T12:00:00Z
    license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field 
   featured=yes
