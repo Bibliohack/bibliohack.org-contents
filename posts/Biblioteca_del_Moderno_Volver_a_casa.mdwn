@@ -1,0 +1,36 @@
+[[!tag prensa MAMBA]] 
+[[!meta title="Biblioteca del moderno: vuelta a casag"]]
+[[!meta date="2018-09-13T12:00:00Z"]]
+[[!field
+  default_img="/uploads/posts/Biblioteca_del_Moderno_Volver_a_casa/jnUInMA6i_1200x0__1.jpg"
+  default_img_alt="Pieza gráfica que funcionó como catálogo de la exposición “Noé + experiencias colectivas” (1965). / Museo de Arte Moderno."
+]]
+
+Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodista Debora Campos [publicó esta nota en Clarín](https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html), donde también se menciona el proyecto de digitalización.
+<!-- https://web.archive.org/save/https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html -->
+
+---
+
+## Una de las mayores bibliotecas de arte quiere volver a casa
+
+<big>Sobrevive en un viejo edificio del Centro y en la institución buscan fondos para trasladarla a su gran edificio. Sus tesoros.</big>
+
+Al Museo de Arte Moderno de Buenos Aires le alcanzaron cinco años para destacarse y crecer: desde la apertura de nuevas salas en el edificio de la avenida San Juan al 300 hasta la media docena de propuestas de calidad de 2018 que contaron entre sus protagonistas a Tomás Saraceno con sus arañas, a Liliana Maresca, Alberto Goldenstein, Delia Cancela, y el revalorizado Aldo Sessa, además de la monumental colección del Museum für Moderne Kunst de Frankfurt (MMK) y su muestra comparativa *Historia de dos mundos*. A eso se suma la **multiplicación del público que, además, cada vez es más joven**: de las 250 mil personas que visitan sus salas, un 70 por ciento tienen entre 18 y 31 años. Estos aciertos lo han transformado en un nuevo faro. Sin embargo, no todo son brillos. Actualmente la biblioteca del Moderno, muy consultada por estudiosos argentinos y del exterior, funciona en un oscuro edificio de Alsima al 900. Integrarse a la sede patrimonial de San Juan volvería al conjunto museístico más funcional y compacto.
+
+“Cuando se piensa en el patrimonio de un museo, suele enfocarse en las obras de arte que forman su colección y que pueden verse en las exposiciones. Sin embargo, **hay un lado B de ese acervo, invisible para el público en general**, incluso desconocido, que sin embargo es tan necesario como los cuadros y las esculturas: la biblioteca y el archivo.” La historiadora del arte Valeria Semilla, coordinadora de Patrimonio del Moderno, desgrana ante **Clarín** el valor de esos materiales.
+
+Una ilustración con anotaciones manuscritas de Luis Felipe Noé que funcionó como catálogo de la exposición *Noé + experiencias colectivas en 1965*. Un boceto de Marta Minujín con indicaciones sobre cómo iluminar las esculturas blandas de la muestra *Buenos Aires 64*. Un ejemplar de la revista mexicana *Sagitario*, de enero de 1927, que formaba parte de la colección de José León Pagano. Un burocrático currículum completado a mano por la artista Graciela Carnevale, que incluye una foto 4x4 que la muestra casi adolescente. Una fotografía tomada en 1937 a la artista Yente (seudónimo de Eugenia Crenovich, precursora de la abstracción en la Argentina) en el taller de Juan Del Prete. Las joyas que se preservan en el archivo son muchas y reveladoras.
+
+“La biblioteca tiene 7 mil libros; la hemeroteca, 1.750 ejemplares diversos; y los archivos suman 170 carpetas colgantes con 15 mil documentos, 700 fotografías históricas además de 878 sobres con imágenes de artistas (fotos, negativos, diapositivas, láminas y transparencias), 2.200 legajos de artistas, además de decenas de cajas con materiales diversos. **Todo este acervo bibliográfico específico del arte moderno hace que la biblioteca sea una de las más importantes del país y de la región”**, detalla Semilla.
+
+¿Qué problemas genera la demora en la mudanza de la biblioteca al edificio de avenida San Juan y Defensa? ¿Hay un lugar listo para recibir tantos libros y documentos en la sede del Museo? Semilla, ex curadora del Museo de Arte de Tigre, explica:“Sí, hay un espacio hermoso, en el segundo subsuelo, porque el peso de la biblioteca determinó que era el más adecuado. Allí, un arquitecto diseñó la planta que va a contar con un gabinete de digitalización de modo que cualquier experto o incluso el público en general pueda escanear un documento sin ayuda y llevarse la imagen en su pendrive.
+
+**–¿Se cuenta con fondos para esa mudanza?**
+
+–Es un operativo muy importante que implica una inversión y ese dinero no está aún. Por eso, con la directora del museo, Victoria Noorthorn, estamos intentando avanzar en ese sentido porque los materiales necesitan un lugar apropiado y, aunque el personal de la biblioteca los protege y cuida amorosamente, **el edificio de la calle Alsina al 900 no es el mejor lugar**. Además, el hecho de que funcione en otra sede dificulta mucho el acceso a la documentación que es imprescindible cada vez que se trabaja en la concepción de una muestra. Los sobres, las fotos y los libros no se pueden mover de Alsina a San Juan porque es un riesgo y **tampoco podemos generar las condiciones para visibilizar las actividades que se realizan en la biblioteca** para investigadores y expertos porque no tienen salas adecuadas.
+
+**–Otro proyecto ambicioso es la digitalización de los fondos documentales del museo...**
+
+–Estamos en un nivel de aceptación de nuestras utopías bastante interesante. La mayor de ellas es la de armar una red que permita acceder tanto a los documentos de los fondos documentales y de las colecciones especiales que se van escaneando como al árbol de clasificación que tiene el museo que, si eso que se busca no está disponible en la red aún, se pueda pedir especialmente. El trabajo de escaneo se logró, justamente, apostando por el trabajo común y la creatividad.
+
+Matías Butelman, líder de la ONG Creative Commons Argentina, junto al diseñador Juan Pablo Suárez, fueron dos nombres clave en el proceso de digitalización. “Les planteamos que necesitábamos escanear documentos pero que no podíamos costear un equipo tradicional que, además, luego necesita mantenimiento y repuestos caros”, recuerda Valeria Semilla. Los jóvenes investigaron ese universo que conocen bien: la red. Encontraron planos de un escáner que construyeron y fueron perfeccionando. Sumaron una cámara, iluminación y un soft gratuito. Inversión total: 30 mil pesos. El primer equipo lo usaron en la biblioteca del Nacional Buenos Aires y desarrollaron el escáner que ahora usa el Moderno.
