@@ -2,7 +2,7 @@
 [[!meta title=" ¿Una Estrategia Digital para Bibliotecas, Archivos y Museos de Argentina?"]]
 [[!meta date="2018-12-04T12:00:00Z"]]
 [[!field
-  default_img="/uploads/posts/Una_Estrategia_Digital_para_Bibliotecas__44___Archivos_y_Museos_de_Argentina/quilmes.png"
+  default_img="/uploads/posts/Una_Estrategia_Digital_para_Bibliotecas_Archivos_Museos_de_Argentina/quilmes.png"
   default_img_alt="Panel ¿Una Estrategia Digital para Bibliotecas, Archivos y Museos de Argentina."
 ]]
 
