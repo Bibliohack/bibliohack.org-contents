@@ -1,0 +1,34 @@
+[[!tag prensa]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta date="2019-07-05T12:00:00Z"]]
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Archivos sonoros encontrados en el Centro Cultural Recoleta. Foto: Rafael Mario Quinteros."
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+-->
+
+El siguiente artículo fue publicado por **Juan Mendoza** en Revista Ñ. [Enlace al artículo en Ñ](https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html)
+<!-- https://web.archive.org/web/20190903024616/https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html -->
+
+---
+
+## La memoria indocumentada
+
+<big>Una prolongada tradición de desidia archivística, que alcanza al papel y la imagen por igual, podría estar en vías de revertirse.</big>
+
+Buenos Aires, 1871: *El Matadero* es la transcripción de Juan María Gutiérrez en base a un manuscrito de Echeverría jamás encontrado. Buenos Aires, 1868: Sarmiento escribe el discurso inaugural de su presidencia pero sus ministros se lo rechazan y el discurso se pierde. Esos casos canónicos funcionaron como metáforas perfectas para describir nuestra relación con los archivos. Pero la inminente inauguración de una nueva sede para el **Archivo General de la Nación**, con 10.000 metros cuadrados levantados en el predio de la ex-cárcel de Caseros en Parque Patricios, son acontecimientos que revitalizan el debate en torno a la **cuestión archivística**.
+
+En un ensayo de 2004, Nicolás Casullo señalaba la ausencia de imágenes para quienes pretendían trabajar con la Historia del siglo XX. Agujero negro podríamos llamar a nuestros no-archivos: lugares en los que la historia se pierde. Pero ¿no ha sido también la Historia no deseable, imposible de confesar, la que ha obrado detrás de esta ausencia de archivos en el país? En su ensayo Casullo también denunciaba los casos de “desaparición” de computadoras de los ministerios en los años 90, haciendo así evidente la relación entre “ausencia de archivos” y “archivos desaparecidos”. Eso demuestra que la desidia archivística y la falta de una conciencia documental –grandes protagonistas de nuestra historia– no son el patrimonio exclusivo de una clase política sino de toda una comunidad.
+
+La biblioteca de Natalio Botana, fundador del diario *Crítica* –subastada entre los días 9 y 12 de junio de 1953 en 1765 lotes– marca el paradigma de nuestra relación con los archivos hasta el momento. Otro ejemplo lo brinda la desaparición de la biblioteca de Carlos Astrada, con primeras ediciones autógrafas de las obras de los filósofos más importantes del siglo XX. Arrojada a la vereda con correspondencias manuscritas de Heidegger. O la Biblioteca y los manuscritos de Carlos Correas, usurpados por vecinos de Once en diciembre del 2000. O la colección Jorge Álvarez, extraviada en la espesura de los 70, reconstruida parcialmente por la Biblioteca Nacional en 2012. La crisis de 2001 cifra otro capítulo importante de nuestra relación con los archivos. Con un alto impacto en el mundo del libro, la devaluación provoca una mayor demanda desde el exterior. Ejemplares únicos, colecciones y archivos son desguazados y llevados afuera. Muchos de esos documentos sencillamente no son considerados valiosos en el país. Y, cuando lo son, nunca primaron presupuestos para adquirirlos. A todo ello se agrega el hecho de que en la Argentina nunca fueron muchas las instituciones donde legar.
+
+Con el nuevo edificio para el Archivo General de la Nación ya no habrá excusas para iniciar una nueva edad de los archivos en la Argentina. Será la oportunidad de desandar la dramática historia de nuestros documentos extraviados, perdidos, sin un lugar adónde ir. Entre las características que se anticipan de la nueva sede se encuentran paredes ignífugas especiales que actúan de cortafuego y resistentes hasta los 900 grados de calor. El edificio también permitirá la unificación de los depósitos del AGN que actualmente están dispersos en varias dependencias y se mejorarán las condiciones de preservación. Según las fases anunciadas, primero se trasladarán los archivos de cine, audio, video y documentos fotográficos. Y luego, los documentos escritos.
+
+Por otra parte, la creación del Archivo IIAC (Archivo Instituto de Investigación en Arte y Cultura de UNTREF) y las importantes adquisiciones de documentos en los últimos años por parte de la Biblioteca Nacional dan esperanza. El reciente hallazgo de cerca de 1200 cintas olvidadas en el **Laboratorio de Investigación y Producción Musical (LIPM) del Centro Cultural Recoleta** y los nuevos proyectos de digitalización que se están inaugurando en distintas instituciones permiten calibrar un nuevo estado de nuestra relación con los archivos. Hace unos años Juan Pablo Suárez (UBA) y Matías Butelman (CNBA) idearon un escáner modelo “Hágalo usted mismo”: listones de madera, una plátina de acrílico, dos cámaras Canon de gama media reprogramadas para bucear en los archivos. Los resultados de su aventura son laboratorios de digitalización como los del Museo de Arte Moderno de Buenos Aires y el del SECRIT/CONICET en alianza con la Casa Museo de Ricardo Rojas. Grandes y monumentales obras de la historia literaria –como la Historia de la Literatura Argentina de Ricardo Rojas– se mezclan con fanzines y panfletos de literatura sin ISBN, promoviendo nuevas nociones de canon e inscribiendo una página argentina en el movimiento OpenGLAM (Galleries, Libraries, Archives and Museums asociados para la creación de archivos y colecciones disponibles en línea).
+
+Imposible de competir con presupuestos internacionales necesarios para la edificación de importantes archivos, el escáner no hace en principio preservación ni conservación. Pero potencia el acceso, sembrando también una semilla para esta nueva etapa.
+
+*J. Mendoza es investigador de Conicet y autor de Los Archivos_ papeles para la nación (2019).*
