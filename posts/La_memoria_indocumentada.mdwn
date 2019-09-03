@@ -1,14 +1,9 @@
 [[!tag prensa]] 
-<!-- prensa proyectos activismo eventos formación -->
 [[!meta date="2019-07-05T12:00:00Z"]]
 [[!field
-  default_img="/img/estativo.jpg"
+  default_img="/uploads/posts/La_memoria_indocumentada/archivos-mendoza.png"
   default_img_alt="Archivos sonoros encontrados en el Centro Cultural Recoleta. Foto: Rafael Mario Quinteros."
 ]]
-<!-- 
-  featured=yes
-  short_title="Titulo para teasers"
--->
 
 El siguiente artículo fue publicado por **Juan Mendoza** en Revista Ñ. [Enlace al artículo en Ñ](https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html)
 <!-- https://web.archive.org/web/20190903024616/https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html -->
