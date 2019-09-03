@@ -6,7 +6,7 @@
   default_img_alt="Pieza gráfica que funcionó como catálogo de la exposición “Noé + experiencias colectivas” (1965). / Museo de Arte Moderno."
 ]]
 
-Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodista Debora Campos [publicó esta nota en Clarín](https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html), donde también se menciona el proyecto de digitalización.
+Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodista Débora Campos [publicó esta nota en Clarín](https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html), donde también se menciona el proyecto de digitalización.
 <!-- https://web.archive.org/save/https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html -->
 
 ---
@@ -14,6 +14,8 @@ Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodist
 ## Una de las mayores bibliotecas de arte quiere volver a casa
 
 <big>Sobrevive en un viejo edificio del Centro y en la institución buscan fondos para trasladarla a su gran edificio. Sus tesoros.</big>
+
+Por Débora Campos
 
 Al Museo de Arte Moderno de Buenos Aires le alcanzaron cinco años para destacarse y crecer: desde la apertura de nuevas salas en el edificio de la avenida San Juan al 300 hasta la media docena de propuestas de calidad de 2018 que contaron entre sus protagonistas a Tomás Saraceno con sus arañas, a Liliana Maresca, Alberto Goldenstein, Delia Cancela, y el revalorizado Aldo Sessa, además de la monumental colección del Museum für Moderne Kunst de Frankfurt (MMK) y su muestra comparativa *Historia de dos mundos*. A eso se suma la **multiplicación del público que, además, cada vez es más joven**: de las 250 mil personas que visitan sus salas, un 70 por ciento tienen entre 18 y 31 años. Estos aciertos lo han transformado en un nuevo faro. Sin embargo, no todo son brillos. Actualmente la biblioteca del Moderno, muy consultada por estudiosos argentinos y del exterior, funciona en un oscuro edificio de Alsima al 900. Integrarse a la sede patrimonial de San Juan volvería al conjunto museístico más funcional y compacto.
 
