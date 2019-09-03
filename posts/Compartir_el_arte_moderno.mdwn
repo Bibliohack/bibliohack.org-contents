@@ -1,7 +1,7 @@
 [[!tag prensa MAMBA]] 
 [[!meta title="Revista Ñ: Compartir el arte moderno"]]
 [[!field
-  default_img="/uploads/posts/Revista_Ñ_Compartir_el_arte_moderno/moderno-n.png"
+  default_img="/uploads/posts/Compartir_el_arte_moderno/moderno-n.png"
   default_img_alt="“Cultura maker”. Dispositivo de digitalización de bajo costo que utiliza cámaras digitales hackeadas (con funcionalidades agregadas) y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción."
 ]]
 
