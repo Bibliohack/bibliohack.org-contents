@@ -9,5 +9,6 @@
 Video de la presentación de **Matías Butelman** "Museo de Arte Moderno, Colegio Nacional de Buenos Aires UBA (CABA)
 ¿Una estrategia digital para bibliotecas, archivos y museos de Argentina?", en la [**Jornada sobre la Biblioteca Digital Universitaria 2018**](https://jbdu2018.unq.edu.ar/) "Reflexiones sobre la Biblioteca Académica y el contexto", que se realizó el 1 y 2 de noviembre de 2018 en la Universidad Nacional de Quilmes.
 
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rK7xzUT2gGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
