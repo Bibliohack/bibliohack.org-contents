@@ -1,0 +1,32 @@
+[[!tag prensa MAMBA]] 
+[[!meta title="Revista Ñ: Compartir el arte moderno"]]
+[[!field
+  default_img="/uploads/posts/Revista_Ñ_Compartir_el_arte_moderno/moderno-n.png"
+  default_img_alt="“Cultura maker”. Dispositivo de digitalización de bajo costo que utiliza cámaras digitales hackeadas (con funcionalidades agregadas) y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción."
+]]
+
+La periodista Bibiana Ruiz entrevistó a varios de los participantes del proyecto “Documentos de Arte Moderno”. En diciembre de 2017 [salió publicada la nota](https://www.clarin.com/revista-enie/ideas/compartir-arte-moderno_0_ByDEF4xmM.html) en Revista Ñ.
+
+---
+
+## Compartir el arte moderno
+
+<big>El Museo de Arte Moderno de Buenos Aires está digitalizando el acervo (bibliográfico y hemerográfico) que posee.</big>
+
+Por Bibiana Ruiz
+
+Frente a los desafíos que la tecnología y la virtualidad imponen a la época, los museos, archivos y bibliotecas necesitan innovar y explorar nuevos territorios para adaptarse a las demandas de sus comunidades. Con el objetivo de poner a disposición tanto de investigadores como del público en general y garantizar el acceso al archivo histórico, los responsables de distintas áreas del Museo de Arte Moderno de Buenos Aires se propusieron digitalizar el acervo (bibliográfico, hemerográfico y documental) de los más de 15 mil documentos de la institución, y construir así un archivo digital que da cuenta de las actividades del museo desde 1956.
+
+Bajo el título “Documentos de Arte Moderno”, el proyecto, presentado a principios de noviembre, pretende democratizar el acceso a través de la Web al patrimonio cultural público, entre los que se encuentran los fondos documentales y las colecciones especiales que custodian la biblioteca y el centro de documentación del museo. El planteo requirió, entre otras cosas, de la catalogación e implementación de sistemas informáticos de gestión de bibliotecas y archivos, la realización de tareas de conservación y guarda de documentos, el diseño y construcción de un escáner con hardware y software libres para la captura de imágenes y su procesamiento, y la preparación de objetos digitales y guías de colección para su publicación en línea. En diálogo con Ñ, los responsables de las áreas involucradas en el proyecto hablaron sobre la importancia de la colaboración y la puesta en común de las diferentes disciplinas que intervienen.
+
+Silvia Borja, que trabaja en la Gestión de Proyectos para el Área de Conservación y Restauración del museo, contó que todo surgió de darse cuenta que venían trabajando todo lo que es el patrimonio de la institución, desde el conocimiento del hacer, la actividad del artista, la importancia de la obra dentro de una cronología, “pero nos faltaba toda la documentación que acompaña la obra: las cartas, todo lo que tiene que ver con cómo se adquirió, quién la adquirió, qué directivas hubo con relación a ellas, todo aquel detalle que acompaña la obra que el público no está acostumbrado a ver”, que es lo que enriquece el conocimiento específico de la obra y “cómo se inserta dentro de un estilo, dentro de un período”.
+
+Inés Esteves, Coordinadora de la Biblioteca, explicó que, por un lado, allí existe el fondo bibliográfico y por el otro, el archivo documental, que hasta el momento no ha sido catalogado. Por eso “esta es una oportunidad para poner todo a disposición del público, de generar una plataforma virtual para que cualquiera pueda acceder”. Es que se trata de tres ejes básicos: la descripción o catalogación del material, la conservación y, como resultado final, la digitalización, es decir, poner todo en línea y compartirlo para que “cuando esté digitalizado podamos asociar el documento a la imagen digital y acceder al archivo completo desde la página del museo”.
+
+Nada de esto sería posible sin un elemento ubicuo de estos tiempos: el software. Ramiro Uviña es bibliotecario y programador. Fue el encargado de implementar los programas que gestionan la catalogación y el acceso al material a través de la Eeb para “Documentos...” y de migrar los datos ya existentes. Él destaca la importancia de “que haya informáticos en cada biblioteca”, capaces de manipular, modificar o adaptar el software según la necesidad de la institución. La participación de Uviña en este contexto de ampliación del acceso no es casual: trabaja exclusivamente con software libre, cuya filosofía es complementaria a las iniciativas que promueven la libre circulación del conocimiento.
+
+En sintonía con este paradigma abierto y colaborativo, Juan Pablo Suárez y Matías Butelman se encargaron de acercar la “cultura maker” al proyecto, posibilitando la materialización de un dispositivo de digitalización de bajo costo que utiliza cámaras digitales hackeadas (con funcionalidades agregadas) y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción. Dado que los diseños estarán publicados para quien quiera replicar la técnica, otras instituciones podrán repetir la experiencia, aportar mejoras y adaptar todo a sus necesidades.
+
+Con este proyecto se busca promover una red colaborativa porque, como remarcó Valeria Semilla, Coordinadora de Patrimonio del Museo y principal promotora del proyecto, “nos permite pensar más ampliamente en la institución, en nuevas maneras de democratización y expansión del conocimiento”. Se trata de contextualizar la obra “entendiendo que cada pieza, cada objeto de arte que está patrimoniado, clasificado, descripto, tiene que conjugarse con los documentos de los fondos documentales que están en la biblioteca para enriquecerse, generando un acceso más nutrido e inmediato. La idea es que propositivamente generemos herramientas reflexivas para el usuario, no sólo difusión unilineal”.
+
+Desde Gestión de Patrimonio, Helena Raspo agregó que el proyecto “surgió también de una utopía, de poder generar un conocimiento y poder pensar la historia del museo, de cómo se posiciona dentro de los distintos momentos sociales y políticos que le tocó atravesar”. Todo esto sumado a poder leer las piezas de patrimonio en particular: qué influencia tuvieron dentro de la historia de la cultura de Buenos Aires y su alcance. Raspo habló también de poder generar “una responsabilidad respecto de dónde nos paramos como institución pública para dar a conocer los datos históricos que tenemos”. Por esto, desde el museo apelan a compartir la cultura experimental del arte moderno.
