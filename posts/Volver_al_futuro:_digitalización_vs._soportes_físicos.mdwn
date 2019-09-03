@@ -1,0 +1,10 @@
+[[!tag prensa CNBA ]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta date="2013-12-14T12:00:00Z"]]
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+]]
+<!-- 
+https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos
+-->
