@@ -2,10 +2,10 @@
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
 <!--- inicio conenido -->
 <div class="row">
-[[!inline pages="page(./posts/*)" show="20" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
+[[!inline pages="page(./posts/*)" show="30" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
 </div>
 
-[[!inline pages="page(./posts/*)" show="20" rootpage="posts" feedonly=yes postform=no]]
+[[!inline pages="page(./posts/*)" show="30" rootpage="posts" feedonly=yes postform=no]]
 
 <!--- fin conenido -->
 
