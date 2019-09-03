@@ -1,0 +1,7 @@
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: talleres"]]
+<div class="row">
+[[!inline pages="tagged(talleres)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(talleres)" feedonly=yes feedshow=10]]
