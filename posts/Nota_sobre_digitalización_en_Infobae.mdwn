@@ -1,5 +1,5 @@
 [[!tag prensa MAMBA digitalización]] 
-[[!meta title="Infobae: Cómo trabajan los digitalizadores que buscan empujar las bibliotecas al siglo XXI"]]
+[[!meta title="Infobae: digitalizadores y bibliotecas al siglo XXI"]]
 [[!meta date="2017-12-31T12:00:00Z" ]]
 [[!field
   featured=yes
