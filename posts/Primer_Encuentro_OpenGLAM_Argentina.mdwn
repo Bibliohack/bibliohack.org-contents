@@ -1,0 +1,26 @@
+[[!tag activismo openglam]] 
+[[!meta date="2017-12-04T12:00:00Z"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!field
+  default_img="/uploads/posts/Primer_Encuentro_OpenGLAM_Argentina/openglam-dic-2017-mamba.jpg"
+  default_img_alt="Más de 100 asistentes en el Primer Encuentro OpenGlam Argentina."
+  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+-->
+
+El 4 de diciembre de 2017 se llevó a cabo el **Primer Encuentro OpenGLAM Argentina** organizado por el **Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, **Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de Cultura de la Nación.
+
+La convocatoria superó ampliamente las expectativas y hubo alrededor de 100 asistentes. Se formaron cinco grupos de trabajo y cada uno abordó una temática diferente relacionada con la apertura de acervos: 
+
+* digitalización, 
+* catalogación y publicación en línea, 
+* propiedad intelectual, 
+* conservación y 
+* financiación de proyectos.
+
+El encuentro puso de manifiesto la necesidad constituir un ámbito específico para compartir conocimientos y experiencias y propiciar la conversación sobre problemáticas comunes. También evidenció el interés por conformar una organización o colectivo que permita articular acciones conjuntas en los temas más urgentes, como la reforma de las leyes de propiedad intelectual para incorporar excepciones para instituciones culturales.
+
+Desde **Bibliohack** dedicamos gran parte de nuestra energía y recursos a posibilitar estos encuentros y tender lazos entre personas e instituciones que contribuyan a construir y consolidar estos espacios.
