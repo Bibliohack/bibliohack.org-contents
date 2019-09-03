@@ -1,0 +1,9 @@
+[[!tag proyectos MAMBA]] 
+[[!meta date="2017-10-15T12:00:00Z"]]
+[[!field
+  default_video="/uploads/posts/Financiación_colectiva_para_digitalizar_el_archivo_del_Moderno/kickstarter.mp4"
+]]
+
+El Museo de Arte Moderno de Buenos Aires, con el auspicio de la Asociación Amigos del Moderno, te invita a formar parte del proyecto de puesta en valor y digitalización del archivo histórico del Museo, con el objetivo de garantizar su acceso y ponerlo a disposición de la comunidad artística y del gran público local e internacional.
+
+[Más info en Kickstarter](https://www.kickstarter.com/projects/1055708553/el-archivo-historico-del-museo-de-arte-moderno-a-t/description)
