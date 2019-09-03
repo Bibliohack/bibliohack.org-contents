@@ -1,7 +1,6 @@
 [[!tag prensa MAMBA]] 
 [[!meta date="2017-11-07T12:00:00Z"]]
 [[!field
-  featured=yes
   default_img="/uploads/posts/Entrevista_realizada_por_De_Fogon_en_Fogon/de_fogon_en_fogon_mamba.png"
   default_img_alt="Juan Pablo Suarez y Matias Butelman inventaron un escaner para la Biblioteca del Museo Moderno."
 ]]
