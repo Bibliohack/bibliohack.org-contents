@@ -1,0 +1,32 @@
+[[!tag eventos talleres]] 
+[[!meta title="Blogtemplate, template para blog"]]
+[[!meta date="2019-06-03T12:00:00Z"]]
+[[!field
+  default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg"
+  default_img_alt=""
+]]
+<!-- 
+https://web.archive.org/web/20190903063453/https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital
+-->
+
+El siguiente artículo fue publicado en el sitio <argentina.gob.ar> luego de un encuentro sobre digitalización realizado en el Centro Cultural de la Ciencia.
+
+---
+
+## Desafíos de la preservación documental en tiempos de tecnología digital
+
+<big>El encuentro posibilitó el intercambio de experiencias y propuestas en torno a la preservación de objetos museográficos y bibliográficos en soportes digitales.</big>
+
+El taller “Tecnologías de digitalización en las instituciones de la memoria” se dictó en el Centro Cultural de la Ciencia (C3) el pasado viernes. La actividad se llevó a cabo en el marco del Sistema Nacional de Documentación Histórica, que depende de la Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva.
+
+El encuentro abordó las posibilidades y los desafíos que plantean las tecnologías de digitalización para la producción, la gestión y la preservación en el largo plazo de la información histórica y cultural. Las ponencias estuvieron a cargo de Fernando Boro, miembro del Proyecto Patrimonio Histórico del Instituto de Historia Argentina y Americana "Dr. Emilio Ravignani" (UBA-CONICET); y Matías Butelman, quien integra el colectivo de tecnología libre para bibliotecas, archivos y museos, BiblioHack.
+
+La aparición y el creciente uso de estas tecnologías conlleva numerosas ventajas, especialmente en lo que respecta al acceso remoto de la información. Al mismo tiempo, presenta nuevos desafíos que derivan de las características de los propios objetos digitales y de su cambiante entorno, que también condiciona de manera crítica el acceso.
+
+El Taller repasó los aspectos centrales asociados con las nuevas herramientas y favoreció el intercambio, la discusión y el análisis del impacto de las estrategias de digitalización en la labor de los profesionales de las instituciones del patrimonio histórico y cultural.
+
+Durante su exposición, Boro presentó las diferencias más relevantes que existen entre la conservación en soportes analógicos y digitales, y en referencia a estos últimos señaló el rol del software como un traductor ineludible para el acceso a la información. Por lo tanto, remarcó, la necesidad de adoptar criterios de monitoreo tecnológico, atentos a los ciclos de obsolescencia, a la hora de planificar la conservación museográfica.
+
+A su vez, Butelman planteó un contrapunto entre las actuales exigencias por el acceso y las capacidades institucionales para compartir contenidos en línea. En ese sentido, problematizó instancias dentro del proceso de conservación que actúan como cuellos de botella y las dificultades asociadas con la utilización de tecnologías frecuentemente producidas en el extranjero. Así, abogó por el uso de software libre y el aprovechamiento de recursos locales vinculados con la innovación y el diseño.
+
+Por último, el subsecretario de Evaluación Institucional, Lucas Luchilo, recordó que actualmente se impulsa en el ámbito del Estado Nacional una nueva modalidad de relacionamiento entre las áreas sustantivas y las direcciones de Sistemas para favorecer la sinergia y el desarrollo de soluciones específicas en materia de conservación patrimonial. Además, invitó a los presentes a interactuar a través del Sistema Nacional de Documentación Histórica y a proponer temas que deberían ser incorporados en próximos encuentros.
