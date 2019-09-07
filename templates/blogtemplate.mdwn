@@ -1,6 +1,6 @@
 [[!tag ]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Blogtemplate, template para blog"]]
+[[!meta title="Blogtemplate"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 <!--
    author="Nombre"
@@ -14,11 +14,14 @@
 <!-- 
   featured=yes
   short_title="Titulo para teasers"
+  default_video="/ruta/video"
+  default_video_alt="texto"
+  default_video_poster="/ruta/a/imagen.jpg"
 -->
 
 <big>Esto es un texto destacado</big>
 
-Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
 
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
