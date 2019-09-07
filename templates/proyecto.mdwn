@@ -1,0 +1,50 @@
+[[!tag ]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta title="Proyecto"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+<!--
+   author="Nombre"
+   date="2018-09-13T12:00:00Z"
+-->
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+  default_video="/ruta/video"
+  default_video_alt="texto"
+  default_video_poster="/ruta/a/imagen.jpg"
+-->
+
+### Sobre la Institución
+
+Breve descripcion de la institución (o biblioteca de la institución), es especial desde nuestro enfoque. Fotos ilustrativas con personas de capacitaciones, eventos, presentacion del escaner, etc. 
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+
+### Dispositivos
+
+Fotos y descripción de estativos provistos
+
+Dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.
+
+### Biblioteca Digital
+
+links, capturas, descripcion de implementacion de software de gestión, Drupal, Collective Access etc
+
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.
+
+### Capacitaciones
+
+Descripción de capacitaciones, clicnicas, presencial o a distancia, consultorias asesoramiento
+
+### Colecciones
+
+Descripcion de las colecciones que serán digitalizadas, importancia, desafíos, capturas o ejemplos del material generado.
+
+### Prensa
+
+Links de notas o apariciones en prensa o reseñas en sitios institucionales.
