@@ -10,8 +10,8 @@
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
 
-[[!osm ]]
-[[!waypoint  lat="45°30N" lon="73°40W" ]]
+[[!osm id="testy" zoom="11" ]]
+[[!waypoint lat="45°30N" lon="73°40W" ]]
 
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
