@@ -11,7 +11,7 @@
 ]]
 
 [[!osm name="testy" zoom=11 ]]
-[[!waypoint lat="45°30N" lon="73°40W" ]]
+[[!waypoint lat="45°30N" lon="73°40W" zoom="11" name="cosito"]]
 
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
