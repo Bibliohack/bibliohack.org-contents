@@ -53,9 +53,11 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]]
 </div>[[!template  id=landing_page_section_about.tmpl 
-  titulo="Otro apartado aqui:" 
+  titulo="Apoyos y alianzas:" 
   texto="""
-<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+<img class="apoyos" src="/img/xlogo.jpg" title="Nombre institucion"/>
+<img class="apoyos" src="/img/xlogo.jpg" title="Nombre institucion"/>
+<img class="apoyos" src="/img/xlogo.jpg" title="Nombre institucion"/>
 """
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
