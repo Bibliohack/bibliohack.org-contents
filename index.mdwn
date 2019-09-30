@@ -52,7 +52,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]]
-</div>[[!template  id=landing_page_section_logos.tmpl 
+</div>[[!template  id=landing_page_section_html.tmpl 
   titulo="Apoyos y Alianzas:" 
   html="""
 <div class="col-lg-3">
