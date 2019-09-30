@@ -73,20 +73,21 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 </div>
 
 <div class="col-lg-3 text-center">
-<img src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
+<img src="/img/apoyos/iibicrit.png" title="Instituto de Investigaciones Bibliográficas y Crítica Textual del CONICET"/>
 </div>
 
 <div class="col-lg-3 text-center">
-<img src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
-</div>
-
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+<img src="/img/apoyos/ida.png" title="Fundación Investigación en Diseño Argentino"/>
 </div>
 
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
 </div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/incihusa.png" title="Instituto de Ciencias Humanas, Sociales y Ambientales"/>
+</div>
+
 """
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
