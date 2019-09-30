@@ -54,7 +54,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 ]]
 </div>[[!template  id=landing_page_section_html.tmpl 
   titulo="Apoyos y Alianzas" 
-  texto="Instituciones con las cuales hemos establecido vínculos a largo plazo y brindan apoyo económico al proyecto"
+  texto="Instituciones que brindan apoyo económico o logístico al proyecto"
   html="""
 
 <div class="col-lg-3 text-center">
