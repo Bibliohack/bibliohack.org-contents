@@ -59,27 +59,34 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
 </div>
+
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
 </div>
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
-</div>
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
-</div>
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
-</div>
-<div class="col-lg-3 text-center">
-<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
-</div>
+
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
 </div>
 
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+</div>
 """
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
