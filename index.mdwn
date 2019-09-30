@@ -54,7 +54,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 ]]
 </div>[[!template  id=landing_page_section_html.tmpl 
   titulo="Apoyos y Alianzas" 
-  texto="Ademas de brindar asistencia a sus proyectos de digitalización, Bibliohack busca desarrollar vínculos estratégicos estables con las instituciones de la cultura, con el objetivo de dejar capacidad instalada al interior de las organizaciones, y liberar recursos (diseño, código, procesos, documentación) hacia la comunidad"
+  texto="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: diseño, código, procesos, documentación"
   html="""
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/mamba.png" title="Museo de Arte Moderno de Buenos Aires"/>
