@@ -53,20 +53,22 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]]
 </div>[[!template  id=landing_page_section_html.tmpl 
-  titulo="Apoyos y Alianzas:" 
+  titulo="Apoyos y Alianzas" 
+  texto="Instituciones con las cuales hemos establecido vínculos a largo plazo y brindan apoyo económico al proyecto"
   html="""
-<div class="col-lg-3">
-<img class="apoyos" src="/img/apoyos/anh.png" title="Academia Nacional de la Historia"/>
-<p>Academia Nacional de la Historia</p>
+<div class="col-lg-3 text-center">
+<img class="apoyos" src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
 </div>
-<div class="col-lg-3">
+<div class="col-lg-3 text-center">
 <img class="apoyos" src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
-<p>Colegio Nacional Buenos Aires</p>
 </div>
-<div class="col-lg-3">
-<img src="/img/apoyos/filo.png" title="Filosofía y Letras de la UBA"/>
-<p>Facultad de Filosofía y Letras de la UBA</p>
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
 </div>
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+</div>
+
 """
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
