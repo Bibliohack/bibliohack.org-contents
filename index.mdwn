@@ -55,9 +55,9 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 </div>[[!template  id=landing_page_section_about.tmpl 
   titulo="Apoyos y alianzas:" 
   texto="""
-<img class="apoyos" src="/img/apoyos/cnba.png" title="Nombre institucion"/>
-<img class="apoyos" src="/img/apoyos/filo.png" title="Nombre institucion"/>
-<img class="apoyos" src="/img/apoyos/anh.png" title="Nombre institucion"/>
+<img class="apoyos" src="/img/apoyos/anh.png" title="Academia Nacional de la Historia"/>
+<img class="apoyos" src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
+<img class="apoyos" src="/img/apoyos/filo.png" title="Filosofía y Letras de la UBA"/>
 """
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
