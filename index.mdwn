@@ -81,10 +81,6 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 </div>
 
 <div class="col-lg-3 text-center">
-<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
-</div>
-
-<div class="col-lg-3 text-center">
 <img src="/img/apoyos/incihusa.png" title="Instituto de Ciencias Humanas, Sociales y Ambientales"/>
 </div>
 
