@@ -1,3 +1,6 @@
-Projects:
+<div class="row">
+[[!inline pages="page(./projects/*)" show="30" actions=yes timeformat="%d/%m/%Y" rootpage="projects" postform=no feeds=no id="2"]]
+</div>
 
-[[!inline pages="page(./projects/*)" show="10" actions=yes rootpage="projects"]]
+[[!inline pages="page(./projects/*)" show="30" rootpage="projects" feedonly=yes postform=no]]
+
