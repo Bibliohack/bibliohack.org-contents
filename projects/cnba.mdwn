@@ -1,7 +1,57 @@
-### Hendrerit id ###
+[[!tag proyectos ]] 
+<!-- prensa activismo eventos formación -->
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta title="Colegio Nacional Buenos Aires"]]
+<!--
+metadatos (crear una directiva !meta para cada metadato)
+     title="Titulo que se mostrara diferete a la url"
+     author="Nombre"
+     date="2018-09-13T12:00:00Z"
+-->
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+]]
+<!-- 
+fields (pueden ir varios fields por cada directiva !field)
+    short_title="Titulo para teasers"
+    summary="Texto resumen que sólo aparecerá en los teasers"
+    featured=yes
+    default_video="/ruta/video"
+    default_video_alt="texto descriptivop alt"
+    default_video_poster="/ruta/a/imagen.jpg"
+-->
 
-Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. 
+<!-- Actividades
+<div class="icono-estativo_plano"></div>
+<div class="icono-estativo_en_v"></div>
+<div class="icono-software_de_digitalizacion"></div>
+<div class="icono-biblioteca_digital"></div>
+<div class="icono-capacitacion"></div>
+<div class="icono-conferencia"></div>
+<div class="icono-clinica"></div>
+-->
 
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. 
+### Sobre la Institución
 
-[[!tag pino]]
+Breve descripcion de la institución (o biblioteca de la institución), es especial desde nuestro enfoque. Fotos ilustrativas con personas de capacitaciones, eventos, presentacion del escaner, etc. 
+
+### Colecciones
+
+Descripcion de las colecciones que serán digitalizadas, importancia, desafíos, capturas o ejemplos del material generado.
+
+### Estativos
+
+Fotos y texto sobre dispositivos
+
+### Biblioteca Digital
+
+links, capturas, descripcion de implementacion de software de gestión, Drupal, Collective Access etc
+
+### Capacitaciones
+
+Descripción de capacitaciones, clicnicas, presencial o a distancia, consultorias asesoramiento
+
+### Prensa
+
+Links de notas o apariciones en prensa o reseñas en sitios institucionales.
