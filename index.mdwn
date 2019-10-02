@@ -4,7 +4,7 @@
   titulo="" 
   texto="""
 <p>*Bibliohack* es una iniciativa que busca integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** a las prácticas institucionales de **bibliotecas**, **archivos** y **museos**.  
-Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tres ejes*: 1) diseño y desarrollo de tecnologías libres, innovadoras y adecuadas; 2) capacitación, enseñanza y consultoría; 3) incidencia en políticas públicas.
+Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tres ejes*: 1)&nbsp;diseño y desarrollo de tecnologías libres, innovadoras y adecuadas; 2)&nbsp;capacitación, enseñanza y consultoría; 3)&nbsp;incidencia en políticas públicas.
 """
 ]]
 <div class="seccion-ejes" id="ejes">
@@ -54,7 +54,7 @@ Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu n
 ]]
 </div>[[!template  id=landing_page_section_html.tmpl 
   titulo="Apoyos y Alianzas" 
-  texto="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: diseño, código, procesos, documentación."
+  texto="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: planos, código, procesos, documentación."
   html="""
 <div class="col-lg-3 text-center">
 <img src="/img/apoyos/mamba.png" title="Museo de Arte Moderno de Buenos Aires"/>
