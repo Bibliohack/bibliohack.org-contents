@@ -1,8 +1,8 @@
 [[!pagetemplate  template="page_proyectos.tmpl" sylent]]
-[[!edittemplate  template="proyectos" match="projects/*" silent=yes]]
+[[!edittemplate  template="proyecto" match="projects/*" silent=yes]]
 
 <div class="row">
-[[!inline pages="page(./projects/*)" show="30" actions=yes timeformat="%d/%m/%Y" rootpage="projects" postform=no feeds=no id="2"]]
+[[!inline pages="page(./projects/*)" show="30" actions=yes timeformat="%d/%m/%Y" rootpage="projects"  feeds=no id="2"]]
 </div>
 
 [[!inline pages="page(./projects/*)" show="30" rootpage="projects" feedonly=yes postform=no]]
