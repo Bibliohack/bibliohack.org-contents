@@ -12,7 +12,7 @@ metadatos (crear una directiva !meta para cada metadato)
   default_img="/img/estativo.jpg"
   default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
 ]]
-[[!field icono1=true ]]
+[[!field icono=uno icono=dos ]]
 <!-- 
 fields (pueden ir varios fields por cada directiva !field)
     short_title="Titulo para teasers"
@@ -24,13 +24,13 @@ fields (pueden ir varios fields por cada directiva !field)
 -->
 
 <!-- Actividades
-<div class="icono-estativo_plano"></div>
-<div class="icono-estativo_en_v"></div>
-<div class="icono-software_de_digitalizacion"></div>
-<div class="icono-biblioteca_digital"></div>
-<div class="icono-capacitacion"></div>
-<div class="icono-conferencia"></div>
-<div class="icono-clinica"></div>
+icono-estativo_plano=ok
+icono-estativo_en_v=ok
+icono-software_de_digitalizacion=ok
+icono-biblioteca_digital=ok
+icono-capacitacion=ok
+icono-conferencia=ok
+icono-clinica=ok
 -->
 
 ### Sobre la Institución
@@ -40,6 +40,19 @@ Breve descripcion de la institución (o biblioteca de la institución), es espec
 ### Colecciones
 
 Descripcion de las colecciones que serán digitalizadas, importancia, desafíos, capturas o ejemplos del material generado.
+
+<!-- !template
+  cid=1
+  item1_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
+  item1_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item2_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
+  item2_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
+  item3_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item4_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
+  item4_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+
+-->
 
 ### Estativos
 
