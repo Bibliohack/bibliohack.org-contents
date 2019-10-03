@@ -12,7 +12,7 @@ metadatos (crear una directiva !meta para cada metadato)
   default_img="/img/estativo.jpg"
   default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
 ]]
-[[!field icono="uno" icono="dos" ]]
+[[!field icono="uno dos" ]]
 <!-- 
 fields (pueden ir varios fields por cada directiva !field)
     short_title="Titulo para teasers"
