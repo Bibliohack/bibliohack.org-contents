@@ -30,12 +30,12 @@ Fotos y descripción de estativos provistos
 
 Dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.
 
-[[!template cid="1" id="carousel.tmpl"
-img1="/uploads/projects/mamba/conjunto.jpg"
-txt1="imagen numero uno"
-img2="/uploads/projects/mamba/se_armo.png"
-txt2="imagen numero dos"
-]]
+<div>[[!template cid="1" id="carousel.tmpl"
+img1=/uploads/projects/mamba/conjunto.jpg 
+txt1="imagen numero uno" 
+img2=/uploads/projects/mamba/se_armo.png 
+txt2="imagen numero dos" 
+]]</div>
 
 ### Biblioteca Digital
 
