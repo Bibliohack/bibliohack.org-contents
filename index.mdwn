@@ -1,8 +1,8 @@
 [[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
 <div>[[!template  
   id=landing_page_section_top.tmpl 
-  titulo="" 
-  texto="""
+  titulo="bibliohack asiste en la transformación digital de bibliotecas, archivos y museos del Sur Global" 
+  texto=""
 <p>*Bibliohack* es una iniciativa que busca integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** a las prácticas institucionales de **bibliotecas**, **archivos** y **museos**.  
 Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tres ejes*: 1)&nbsp;diseño y desarrollo de tecnologías libres, innovadoras y adecuadas; 2)&nbsp;capacitación, enseñanza y consultoría; 3)&nbsp;incidencia en políticas públicas.
 """
