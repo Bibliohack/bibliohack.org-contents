@@ -1,6 +1,6 @@
 [[!tag proyectos SECRIT-Conicet]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Estativo en V para proyecto de digitalización del SECRIT/Conicet"]]
+[[!meta title="Estativo en V para el proyecto de digitalización del SECRIT/Conicet"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2017-03-16T12:00:00Z"]]
 [[!field
