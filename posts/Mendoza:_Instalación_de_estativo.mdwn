@@ -55,9 +55,6 @@ EL corte láser de las piezas y la adquisición de materiales para su armado se 
 <img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_113440.jpg"
    data-image="/uploads/galleries/mendoza_2018/1280px/20180912_113440.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_113445(0).jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_113445(0).jpg"
-   data-description="">
 <img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_143230.jpg"
    data-image="/uploads/galleries/mendoza_2018/1280px/20180912_143230.jpg"
    data-description="">
