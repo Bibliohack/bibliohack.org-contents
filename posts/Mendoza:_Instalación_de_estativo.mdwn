@@ -3,7 +3,7 @@
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
-  default_img="/img/estativo.jpg"
+  default_img="/uploads/posts/Mendoza:_Instalación_de_estativo/20180912_151630.jpg"
   default_img_alt="Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza."
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
