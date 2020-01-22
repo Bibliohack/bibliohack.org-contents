@@ -81,6 +81,6 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 
 ["El proyecto de digitalización de las revistas Incipit"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/STRIKER Gabriela et al. El proyecto de digitalización de las revistas Incipit. Congreso AAHD.pdf): PDF de la presentación a cargo de Gabriela Striker, Agustina Miguens e Ileana Campagno Pizarro (UBA) en la "Mesa Diseño y Construcción de Archivos" coordinada por Juan Mendoza, en el III Congreso Internacional de la Asociación Argentina de Humanidades Digitales realizado en Rosario entre el 7 y 9 de Noviembre de 2018.
 
-["La “Informática Humanística”: notas volanderas desde el ámbito hispánico"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/251-872-1-PB.pdf) Un ejemplo del resultado final del proceso de digitalización (PDF).
+["La “Informática Humanística”: notas volanderas desde el ámbito hispánico"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/251-872-1-PB.pdf) Un artículo de la "Revista Incipit" en PDF, ejemplo del resultado final del proceso de digitalización.
 
 ["Informe del proyecto Incipit"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/Informe_Proyecto_Incipit.pdf) Informe elaborado por Gabriela Striker, Agustina Miguens e Ileana Campagno con detalles sobre la realización del proyecto, las dificultades encontradas y las sugerencias de mejoras al proceso ideado por Bibliohack.
