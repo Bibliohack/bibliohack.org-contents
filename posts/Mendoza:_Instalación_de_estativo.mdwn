@@ -1,0 +1,89 @@
+[[!tag proyectos ]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta title="Blogtemplate"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta date="2018-09-12T12:00:00Z"]]
+[[!field
+  default_img="/img/estativo.jpg"
+  default_img_alt="Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza."
+  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
+]]
+
+Durante el mes de septiembre de 2018 Bibliohack armó e instaló un estativo en 'V' en el Archivo histórico del Agua del Departamento General de Irrigación.
+
+EL corte láser de las piezas y la adquisición de materiales para su armado se realizó integramente con proveedores de la ciudad de Mendoza. El proceso duró tres dias, incluyo el retiro del material del proveedor, el ensamble y pintado de las piezas, la instalacion del softeare y la configuracion de las cámaras digitales y finalmente una prueba de uso del dispositivo y capacitación.
+
+<div id="gallery" style="display:none;">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124417.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124417.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124421.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124421.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124451.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124451.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124515.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124515.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_145716.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_145716.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_164825.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_164825.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_164933.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_164933.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_170756.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_170756.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_120343.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_120343.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_172603.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_172603.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_182648.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_182648.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_182701.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_182701.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_184205.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_184205.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_113440.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_113440.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_113445(0).jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_113445(0).jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_143230.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_143230.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_151630.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_151630.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_143138_307.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_143138_307.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_170704_846.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_170704_846.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_170721_999.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_170721_999.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_200852_131.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_200852_131.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180911_175927_932.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180911_175927_932.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180912_155527_921.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180912_155527_921.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180912_215315_275.jpg"
+   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180912_215315_275.jpg"
+   data-description="">
+<div>
