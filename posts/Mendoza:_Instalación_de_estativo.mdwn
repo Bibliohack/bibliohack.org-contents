@@ -1,6 +1,5 @@
 [[!tag proyectos ]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Blogtemplate"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
