@@ -32,48 +32,48 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473242614_0c28703dff_k.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_0288.jpg"
+<img alt="Capacitación" src="/uploads/galleries/secrit_2017/300px/IMG_0288.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_0288.jpg"
-   data-description="Capacitación">
+   data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473657034_c49f221542_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473657034_c49f221542_k.jpg"
    data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473725704_7cdc84c498_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473725704_7cdc84c498_k.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/33475262104_5eab37ac3b_k.jpg"
+<img alt="Piezas del estativo embaladas, que son llevadas al sitio donde se utilizará el aparato para su ensamble." src="/uploads/galleries/secrit_2017/300px/33475262104_5eab37ac3b_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33475262104_5eab37ac3b_k.jpg"
-   data-description="Piezas del estativo embaladas, que son llevadas al sitio donde se utilizará el aparato para su ensamble.">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/33504906533_6613787422_k.jpg"
+   data-description="">
+<img alt="Cámaras digitales compactas de gaa media montadas en el estativo." src="/uploads/galleries/secrit_2017/300px/33504906533_6613787422_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33504906533_6613787422_k.jpg"
-   data-description="Cámaras digitales compactas de gaa media.">
+   data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33930683620_baa5a3f459_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33930683620_baa5a3f459_k.jpg"
    data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/34274572426_aa024282c8_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/34274572426_aa024282c8_k.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/34314721395_a4c9789631_k.jpg"
+<img alt="Encuentro de la platina y la cuna en V, en donde se coloca el documento" src="/uploads/galleries/secrit_2017/300px/34314721395_a4c9789631_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/34314721395_a4c9789631_k.jpg"
-   data-description="Encuentro de la platina y la cuna en V, en donde se coloca el documento">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/34314745235_c200844368_k.jpg"
+   data-description="">
+<img alt="Detalle de la cuna ajustable al tamaño del documento" src="/uploads/galleries/secrit_2017/300px/34314745235_c200844368_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/34314745235_c200844368_k.jpg"
-   data-description="Detalle de la cuna ajustable al tamaño del documento">
+   data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_20170316_164519.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_20170316_164519.jpg"
    data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_20170316_173950.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_20170316_173950.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/incipit.jpg"
+<img alt="Portada de la 'Revista Incipit'" src="/uploads/galleries/secrit_2017/300px/incipit.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/incipit.jpg"
-   data-description="Tapa de la 'Revista Incipit'">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/capura.png"
+   data-description="">
+<img alt="Captura ampliada 1:1 para ver en detalle la resolución de la imagen" src="/uploads/galleries/secrit_2017/300px/capura.png"
    data-image="/uploads/galleries/secrit_2017/1280px/capura.png"
-   data-description="Captura ampliada 1:1 para ver en detalle la resolución de la imagen">
+   data-description="">
 <img alt="Ampliación 1:1 de captura procesada (bitono, recortada y ortogonalizada)" src="/uploads/galleries/secrit_2017/300px/procesado.png"
    data-image="/uploads/galleries/secrit_2017/1280px/procesado.png"
-   data-description="Ampliación 1:1 de captura procesada (bitono, recortada y ortogonalizada)">
+   data-description="">
 </div>
 
 
