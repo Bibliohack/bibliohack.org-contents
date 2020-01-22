@@ -1,16 +1,18 @@
-[[!tag proyectos ]] 
-<!-- prensa proyectos activismo eventos formación -->
+[[!tag proyectos Irrigación-INCIHUSA-CONICET]] 
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Mendoza:_Instalación_de_estativo/20180912_151630.jpg"
   default_img_alt="Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza."
-  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
 
-Durante el mes de septiembre de 2018 Bibliohack armó e instaló un estativo en 'V' en el Archivo histórico del Agua del Departamento General de Irrigación.
+Durante el mes de septiembre de 2018 instalamos un estativo en 'V' en el **"Archivo Histórico del Agua"** del Departamento General de Irrigación de la Provincia de Mendoza. 
 
-EL corte láser de las piezas y la adquisición de materiales para su armado se realizó integramente con proveedores de la ciudad de Mendoza. El proceso duró tres dias, incluyo el retiro del material del proveedor, el ensamble y pintado de las piezas, la instalacion del softeare y la configuracion de las cámaras digitales y finalmente una prueba de uso del dispositivo y capacitación.
+El proyecto lo realizamos en marco de un convenio entre Irrigación y el **Instituto de Ciencias Humanas, Sociales y Ambientales del CONICET (INCIHUSA-CONICET)**
+
+El corte láser de las piezas y la adquisición de materiales para el armado lo realizamos integramente con proveedores de la ciudad de Mendoza. El proceso duró tres dias, incluyó el retiro del material del proveedor, el ensamble y pintado de las piezas en las instalaciones de Irrigación, la instalación del software en un equipo provisto por el archivo, la configuración de las cámaras digitales y finalmente una prueba de uso del dispositivo y una capacitación.
+
+### Galería de imágenes
 
 <p id="gallery" style="display:none;">
 <img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124417.jpg"
