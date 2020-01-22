@@ -1,0 +1,48 @@
+[[!tag proyectos SECRIT-Conicet]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta title="Estativo en V Ibicrit Secrit Conicet"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta date="2017-03-16T12:00:00Z"]]
+[[!field
+  default_img="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
+  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+  default_video="/ruta/video"
+  default_video_alt="texto"
+  default_video_poster="/ruta/a/imagen.jpg"
+-->
+[[!field unite_gallery="tiles" gallery_1="secrit_2017"]]
+
+
+<div id="secrit_2017" style="display:none;">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33473242614_0c28703dff_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33473657034_c49f221542_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33473657034_c49f221542_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33473725704_7cdc84c498_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33473725704_7cdc84c498_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33475262104_5eab37ac3b_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33475262104_5eab37ac3b_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33504906533_6613787422_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33504906533_6613787422_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/33930683620_baa5a3f459_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/33930683620_baa5a3f459_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/34274572426_aa024282c8_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/34274572426_aa024282c8_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/34314721395_a4c9789631_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/34314721395_a4c9789631_k.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/34314745235_c200844368_k.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/34314745235_c200844368_k.jpg"
+   data-description="">
+</div>
