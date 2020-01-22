@@ -4,7 +4,7 @@
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2017-03-16T12:00:00Z"]]
 [[!field
-  default_img="/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit.jpg"
+  default_img="/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg"
   default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
 ]]
 <!-- 
