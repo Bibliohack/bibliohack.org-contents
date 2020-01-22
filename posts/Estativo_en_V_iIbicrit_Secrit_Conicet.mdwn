@@ -71,7 +71,7 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 <img alt="" src="/uploads/galleries/secrit_2017/300px/capura.png"
    data-image="/uploads/galleries/secrit_2017/1280px/capura.png"
    data-description="Captura ampliada 1:1 para ver en detalle la resolución de la imagen">
-<img alt="" src="/uploads/galleries/secrit_2017/300px/procesado.png"
+<img alt="Ampliación 1:1 de captura procesada (bitono, recortada y ortogonalizada)" src="/uploads/galleries/secrit_2017/300px/procesado.png"
    data-image="/uploads/galleries/secrit_2017/1280px/procesado.png"
    data-description="Ampliación 1:1 de captura procesada (bitono, recortada y ortogonalizada)">
 </div>
