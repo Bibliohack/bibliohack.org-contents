@@ -16,9 +16,9 @@
 -->
 [[!field unite_gallery="tiles" gallery_1="secrit_2017"]]
 
-En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar las ediciones –que no disponían de versión electrónica– de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978.
+En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978, en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual".
 
-El dispositivo para digitalizar los volumenes es un estativo en "V" que utiliza dos cámaras digitales compactas conectados a una computadora. El estativo de bajo costo fue integramente diseñado y construído por Bibliohack y utiliza listones de madera de pino como elemento constructivo. 
+El dispositivo para digitalizar los volúmenes es un *estativo en "V"* que utiliza dos cámaras digitales compactas conectadas a una computadora. El estativo de bajo costo fue integramente diseñado y construído por Bibliohack y utiliza listones de madera de pino como elemento constructivo y acrílico cristal como medio de aplanamiento del documento. Para realizar las capturas se utilizó el software "Dalclick" de Bibliohack que controla las cámaras remotamente y permite hacer una vista previa del resultado. El post-proceso se realizó con software libre sobre una plataforma gnu/linux (Tesseract OCR, Scantailor y PDFBeads) operados mediante el sitema "Dalproc" de Bibliohack que permite la ejecución conjunta de todas estas etapas en lote. El proceso culmina con un archivo PDF listo para publicar en línea.
 
 Bibliohack capacitó a miembros del SECRIT sobre la operación del dispositivo y el uso del software para postproceso. La digitalización estuvo a cargo de Gabriela Striker, Ileana Campagno y Agustina Miguens.
 
@@ -63,3 +63,11 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_20170316_173950.jpg"
    data-description="">
 </div>
+
+### Mas información sobre este proyecto
+
+["El proyecto de digitalización de las revistas Incipit"](): PDF de la presentación a cargo de Gabriela Striker, Agustina Miguens e Ileana Campagno Pizarro (UBA) en la "Mesa Diseño y Construcción de Archivos" coordinada por Juan Mendoza, en el III Congreso Internacional de la Asociación Argentina de Humanidades Digitales realizado en Rosario entre el 7 y 9 de Noviembre de 2018.
+
+["La “Informática Humanística”: notas volanderas desde el ámbito hispánico"]() Un ejemplo del resultado final del proceso de digitalización (PDF).
+
+["Informe del proyecto Incipit"]() Informe elaborado por Gabriela Striker, Agustina Miguens e Ileana Campagno con detalles sobre la realización del proyecto, las dificultades encontradas y las sugerencias de mejoras al proceso ideado por Bibliohack.
