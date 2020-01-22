@@ -16,7 +16,7 @@
 -->
 [[!field unite_gallery="tiles" gallery_1="secrit_2017"]]
 
-En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978, en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual".
+En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/) en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
 
 El dispositivo para digitalizar los volúmenes es un *estativo en "V"* que utiliza dos cámaras digitales compactas conectadas a una computadora. El estativo de bajo costo fue integramente diseñado y construído por Bibliohack y utiliza listones de madera de pino como elemento constructivo y acrílico cristal como medio de aplanamiento del documento. Para realizar las capturas se utilizó el software "Dalclick" de Bibliohack que controla las cámaras remotamente y permite hacer una vista previa del resultado. El post-proceso se realizó con software libre sobre una plataforma gnu/linux (Tesseract OCR, Scantailor y PDFBeads) operados mediante el sitema "Dalproc" de Bibliohack que permite la ejecución conjunta de todas estas etapas en lote. El proceso culmina con un archivo PDF listo para publicar en línea.
 
@@ -61,6 +61,12 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
    data-description="">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_20170316_173950.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_20170316_173950.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/capura.png"
+   data-image="/uploads/galleries/secrit_2017/1280px/capura.png"
+   data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/procesado.png"
+   data-image="/uploads/galleries/secrit_2017/1280px/procesado.png"
    data-description="">
 </div>
 
