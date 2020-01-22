@@ -32,6 +32,9 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473242614_0c28703dff_k.jpg"
    data-description="">
+<img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_0288.jpg"
+   data-image="/uploads/galleries/secrit_2017/1280px/IMG_0288.jpg"
+   data-description="Capacitación">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473657034_c49f221542_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473657034_c49f221542_k.jpg"
    data-description="">
