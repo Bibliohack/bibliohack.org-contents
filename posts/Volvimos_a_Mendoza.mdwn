@@ -1,0 +1,15 @@
+[[!tag proyectos]] 
+[[!meta title="Volvimos a Mendoza"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta date="2019-05-03T12:00:00Z" ]]
+[[!field
+  default_img="/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg"
+  default_img_alt="Capacitación y mantenimiento de dispositivo en el Archivo de Agua, Mendoza."
+]]
+
+¡Volvimos a Mendoza a actualizar el escáner en "V" del Archivo del Agua!
+
+El software de gestión de captura DALCLIC ahora trabaja con scantailor-advanced, que trae muchas mejoras de UI y tiempos de procesamiento.
+
+Además, por la tarde vamos a estar evaluando diferentes proyectos de historia digital para identificar formatos recurrentes en el tratamiento digital de fuentes històricas y de material archivístico.
+
