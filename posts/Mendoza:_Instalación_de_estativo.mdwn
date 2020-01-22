@@ -12,7 +12,7 @@ Durante el mes de septiembre de 2018 Bibliohack armó e instaló un estativo en 
 
 EL corte láser de las piezas y la adquisición de materiales para su armado se realizó integramente con proveedores de la ciudad de Mendoza. El proceso duró tres dias, incluyo el retiro del material del proveedor, el ensamble y pintado de las piezas, la instalacion del softeare y la configuracion de las cámaras digitales y finalmente una prueba de uso del dispositivo y capacitación.
 
-
+<p></p>
 <div id="gallery" style="display:none;">
 <img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124417.jpg"
    data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124417.jpg"
