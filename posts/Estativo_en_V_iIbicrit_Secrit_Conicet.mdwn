@@ -1,6 +1,6 @@
 [[!tag proyectos SECRIT-Conicet]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Estativo en V Ibicrit Secrit Conicet"]]
+[[!meta title="Estativo en V para proyecto de digitalización del SECRIT/Conicet"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2017-03-16T12:00:00Z"]]
 [[!field
@@ -15,6 +15,12 @@
   default_video_poster="/ruta/a/imagen.jpg"
 -->
 [[!field unite_gallery="tiles" gallery_1="secrit_2017"]]
+
+Galería de imágenes de la instalación de un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar las ediciones –que no disponían de versión electrónica– de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978.
+
+La Revista Incipit "publica colaboraciones originales dedicadas a los problemas y métodos de la edición y crítica textual de obras en español de la Península y América, desde la Edad Media hasta nuestros días, noticias de archivos y repositorios bibliográficos, y temas de lengua, estructura y estilo vinculados al texto o a la historia del texto".
+
+Actualmente todos los números digitalizados en este proyecto están disponibles en **acceso abierto** (con licencia *Creative Commons Attribution 3.0*) en [esta página](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/index)
 
 <div id="secrit_2017" style="display:none;">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
