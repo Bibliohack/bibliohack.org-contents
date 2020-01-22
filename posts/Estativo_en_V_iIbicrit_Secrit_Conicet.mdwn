@@ -28,7 +28,7 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 
 ### Galería de imágenes
 
-<div id="secrit_2017" style="display:none;">
+<div id="secrit_2017" class="unite-gallery tiles" style="display:none;">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/33473242614_0c28703dff_k.jpg"
    data-description="">
