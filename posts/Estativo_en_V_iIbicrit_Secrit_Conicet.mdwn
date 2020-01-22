@@ -5,7 +5,7 @@
 [[!meta date="2017-03-16T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+  default_img_alt="Juan Mendoza, Gabriela Striker, Agustina Miguens, Ileana Campagno, Mercedes Rodríguez Temperley y Leonardo Funes, junto al estativo listo para operar."
 ]]
 <!-- 
   featured=yes
@@ -16,11 +16,17 @@
 -->
 [[!field unite_gallery="tiles" gallery_1="secrit_2017"]]
 
-Galería de imágenes de la instalación de un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar las ediciones –que no disponían de versión electrónica– de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978.
+En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar las ediciones –que no disponían de versión electrónica– de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/), que el Instituto publica anualmente desde 1978.
+
+El dispositivo para digitalizar los volumenes es un estativo en "V" que utiliza dos cámaras digitales compactas conectados a una computadora. El estativo de bajo costo fue integramente diseñado y construído por Bibliohack y utiliza listones de madera de pino como elemento constructivo. 
+
+Bibliohack capacitó a miembros del SECRIT sobre la operación del dispositivo y el uso del software para postproceso. La digitalización estuvo a cargo de Gabriela Striker, Agustina Miguens y Ileana Campagno.
 
 La Revista Incipit "publica colaboraciones originales dedicadas a los problemas y métodos de la edición y crítica textual de obras en español de la Península y América, desde la Edad Media hasta nuestros días, noticias de archivos y repositorios bibliográficos, y temas de lengua, estructura y estilo vinculados al texto o a la historia del texto".
 
-Actualmente todos los números digitalizados en este proyecto están disponibles en **acceso abierto** (con licencia *Creative Commons Attribution 3.0*) en [esta página](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/index)
+Actualmente todos los números digitalizados en este proyecto están disponibles en **acceso abierto** (con licencia *Creative Commons Attribution 3.0*) en [el sistema de publicación abierta del instituto](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/index)
+
+### Galería de imágenes
 
 <div id="secrit_2017" style="display:none;">
 <img alt="" src="/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg"
