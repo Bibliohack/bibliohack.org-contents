@@ -13,3 +13,17 @@ El software de gestión de captura DALCLIC ahora trabaja con scantailor-advanced
 
 Además, por la tarde vamos a estar evaluando diferentes proyectos de historia digital para identificar formatos recurrentes en el tratamiento digital de fuentes històricas y de material archivístico.
 
+<div id="gallery" style="display:none;">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59152953_589684981532938_4371132618234658816_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59152953_589684981532938_4371132618234658816_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59295515_589683034866466_754711837936713728_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59295515_589683034866466_754711837936713728_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59446194_589679951533441_3016270070721544192_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59446194_589679951533441_3016270070721544192_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59688223_589683028199800_3609051028734869504_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59688223_589683028199800_3609051028734869504_o.jpg"
+   data-description="">
+</div>
