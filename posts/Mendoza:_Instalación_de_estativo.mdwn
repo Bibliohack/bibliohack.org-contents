@@ -1,6 +1,6 @@
 [[!tag proyectos Irrigación-INCIHUSA-CONICET]] 
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-[[!meta title="Instalación de estativo en el Archivo Histórico del Agua, Mendoza"]]
+[[!meta title="Instalación de estativo en el Archivo del Agua, Mendoza"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Mendoza:_Instalación_de_estativo/20180912_151630.jpg"
