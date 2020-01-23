@@ -17,15 +17,15 @@ Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tre
 Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
-  item1_txt="<span>Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.</span>"
+  item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
   item2_img="/img/tecnologia_abierta/proceso.jpg"
-  item2_txt="<span>Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.</span>"
+  item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
   item3_img="/img/tecnologia_abierta/github.jpg"
-  item3_txt="<span>Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.</span>"
+  item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
   item4_img="/img/tecnologia_abierta/referencias.jpg"
-  item4_txt="<span>Tecnología adecuada significa tecnologia apropiada por costos, recursos, sostenibilidad y en sintonia con el contexto local.</span>"
+  item4_txt="<span>&nbsp;Tecnología adecuada significa tecnologia apropiada por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
   item5_img="/img/tecnologia_abierta/lam3.jpg"
-  item5_txt="<span>Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.</span>"
+  item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto="""
