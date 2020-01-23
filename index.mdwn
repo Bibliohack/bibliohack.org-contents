@@ -15,13 +15,14 @@ Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tre
 ### Tecnologías libres
 
 Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
+ejes.jpg    lam3.jpg    referencias.jpg  
 """
-  item1_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item1_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  item2_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item2_txt="Aenean eu nisi eget ante suscipit porttitor"
-  item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
+  item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
+  item1_txt="Open Hardware significa compartir especificaciones y procesos"
+  item2_img="/img/tecnologia_abierta/proceso.jpg"
+  item2_txt="Describir los procesos técnicos para generar capacidad instalada en cada institución"
+  item3_img="/img/tecnologia_abierta/github.jpg"
+  item3_txt="Publicamos todos nuestros desarrollos en nuestro repositorio abierto"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto="""
