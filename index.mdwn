@@ -22,7 +22,7 @@ Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce 
   item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
   item3_img="/img/tecnologia_abierta/github.jpg"
   item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
-  item4_img="/img/tecnologia_abierta/referencias.jpg"
+  item4_img="/img/tecnologia_abierta/referencias2.jpg"
   item4_txt="<span>&nbsp;Tecnología adecuada significa tecnologia apropiada por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
   item5_img="/img/tecnologia_abierta/lam3.jpg"
   item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
