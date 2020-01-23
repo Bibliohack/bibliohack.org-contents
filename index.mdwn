@@ -38,8 +38,8 @@ Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar.
   item1_txt="Capacitacion durante la instalación de un estativo en Mendoza"
   item2_img="/img/capacitacion/clinicas.jpg"
   item2_txt="Aenean eu nisi eget ante suscipit porttitor"
-  item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
-  item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
+  item3_img="/img/capacitacion/capac_filo.jpg"
+  item3_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto_izq=1
