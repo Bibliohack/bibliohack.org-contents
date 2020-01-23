@@ -49,7 +49,7 @@ Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar.
 Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu nisi eget ante suscipit porttitor. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim.  
 
 """
-  item1_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
+  item1_img=https:"/img/politicas/politicas.jpg"
   item1_txt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
   item2_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item2_txt="Aenean eu nisi eget ante suscipit porttitor"
