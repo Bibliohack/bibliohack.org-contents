@@ -41,7 +41,7 @@ Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar.
   item3_img="/img/capacitacion/capac_filo.jpg"
   item3_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
 ]][[!template  id=landing_page_section_slide.tmpl 
-  cid=2
+  cid=3
   texto_izq=1
   texto="""
 ### Políticas públicas
