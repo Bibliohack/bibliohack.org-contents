@@ -19,13 +19,13 @@ Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce 
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.</span>"
   item2_img="/img/tecnologia_abierta/proceso.jpg"
-  item2_txt="Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución."
+  item2_txt="<span>Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.</span>"
   item3_img="/img/tecnologia_abierta/github.jpg"
-  item3_txt="Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto."
+  item3_txt="<span>Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.</span>"
   item4_img="/img/tecnologia_abierta/referencias.jpg"
-  item4_txt="Tecnología adecuada significa tecnologia apropiada por costos, recursos, sostenibilidad y en sintonia con el contexto local."
+  item4_txt="<span>Tecnología adecuada significa tecnologia apropiada por costos, recursos, sostenibilidad y en sintonia con el contexto local.</span>"
   item5_img="/img/tecnologia_abierta/lam3.jpg"
-  item5_txt="Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras."
+  item5_txt="<span>Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.</span>"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto="""
