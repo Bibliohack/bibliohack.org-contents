@@ -17,7 +17,7 @@ Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tre
 Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
-  item1_txt="Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones."
+  item1_txt="<span>Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.</span>"
   item2_img="/img/tecnologia_abierta/proceso.jpg"
   item2_txt="Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución."
   item3_img="/img/tecnologia_abierta/github.jpg"
