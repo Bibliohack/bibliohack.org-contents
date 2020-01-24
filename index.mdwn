@@ -17,7 +17,7 @@ Desde nuestro lugar de incidencia trabajamos en la construcción de redes que pe
   texto="""
 ### DIY Book Scanners y Tecnologías libres
 
-Desarrollamos y construímos estativos de diseño abierto utilizando  materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de archivos digitales y publicación en línea (Collective Access y Drupal).
+Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de archivos digitales y publicación en línea (Collective Access y Drupal).
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
