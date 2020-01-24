@@ -17,7 +17,7 @@ Desde nuestro lugar de incidencia trabajamos en la construccion de redes que per
   texto="""
 ### Tecnologías libres
 
-Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
+Diseñamos estativos de diseño abierto utilizando métodos de autoconstrucción y materiales economicos y accesibles (tecnología adecuada). Desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de archivos digitales y publicación en línea (Collective Access y Drupal).
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
@@ -37,12 +37,12 @@ Consectetur adipiscing elit. Aenean eu nisi eget ante suscipit porttitor. Fusce 
 Aenean eu nisi eget ante suscipit porttitor. Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim. Sed bibendum nec neque id condimentum. 
 
 """
-  item1_img="/img/capacitacion/capacitacion.jpg"
-  item1_txt="Capacitacion durante la instalación de un estativo en Mendoza"
-  item2_img="/img/capacitacion/clinicas.jpg"
-  item2_txt="Aenean eu nisi eget ante suscipit porttitor"
-  item3_img="/img/capacitacion/capac_filo.jpg"
-  item3_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
+  item1_img="/img/capacitacion/capac_filo.jpg"
+  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
+  item2_img="/img/capacitacion/capacitacion.jpg"
+  item3_txt="Capacitacion durante la instalación de un estativo en Mendoza"
+  item3_img="/img/capacitacion/clinicas.jpg"
+  item3_txt="Aenean eu nisi eget ante suscipit porttitor"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=3
   texto_izq=1
