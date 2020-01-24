@@ -3,8 +3,11 @@
   id=landing_page_section_top.tmpl 
   titulo="" 
   texto="""
-<p>*Bibliohack* es una iniciativa que busca integrar la **digitalización**, las **nuevas tecnologías** y los principios del **conocimiento abierto** a las prácticas institucionales de **bibliotecas**, **archivos** y **museos**.  
-Desde la realidad política y económica del *Sur Global*, trabajamos sobre *tres ejes*: 1)&nbsp;diseño y desarrollo de tecnologías libres, innovadoras y adecuadas; 2)&nbsp;capacitación, enseñanza y consultoría; 3)&nbsp;incidencia en políticas públicas.
+<p>*Bibliohack* es una iniciativa que trabaja en la *transformación digital* de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global y siguiendo los principios del **acceso abierto**, la **tecnología libre** y el **desarrollo colaborativo**. 
+
+Nuestras areas de especializacion son la **digitalizacion de documentos**, los **procesos de catalogación** y la **gestión de acervos digitales**. Promovemos la generación **capacidad instalada** al interior de las organizaciones y no externalización de servicios.
+
+Desde nuestro lugar de incidencia trabajamos en la construccion de redes que permitan **generar y liberar recursos** para la comunidad: planos, código, procesos y documentación y a la vez sumar masa critica para impulsar politicas y normativas que favorezcan la preservacion y el acceso al conocimiento, en especial en el ambito de la **propiedad intelectual**.
 """
 ]]
 <div class="seccion-ejes" id="ejes">
