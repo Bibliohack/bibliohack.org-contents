@@ -32,7 +32,7 @@ Diseñamos y construímos dispositivos de digitalización de especificaciones ab
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto="""
-### Educación
+### Capacitación y consultoría
 
 Ofrecemos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
 
