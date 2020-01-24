@@ -35,7 +35,6 @@ Diseñamos y construímos dispositivos de digitalización de especificaciones ab
 ### Capacitación y consultoría
 
 Ofrecemos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
-
 """
   item1_img="/img/capacitacion/capac_filo.jpg"
   item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
