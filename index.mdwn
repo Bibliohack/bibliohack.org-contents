@@ -34,7 +34,7 @@ Desarrollamos y construímos estativos de diseño abierto utilizando métodos de
   texto="""
 ### Capacitación y consultoría
 
-Realizamos capacitaciones, charlas y conferencias sobre nuevas prácticas de gestión de información, digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
+Realizamos capacitaciones, charlas y conferencias sobre nuevas prácticas de gestión de información, digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself (DIYbookscanners)</i>.
 
 """
   item1_img="/img/capacitacion/capac_filo.jpg"
