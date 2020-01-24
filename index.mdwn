@@ -15,7 +15,7 @@ Desde nuestro lugar de incidencia trabajamos en la construcción de redes que pe
   cid=1
   texto_izq=1
   texto="""
-### Tecnologías libres
+### DIY Book Scanners y Tecnologías libres
 
 Desarrollamos y construímos estativos de diseño abierto utilizando métodos de autoconstrucción y materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de archivos digitales y publicación en línea (Collective Access y Drupal).
 """
@@ -34,7 +34,7 @@ Desarrollamos y construímos estativos de diseño abierto utilizando métodos de
   texto="""
 ### Capacitación y consultoría
 
-Realizamos capacitaciones, charlas y conferencias sobre nuevas prácticas de gestión de información, digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself (DIYbookscanners)</i>.
+Realizamos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
 
 """
   item1_img="/img/capacitacion/capac_filo.jpg"
