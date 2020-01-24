@@ -47,9 +47,10 @@ Realizamos capacitaciones, charlas y conferencias sobre nuevas prácticas de ges
   cid=3
   texto_izq=1
   texto="""
-### Políticas públicas
+### Redes y políticas públicas
 
-Fusce maximus in lacus id pulvinar. Quisque sit amet convallis enim. Aenean eu nisi eget ante suscipit porttitor. Vestibulum blandit volutpat felis id finibus. Suspendisse ac ipsum dignissim, varius sapien nec, rhoncus ante. Nulla nibh odio, porta at sapien ut, tincidunt convallis enim.  
+Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno a desafíos que exceden a cada organización individual: 1)   reforma de la propiedad intelectual y licencias libres, 2) acceso abierto en instituciones culturales, 3) desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
+ 
 
 """
   item1_img="/img/politicas/politicas.jpg"
