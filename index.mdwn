@@ -49,7 +49,7 @@ Realizamos capacitaciones, charlas y conferencias sobre nuevas prácticas de ges
   texto="""
 ### Redes y políticas públicas
 
-Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno a desafíos que exceden a cada organización individual: 1)   reforma de la propiedad intelectual y licencias libres, 2) acceso abierto en instituciones culturales, 3) desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
+Organizamos actividades y encuentros para profesionales de la información, investigadores, activistas y gestores en torno a desafíos que exceden a cada organización individual: 1)   reforma de la propiedad intelectual y licencias libres, 2) acceso abierto en instituciones culturales, 3) desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
  
 
 """
