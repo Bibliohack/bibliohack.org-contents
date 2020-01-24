@@ -5,7 +5,7 @@
   texto="""
 <p>*Bibliohack* es una iniciativa que trabaja en la *transformación digital* de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global y siguiendo los principios del **acceso abierto**, la **tecnología libre** y el **desarrollo colaborativo**. 
 
-Nuestras areas de especializacion son la **digitalizacion de documentos**, los **procesos de catalogación** y la **gestión de acervos digitales**. En estas áreas promovemos la generación **capacidad instalada** al interior de las organizaciones.
+Nos especializamos en **digitalización de documentos**, **procesos de catalogación** y **gestión de acervos digitales**. En estas áreas promovemos la generación **capacidad instalada** al interior de las organizaciones.
 
 Desde nuestro lugar de incidencia trabajamos en la construcción de redes que permitan **generar y liberar recursos** para la comunidad: planos, código, procesos y documentación y a la vez sumar masa crítica para impulsar políticas que favorezcan la preservacion y el acceso al conocimiento, en especial en el ámbito de la **propiedad intelectual**.
 """
