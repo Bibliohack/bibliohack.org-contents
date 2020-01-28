@@ -1,15 +1,16 @@
 [[!tag ]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Blogtemplate"]]
+[[!meta title="Titulo de post"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta author="Bibliohack" ]]
 <!--
-   author="Nombre"
    date="2018-09-13T12:00:00Z"
 -->
 [[!field
   default_img="/img/estativo.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
+  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
+  body_class="post" 
 ]]
 <!-- 
   featured=yes
