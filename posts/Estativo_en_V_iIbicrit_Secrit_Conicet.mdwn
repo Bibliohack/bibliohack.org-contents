@@ -6,6 +6,7 @@
 [[!field
   default_img="/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg"
   default_img_alt="Juan Mendoza, Gabriela Striker, Ileana Campagno, Agustina Miguens, Mercedes Rodríguez Temperley y Leonardo Funes, junto al estativo listo para operar."
+   body_class="post"
 ]]
 <!-- 
   featured=yes
