@@ -13,11 +13,11 @@ El [siguiente artículo](https://www.argentina.gob.ar/noticias/desafios-de-la-pr
 
 ---
 
+<div class="copy-paste" markdown="1">
+
 ## Desafíos de la preservación documental en tiempos de tecnología digital
 
 <big>El encuentro posibilitó el intercambio de experiencias y propuestas en torno a la preservación de objetos museográficos y bibliográficos en soportes digitales.</big>
-
-<div class="copy-paste">
 
 El taller “Tecnologías de digitalización en las instituciones de la memoria” se dictó en el Centro Cultural de la Ciencia (C3) el pasado viernes. La actividad se llevó a cabo en el marco del Sistema Nacional de Documentación Histórica, que depende de la Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva.
 
