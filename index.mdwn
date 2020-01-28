@@ -59,8 +59,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item3_img=https://source.unsplash.com/wfh8dDlNFOk/1920x1080
   item3_txt=" Suspendisse ac ipsum dignissim, varius sapien nec."
 ]]
-</div>[[!template  id=landing_page_section_html.tmpl 
-  titulo="Apoyos y Alianzas" 
+</div>[[!template id=landing_page_section_html.tmpl 
+  titulo="Proyectos" 
   texto="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: planos, código, procesos, documentación."
   html="""
 <div class="col-lg-3 text-center">
