@@ -3,8 +3,11 @@
 [[!meta date="2019-08-09T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
-  default_img_alt=""
+  default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
+  resumen="Lucas Luchilo del Instituto de la Historia de la Argentina y Americana, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
 ]]
+
+### Taller sobre Tecnologías de digitalización
 
 La **Universidad Provincial de Córdoba** invita a participar del taller **Tecnologías de digitalización en las instituciones de la memoria** que realiza con modalidad libre y gratuita el **Archivo Histórico de la Memoria de la provincia de Córdoba**.
 
