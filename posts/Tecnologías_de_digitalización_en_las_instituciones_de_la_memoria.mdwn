@@ -3,13 +3,13 @@
 [[!meta date="2019-06-03T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg"
-  default_img_alt=""
+  default_img_alt="Encuentro sobre digitalización en el Centro Cultural de la Ciencia."
 ]]
 <!-- 
 https://web.archive.org/web/20190903063453/https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital
 -->
 
-El [siguiente artículo](https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital) fue publicado en el sitio [argentina.gob.ar](http://argentina.gob.ar) luego de un encuentro sobre digitalización realizado en el Centro Cultural de la Ciencia.
+Lo siguiente es un *copy/paste* del [artículo](https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital) publicado en el sitio [argentina.gob.ar](http://argentina.gob.ar) luego de un encuentro sobre digitalización realizado en el Centro Cultural de la Ciencia.
 
 <div class="copy-paste" markdown="1">
 
