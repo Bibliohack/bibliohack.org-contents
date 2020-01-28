@@ -103,7 +103,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
   item2_icon="fa-newspaper-o"
   item2_titulo="Noticias"
-  item2_texto="Artículos sobre proyectos, instalación de dispositivos, apariciones en prensa y opinión."
+  item2_texto="Noticias sobre Bibliohack: proyectos, instalación de dispositivos, apariciones en prensa y opinión."
   item3_icon="fa-github"
   item3_titulo="Código"
   item3_texto="Ac ipsum dignissim, varius sapien nec, rhoncus ante.."
