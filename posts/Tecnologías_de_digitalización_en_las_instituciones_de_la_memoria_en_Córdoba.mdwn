@@ -4,7 +4,7 @@
 [[!field
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
   default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
-  summary="Lucas Luchilo del Instituto de la Historia de la Argentina y Americana, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
+  summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
   body_class="post"
 ]]
 
