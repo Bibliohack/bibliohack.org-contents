@@ -98,13 +98,13 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template  id=landing_page_section_bullets.tmpl 
   titulo="Recursos" 
-  item1_icon="fa-info-circle-o"
+  item1_icon="fa-info-circle"
   item1_titulo="Wiki"
   item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
   item2_icon="fa-newspaper-o"
-  item2_titulo="Blog"
-  item2_texto="Aenean commodo ligula eget dolor."
-  item3_icon="fa-github-o"
+  item2_titulo="Noticias"
+  item2_texto="Artículos sobre proyectos, instalación de dispositivos, apariciones en prensa y opinión."
+  item3_icon="fa-github"
   item3_titulo="Código"
   item3_texto="Ac ipsum dignissim, varius sapien nec, rhoncus ante.."
 ]]
