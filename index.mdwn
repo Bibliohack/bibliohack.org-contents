@@ -113,7 +113,10 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]]
 <div id="destacados">[[!template id=landing_page_section_featured.tmpl 
 ]]</div>
-<div id="contacto">
+<section class="bg-light" id="contacto">
+<div class="container">
+<div class="row">
+<div class="col-lg-9 mx-auto text-center">
 <form action="test.pl" method="post" accept-charset="UTF-8" style="padding: 3rem;">
   <div class="form-group">
     <label for="InputEmail1">Email</label>
@@ -131,4 +134,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   <button type="submit" class="btn btn-primary">Enviar</button>
 </form>
 </div>
+</div>
+</div>
+</section>
 <br>
