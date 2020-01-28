@@ -99,14 +99,17 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]][[!template  id=landing_page_section_bullets.tmpl 
   titulo="Recursos" 
   item1_icon="fa-info-circle"
-  item1_titulo="Wiki"
-  item1_texto="Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  item1_link="http://codex.bibliohack.org"
+  item1_titulo="Codex"
+  item1_texto="Nuestro wiki donde volcamos toda la información tecnica y documentación."
   item2_icon="fa-newspaper-o"
+  item2_link="/posts/"
   item2_titulo="Noticias"
   item2_texto="Noticias sobre Bibliohack: proyectos, instalación de dispositivos, apariciones en prensa y opinión."
   item3_icon="fa-github"
+  item3_link="https://github.com/bibliohack"
   item3_titulo="Código"
-  item3_texto="Ac ipsum dignissim, varius sapien nec, rhoncus ante.."
+  item3_texto="Repositorio libre de Bibliohack en github con recursos de software y planos."
 ]]
 <div id="destacados">[[!template id=landing_page_section_featured.tmpl 
 ]]</div>
