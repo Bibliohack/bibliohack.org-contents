@@ -1,16 +1,24 @@
 [[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
 <div>[[!template  
   id=landing_page_section_top.tmpl 
-  titulo="" 
+  titulo="¿Qué es Bibliohack?" 
   texto="""
-*Bibliohack* es una iniciativa que trabaja en la *transformación digital* de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global y siguiendo los principios del **acceso abierto**, la **tecnología libre** y el **desarrollo colaborativo**. 
+*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global y siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
 
-Nos especializamos en **digitalización de documentos** y **proyecto, ejecución y gestión de acervos digitales**. En estas áreas promovemos la generación **capacidad instalada** al interior de las organizaciones.
+Nos especializamos en **digitalización de documentos** y en **desarrollo de proyectos de gestión de acervos digitales**. Nos asociamos a las instituciones para brindar servicios y generar **capacidad instalada** al interior de las organizaciones.
 
-Desde nuestro lugar de incidencia trabajamos en la construcción de redes que permitan **generar y liberar recursos** para la comunidad: planos, código, procesos y documentación; y a la vez sumar masa crítica para definir políticas que favorezcan la preservación y el acceso al conocimiento, impulsando la **reforma de la propiedad intelectual**.
+Desde nuestro lugar de incidencia trabajamos en la construcción de redes que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación; y a la vez sumar masa crítica para definir políticas que favorezcan la preservación y el acceso al conocimiento, impulsando la **reforma de la propiedad intelectual**.
 """
 ]]
 <div class="seccion-ejes" id="ejes">
+<div class="container">
+ <div class="row">
+  <div class="col-lg-9 mx-auto text-center">
+   <h2 class="section-heading text-darkred">¿Qué hacemos?</h2>
+   <hr class="my-4">
+  </div>
+ </div> 
+</div>
 [[!template  id=landing_page_section_slide.tmpl 
   cid=1
   texto_izq=1
@@ -113,19 +121,21 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]]
 <div id="destacados">[[!template id=landing_page_section_featured.tmpl 
 ]]</div>
-<section class="bg-light" id="contacto">
+<section class="bg-light" id="contact">
 <div class="container">
 <div class="row">
 <div class="col-lg-9 mx-auto text-center">
-<form action="test.pl" method="post" accept-charset="UTF-8" style="padding: 3rem;">
+<h2 class="section-heading">Contacto</h2>
+<hr class="my-4">
+<form action="send_mail.pl" method="post" accept-charset="UTF-8" style="padding: 3rem;">
   <div class="form-group">
-    <label for="InputEmail1">Email</label>
-    <input name="email" type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <label for="InputName">Nombre</label>
+    <input name="name" type="text" class="form-control" id="InputName" aria-describedby="nameHelp">
   </div>
   <div class="form-group">
-    <label for="InputSubject">Asunto</label>
-    <input name="subject" type="text" class="form-control" id="InputSubject" aria-describedby="subjectHelp" placeholder="Asunto">
+    <label for="InputEmail1">Email de contacto</label>
+    <input name="email" type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp">
+    <small id="emailHelp" class="form-text text-muted">Nunca compartiremos tu email con nadie.</small>
   </div>
   <div class="form-group">
     <label for="FormControlTextarea1">Mensaje</label>
