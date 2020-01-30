@@ -5,6 +5,7 @@
 [[!field
   default_img="/uploads/posts/Mendoza_Instalación_de_estativo/20180912_151630.jpg"
   default_img_alt="Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza."
+  featured=yes
 ]]
 [[!field unite_gallery="tiles" gallery_1="mendoza_2018"]]
 
