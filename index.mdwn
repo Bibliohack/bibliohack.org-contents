@@ -118,6 +118,5 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item3_link="https://github.com/bibliohack"
   item3_titulo="Código"
   item3_texto="Repositorio libre de Bibliohack en github con recursos de software y planos."
-]]
-<div id="destacados">[[!template id=landing_page_section_featured.tmpl 
-]]</div>[[!template id=landing_page_section_form.tmpl ]]
+]][[!template id=landing_page_section_featured.tmpl 
+]][[!template id=landing_page_section_form.tmpl ]]
