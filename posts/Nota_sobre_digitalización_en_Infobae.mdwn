@@ -10,7 +10,7 @@
 
 <big>Tanscribimos [la nota publicada en Infobae](https://www.infobae.com/cultura/2017/12/31/como-trabajan-los-digitalizadores-que-buscan-empujar-las-bibliotecas-al-siglo-xxi/) el 31 de diciembre de 2017, donde el periodista **Federico Millenaar** difunde algunas experiencias de proyectos de digitalización en instituciones culturales argentinas, entre ellas, el proyecto que Bibliohack lleva adelante junto con el Museo de Arte Moderno de Buenos Aires.</big>
 
----
+<div class="copy-paste" markdown="1">
 
 ## Cómo trabajan los digitalizadores que buscan empujar las bibliotecas al siglo XXI
 
@@ -81,3 +81,5 @@ Otras experiencias a nivel mundial
 – La Digital Public Library of America (Biblioteca Pública Digital de Estados Unidos) fue lanzada oficialmente en abril de 2013. Su principal característica es que se trata de una iniciativa descentralizada que **nuclea 16 millones de items digitalizados aportados por dos mil instituciones** norteamericanas (bibliotecas, archivos, museos, universidades, entre otros). En su [amplio catálogo](https://dp.la/) podemos encontrar, por ejemplo, colecciones de pósteres oficiales de enlistamiento en las fuerzas armadas durante las Guerras Mundiales.
 
 ![Afiches para reclutar tropas (archivo DPLA)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/afiches_guerra.png)
+
+</div>
