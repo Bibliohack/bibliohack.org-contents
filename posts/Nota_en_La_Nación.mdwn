@@ -8,7 +8,7 @@
 
 Luego de una entrevista realizada a Matías Butelman, a periodista de La Nación Cintia Perazo publicó [la siguiente nota](https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871) que compartimos acontinuación:
 
----
+<div class="copy-paste" markdown="1">
 
 ## Digitalizan la biblioteca del Colegio Nacional Buenos Aires con un scanner hecho en el país
 
@@ -41,3 +41,5 @@ Sobre sus principales proyectos a futuro, Butelman cuenta esta solución se encu
 Tanto el equipo como el software son fruto de un desarrollo de producción colaborativo, basado en software y hardware libres. "Adaptamos recursos técnicos existentes que fueron liberados al público por una comunidad global de programadores, bibliotecarios y técnicos, principalmente en <diybookscanner.org>, <chdk.wikia.com> y <drupal.org>, a las necesidades de las bibliotecas, archivos y museos locales Con el apoyo de diversas instituciones pudimos avanzar en el desarrollo de una solución integral y de bajo costo para todo el proceso de digitalización", revela el encargado de preservación digital de la BCNBA.
 
 Según aclara Butelman, este equipo no está aún listo para salir al mercado, sino que se encuentra en un proceso experimental. "Actualmente estamos buscando la posibilidad de incubar el proyecto", concluye.
+
+</div>
