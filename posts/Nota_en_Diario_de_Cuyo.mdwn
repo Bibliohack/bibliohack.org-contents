@@ -9,7 +9,7 @@
 La siguiente nota [salió publicada en Diario de Cuyo](https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html).
 <!-- https://web.archive.org/save/https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html -->
 
----
+<div class="copy-paste" markdown="1">
 
 ## Digitalización de documentos históricos del agua
 
@@ -27,3 +27,5 @@ El componente tecnológico se centra en un scanner especialmente diseñado para 
 Resulta imprescindible, para conservar y recuperar las decenas de archivos deteriorados de la Provincia de San Juan, seguir este ejemplo de digitalización y conservación de documentos históricos, aprovechando de trabajar en red con distintas universidades e instituciones culturales de nuestro País.
 
 Sin olvidar el recurso importantísimo del Reconocimiento Óptico de Caracteres (OCR).
+
+</div>
