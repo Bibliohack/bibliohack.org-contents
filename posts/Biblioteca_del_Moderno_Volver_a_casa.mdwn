@@ -10,7 +10,7 @@
 Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodista Débora Campos [publicó esta nota en Clarín](https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html), donde también se menciona el proyecto de digitalización.
 <!-- https://web.archive.org/save/https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html -->
 
----
+<div class="copy-paste" markdown="1">
 
 ## Una de las mayores bibliotecas de arte quiere volver a casa
 
@@ -37,3 +37,5 @@ Una ilustración con anotaciones manuscritas de Luis Felipe Noé que funcionó c
 –Estamos en un nivel de aceptación de nuestras utopías bastante interesante. La mayor de ellas es la de armar una red que permita acceder tanto a los documentos de los fondos documentales y de las colecciones especiales que se van escaneando como al árbol de clasificación que tiene el museo que, si eso que se busca no está disponible en la red aún, se pueda pedir especialmente. El trabajo de escaneo se logró, justamente, apostando por el trabajo común y la creatividad.
 
 Matías Butelman, líder de la ONG Creative Commons Argentina, junto al diseñador Juan Pablo Suárez, fueron dos nombres clave en el proceso de digitalización. “Les planteamos que necesitábamos escanear documentos pero que no podíamos costear un equipo tradicional que, además, luego necesita mantenimiento y repuestos caros”, recuerda Valeria Semilla. Los jóvenes investigaron ese universo que conocen bien: la red. Encontraron planos de un escáner que construyeron y fueron perfeccionando. Sumaron una cámara, iluminación y un soft gratuito. Inversión total: 30 mil pesos. El primer equipo lo usaron en la biblioteca del Nacional Buenos Aires y desarrollaron el escáner que ahora usa el Moderno.
+
+</div>
