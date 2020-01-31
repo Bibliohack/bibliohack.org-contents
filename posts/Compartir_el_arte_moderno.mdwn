@@ -8,7 +8,7 @@
 
 La periodista Bibiana Ruiz entrevistó a varios de los participantes del proyecto “Documentos de Arte Moderno”. En diciembre de 2017 [salió publicada la nota](https://www.clarin.com/revista-enie/ideas/compartir-arte-moderno_0_ByDEF4xmM.html) en Revista Ñ.
 
----
+<div class="copy-paste" markdown="1">
 
 ## Compartir el arte moderno
 
@@ -31,3 +31,5 @@ En sintonía con este paradigma abierto y colaborativo, Juan Pablo Suárez y Mat
 Con este proyecto se busca promover una red colaborativa porque, como remarcó Valeria Semilla, Coordinadora de Patrimonio del Museo y principal promotora del proyecto, “nos permite pensar más ampliamente en la institución, en nuevas maneras de democratización y expansión del conocimiento”. Se trata de contextualizar la obra “entendiendo que cada pieza, cada objeto de arte que está patrimoniado, clasificado, descripto, tiene que conjugarse con los documentos de los fondos documentales que están en la biblioteca para enriquecerse, generando un acceso más nutrido e inmediato. La idea es que propositivamente generemos herramientas reflexivas para el usuario, no sólo difusión unilineal”.
 
 Desde Gestión de Patrimonio, Helena Raspo agregó que el proyecto “surgió también de una utopía, de poder generar un conocimiento y poder pensar la historia del museo, de cómo se posiciona dentro de los distintos momentos sociales y políticos que le tocó atravesar”. Todo esto sumado a poder leer las piezas de patrimonio en particular: qué influencia tuvieron dentro de la historia de la cultura de Buenos Aires y su alcance. Raspo habló también de poder generar “una responsabilidad respecto de dónde nos paramos como institución pública para dar a conocer los datos históricos que tenemos”. Por esto, desde el museo apelan a compartir la cultura experimental del arte moderno.
+
+</div>
