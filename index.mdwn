@@ -1,4 +1,3 @@
-[[!field domain="buenas" ]]
 [[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
 <div>[[!template  
   id=landing_page_section_top.tmpl 
