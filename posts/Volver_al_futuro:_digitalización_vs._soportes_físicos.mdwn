@@ -10,7 +10,7 @@ https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/vo
 
 Nota publicada por Revista Los InRocKuptibles, en diciembre de 2013. Enlace a [la copia guardada en Internet Archive](https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos).
 
----
+<div class="copy-paste" markdown="1">
 
 ## Volver al futuro: digitalización vs. soportes físicos
 
@@ -45,3 +45,5 @@ El proceso consiste en digitalizar la información contenida en un libro, pelíc
 *“Hay que buscar métodos que nos ofrezcan durabilidad en volúmenes chicos porque no hay espacio de sobra. Tenemos ADN de dinosaurio de hace millones de años y sus moléculas todavía están estables. Entonces, ¿por qué no buscar cosas que se comporten de esa manera?”*, se pregunta el director de la Licenciatura en Bioinformática de la UADE. El doctor Federico Prada es una eminencia en esta nueva disciplina que combina biología, genética y software, y la cabeza de un proyecto de divulgación basado en las mencionadas investigaciones británicas sobre el almacenamiento de datos en archivos biomoleculares. En un experimento del que participaron alumnos recientemente ingresados a la carrera, se logró condensar dentro de una bacteria el Himno Nacional Argentino en formato MIDI.
 
 En este punto, el ser humano está usando lo más natural que existe –las moléculas que lo conforman– para resolver problemáticas vinculadas a su cultura, a la información que produce y a cómo transferir todos esos datos. *“Es muy paradójico. Resulta que el hombre evoluciona y evoluciona hasta crear la Máquina de Dios y satélites que controlan las telecomunicaciones. Entonces, alcanza un punto en que para seguir dando un paso más adelante tiene que retroceder hasta el origen de la vida”*, concluye Prada.
+
+</div>
