@@ -10,7 +10,7 @@ Matías Butelman dió un taller sobre digitalización de libros en Mendoza, en S
 https://web.archive.org/save/http://www.irrigacion.gov.ar/dgi/noticias/experto-en-digitalizaci%C3%B3n-de-libros-antiguos-brind%C3%B3-un-taller-en-irrigaci%C3%B3n
 -->
 
----
+<div class="copy-paste" markdown="1">
 
 ## Experto en digitalización de libros antiguos brindó un taller en Irrigación
 
@@ -23,3 +23,5 @@ Recordemos que en esta semana se firmó un convenio donde Irrigación puso en va
 En el salón Virgen de las Nieves de Sede Central de Irrigación el experto en digitalización de libros antiguos, Matías Butelman, desarrolló un taller que inicia la puesta en valor del archivo histórico del organismo.   
 
 Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un equipo que se está utilizando para la digitalización, que también se implementó en el Centro de Estudios Históricos de la Fuerza Aérea Argentina. También es el responsable de la materialización de un dispositivo de digitalización de bajo costo que utiliza cámaras digital con funcionalidades agregadas y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción.  
+
+</div>
