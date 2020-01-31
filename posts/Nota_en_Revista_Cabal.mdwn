@@ -9,7 +9,7 @@
 En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A continuación transcribimos el texto completo de la [nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), publicada en diciembre de 2016.
 <!-- https://web.archive.org/save/http://www.revistacabal.coop/actualidad/made-argentina-->
 
----
+<div class="copy-paste" markdown="1">
 
 ## Made in Argentina
 
@@ -42,3 +42,5 @@ Esta posibilidad resume de alguna manera las dos aristas del proyecto: que sea u
 ### Acceso sin restricciones
 
 De cómo el proyecto de un escáner puede derivar en una serie de debates acerca de la memoria, la preservación y hasta la necesidad de reformar las leyes de propiedad intelectual solo pueden dar cuenta dos jóvenes animados por convicciones muy profundas. Las conclusiones de ambos son más bien políticas. Para Suárez, "si la función de las bibliotecas es dar acceso gratuito a los libros, ese acceso también tendría que poder darse por otros medios. La utilidad comercial de los libros generalmente no supera los cinco años y sin embargo por las leyes de copyright los derechos duran un promedio de 100, por lo que las obras están como en un limbo en el que no existe un interés comercial pero las bibliotecas tampoco las pueden poner en línea". Butelman advierte que lo que está en juego son los niveles de restricción de los nuevos modelos que administran las relaciones entre productores y consumidores de cultura. "Me motiva poder enriquecer y hacer más robusto el dominio público, una gran biblioteca universal. Creo que hay algo de las formas de interacción actuales que siempre está a punto de perderse porque algún interés preferiría poder cobrarte o restringirte ese acceso para obtener un lucro. Si logramos empezar a generar colecciones digitales en las diferentes organizaciones va a estar mucho más presente para el común de la población que eso es suyo, que lo puede consultar y que cualquier movimiento para restringirlo atenta contra sus propios derechos", cierra.
+
+</div>
