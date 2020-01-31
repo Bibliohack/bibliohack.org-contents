@@ -1,4 +1,7 @@
-[[!meta title="pages tagged prensa"]]
-
-[[!inline pages="tagged(prensa)" actions="no" archive="yes"
-feedshow=10]]
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: prensa"]]
+<div class="row">
+[[!inline pages="tagged(prensa)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(prensa)" feedonly=yes feedshow=20]]
