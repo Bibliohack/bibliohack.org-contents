@@ -10,7 +10,7 @@
 Lo que sigue es un *copy/paste* del [artículo publicado en Revista Ñ](https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html)
 <!-- https://web.archive.org/web/20190903024616/https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html -->
 
----
+<div class="copy-paste" markdown="1">
 
 ## La memoria indocumentada
 
@@ -29,3 +29,5 @@ Por otra parte, la creación del Archivo IIAC (Archivo Instituto de Investigaci�
 Imposible de competir con presupuestos internacionales necesarios para la edificación de importantes archivos, el escáner no hace en principio preservación ni conservación. Pero potencia el acceso, sembrando también una semilla para esta nueva etapa.
 
 *J. Mendoza es investigador de Conicet y autor de Los Archivos_ papeles para la nación (2019).*
+
+</div>
