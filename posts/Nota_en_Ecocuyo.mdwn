@@ -12,7 +12,7 @@
 La siguiente nota [fue publicada](https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/) en Ecocuyo, en septiembre de 2018.
 <!-- https://web.archive.org/web/20190902225238/https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/ -->
 
----
+<div class="copy-paste" markdown="1">
 
 ## Irrigación incorpora tecnología de avanzada para digitalizar documentos históricos
 
@@ -39,3 +39,5 @@ El scanner es un dispositivo de bajo costo adaptado a las condiciones locales y 
 La idea es que el público e investigadores de la provincia puedan acceder a documentos digitales una vez formado e inaugurado el archivo. Inclusive, investigadores del mundo participarán de este proyecto especial de digitalización como Mark Healy del Departamento de Historia de la ECONN, (University of Conneticut).
 
 Por otra parte, titulares de diversos organismos de preservación y archivamiento de nuestra provincia tuvieron la oportunidad, en el día de ayer, de observar las funciones que posee el scanner a través de una capacitación que brindaron expertos de Bibliohack en la Biblioteca de Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San Martín, Marta Babillón; el encargado del Centro de Documentación Histórica de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la Provincia, Alicia Guevara; se interiorizaron de los alcances de este laboratorio.
+
+</div>
