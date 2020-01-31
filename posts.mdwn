@@ -1,7 +1,4 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!field
-  domain="hola"
-]]
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
 <!--- inicio conenido -->
 <div class="row">
