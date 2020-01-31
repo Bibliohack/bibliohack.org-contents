@@ -3,6 +3,7 @@
 [[!meta title="Noticias sobre Bibliohack" ]]
 [[!field 
    summary="Noticias y novedades sobre Bibliohack, digitalización, patrimonio, Acceso Abierto y OpenGLAM"
+   postlist_home=yes
 ]]
 <!--- inicio conenido -->
 <div class="row">
