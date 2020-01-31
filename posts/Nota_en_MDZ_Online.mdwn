@@ -10,7 +10,7 @@ https://web.archive.org/web/20180914120024/https://www.mdzol.com/culturaciencia/
 
 La siguiente nota [salió publicada en MDZ Online](https://web.archive.org/web/20180914120024/http://www.mdzol.com/culturaciencia/Irrigacion-digitalizara-su-archivo-historico-20180913-0154.html).
 
----
+<div class="copy-paste" markdown="1">
 
 ## Irrigación digitalizará su archivo histórico
 
@@ -35,3 +35,5 @@ Facundo Martín, investigador de Conicet  aseguró, "estamos haciendo una asiste
 La idea es que el público e investigadores de la provincia puedan acceder a documentos digitales una vez formado e inaugurado el archivo. Inclusive, investigadores del mundo participarán de este proyecto especial de digitalización como Mark Healy del Departamento de Historia de la  ECONN, (University of Conneticut).
 
 Por otra parte, titulares de diversos organismos de preservación y archivamiento de nuestra provincia tuvieron la oportunidad, en el día  de ayer, de observar las funciones que posee el scanner a través de una capacitación que brindaron expertos de Bibliohack en la Biblioteca de Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San Martín, Marta Babillón; el encargado del Centro de Documentación Histórica de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la Provincia, Alicia Guevara;  se interiorizaron de los alcances de este laboratorio.
+
+</div>
