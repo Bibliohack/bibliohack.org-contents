@@ -1,7 +1,6 @@
 [[!tag eventos talleres ]] 
 [[!meta title="Tecnologías de digitalización en las instituciones de la memoria en Córdoba"]]
 [[!meta date="2019-08-09T12:00:00Z"]]
-[[!field domain="qwerty" ]]
 [[!field
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
   default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
