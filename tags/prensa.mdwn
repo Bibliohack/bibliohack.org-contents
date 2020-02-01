@@ -1,5 +1,6 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Etiqueta: prensa"]]
+[[!field summary="Apariciones y menciones en medios"]]
 <div class="row">
 [[!inline pages="tagged(prensa)" show="20" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
