@@ -104,7 +104,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 </div>
 
 <div class="col-lg-3 text-center">
-<img src="/img/apoyos/idelcoop.png" title="Instituto de la Cooperación"/>
+<img src="/img/apoyos/idelcoop2.png" title="Instituto de la Cooperación"/>
 </div>
 """
 
