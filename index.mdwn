@@ -61,15 +61,15 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 """
   item1_img="/img/politicas/politicas.jpg"
-  item1_txt="Colaboramos en la realización del Encuentro sobre Patrimonio Cultural, Propiedad Intelectual y Acceso a la Cultura, realizado en el Malba"
-  item2_img="/img/politicas/excepciones.jpg"
-  item2_txt="Evento de debate sobre Limitaciones y Excepciones y enriquecimiento del dominio público"
-  item3_img="/img/politicas/openglam.jpg"
-  item3_txt="Coorganizamos el Primer Encuentro OpenGLAM Argentina en el Museo de Arte Moderno de Buenos Aires, donde asistieron más de 100 participantes"
-  item4_img="/img/politicas/utdt-matias.jpg"
-  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' realizadas en la Universidad Torcuato Di Tella"
+  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el Malba"
+  item2_img="/img/politicas/openglam.jpg"
+  item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos)"
+  item3_img="/img/politicas/utdt-matias.jpg"
+  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella"
+  item4_img="/img/politicas/excepciones.jpg"
+  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público"
   item5_img="/img/politicas/matias-mamba.jpg"
-  item5_txt="Matias en un encuentro sobre digitalizacion y archivos digitales organizado junto al Museo de Arte Moderno de B.A."
+  item5_txt="Matias en un encuentro sobre digitalizacion y archivos digitales organizado junto al MAMBA"
 ]]
 </div>[[!template id=landing_page_section_html.tmpl 
   titulo="Proyectos" 
