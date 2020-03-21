@@ -1,6 +1,5 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
-[[!meta title="posts" ]]
 [[!field 
    summary="Noticias y novedades sobre Bibliohack, digitalización, patrimonio, Acceso Abierto y OpenGLAM"
    postlist_home=yes
