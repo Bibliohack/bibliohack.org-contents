@@ -68,7 +68,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item4_img="/img/politicas/excepciones.jpg"
   item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
   item5_img="/img/politicas/matias-mamba.jpg"
-  item5_txt="Matias en un encuentro sobre digitalizacion y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
+  item5_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
 ]]
 </div>[[!template id=landing_page_section_html.tmpl 
   titulo="Proyectos" 
