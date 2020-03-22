@@ -3,11 +3,11 @@
   id=landing_page_section_top.tmpl 
   titulo="¿Qué es Bibliohack?" 
   texto="""
-*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global y siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
+*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
 
-Nos especializamos en **digitalización de documentos** y en **desarrollo de proyectos de gestión de acervos digitales**. Nos asociamos a las instituciones para brindar servicios y generar **capacidad instalada** al interior de las organizaciones.
+Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios informáticos a las organizaciones, en las que buscamos generar **capacidad instalada**.
 
-Desde nuestro lugar de incidencia trabajamos en la construcción de redes que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación; y a la vez sumar masa crítica para definir políticas que favorezcan la preservación y el acceso al conocimiento, impulsando la **reforma de la propiedad intelectual**.
+Desde nuestro lugar de incidencia impulsamos la construcción de redes que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación; y a la vez sumar masa crítica para definir políticas que favorezcan la preservación y el acceso al conocimiento, impulsando la **reforma de la propiedad intelectual**.
 """
 ]]
 <div class="seccion-ejes" id="ejes">
@@ -23,9 +23,9 @@ Desde nuestro lugar de incidencia trabajamos en la construcción de redes que pe
   cid=1
   texto_izq=1
   texto="""
-### DIY Book Scanners y Tecnologías libres
+### DIY Scanners y Tecnologías libres
 
-Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de archivos digitales y publicación en línea (Collective Access y Drupal).
+Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de procesos, colecciones digitales y publicación en línea (Collective Access, Omeka, Drupal).
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
@@ -40,36 +40,35 @@ Diseñamos y construímos dispositivos de digitalización de especificaciones ab
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=2
   texto="""
-### Capacitación y consultoría
+### Capacitación y consultorías
 
 Ofrecemos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
 """
   item1_img="/img/capacitacion/capac_filo.jpg"
-  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA"
+  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
   item2_img="/img/capacitacion/capacitacion.jpg"
-  item3_txt="Capacitacion durante la instalación de un estativo en Mendoza"
+  item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
   item3_img="/img/capacitacion/clinicas.jpg"
-  item3_txt="Aenean eu nisi eget ante suscipit porttitor"
+  item3_txt="Clínica de Tecnología y Patrimonio en el Museo de Arte Moderno de Buenos Aires (2018)"
 ]][[!template  id=landing_page_section_slide.tmpl 
   cid=3
   texto_izq=1
   texto="""
-### Redes y políticas públicas
+### Actividades y eventos
 
-Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno a desafíos que exceden a cada organización individual: 1)   reforma de la propiedad intelectual y licencias libres, 2) acceso abierto en instituciones culturales, 3) desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
- 
+Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno reforma de la propiedad intelectual y licencias libres, acceso abierto en instituciones culturales, desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
 
 """
   item1_img="/img/politicas/politicas.jpg"
-  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el Malba"
+  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el MALBA (Argentina, 2018)"
   item2_img="/img/politicas/openglam.jpg"
-  item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos)"
+  item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
   item3_img="/img/politicas/utdt-matias.jpg"
-  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella"
+  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella (Argentina, 2019)"
   item4_img="/img/politicas/excepciones.jpg"
-  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público"
+  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
   item5_img="/img/politicas/matias-mamba.jpg"
-  item5_txt="Matias en un encuentro sobre digitalizacion y archivos digitales organizado junto al MAMBA"
+  item5_txt="Matias en un encuentro sobre digitalizacion y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
 ]]
 </div>[[!template id=landing_page_section_html.tmpl 
   titulo="Proyectos" 
