@@ -1,6 +1,5 @@
 [[!tag activismo eventos ]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta author="Bibliohack" ]]
 [[!meta date="2019-09-26T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Abrir_Colecciones_en_Latinoamerica/20190924_173311_rz.jpg"
