@@ -3,7 +3,7 @@
 [[!meta author="Bibliohack" ]]
 [[!meta date="2019-09-26T12:00:00Z"]]
 [[!field
-  default_img="/uploads/posts/Abrir_Colecciones_en_Latinoamérica/20190924_173311_rz.jpg"
+  default_img="/uploads/posts/Abrir_Colecciones_en_Latinoamerica/20190924_173311_rz.jpg"
   default_img_alt="María José Afanador Llach exponiendo durante el conversatorio 'Abrir colecciones en América Latina'"
   summary="La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron este conversatorio con disertantes de Chile, Colombia y Argentina"
   body_class="post" 
