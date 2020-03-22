@@ -1,4 +1,7 @@
-[[!meta title="pages tagged formación"]]
-
-[[!inline pages="tagged(formación)" actions="no" archive="yes"
-feedshow=10]]
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: formación"]]
+<div class="row">
+[[!inline pages="tagged(formación)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(formación)" feedonly=yes feedshow=10]]

@@ -1,4 +1,7 @@
-[[!meta title="pages tagged eventos"]]
-
-[[!inline pages="tagged(eventos)" actions="no" archive="yes"
-feedshow=10]]
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: eventos"]]
+<div class="row">
+[[!inline pages="tagged(eventos)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(eventos)" feedonly=yes feedshow=10]]

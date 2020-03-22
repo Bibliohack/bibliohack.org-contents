@@ -1,4 +1,7 @@
-[[!meta title="pages tagged activismo"]]
-
-[[!inline pages="tagged(activismo)" actions="no" archive="yes"
-feedshow=10]]
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: activismo"]]
+<div class="row">
+[[!inline pages="tagged(activismo)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(activismo)" feedonly=yes feedshow=10]]

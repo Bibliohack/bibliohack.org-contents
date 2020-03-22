@@ -1,0 +1,35 @@
+[[!tag activismo eventos ]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta author="Bibliohack" ]]
+[[!meta date="2019-09-26T12:00:00Z"]]
+[[!field
+  default_img="/uploads/posts/Abrir_Colecciones_en_Latinoamérica/20190924_173311_rz.jpg"
+  default_img_alt="María José Afanador Llach exponiendo durante el conversatorio 'Abrir colecciones en América Latina'"
+  summary="La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron este conversatorio con disertantes de Chile, Colombia y Argentina"
+  body_class="post" 
+  featured=yes
+]]
+<!-- 
+
+  short_title="Titulo para teasers"
+  default_video="/ruta/video"
+  default_video_alt="texto"
+  default_video_poster="/ruta/a/imagen.jpg"
+-->
+
+El 24 de septiembre de 2019 se realizó en La Universidad de los Andes en Bogotá el conversatorio **"Abrir colecciones en Latinoamérica Diálogos regionales sobre bibliotecas, archivos, museos y tecnología digital"**, donde se compartieron experiencias sobre las estrategias de diferentes instituciones para brindar acceso e incentivar la apropiación de contenidos digitales por parte de la ciudadanía.
+
+Hoy en día museos, archivos y bibliotecas en todo el mundo se enfrentan al reto de su transformación digital: ofrecer la información de sus colecciones y fondos a través de Internet a públicos cada vez más amplios, digitalizar y preservar formatos cada vez más distintos, agregar y refinar metadatos de muchísimas fuentes de información, enriquecer registros y conectarlos de formas antes insospechadas.
+
+Todas estas tareas engrosan la nueva dimensión digital de la misión de estas instituciones, que deben adquirir o desarrollar nuevas tecnologías, desplegar nuevas habilidades o incorporar otros perfiles a sus equipos de trabajo. Pero si la misión exige a bibliotecas archivos y museos comprometerse con este futuro digital, nuestro continente les plantea obstáculos muy particulares. Déficits económicos, tecnológicos, profesionales y legales de larga data actúan como barreras en todos los pasos de este proceso de apertura.
+
+¿Hay un modo latinoamericano –o varios– de superar esos obstáculos? A través de las diferentes presentaciones conocimos las experiencias de algunas instituciones referentes,  tanto públicas como privadas, como el Banco de Archivos Digitales de Artes en Colombia (BADAC), banrepcultural.org (el Portal Cultural del Banco de la República), la Biblioteca Digital de Bogotá – BibloRed, el Museo de Arte Moderno de Buenos Aires, o Memoria Chilena entre otros.
+
+Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Universidad de los Andes), María Camila Amado (Secretaría de Cultura, Recreación y Deporte de Bogotá) Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed) Matías Butelman ( Bibliohack / Museo de Arte Moderno de Buenos Aires), Camilo Martínez (Banco de Archivos Digitales de Artes en Colombia), Irene Tobón (banrepcultural.org, Banco de la República) y por videoconferencía
+Daniela Schütte (Memoria Chilena, Biblioteca Nacional Digital) 
+
+
+
+Enlaces: [bibliored](https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica), [uniandes](https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/)
+
+<!-- https://web.archive.org/web/20200323094456/https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica https://web.archive.org/web/20200323094557/https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/ -->
