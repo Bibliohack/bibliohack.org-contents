@@ -43,3 +43,4 @@ Tanto el equipo como el software son fruto de un desarrollo de producción colab
 Según aclara Butelman, este equipo no está aún listo para salir al mercado, sino que se encuentra en un proceso experimental. "Actualmente estamos buscando la posibilidad de incubar el proyecto", concluye.
 
 </div>
+<!-- https://web.archive.org/save/https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871 -->
