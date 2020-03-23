@@ -5,6 +5,7 @@
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
   default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
   summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
+  teaserline="Participación en evento en la ciudad de Córdoba"
   body_class="post"
 ]]
 
