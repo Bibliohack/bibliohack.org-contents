@@ -2,6 +2,10 @@
 [[!meta 
    title="Título del post" 
 ]]
+[[!field
+   default_img="/uploads/posts/buevo_test_del_blogui/IMG_6370.jpg"
+   default_img_alt="apigrafe de la imagen"
+]]
 
 [[!osm map="mapita" zoom=11 ]]
 [[!waypoint map="mapita" lat="45°30N" lon="73°40W" zoom=11 name="cosito"]]
