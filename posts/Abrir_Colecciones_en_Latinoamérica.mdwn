@@ -7,8 +7,9 @@
   summary="La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron a un conversatorio sobre apertura de colecciones en América Latina con disertantes de Chile, Colombia y Argentina"
   body_class="post" 
   featured=yes
-  unite_gallery="tiles" gallery_1="abrir_colecciones"
 ]]
+[[!field unite_gallery="tiles" gallery_1="abrir_colecciones"]]
+
 <!-- 
   short_title="Titulo para teasers"
   default_video="/ruta/video"
