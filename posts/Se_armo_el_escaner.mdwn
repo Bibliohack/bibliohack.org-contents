@@ -8,7 +8,10 @@
   summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de la OpenCon Latam"
   body_class="post" 
   featured=yes
+  unite_gallery="tiles" gallery_1="se_armo"
 ]]
+
+
 <!-- 
 
   short_title="Titulo para teasers"
@@ -20,6 +23,68 @@
 ### Subtitulo
 
 Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+### Galería de imágenes
+
+<div id="se_armo" style="display:none;">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_103158.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_103158.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_103227.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_103227.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_103315.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_103315.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_103412.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_103412.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_103422.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_103422.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_105341.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_105341.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_113805.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_113805.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_115023.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_115023.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_115033.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_115033.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_131027.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_131027.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_132725.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_132725.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_133939.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_133939.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_155522.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_155522.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_162714.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_162714.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_183139.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_183139.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_183205.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_183205.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/20190928_190647.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/20190928_190647.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/2019b928_133027.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/2019b928_133027.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/IMG_20190928_134256_725.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/IMG_20190928_134256_725.jpg"
+   data-description="">
+</div>
 
 ### Flyer del evento
 
