@@ -28,20 +28,20 @@ Todas estas tareas engrosan la nueva dimensión digital de la misión de estas i
 Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Universidad de los Andes), María Camila Amado (Secretaría de Cultura, Recreación y Deporte de Bogotá) Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed) Matías Butelman ( Bibliohack / Museo de Arte Moderno de Buenos Aires), Camilo Martínez (Banco de Archivos Digitales de Artes en Colombia), Irene Tobón (banrepcultural.org, Banco de la República) y por videoconferencía Daniela Schütte (Memoria Chilena, Biblioteca Nacional Digital) 
 
 <div id="abrir_colecciones" style="display:none;">
-<img alt="" src="/abrir_colecciones/300px/20190924_151130.jpg"
-   data-image="/abrir_colecciones/1280px/20190924_151130.jpg"
+<img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_151130.jpg"
+   data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_151130.jpg"
    data-description="">
-<img alt="" src="/abrir_colecciones/300px/20190924_151328.jpg"
-   data-image="/abrir_colecciones/1280px/20190924_151328.jpg"
+<img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_151328.jpg"
+   data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_151328.jpg"
    data-description="">
-<img alt="" src="/abrir_colecciones/300px/20190924_152729.jpg"
-   data-image="/abrir_colecciones/1280px/20190924_152729.jpg"
+<img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_152729.jpg"
+   data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_152729.jpg"
    data-description="">
-<img alt="" src="/abrir_colecciones/300px/20190924_170554.jpg"
-   data-image="/abrir_colecciones/1280px/20190924_170554.jpg"
+<img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_170554.jpg"
+   data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_170554.jpg"
    data-description="">
-<img alt="" src="/abrir_colecciones/300px/20190924_173311.jpg"
-   data-image="/abrir_colecciones/1280px/20190924_173311.jpg"
+<img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_173311.jpg"
+   data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_173311.jpg"
    data-description="">
 </div>
 
