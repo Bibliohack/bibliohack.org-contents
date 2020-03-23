@@ -1,0 +1,23 @@
+[[!tag activismo eventos formación ]] 
+<!-- prensa proyectos activismo eventos formación -->
+[[!meta title="Se armó el escáner"]]
+[[!meta date="2019-09-29T12:00:00Z" ]]
+[[!field
+  default_img="/uploads/posts/Se_armo_el_escaner/20190928_115033.jpg"
+  default_img_alt="Construcción colectiva de un escáner cenital de bibliohack en Bogotá"
+  summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de la OpenCon Latam"
+  body_class="post" 
+]]
+<!-- 
+  featured=yes
+  short_title="Titulo para teasers"
+  default_video="/ruta/video"
+  default_video_alt="texto"
+  default_video_poster="/ruta/a/imagen.jpg"
+-->
+
+### Subtitulo
+
+Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+
+
