@@ -1,11 +1,6 @@
 [[!tag prensa proyectos activismo eventos formación]]
 [[!meta 
    title="Título del post" 
-   author="Equipo"
-   license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-[[!field 
-  featured=no
-  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
 ]]
 
 [[!osm map="mapita" zoom=11 ]]
