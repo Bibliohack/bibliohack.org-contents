@@ -4,6 +4,7 @@
   featured=yes
   default_img="/uploads/posts/Nota_en_La_Nación/2280990h965.jpg"
   default_img_alt="El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX."
+  teaserline="Digitalizan la biblioteca del Colegio Nacional Buenos Aires con un scanner hecho en el país"
 ]]
 
 Luego de una entrevista realizada a Matías Butelman, a periodista de La Nación Cintia Perazo publicó [la siguiente nota](https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871) que compartimos acontinuación:
