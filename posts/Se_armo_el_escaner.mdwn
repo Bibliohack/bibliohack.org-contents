@@ -7,9 +7,10 @@
   default_img_alt="Construcción colectiva de un escáner cenital de bibliohack en Bogotá"
   summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de la OpenCon Latam"
   body_class="post" 
+  featured=yes
 ]]
 <!-- 
-  featured=yes
+
   short_title="Titulo para teasers"
   default_video="/ruta/video"
   default_video_alt="texto"
