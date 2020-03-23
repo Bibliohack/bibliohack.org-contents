@@ -13,6 +13,10 @@
 [[!osm map="mapita" zoom=11 ]]
 [[!waypoint map="mapita" lat="45°30N" lon="73°40W" zoom=11 name="cosito"]]
 [[!waypoint map="mapita" lat="45°50N" lon="73°20W" zoom=11 name="otro"]]
+
+![texto alternativo](/uploads/posts/buevo_test_del_blogui/IMG_6370.jpg_small.jpg)
+![texto alternativo](/uploads/posts/buevo_test_del_blogui/IMG_6370.jpg_default.jpg)
+
 > En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
 
 Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
