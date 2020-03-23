@@ -7,6 +7,7 @@
   summary="La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron a un conversatorio sobre apertura de colecciones en América Latina con disertantes de Chile, Colombia y Argentina"
   body_class="post" 
   featured=yes
+  unite_gallery="tiles" gallery_1="abrir_colecciones"
 ]]
 <!-- 
   short_title="Titulo para teasers"
@@ -25,7 +26,7 @@ Todas estas tareas engrosan la nueva dimensión digital de la misión de estas i
 
 Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Universidad de los Andes), María Camila Amado (Secretaría de Cultura, Recreación y Deporte de Bogotá) Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed) Matías Butelman ( Bibliohack / Museo de Arte Moderno de Buenos Aires), Camilo Martínez (Banco de Archivos Digitales de Artes en Colombia), Irene Tobón (banrepcultural.org, Banco de la República) y por videoconferencía Daniela Schütte (Memoria Chilena, Biblioteca Nacional Digital) 
 
-<div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
+<div id="abrir_colecciones" style="display:none;">
 <img alt="" src="/abrir_colecciones/300px/20190924_151130.jpg"
    data-image="/abrir_colecciones/1280px/20190924_151130.jpg"
    data-description="">
