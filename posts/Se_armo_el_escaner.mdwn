@@ -84,11 +84,10 @@ Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Se
 <img alt="" src="/uploads/galleries/se_armo/300px/IMG_20190928_134256_725.jpg"
    data-image="/uploads/galleries/se_armo/1280px/IMG_20190928_134256_725.jpg"
    data-description="">
+<img alt="" src="/uploads/galleries/se_armo/300px/flyer_se_armo.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/flyer_se_armo.jpg"
+   data-description="">
 </div>
-
-### Flyer del evento
-
-![](/uploads/posts/Se_armo_el_escaner/flyer_se_armo.png)
 
 
 
