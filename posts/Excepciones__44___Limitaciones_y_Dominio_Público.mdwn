@@ -1,0 +1,46 @@
+[[!tag activismo eventos]] 
+<!-- prensa proyectos activismo eventos formación -->
+<!-- 
+!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+!meta author="Bibliohack"
+!meta date="2018-09-13T12:00:00Z"
+-->
+[[!meta date="2019-07-05T12:00:00Z"]]
+[[!field
+  body_class="post" 
+]]
+<!-- 
+  default_img="/img/estativo.jpg"
+  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
+
+  summary="Resumen que aparece abajo del titulo en el post"
+  short_title="Variante alternativa de titulo para teasers"
+  teaserline="Texto copete debajo del titulo solo en teasers"
+  featured=yes   // aparece en portada?
+
+  default_video="/ruta/video"
+  default_video_alt="texto que aparece como epigrafe"
+  default_video_poster="/ruta/a/imagen_poster.jpg"
+-->
+
+Más de 50 participantes concurrieron al Polo Tecnológico a debatir sobre excepciones y limitaciones al derecho de autor, convocados por la Secretaría de Ciencia, Tecnología e Innovación Productiva, y Creative Commons Argentina. **Valentina Delich** y **Maximiliano Marzetti**, moderados por **Paula Nahirñak** y **Matías Butelman**, ofrecieron un panorama de las tensiones entre la legislación en propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios.
+
+A continuación copiamos la reseña publicada por [Creative Commons Argentina](https://es-la.facebook.com/creativecommonsar/posts/2417777658268455) y algunas fotos del encuentro.
+
+<div class="copy-paste" markdown="1">
+
+El viernes pasado, 28 de junio de 2019, decenas de bibliotecarios, archivistas, museólogos, abogados e investigadores nos encontramos en el Polo Cientìfico-Tecnológico a discutir sobre “Propiedad intelectual en bibliotecas, archivos, museos y repositorios digitales de acceso abierto: excepciones, limitaciones y domino público”.
+
+El evento fue organizado por el Sistema Nacional de Documentación Histórica y el Programa de Datos Abiertos en Ciencia y Tecnología, pertenecientes a la Secretaría de Articulación Científico Tecnológica, Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva, y por Creative Commons Argentina.
+
+Este encuentro fue el más reciente de una serie de eventos (el primero el año pasado en el MALBA, el segundo hace unos meses en la UTDT) en la que venimos discutiendo, junto a diferentes agentes del ecosistema del arte, la cultura y el conocimiento, cómo el régimen de propiedad intelectual de la Argentina afecta el trabajo de instituciones culturales, educativas, y de investigación.
+
+En esta ocasión, acompañados por Valentina Delich (FLACSO Argentina), Maximiliano Marzetti, (IÉSEG School Of Management – Business School. Paris, Francia) y Paula Nahirñak (Subsecretaría de Coordinación Institucional, Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva de la Nación) revisamos nuevamente la tensión entre derechos de autor y derechos culturales, analizamos las “capturas regulatorias” que muchas veces bloquean reformas en la legislación de PI y, claro, nos enfocamos en la ya ineludible ausencia de excepciones de cualquier tipo para museos, archivos y bibliotecas en nuestro país, peculiaridad que se suma a la del ya idiosincràtico “dominio público pagante”. La presentación de Maximiliano [puede consultarse aquí] <!-- https://drive.google.com/file/d/0B4yX-Ai1JbVuLXFPNEkxMUh4cHFXZEE5Ui1NdS01bXBkdFRB/view -->
+
+Esta reunión es el corolario de un esfuerzo de varios años y de diversos grupos para reactivar el debate sobre el derecho de autor en nuestro país, en una época en la que reformas europeas, tratados de libre comercio, y conflictos entre grandes medios tradicionales y gigantes de internet amenazan con introducir nuevas restricciones que dificulten la circulación del conocimiento y la cultura, y en particular la misión de bibliotecas, archivos, y museos.
+
+Por esta misma razón durante el encuentro se presentó un proyecto de declaración sobre la imperante necesidad de excepciones y limitaciones para bibliotecas, archivos y museos de Argentina. Invitamos a que lo revisen, lo modifiquen con sus aportes e ideas y a que, si sienten que acuerdan con los principios allí expresados, no dejen de adherir desde sus organizaciones y [compartirlo entre sus colegas](https://docs.google.com/document/d/1s5sSP7pQOrMj4ONLbynbgAfGwrchZRYD1Iv_7-IIbJw/edit?ts=5d1661e0)
+
+Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Propiedad Intelectual) se estuvieron discutiendo exactamente estos temas. Hacer visible nuestra posición y nuestro reclamo, para las autoridades argentinas y para los colegas de otros países de la región, es uno de los modos más inmediatos que tenemos para aportar a esta discusión.
+
+</div>
