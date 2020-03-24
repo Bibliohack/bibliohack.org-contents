@@ -2,7 +2,7 @@
 [[!meta date="2019-07-05T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg"
-  default_img_alt="En el Polo Tecnológico"
+  default_img_alt="Convocatoria realizada en el Polo Tecnológico, Ciudad de Buenos Aires"
   body_class="post"
   summary="Propiedad intelectual y tensiones con bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
   teaserline="Limitaciones y excepciones para bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
