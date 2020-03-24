@@ -31,7 +31,7 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
 ### Galería de imágenes:
 
 
-<div id="abrir_colecciones" style="display:none;">
+<div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
 <img alt="" src="/uploads/galleries/abrir_colecciones/300px/20190924_151130.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/20190924_151130.jpg"
    data-description="">
