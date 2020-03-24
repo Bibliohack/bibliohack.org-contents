@@ -1,0 +1,29 @@
+[[!tag proyectos formación]] 
+<!-- prensa proyectos activismo eventos formación -->
+<!-- 
+!meta title="Titulo de post"
+!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+!meta author="Bibliohack"
+!meta date="2018-09-13T12:00:00Z"
+-->
+[[!field
+  body_class="post" 
+]]
+<!-- 
+  default_img="/img/estativo.jpg"
+  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
+
+  summary="Resumen que aparece abajo del titulo en el post"
+  short_title="Variante alternativa de titulo para teasers"
+  teaserline="Texto copete debajo del titulo solo en teasers"
+  featured=yes   // aparece en portada?
+
+  default_video="/ruta/video"
+  default_video_alt="texto que aparece como epigrafe"
+  default_video_poster="/ruta/a/imagen_poster.jpg"
+-->
+
+Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
+
+### Galería de Imágenes
+
