@@ -22,7 +22,21 @@
   default_video_poster="/ruta/a/imagen_poster.jpg"
 -->
 
-El Viernes 29 y Sábado 30 de marzo se llevaron a cabo en Universidad Torcuato Di Tella las Jornadas Accesos sobre patrimonio cultural, práctica artística y propiedad intelectual. Organizaron el Museo de Arte Moderno de Buenos Aires, ARTE Di Tella y Escuela de Derecho de la UTDT.
+A fines de marzo, por iniciativa del Museo de Arte Moderno de Buenos Aires, ARTE Di Tella y la Escuela de Derecho de UTDT, nos reunimos en la Universidad Torcuato Di Tella artistas, abogados, funcionarios, gestores de colecciones, críticos, coleccionistas, galeristas y otros interesados y agentes del ecosistema del arte para abordar un tema desde todas estas perspectivas: **el derecho de autor y las tensiones generadas con los usos de las obras por parte de los museos, coleccionistas, público y los propios artistas**.
+
+A lo largo de dos días se plantearon todo tipo de cuestiones, una más interesante que la otra: derechos de autor y derechos culturales, enfoques filosóficos en la ley de propiedad intelectual argentina, el museo ante las obras colaborativas y efímeras, el museo y el dominio público, el museo como medio de comunicación, mecánica del dominio público pagante, historia de la fotografía argentina y la situación de sus derechos de autor, la originalidad y las figuras de la inspiración, la cita, la copia y el plagio en la historia de la cultura, el concepto de shanzai en oriente y occidente, desafíos de la gestión de colecciones ante la curaduría como obra de arte y el artista como curador, el legado de artista o cómo prepararse para la muerte, el futuro del coleccionismo.
+
+Este programa intenso y variopinto fue el resultado de ampliar el diálogo que comenzó [hace un año en el auditorio del MALBA](#). En ese entonces museos y abogados empezamos a conversar en torno a la ausencia de **excepciones** para museos, bibliotecas, archivos, e instituciones científicas y educativas en nuestra ley de propiedad intelectual.
+
+En esta segunda parte, la idea fue ampliar el diálogo a más actores y organizaciones con algo para aportar a esta conversación. De esta forma fue posible apreciar no solo las posiciones encontradas, sino y más especialmente los puntos de acuerdo sobre los que poder hacer avanzar de un modo constructivo esta discusión y otras discusiones relevantes a la legislación cultural de nuestro país.
+
+Gracias a todos quienes vinieron a escuchar y a compartir su visión ¡Espero que nos volvamos a encontrar pronto para seguir avanzando!
+
+[Museo de Arte Moderno de Buenos Aires](https://www.museomoderno.org/) | [ARTE Di Tella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=7073) | [Museo Nacional de Bellas Artes](https://www.bellasartes.gob.ar/) | [MALBA](https://malba.org.ar) | [Meridiano](http://www.somosmeridiano.com.ar/) | [Fundación IDA](http://www.fundacionida.org/) | [Dirección Nacional del Derecho de Autor](https://www.argentina.gob.ar/justicia/derechodeautor) | Gustavo Schotz | [Fondo Nacional de las Artes](https://fnartes.gob.ar/) | [FLACSO Argentina](https://www.flacso.org.ar/) | [Creative Commons Argentina](http://creativecommons.org.ar) | [Alfredo Srur](https://es-la.facebook.com/people/Alfredo-Srur/100003978410988?fref=mentions&__tn__=KH-R) | [Sava ](http://www.sava.org.ar)
+
+### Algunas imágenes del evento
+
+Fotos cortesía de Guido Limardo / Museo de Arte Moderno
 
 <div id="acceso_utdt" style="display:none;">
    <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5387.jpg"
