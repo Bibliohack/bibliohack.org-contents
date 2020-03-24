@@ -2,6 +2,7 @@
 [[!meta title="Tecnologías de digitalización en las instituciones de la memoria en Córdoba"]]
 [[!meta date="2019-08-09T12:00:00Z"]]
 [[!field
+  short_title="Digitalización en las instituciones de la memoria"
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
   default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
   summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
