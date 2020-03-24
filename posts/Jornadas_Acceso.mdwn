@@ -1,5 +1,5 @@
 [[!tag activismo eventos]] 
-[[ !meta date="2019-03-30T12:00:00Z" ]]
+[[!meta date="2019-03-30T12:00:00Z" ]]
 <!-- 
 !meta title="Jornadas Acceso"
 !meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
