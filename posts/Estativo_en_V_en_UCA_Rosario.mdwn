@@ -7,6 +7,7 @@
 !meta date="2018-09-13T12:00:00Z"
 -->
 [[!field
+  default_img="/uploads/posts/Estativo_en_V_en_UCA_Rosario/0IMG-20190426-WA0068.jpg"
   body_class="post" 
 ]]
 <!-- 
