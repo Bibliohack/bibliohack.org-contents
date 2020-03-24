@@ -27,7 +27,7 @@ Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Se
 
 ### Galería de imágenes
 
-<div id="se_armo" style="display:none;">
+<div id="se_armo" class="unite-gallery" style="display:none;">
 <img alt="" src="/uploads/galleries/se_armo/300px/20190928_103158.jpg"
    data-image="/uploads/galleries/se_armo/1280px/20190928_103158.jpg"
    data-description="">
