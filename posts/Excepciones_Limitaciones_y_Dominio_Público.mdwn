@@ -6,7 +6,7 @@
   default_img_alt="Convocatoria realizada en el Polo Tecnológico, Ciudad de Buenos Aires"
   body_class="post"
   summary="Propiedad intelectual y tensiones con bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
-  teaserline="Limitaciones y excepciones para bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
+  teaserline="Iniciativa de bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
 ]]
 <!-- 
   !meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
