@@ -1,5 +1,6 @@
 [[!tag activismo eventos]] 
 [[!meta date="2019-07-05T12:00:00Z"]]
+[[!meta title="Excepciones, Limitaciones y Dominio Público"]]
 [[!field
   default_img="/uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg"
   default_img_alt="Convocatoria realizada en el Polo Tecnológico, Ciudad de Buenos Aires"
@@ -23,7 +24,7 @@ A continuación copiamos la reseña publicada por [Creative Commons Argentina](h
 
 <div class="copy-paste" markdown="1">
 
-#### Creative Commons Argentina, 5 de julio de 2019 
+### Excepciones, limitaciones y domino público
 
 El viernes pasado, 28 de junio de 2019, decenas de bibliotecarios, archivistas, museólogos, abogados e investigadores nos encontramos en el Polo Cientìfico-Tecnológico a discutir sobre “Propiedad intelectual en bibliotecas, archivos, museos y repositorios digitales de acceso abierto: excepciones, limitaciones y domino público”.
 
