@@ -4,9 +4,9 @@
 [[!meta date="2019-09-29T12:00:00Z" ]]
 [[!field
   default_img="/uploads/posts/Se_armo_el_escaner/20190928_115033.jpg"
-  default_img_alt="Construcción colectiva de un escáner cenital de bibliohack en OpenCon Latam"
-  summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam"
-  teaserline="Construcción colectiva de un escáner cenital de bibliohack en OpenCon Latam"
+  default_img_alt="Construcción colectiva de un escáner cenital de Bibliohack"
+  summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam 2019"
+  teaserline="Construcción colectiva de un escáner cenital de bibliohack durante la OpenCon Latam"
   body_class="post" 
   featured=yes
   unite_gallery="tiles" gallery_1="se_armo"
