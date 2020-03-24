@@ -1,7 +1,6 @@
 [[!tag prensa proyectos activismo eventos formación]]
-[[!meta 
-   title="Título del post" 
-]]
+[[!meta title="Test" ]]
+[[!meta date="1000-08-09T12:00:00Z"]]
 [[!field
    default_img="/uploads/posts/buevo_test_del_blogui/IMG_6370.jpg"
    default_img_alt="apigrafe de la imagen"
