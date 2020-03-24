@@ -9,7 +9,7 @@
   default_img="/uploads/posts/Jornadas_Acceso/IMG_6366.jpg"
   body_class="post" 
   default_img_alt="Las jornadas se realizaron el 29 y 30 de marzo en Buenos Aires."
-  summary="Bibliohack colaboró en la organización de las jornadas Acceso, sobre 'Patrimonio Cultural, Práctica Artistica y Propiedad Intelectual' realizada en la Universidad Torcualto Di Tella"
+  summary="Bibliohack colaboró en la organización de las jornadas Acceso, sobre patrimonio cultural, práctica artistica y propiedad intelectual, realizada en la Universidad Torcualto Di Tella"
   teaserline="Patrimonio cultural, práctica artistica y propiedad intelectual en la Universidad Torcualto Di Tella"
   featured=yes 
   unite_gallery="tiles" gallery_1="acceso_utdt"
