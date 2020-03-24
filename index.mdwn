@@ -5,9 +5,9 @@
   texto="""
 *Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
 
-Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios informáticos a las organizaciones, en las que buscamos generar **capacidad instalada**.
+Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios y capacitación a las organizaciones GLAM que enfrentan el desafío de incorporar tecnología informática a sus procesos de trabajo.
 
-Desde nuestro lugar de incidencia impulsamos la construcción de redes que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación; y a la vez sumar masa crítica para definir políticas que favorezcan la preservación y el acceso al conocimiento, impulsando la **reforma de la propiedad intelectual**.
+También impulsamos la construcción de redes profesionales e institucionales que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación, y también sumar masa crítica para definir políticas públicas que favorezcan la **preservación del patrimonio cultural**, **el acceso abierto al conocimiento** y la **reforma de la propiedad intelectual**.
 """
 ]]
 <div class="seccion-ejes" id="ejes">
