@@ -1,0 +1,77 @@
+[[!tag activismo eventos]] 
+[[ !meta date="2019-03-30T12:00:00Z" ]]
+<!-- 
+!meta title="Jornadas Acceso"
+!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+!meta author="Bibliohack"
+-->
+[[!field
+  default_img="/uploads/posts/Jornadas_Acceso/IMG_6366.jpg"
+  body_class="post" 
+  default_img_alt="Las jornadas se realizaron el 29 y 30 de marzo en Buenos Aires."
+  summary="Bibliohack colaboró en la organización de las jornadas Acceso, sobre 'Patrimonio Cultural, Práctica Artistica y Propiedad Intelectual' realizada en la Universidad Torcualto Di Tella"
+  teaserline="Patrimonio cultural, práctica artistica y propiedad intelectual en la Universidad Torcualto Di Tella"
+  featured=yes 
+  unite_gallery="tiles" gallery_1="acceso_utdt"
+]]
+<!-- 
+  short_title="Variante alternativa de titulo para teasers"
+
+  default_video="/ruta/video"
+  default_video_alt="texto que aparece como epigrafe"
+  default_video_poster="/ruta/a/imagen_poster.jpg"
+-->
+
+El Viernes 29 y Sábado 30 de marzo se llevaron a cabo en Universidad Torcuato Di Tella las Jornadas Accesos sobre patrimonio cultural, práctica artística y propiedad intelectual. Organizaron el Museo de Arte Moderno de Buenos Aires, ARTE Di Tella y Escuela de Derecho de la UTDT.
+
+<div id="acceso_utdt" style="display:none;">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5387.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_5387.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5408.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_5408.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5429.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_5429.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5471.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_5471.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6233.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6233.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6278.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6278.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6280.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6280.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6288.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6288.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6318.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6318.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6366.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6366.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6591.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6591.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6602.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6602.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6682.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6682.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6740.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6740.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6774.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6774.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_6830.jpg"
+   data-image="/uploads/galleries/acceso_utdt/1280px/IMG_6830.jpg"
+   data-description="">
+</div>
+
