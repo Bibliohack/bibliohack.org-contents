@@ -7,6 +7,7 @@
   body_class="post"
   summary="Iniciativa para un proyecto de declaración sobre las tensiones entre la legislación actual de propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
   teaserline="Iniciativa de bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
+  unite_gallery="tiles" gallery_1="excepciones_limitaciones_y_dominio_pub"
 ]]
 <!-- 
   !meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
@@ -40,4 +41,24 @@ Por esta misma razón durante el encuentro se presentó un proyecto de declaraci
 
 Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Propiedad Intelectual) se estuvieron discutiendo exactamente estos temas. Hacer visible nuestra posición y nuestro reclamo, para las autoridades argentinas y para los colegas de otros países de la región, es uno de los modos más inmediatos que tenemos para aportar a esta discusión.
 
+</div>
+
+### Galería de imágenes del evento
+
+<div id="excepciones_limitaciones_y_dominio_pub" style="display:none;">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/65775436_2417772658268955_4385513178058981376_o.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/65775436_2417772658268955_4385513178058981376_o.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66123770_2417772451602309_4710890988346802176_o.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66123770_2417772451602309_4710890988346802176_o.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66158916_2417772441602310_6971402511831793664_o.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66158916_2417772441602310_6971402511831793664_o.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66202585_2417777511601803_3374612906057400320_o.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66202585_2417777511601803_3374612906057400320_o.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66224930_2417772664935621_6070665397898575872_o.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66224930_2417772664935621_6070665397898575872_o.jpg"
+   data-description="">
 </div>
