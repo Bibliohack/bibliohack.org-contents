@@ -46,7 +46,7 @@ Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Pro
 
 ### Galería de imágenes del evento
 
-<div id="excepciones_limitaciones_y_dominio_pub" style="display:none;">
+<div id="excepciones_limitaciones_y_dominio_pub" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/65775436_2417772658268955_4385513178058981376_o.jpg"
    data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/65775436_2417772658268955_4385513178058981376_o.jpg"
    data-description="">
