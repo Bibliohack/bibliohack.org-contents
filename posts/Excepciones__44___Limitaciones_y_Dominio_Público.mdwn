@@ -4,16 +4,12 @@
   default_img="/uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg"
   default_img_alt="En el Polo Tecnológico"
   body_class="post"
-  summary="Resumen que aparece abajo del titulo en el post"
-  short_title="Variante alternativa de titulo para teasers"
-  teaserline="Texto copete debajo del titulo solo en teasers"
+  summary="Propiedad intelectual y tensiones con bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
+  teaserline="Limitaciones y excepciones para bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
 ]]
 <!-- 
   !meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
   !meta author="Bibliohack"
-
-  summary="Propiedad intelectual y tensiones con bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
-  teaserline="Limitaciones y excepciones para bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
   featured=yes   // aparece en portada?
 
   default_video="/ruta/video"
