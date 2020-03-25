@@ -31,13 +31,14 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
 
 ### Galería de imágenes:
 
+
 <div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQO8dDX4AAKmmU.jpg"
-   data-description="Camilo Martinez habla sobre el BADAC (Banco de Archivos Digitales de Artes de Colombia) y sobre como tratar las colecciones como datos">
+   data-description="Camilo Martinez habla sobre el Banco de Archivos Digitales de Artes de Colombia y sobre como tratar las colecciones como datos.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQV9okXoAAMRIQ.jpg"
-   data-description="Camilo Páez Jaramillo y Elder Manuel Tobar de la Biblioteca Nacional de Colombia..">
+   data-description="Camilo Páez Jaramillo y Elder Manuel Tobar de la Biblioteca Nacional de Colombia.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQVCCLXYAAEoe0.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVCCLXYAAEoe0.jpg"
    data-description="Camilo Páez Jaramillo, sobre colecciones digitales en manos de coleccionistas privados.">
@@ -49,10 +50,10 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
    data-description="Camilo Páez Jaramillo sobre redes latinoamericanas de bibliotecas digitales.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b0EFQYkceXYAA7z72.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b0EFQYkceXYAA7z72.jpg"
-   data-description="Discusión: ¡cómo vincular instituciones centrales con comunidades más bien alejadas de la vida institucional?">
+   data-description="Discusión: ¿Cómo vincular instituciones centrales con comunidades más bien alejadas de la vida institucional?">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYj8dXYAEhIyo.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYj8dXYAEhIyo.jpg"
-   data-description="¿las instituciones de la memoria no solo deben promover el acceso, sino instruir y enseñar a ejercer la memoria en comunidad?">
+   data-description="¿Las instituciones de la memoria no solo deben promover el acceso, sino instruir y enseñar a ejercer la memoria en comunidad?">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYjZOXoAEXPdd.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYjZOXoAEXPdd.jpg"
    data-description="">
@@ -70,16 +71,16 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
    data-description="">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQea-3X4AAw_s5.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQea-3X4AAw_s5.jpg"
-   data-description=" Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed)">
+   data-description="Juan Pablo Angarita de Biblioteca Digital de Bogotá, BibloRed.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQeZSmW4AAD52M.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQeZSmW4AAD52M.jpg"
-   data-description=" Juan Pablo Angarita nos habla sobre agregadores, metabuscadores y colecciones curadas por usuarios.">
+   data-description="Juan Pablo Angarita nos habla sobre agregadores, metabuscadores y colecciones curadas por usuarios.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjF72XoAQOTds.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjF72XoAQOTds.jpg"
    data-description="Irene Tobon sobre banrepcultural.org">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjFaAX4AA3jfJ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjFaAX4AA3jfJ.jpg"
-   data-description="Irene Tobon  presenta todas las iniciativas digitales de la Red Cultural del Banco de la República (Colombia)">
+   data-description="Irene Tobon  presenta todas las iniciativas digitales de la Red Cultural del Banco de la República, Colombia">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjG5oXsAI_zWg.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjG5oXsAI_zWg.jpg"
    data-description="Irene Tobon, banrepcultural.org">
@@ -106,7 +107,7 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
    data-description="María José Afanador Llach sobre Humanidades Digitales en Latinoamérica y el diálogo con las instituciones de la cultura.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ315LXUAAZQI4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ315LXUAAZQI4.jpg"
-   data-description="El gráfico proyectado es la DH Wheel (expandida) de Patrick Sale, traducido por Gimena del Río Grande">
+   data-description="El gráfico proyectado es la DH Wheel -expandida- de Patrick Sale, traducido por Gimena del Río Grande.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ31UMXkAACISN.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ31UMXkAACISN.jpg"
    data-description="María José Afanador Llach">
