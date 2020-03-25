@@ -26,7 +26,11 @@
   default_video_poster="/ruta/a/imagen_poster.jpg"
 -->
 
-Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
+La semana pasada estuvimos instalando un estativo en V en la biblioteca de Univeridad Católica en Rosario.
+
+La Biblioteca Central, inaugurada en 2008, tiene cinco pisos. El dispositivo quedó alojado en el área de Colecciones Especiales, en la que se llevarán a cabo las capacitaciones y primeras pruebas de uso.
+
+En este ciclo de desarrollo incorporamos un soporte accesorio para montar una sombra, que permite aislar el area de digitalización del entorno y evitar la contaminacion cromatica o luminica. Cuando es posible trabajar en ambientes de iluminacion controlada (que puede convertirse en cuarto oscuro), este accesorio no es necesario.
 
 ### Galería de Imágenes
 
