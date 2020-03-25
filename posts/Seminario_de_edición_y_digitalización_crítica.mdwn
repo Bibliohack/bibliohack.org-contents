@@ -4,8 +4,8 @@
   default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/seminario.jpeg" 
   body_class="post" 
   default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
-  summary="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
-  teaserline="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura, donde se analizó el proceso de digitalización y circulación digital de la obra Historia de la Literatura Argentina de Ricardo Rojas"
+  teaserline="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
+  summary="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura, donde se analizó el proceso de digitalización y circulación digital de la obra Historia de la Literatura Argentina de Ricardo Rojas"
 ]]
 <!-- 
 !meta title="Titulo de post"
