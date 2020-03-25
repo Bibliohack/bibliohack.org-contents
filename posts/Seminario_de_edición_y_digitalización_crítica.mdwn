@@ -72,9 +72,6 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
    <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/flyer3.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer3.jpg"
-   data-description="">
 </div>
 
 ### Programa del seminario
