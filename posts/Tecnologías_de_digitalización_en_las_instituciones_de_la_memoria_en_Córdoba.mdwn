@@ -1,22 +1,18 @@
-[[!tag eventos talleres ]] 
-[[!meta title="Taller sobre Tecnologías de digitalización en Córdoba"]]
+[[!tag eventos talleres]] 
+[[!meta title="Taller sobre tecnologías de digitalización en Córdoba"]]
 [[!meta date="2019-08-09T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
-  default_img_alt="Digitalización en Archivo Histórico de la Memoria en Córdoba."
+  default_img_alt="Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman"
   summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertarán sobre se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
-  teaserline="Participación en evento en la ciudad de Córdoba"
+  teaserline="Disertar"
   body_class="post"
 ]]
 
-### Taller sobre Tecnologías de digitalización
+El **Archivo Histórico de la Memoria de la provincia de Córdoba** invitó a Matías Butelman a participar del taller [**Tecnologías de digitalización en las instituciones de la memoria**](http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/)
+ que se realizó el 15 de agosto de 2019 en el Centro Cultural Córdoba.
 
-La **Universidad Provincial de Córdoba** invita a participar del taller **Tecnologías de digitalización en las instituciones de la memoria** que realiza con modalidad libre y gratuita el **Archivo Histórico de la Memoria de la provincia de Córdoba**.
+Durante la jornada se abordaron temáticas relacionadas con estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural.
 
-Con modalidad intensiva (de 9.30 a 16.30) y se realizara el próximo jueves 15 agosto, en el Centro Cultural Córdoba (sito en Av. Poeta Lugones 401).
+Disertaron **Lucas Luchilo**, subsecretario de Evaluación Institucional de La Secretaria de Gobierno de la Ciencia, Tecnología e Innovación Productiva de la Nación, **Fernando Boro**, representando al Instituto de la Historia de la Argentina y Americana Dr. Emilio Ravignani (HAYA, CONICET, UBA), y Matias Butelman, especialista de contenidos digitales, proyectos de digitalización, junto a profesionales del Archivo Histórico de la Memoria de la provincia de Córdoba.
 
-Durante la jornada se abordarán estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural.
-
-Disertan el subsecretario de Evaluación Institucional de La Secretaria de Gobierno de la Ciencia, Tecnología e Innovación Productiva de la Nación, **Lucas Luchilo**, representando al Instituto de la Historia de la Argentina y Americana Dr. Emilio Ravignani (HAYA, CONICET, UBA), **Fernando Boro**, el especialista de contenidos digitales, proyectos de digitalización Bs As, **Matías Butelman**, junto a profesionales del Archivo Histórico de la Memoria de la provincia de Córdoba.
-
-[Más información aqui](http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/)
