@@ -1,0 +1,42 @@
+[[!tag activismo eventos formación]] 
+[[!meta date="2019-08-13T12:00:00Z" ]]
+[[!field 
+  default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/seminario.jpeg" 
+  body_class="post" 
+  default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
+  summary="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
+  teaserline="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
+
+]]
+<!-- 
+!meta title="Titulo de post"
+!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+!meta author="Bibliohack"
+
+  featured=yes   // aparece en portada?
+-->
+
+Coordinado por el Dr. Juan Mendoza, el seminario consistirá en abordar la digitalización desde una perspectiva crítica, dando lugar al debate sobre sus desafíos y el rol de los museos. Los participantes podrán formar parte del proceso de digitalización la Historia de la Literatura Argentina de Ricardo Rojas.
+
+Objetivo principal:
+
+ * Digitalizar la Historia de la Literatura Argentina de Ricardo Rojas para facilitar el acceso al contenido cultural de una de las obras más significativas del autor. Como primera etapa del laboratorio se postula la digitalización de la primera edición.
+
+Objetivos específicos:
+
+ * Distinguir los desafíos de digitalizar patrimonio cultural
+ * Iniciar un programa de digitalización de corta duración y con una obra determinada para transitar todos las fases del proceso
+ * Planificar el proceso y establecer criterios de digitalización acordes a la Biblioteca del Museo
+ * Vincular el plan de acción a la misión de registro y documentación del Museo
+ * Construir un espacio y cronograma institucional para reflexionar y debatir sobre el desafío de la digitalización y el rol del museo.
+ * Compartir los resultados del laboratorio con la comunidad académica y museológica
+
+Objetivos generales:
+
+ * Facilitar el uso del acervo bibliográfico y aumentar la difusión de la Biblioteca a un número mayor de individuos.
+ * Preservar los libros a través de disminuir su circulación física
+ * Promover la investigación facilitando recursos de información en forma remota
+ * Mejora en la capacidad de búsqueda, navegación, visualización y acceso de la obra
+ * Almacenamiento y organización eficaz
+ * Interoperabilidad, habilidad para intercambiar información y hacer uso de la misma
+
