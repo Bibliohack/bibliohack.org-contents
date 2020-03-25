@@ -4,8 +4,8 @@
   default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg" 
   body_class="post" 
   default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
-  teaserline="Junto con el Secrit/Conicet y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura"
-  summary="Junto con el Secrit/Conicet y el Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura, que tomó como eje el proceso de digitalización de la obra *Historia de la Literatura Argentina* de Ricardo Rojas"
+  teaserline="Junto con el Secrit y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura"
+  summary="Junto con el Secrit/Conicet y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura, que tomó como eje el proceso de digitalización de la obra *Historia de la Literatura Argentina* de Ricardo Rojas"
   featured=yes
    unite_gallery="tiles" gallery_1="seminario_digitalizacion_critica"
 ]]
