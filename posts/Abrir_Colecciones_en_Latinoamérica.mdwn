@@ -33,7 +33,7 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
 
 
 <div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
+   <img alt="hola" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQO8dDX4AAKmmU.jpg"
    data-description="Camilo Martinez habla sobre el Banco de Archivos Digitales de Artes de Colombia y sobre como tratar las colecciones como datos.">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
