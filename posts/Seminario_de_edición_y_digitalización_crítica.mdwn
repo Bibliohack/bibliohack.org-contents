@@ -15,7 +15,7 @@
   featured=yes   // aparece en portada?
 -->
 
-Organizado por el [Secrit/Conicet](entre el 29 de agosto y el 14 de noviembre de 2019), el [Museo Casa de Ricardo Rojas](Museo Casa de Ricardo Rojas) y [Bibliohack](http://bibliohack.org) se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el *Seminario de Edición y Digitalización Crítica*.
+Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/) entre el 29 de agosto y el 14 de noviembre de 2019, el [Museo Casa de Ricardo Rojas]() y [Bibliohack](http://bibliohack.org) se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el *Seminario de Edición y Digitalización Crítica*.
 
 Coordinado por el Dr. Juan Mendoza, el seminario abordó desde una perspectiva crítica la multiplicidad de perspectivas de los procesos de digitalización, tomando como eje el proyecto de convertir a digital la obra más significativa de Ricardo Rojas, la monumental *"Historia de la Literatura Argentina"*, tarea emprendida por el Laboratorio de Digitalización del Museo Casa de Ricardo Rojas. 
 
