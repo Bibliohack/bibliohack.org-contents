@@ -1,7 +1,7 @@
 [[!tag activismo eventos formación]] 
 [[!meta date="2019-08-13T12:00:00Z" ]]
 [[!field 
-  default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/seminario.jpeg" 
+  default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg" 
   body_class="post" 
   default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
   teaserline="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura"
@@ -22,3 +22,35 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
 
 ### Galeria de imagenes
 
+
+### Programa del seminario
+
+<div class="copy-paste" markdown="1">
+
+Coordina Dr. Juan Mendoza
+
+**29/8 | 1º Encuentro | 10 a 13hs**
+
+Hacia una digitalización de la Historia de la Literatura Argentina de Ricardo Rojas. Presentación de una problemática. Maneras de leer en la Era Digital: una cartografía.
+
+**12/9 | 2º Encuentro | 10 a 13hs**
+
+La Ediciones, Los Libros, Los Archivos. Modelo para armar. Desafíos en la gestión de colecciones. Museo del Traje comparte experiencias.
+
+**26/9 | 3º Encuentro | 10 a 13hs**
+
+Avatares de una Digitalización. Accesibilidad y preservación digital, Edición Digital, Digitalización. Algunas aproximaciones críticas.
+
+**17/10 | 4º Encuentro | 10 a 13hs**
+
+Por una estrategia de Digitalización Crítica. Conservación, Estudios críticos, Acceso Abierto. MNBA comparte experiencias.
+
+**COLOQUIO | 14/11 | 11 a 18hs**
+
+I Coloquio de Edición y Digitalización Crítica
+
+Exposición de conclusiones y panel plenario de cierre.
+
+</div>
+<!-- hilo en twitter de la presentación: https://twitter.com/BiblioHack/status/1159473523544461312 
+https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/ -->
