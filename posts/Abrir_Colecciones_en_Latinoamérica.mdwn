@@ -33,87 +33,87 @@ Pariciparon María José Afanador Llach (Maestría en Humanidades Digitales, Uni
 
 
 <div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
-   <img alt="hola" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
+   <img alt="Camilo Martinez habla sobre el BADAC (Banco de Archivos Digitales de Artes de Colombia) y sobre como tratar las colecciones como datos" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQO8dDX4AAKmmU.jpg"
-   data-description="Camilo Martinez habla sobre el Banco de Archivos Digitales de Artes de Colombia y sobre como tratar las colecciones como datos.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
+   data-description="">
+   <img alt="Camilo Páez Jaramillo y Elder Manuel Tobar de la Biblioteca Nacional de Colombia.." src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQV9okXoAAMRIQ.jpg"
-   data-description="Camilo Páez Jaramillo y Elder Manuel Tobar de la Biblioteca Nacional de Colombia.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQVCCLXYAAEoe0.jpg"
+   data-description="">
+   <img alt="Camilo Páez Jaramillo, sobre colecciones digitales en manos de coleccionistas privados." src="/uploads/galleries/abrir_colecciones/300px/aEFQVCCLXYAAEoe0.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVCCLXYAAEoe0.jpg"
-   data-description="Camilo Páez Jaramillo, sobre colecciones digitales en manos de coleccionistas privados.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQVjZWW4AAgxQv.jpg"
+   data-description="">
+   <img alt="Elder Manuel Tobar nos habla sobre contenidos para públicos no especializados." src="/uploads/galleries/abrir_colecciones/300px/aEFQVjZWW4AAgxQv.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVjZWW4AAgxQv.jpg"
-   data-description="Elder Manuel Tobar nos habla sobre contenidos para públicos no especializados.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/aEFQVn0KXoAAloK_.jpg"
+   data-description="">
+   <img alt="Camilo Páez Jaramillo sobre redes latinoamericanas de bibliotecas digitales." src="/uploads/galleries/abrir_colecciones/300px/aEFQVn0KXoAAloK_.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVn0KXoAAloK_.jpg"
-   data-description="Camilo Páez Jaramillo sobre redes latinoamericanas de bibliotecas digitales.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b0EFQYkceXYAA7z72.jpg"
+   data-description="">
+   <img alt="Discusión: ¡cómo vincular instituciones centrales con comunidades más bien alejadas de la vida institucional?" src="/uploads/galleries/abrir_colecciones/300px/b0EFQYkceXYAA7z72.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b0EFQYkceXYAA7z72.jpg"
-   data-description="Discusión: ¿Cómo vincular instituciones centrales con comunidades más bien alejadas de la vida institucional?">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYj8dXYAEhIyo.jpg"
+   data-description="">
+   <img alt="¿las instituciones de la memoria no solo deben promover el acceso, sino instruir y enseñar a ejercer la memoria en comunidad?" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYj8dXYAEhIyo.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYj8dXYAEhIyo.jpg"
-   data-description="¿Las instituciones de la memoria no solo deben promover el acceso, sino instruir y enseñar a ejercer la memoria en comunidad?">
+   data-description="">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYjZOXoAEXPdd.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYjZOXoAEXPdd.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQbdjBWsAE9e-4.jpg"
+   <img alt="Camila Amado Rivera y Juan Pablo Angarita comparten la historia de la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQbdjBWsAE9e-4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbdjBWsAE9e-4.jpg"
-   data-description="Camila Amado Rivera y Juan Pablo Angarita comparten la historia de la Biblioteca Digital de Bogotá.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQbeEVXoAEdZ9B.jpg"
+   data-description="">
+   <img alt="Camila Amado Rivera y Juan Pablo Angarita ¿Cómo debe ser la biblioteca pública digital de una ciudad como Bogotá, que es tantas ciudades en una?" src="/uploads/galleries/abrir_colecciones/300px/EFQbeEVXoAEdZ9B.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbeEVXoAEdZ9B.jpg"
-   data-description="Camila Amado Rivera y Juan Pablo Angarita ¿Cómo debe ser la biblioteca pública digital de una ciudad como Bogotá, que es tantas ciudades en una?">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQbelnWsAUEWf9.jpg"
+   data-description="">
+   <img alt="Camila Amado Rivera y Juan Pablo Angarita sobre la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQbelnWsAUEWf9.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbelnWsAUEWf9.jpg"
-   data-description="Camila Amado Rivera y Juan Pablo Angarita sobre la Biblioteca Digital de Bogotá.">
+   data-description="">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQbfFwXsAI342q.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbfFwXsAI342q.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQea-3X4AAw_s5.jpg"
+   <img alt=" Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed)" src="/uploads/galleries/abrir_colecciones/300px/EFQea-3X4AAw_s5.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQea-3X4AAw_s5.jpg"
-   data-description="Juan Pablo Angarita de Biblioteca Digital de Bogotá, BibloRed.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQeZSmW4AAD52M.jpg"
+   data-description="">
+   <img alt=" Juan Pablo Angarita nos habla sobre agregadores, metabuscadores y colecciones curadas por usuarios." src="/uploads/galleries/abrir_colecciones/300px/EFQeZSmW4AAD52M.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQeZSmW4AAD52M.jpg"
-   data-description="Juan Pablo Angarita nos habla sobre agregadores, metabuscadores y colecciones curadas por usuarios.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjF72XoAQOTds.jpg"
+   data-description="">
+   <img alt="Irene Tobon sobre banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjF72XoAQOTds.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjF72XoAQOTds.jpg"
-   data-description="Irene Tobon sobre banrepcultural.org">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjFaAX4AA3jfJ.jpg"
+   data-description="">
+   <img alt="Irene Tobon  presenta todas las iniciativas digitales de la Red Cultural del Banco de la República (Colombia)" src="/uploads/galleries/abrir_colecciones/300px/EFQjFaAX4AA3jfJ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjFaAX4AA3jfJ.jpg"
-   data-description="Irene Tobon  presenta todas las iniciativas digitales de la Red Cultural del Banco de la República, Colombia">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjG5oXsAI_zWg.jpg"
+   data-description="">
+   <img alt="Irene Tobon, banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjG5oXsAI_zWg.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjG5oXsAI_zWg.jpg"
-   data-description="Irene Tobon, banrepcultural.org">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQjGXWW4AEVfHI.jpg"
+   data-description="">
+   <img alt="Irene Tobon, banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjGXWW4AEVfHI.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjGXWW4AEVfHI.jpg"
-   data-description="Irene Tobon, banrepcultural.org">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQkiwPXoAAczzy.jpg"
+   data-description="">
+   <img alt="Camila Amado Rivera, Irene Tobon y Juan Pablo Angarita responden preguntas sobre gestión de derechos de autor en banrepcultural.org y la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQkiwPXoAAczzy.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQkiwPXoAAczzy.jpg"
-   data-description="Camila Amado Rivera, Irene Tobon y Juan Pablo Angarita responden preguntas sobre gestión de derechos de autor en banrepcultural.org y la Biblioteca Digital de Bogotá.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3NzOXkAAfUe5.jpg"
+   data-description="">
+   <img alt="Presentación de Daniela Schütte por videoconferencia." src="/uploads/galleries/abrir_colecciones/300px/zEFQ3NzOXkAAfUe5.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3NzOXkAAfUe5.jpg"
-   data-description="Presentación de Daniela Schütte por videoconferencia.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3OS7WwAEcgo7.jpg"
+   data-description="">
+   <img alt="presentacion de Daniela Schütte sobre Memoria Chilena" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3OS7WwAEcgo7.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3OS7WwAEcgo7.jpg"
-   data-description="presentacion de Daniela Schütte sobre Memoria Chilena">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3Oy3XYAEgcWR.jpg"
+   data-description="">
+   <img alt="Presentacion de Daniela Schütte, diferentes aspectos operativos que hacen posible Memoria Chilena" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3Oy3XYAEgcWR.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3Oy3XYAEgcWR.jpg"
-   data-description="Presentacion de Daniela Schütte, diferentes aspectos operativos que hacen posible Memoria Chilena">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3POmX4AYMwft.jpg"
+   data-description="">
+   <img alt="Presentacion de Daniela Schütte por videoconferencia." src="/uploads/galleries/abrir_colecciones/300px/zEFQ3POmX4AYMwft.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3POmX4AYMwft.jpg"
-   data-description="Presentacion de Daniela Schütte por videoconferencia.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ30zxWwAAR-C4.jpg"
+   data-description="">
+   <img alt="María José Afanador Llach sobre Humanidades Digitales en Latinoamérica y el diálogo con las instituciones de la cultura." src="/uploads/galleries/abrir_colecciones/300px/zzEFQ30zxWwAAR-C4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ30zxWwAAR-C4.jpg"
-   data-description="María José Afanador Llach sobre Humanidades Digitales en Latinoamérica y el diálogo con las instituciones de la cultura.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ315LXUAAZQI4.jpg"
+   data-description="">
+   <img alt="El gráfico proyectado es la DH Wheel (expandida) de Patrick Sale, traducido por Gimena del Río Grande" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ315LXUAAZQI4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ315LXUAAZQI4.jpg"
-   data-description="El gráfico proyectado es la DH Wheel -expandida- de Patrick Sale, traducido por Gimena del Río Grande.">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ31UMXkAACISN.jpg"
+   data-description="">
+   <img alt="María José Afanador Llach" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ31UMXkAACISN.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ31UMXkAACISN.jpg"
-   data-description="María José Afanador Llach">
-   <img alt="" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ32YuXoAIfmxV.jpg"
+   data-description="">
+   <img alt="María José Afanador Llach" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ32YuXoAIfmxV.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ32YuXoAIfmxV.jpg"
-   data-description="María José Afanador Llach">
+   data-description="">
 </div>
 
 
