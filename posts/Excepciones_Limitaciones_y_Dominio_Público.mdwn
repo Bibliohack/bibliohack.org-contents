@@ -6,7 +6,7 @@
   default_img="/uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg"
   default_img_alt="Convocatoria realizada en el Polo Tecnológico, Ciudad de Buenos Aires"
   body_class="post"
-  summary="Iniciativa para un proyecto de declaración sobre las tensiones entre la legislación actual de propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
+  summary="Iniciativa para un proyecto de declaración sobre las tensiones existentes entre la legislación actual de propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
   teaserline="Exitosa convocatoria a bibliotecas, archivos, museos y repositorios digitales de acceso abierto"
   unite_gallery="tiles" gallery_1="excepciones_limitaciones_y_dominio_pub"
 ]]
