@@ -5,8 +5,7 @@
   body_class="post" 
   default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
   summary="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
-  teaserline="Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura"
-
+  teaserline='Junto con el Secrit/Conicet y el Museo Casa Ricardo Rojas, participamos de un seminario sobre digitalización y literatura, donde se analizó el proceso de digitalización y circulación digital de la obra "Historia de la Literatura Argentina" de Ricardo Rojas'
 ]]
 <!-- 
 !meta title="Titulo de post"
@@ -16,27 +15,13 @@
   featured=yes   // aparece en portada?
 -->
 
-Coordinado por el Dr. Juan Mendoza, el seminario consistirá en abordar la digitalización desde una perspectiva crítica, dando lugar al debate sobre sus desafíos y el rol de los museos. Los participantes podrán formar parte del proceso de digitalización la Historia de la Literatura Argentina de Ricardo Rojas.
+Organizado por el [Secrit/Conicet](entre el 29 de agosto y el 14 de noviembre de 2019), el [Museo Casa de Ricardo Rojas](Museo Casa de Ricardo Rojas) y [Bibliohack](http://bibliohack.org) se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el *Seminario de Edición y Digitalización Crítica*.
 
-Objetivo principal:
+Coordinado por el Dr. Juan Mendoza, el seminario abordó desde una perspectiva crítica la multiplicidad de perspectivas de los procesos de digitalización, tomando como eje el proyecto de convertir a digital la obra más significativa de Ricardo Rojas, la monumental *"Historia de la Literatura Argentina"*, tarea emprendida por el Laboratorio de Digitalización del Museo Casa de Ricardo Rojas. 
 
- * Digitalizar la Historia de la Literatura Argentina de Ricardo Rojas para facilitar el acceso al contenido cultural de una de las obras más significativas del autor. Como primera etapa del laboratorio se postula la digitalización de la primera edición.
+El Laboratorio utiliza un escáner construido por Biblihack para el [proyecto de la digitalización de la Revista Incipit en 2017](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/). El dispositivo fue uno de los primeros diseños de Bibliohack, que buscó la forma de construir con *tecnologia adecuada y localmente accesible* (listones de madera de pino y camaras digitales de bajo costo) un dispositivo que pudiera llevar adelante el proceso, superando las limitaciones presupuestarias y técnicas implicadas. El escáner fue cedido al Museo Casa de Ricardo Rojas este año en el marco de un acuerdo de colaboración entre ambas instituciones.
 
-Objetivos específicos:
+Los avatares de la digitalización, las tensiones disciplinares involucradas en los proyectos de digitalización, el  acceso abierto y la preservación digital, los desafíos en la gestión de colecciones, las maneras de leer en la era digital, la circulación por internet de las obras en el contexto académico, fueron algunos de los temas sobre los cuales se reflexionó durante el transcurso del seminario.
 
- * Distinguir los desafíos de digitalizar patrimonio cultural
- * Iniciar un programa de digitalización de corta duración y con una obra determinada para transitar todos las fases del proceso
- * Planificar el proceso y establecer criterios de digitalización acordes a la Biblioteca del Museo
- * Vincular el plan de acción a la misión de registro y documentación del Museo
- * Construir un espacio y cronograma institucional para reflexionar y debatir sobre el desafío de la digitalización y el rol del museo.
- * Compartir los resultados del laboratorio con la comunidad académica y museológica
-
-Objetivos generales:
-
- * Facilitar el uso del acervo bibliográfico y aumentar la difusión de la Biblioteca a un número mayor de individuos.
- * Preservar los libros a través de disminuir su circulación física
- * Promover la investigación facilitando recursos de información en forma remota
- * Mejora en la capacidad de búsqueda, navegación, visualización y acceso de la obra
- * Almacenamiento y organización eficaz
- * Interoperabilidad, habilidad para intercambiar información y hacer uso de la misma
+### Galeria de imagenes
 
