@@ -24,20 +24,8 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
 ### Galeria de imagenes
 
 <div id="seminario_digitalizacion_critica" class="unite-gallery tiles" style="display:none;">
-   <img alt="Frente de la Casa Museo Ricardo Rojas (cr�dito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15806598557_0d34a64815_c.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15806598557_0d34a64815_c.jpg"
-   data-description="">
-   <img alt="Interior de la Museo Casa de Ricardo Rojas (cr�dito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15990315911_af9a454487_c.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15990315911_af9a454487_c.jpg"
-   data-description="">
-   <img alt="Interior de la Museo Casa de Ricardo Rojas (cr�dito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa19497880192_68f22f7e8e_c.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa19497880192_68f22f7e8e_c.jpg"
-   data-description="">
    <img alt="Matias Butelman hablando sobre el dispositivo de digitalización en V, de tecnología abierta y bajo costo de Bibliohack" src="/uploads/galleries/seminario_digitalizacion_critica/300px/EZsem2.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/EZsem2.jpg"
-   data-description="">
-   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg"
    data-description="">
    <img alt="María Laura Mendoza (directora de la Casa Museo de Ricardo Rojas), Mercedes Rodríguez Temperley y Leonardo R. Funes (Secrit/Conicet) durante la presentación del Seminario." src="/uploads/galleries/seminario_digitalizacion_critica/300px/00EBdHA08XsAA-JEo.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/00EBdHA08XsAA-JEo.jpg"
@@ -69,8 +57,20 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
    <img alt="Uso de dispositivo en el Laboratorio de Digitalización de la Casa Museo de Ricardo Rojas" src="/uploads/galleries/seminario_digitalizacion_critica/300px/f0EAvwKjvWkAEYedx.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/f0EAvwKjvWkAEYedx.jpg"
    data-description="">
+   <img alt="Frente de la Casa Museo Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15806598557_0d34a64815_c.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15806598557_0d34a64815_c.jpg"
+   data-description="">
+   <img alt="Interior de la Museo Casa de Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15990315911_af9a454487_c.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15990315911_af9a454487_c.jpg"
+   data-description="">
+   <img alt="Interior de la Museo Casa de Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa19497880192_68f22f7e8e_c.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa19497880192_68f22f7e8e_c.jpg"
+   data-description="">
    <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/flyer1.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer1.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/flyer3.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer3.jpg"
