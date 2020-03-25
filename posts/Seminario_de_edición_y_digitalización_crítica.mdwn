@@ -54,8 +54,14 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
    <img alt="Realizando las capturas del libro 'Historia de la Literatura Argentina' en el Laboratorio de Digitalización de la Casa Museo de Ricardo Rojas" src="/uploads/galleries/seminario_digitalizacion_critica/300px/f0EAvwJhfWwAAHk5d.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/f0EAvwJhfWwAAHk5d.jpg"
    data-description="">
+   <img alt="Realizando las capturas del libro 'Historia de la Literatura Argentina" src="/uploads/galleries/seminario_digitalizacion_critica/300px/photo_2019-09-13_15-02-05.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/photo_2019-09-13_15-02-05.jpg"
+   data-description="">
    <img alt="Uso de dispositivo en el Laboratorio de Digitalización de la Casa Museo de Ricardo Rojas" src="/uploads/galleries/seminario_digitalizacion_critica/300px/f0EAvwKjvWkAEYedx.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/f0EAvwKjvWkAEYedx.jpg"
+   data-description="">
+   <img alt="Prueba de procesamiento de las capturas" src="/uploads/galleries/seminario_digitalizacion_critica/300px/captura.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/captura.jpg"
    data-description="">
    <img alt="Frente de la Casa Museo Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15806598557_0d34a64815_c.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15806598557_0d34a64815_c.jpg"
