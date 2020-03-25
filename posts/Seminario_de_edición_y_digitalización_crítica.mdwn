@@ -63,6 +63,12 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
    <img alt="Prueba de procesamiento de las capturas" src="/uploads/galleries/seminario_digitalizacion_critica/300px/captura.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/captura.jpg"
    data-description="">
+   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/flyer1.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer1.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg"
+   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg"
+   data-description="">
    <img alt="Frente de la Casa Museo Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa15806598557_0d34a64815_c.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15806598557_0d34a64815_c.jpg"
    data-description="">
@@ -71,12 +77,6 @@ Los avatares de la digitalización, las tensiones disciplinares involucradas en 
    data-description="">
    <img alt="Interior de la Museo Casa de Ricardo Rojas (crédito de la imagen: Museo)" src="/uploads/galleries/seminario_digitalizacion_critica/300px/aa19497880192_68f22f7e8e_c.jpg"
    data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/aa19497880192_68f22f7e8e_c.jpg"
-   data-description="">
-   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/flyer1.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer1.jpg"
-   data-description="">
-   <img alt="" src="/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg"
-   data-image="/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg"
    data-description="">
 </div>
 
