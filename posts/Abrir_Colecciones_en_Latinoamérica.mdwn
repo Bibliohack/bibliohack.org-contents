@@ -122,4 +122,7 @@ Pariciparon **María José Afanador Llach** (Maestría en Humanidades Digitales,
 
 Enlaces: [bibliored](https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica), [uniandes](https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/)
 
-<!-- https://web.archive.org/web/20200323094456/https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica https://web.archive.org/web/20200323094557/https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/ -->
+<!-- https://web.archive.org/web/20200323094456/https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica 
+     https://web.archive.org/web/20200323094557/https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/ 
+     hilo en tw de bibliohack: https://twitter.com/BiblioHack/status/1176592423272820737
+-->
