@@ -1,7 +1,7 @@
 [[!tag eventos formación Filo-UBA]] 
-[[ !meta title="¿Cómo producir material accesible de lectura?" ]]
-[[ !meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/" ]]
-[[ !meta date="2018-10-20T12:00:00Z" ]]
+[[!meta title="¿Cómo producir material accesible de lectura?" ]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/" ]]
+[[!meta date="2018-10-20T12:00:00Z" ]]
 [[!field
   body_class="post" 
   summary="Muestra del funcionamiento del escáner en V de Bibliohack en una jornada sobre accesibilidad en Filosofia y Letras de la UBA"
