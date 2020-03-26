@@ -5,7 +5,6 @@
 [[!field
   body_class="post" 
   summary="Muestra del funcionamiento del escáner en V de Bibliohack en una jornada sobre accesibilidad en Filosofia y Letras de la UBA"
-  short_title="Variante alternativa de titulo para teasers"
   teaserline="Muestra del funcionamiento del escáner en V en jornada sobre accesibilidad"
   default_img="/uploads/posts/Cómo_producir_material_accesible_de_lectura/Dpv6KNSXcAAdk6i.jpeg"
   default_img_alt="Desarrollo de la jornada en la Biblioteca Central 'Prof. Augusto Raúl Cortázar'"
@@ -19,6 +18,13 @@ Organizaron: Programa de Discapacidad (SEUBE) y Subsecretaría de Bibliotecas ju
 
 <small>(*) Norberto Butler fue estudiante de la Facultad de Filosofía y Letras y militante por los derechos de las personas con discapacidad, ingresó a la carrera de Letras en el año 1984. La primera etapa de sus estudios asistía a clase superando muchas barreras ya que era usuario de silla de ruedas y ciego. Falleció el 3 de noviembre de 2016 cuando se encontraba finalizando la última materia de la carrera y realizaba la cursada presencial asistido por un transporte que lo trasladaba en camilla acompañado de una asistente personal.</small>
 
-<!-- http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
+<!-- 
+http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
+
 https://web.archive.org/web/20181008150523/http://novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
+
+https://twitter.com/BiblioHack/status/1055613656887713792
+
+https://twitter.com/BiblioHack/status/1052711836410421254
+
 -->
