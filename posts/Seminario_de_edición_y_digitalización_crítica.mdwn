@@ -11,9 +11,9 @@
 ]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/" ]]
 
-Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/), el [Museo Casa de Ricardo Rojas](https://museorojas.cultura.gob.ar) y [Bibliohack](http://bibliohack.org) se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el [*Seminario de Edición y Digitalización Crítica*](https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/).
+Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/), el [Museo Casa de Ricardo Rojas](https://museorojas.cultura.gob.ar) y [Bibliohack](http://bibliohack.org) y coordinado por el **Dr. Juan Mendoza**, se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el [*Seminario de Edición y Digitalización Crítica*](https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/).
 
-Coordinado por el **Dr. Juan Mendoza**, el curso abordó desde una  multiplicidad de visiones el proceso de digitalización, tomando como eje el proyecto de convertir a digital la obra más significativa de Ricardo Rojas, los cuatro tomos de la primera edición de la monumental *"Historia de la Literatura Argentina"*, tarea emprendida por el Laboratorio de Digitalización del Museo Casa de Ricardo Rojas. 
+El curso abordó desde una  multiplicidad de visiones el proceso de digitalización, tomando como eje el proyecto de convertir a digital la obra más significativa de Ricardo Rojas, los cuatro tomos de la primera edición de la monumental *"Historia de la Literatura Argentina"*, tarea emprendida por el Laboratorio de Digitalización del Museo Casa de Ricardo Rojas. 
 
 ¿Por qué hablar de "digitalización crítica"? La expresión juega con el concepto de "edición crítica", central en la práctica filológica, y ayuda a poner en evidencia que la digitalización no es un proceso "trivial y automático". Lo que llamamos digitalización de libros es, en la mayoría de casos, el proceso de generar una edición digital *facsimilar*. Cuántos aspectos del objeto físico pueden preservarse en la representación digital que generamos? ¿Qué información se conserva, qué información se descarta?
 
