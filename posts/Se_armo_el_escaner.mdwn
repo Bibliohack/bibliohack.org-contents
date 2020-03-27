@@ -90,5 +90,16 @@ Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Se
    data-description="">
 </div>
 
+<!--
+https://twitter.com/BiblioHack/status/1177988384654008321
 
+https://twitter.com/BiblioHack/status/1227421654650904576
+
+@YennValencia (Yenny Valencia) e Isabel Henao de Bibliotecas @Comfama
+ de Medellín y @amado_mila (Camila Amado Rivera)
+ y @ju_anacronica (Juana) de @BibloRedBogota
+ llevan adelante el ensamblaje del estativo de digitalización en el último día de #openconlatam2019
+
+La pintura, postergada, pero aquí podemos ver finalmente el prototipo del nuevo escáner cenital armado, después de haber "obturado por primera vez", al decir de @uy_anacronica. Muy pronto, funcionando en la Biblioteca Gabriel García Márquez de Bogotá
+-->
 
