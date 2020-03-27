@@ -5,7 +5,7 @@
   body_class="post" 
   default_img_alt="Las jornadas se realizaron el 29 y 30 de marzo en Buenos Aires."
   summary="Colaboramos con la Universidad Torcualto Di Tella y el Museo de Arte Moderno en la realización de Acceso, Jornadas sobre patrimonio cultural, práctica artistica y propiedad intelectual"
-  teaserline="Colaboramos con la Universidad Torcualto Di Tella y el Museo de Arte Moderno en la realización de este encuentro"
+  teaserline="Colaboramos con la Universidad Torcualto Di Tella y el Museo de Arte Moderno en la realización de este trascendente encuentro"
   featured=yes 
   unite_gallery="tiles" gallery_1="acceso_utdt"
 ]]
