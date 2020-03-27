@@ -1,0 +1,28 @@
+[[!tag activismo eventos]] 
+[[!meta title="OpenGLAM Argentina: patrimonio, acceso y propiedad intelectual"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta date="2018-06-19T12:00:00Z"]]
+[[!field
+  body_class="post" 
+  summary="Posiciones en debate ¿Cómo afecta la legislación sobre propiedad intelectual la mision de los museos y archivos?"
+  teaserline="Espacio de debate convocado por instituciones culturales en el auditorio MALBA"
+  default_img=""/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/openglam-malba.jpg"
+  default_img_alt="Encuentro OpenGLAM en el auditorio del MALBA"
+  featured=yes
+]]
+
+El lunes 18 de junio, se realizó el encuentro [“Patrimonio cultural, propiedad intelectual y acceso a la cultura”](https://es-la.facebook.com/openglam.argentina/photos/a.240509976682979/240509783349665/), dirigido a profesionales y gestores culturales de museos públicos, privados y fundaciones, y al público interesado en la temática.
+
+El objetivo fue abrir un espacio de debate sobre el Régimen Legal de la Propiedad Intelectual (Ley 11.723) y los modos en que afecta la tarea de museos y archivos. Desde el derecho y la gestión de patrimonio se presentaron diferentes posiciones y experiencias sobre la labor educativa y de difusión que realizan museos y archivos, y el uso que hacen de las imágenes de sus colecciones.
+
+Por un lado, las experiencias estuvieron a cargo de **Valeria Semilla** (MAMBA), **Socorro Giménez Cubillos** (MALBA), **Paula Casajús** (Bellas Artes), **Giselle Bordoy** (Wikimedia Argentina) y **Karina Luchetti** (Museo del Cine). Por otro lado, las perspectivas fueron aportadas por **Beatriz Busaniche** (Fundación Vía Libre), **Maximiliano Marzetti** (Universidad de Turin) y el **Dr. José Miguel Onaindia**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UilLJADFTCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![Encuentro: patrimonio cultural, propiedad intelectual y acceso a la cultura. Posiciones en debate](/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/flyer-openglam-malba.jpg)
+
+<!-- 
+https://www.vialibre.org.ar/2018/06/19/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/
+https://es-la.facebook.com/openglam.argentina/posts/248644882536155
+https://twitter.com/mbutel/status/1008780598524170247
+-->
