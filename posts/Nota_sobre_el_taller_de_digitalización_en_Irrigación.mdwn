@@ -1,5 +1,6 @@
 [[!tag prensa Irrigación-INCIHUSA-CONICET]] 
 [[!meta date="2018-03-28T12:00:00Z"]]
+[[!meta title="Mendoza: Taller de digitalización en Irrigación"]]
 [[!field
   default_img="/uploads/posts/Nota_sobre_el_taller_de_digitalización_en_Irrigación/DSC_8039.jpg"
   default_img_alt="Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un equipo que se está utilizando para la digitalización, que también se implementó en el Centro de Estudios Históricos de la Fuerza Aérea Argentina."
