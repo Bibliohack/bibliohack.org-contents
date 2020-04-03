@@ -11,23 +11,25 @@
  unite_gallery="tiles" gallery_1="malba_2018"
 ]]
 
-El lunes 18 de junio, en el Auditorio del Museo de Arte Latinoamericano de Buenos Aires (Malba) se realizó el encuentro [“Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate”](https://es-la.facebook.com/openglam.argentina/photos/a.240509976682979/240509783349665/), dirigido a profesionales y gestores culturales de museos públicos, privados y fundaciones, y al público interesado en la temática.
+El lunes 18 de junio, en el Auditorio del Museo de Arte Latinoamericano de Buenos Aires (Malba) se realizó el encuentro [**“Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate”**](https://es-la.facebook.com/openglam.argentina/photos/a.240509976682979/240509783349665/), dirigido a profesionales y gestores culturales de museos públicos, privados y fundaciones, y al público interesado en la temática.
 
-El objetivo fue abrir un espacio de debate sobre el Régimen Legal de la Propiedad Intelectual (Ley 11.723) y los modos en que afecta la tarea de museos y archivos. Desde el derecho y la gestión de patrimonio se presentaron diferentes posiciones y experiencias sobre la labor educativa y de difusión que realizan museos y archivos, y el uso que hacen de las imágenes de sus colecciones.
+El objetivo fue abrir un espacio de debate sobre el **Régimen Legal de la Propiedad Intelectual** (Ley 11.723) y los modos en que afecta la tarea de museos y archivos. Desde el derecho y la gestión de patrimonio se presentaron diferentes posiciones y experiencias sobre la labor educativa y de difusión que realizan estas instituciones, y el uso que hacen de las imágenes de sus colecciones.
 
-Por un lado, las experiencias de gestión desde las instituciones y organizaciones fueron relatadas por **Valeria Semilla** del Museo de Arte Moderno de Buenos Aires, **Socorro Giménez Cubillos** del Malba, **Paula Casajús** del Museo Nacional de Bellas Artes, **Giselle Bordoy** de Wikimedia Argentina y **Karina Luchetti** del Museo del Cine Pablo Ducrós Hicken. 
+Por un lado, las experiencias de gestión desde museos y repositorios digitles fueron relatadas por **Valeria Semilla** del Museo de Arte Moderno de Buenos Aires, **Socorro Giménez Cubillos** del Malba, **Paula Casajús** del Museo Nacional de Bellas Artes, **Giselle Bordoy** de Wikimedia Argentina y **Karina Luchetti** del Museo del Cine Pablo Ducrós Hicken. 
 
-Por otro lado, las perspectivas desde el derecho y el activismo fueron aportadas por **Beatriz Busaniche** (Fundación Vía Libre), **Maximiliano Marzetti** (Universidad de Turin) y el **Dr. José Miguel Onaindia**.
+Por otro lado, las perspectivas desde el derecho fueron aportadas por **Beatriz Busaniche** (Fundación Vía Libre), **Maximiliano Marzetti** (Universidad de Turin) y el **Dr. José Miguel Onaindia**.
 
 Fue organizado por [Malba](https://malba.org.ar), [Museo de Arte Moderno de Buenos Aires](https://www.museomoderno.org/es), [OpenGLAM Argentina](http://openglam.org.ar). Colaboraron [Museo de Bellas Artes](https://www.bellasartes.gob.ar/), [Museo del Cine](https://www.buenosaires.gob.ar/museos/museo-del-cine-pablo-ducros-hicken) y [ArteBA](http://arteba.org/2020/).
 
-El evento fue registrado integramente por el Museo del Cine ([ver en Youtube](https://www.youtube.com/watch?v=UilLJADFTCA)):
+El evento fue registrado integramente por el Museo del Cine:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UilLJADFTCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Este evento fue la segunda convocatoria en menos de un año desde el exitoso [Primer Encuentro OpenGLAM Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/) donde varias instituciones referentes del mundo los museos, archivos y bibliotecas del área metropolitana y también del interior, se reunieran en el Museo de Arte Moderno para debatir problemáticas comunes: recursos y etrategias para poner en linea sus colecciones y las tensiones generadas con nuestra legislación de propiedad intelectual. 
+([enlace a Youtube](https://www.youtube.com/watch?v=UilLJADFTCA))
 
-En esta ocasión se profundizaron y analizaron las experiencias de las instituciones en la primer parte del evento, y se convocó a especialistas de reconocimiento mundial sobre propiedad intelectual para comprender la complejidad del problema en la segunda. Al igual que en el primer encuentro debe destacarse la diversidad de la convocatoria: asistieron colegas de muchas organizaciones de la cultura, tanto privadas como públicas, dependientes del gobierno de la Ciudad, de Nación, de administraciones provinciales y municipales. También colegas de organismos ministeriales, organizaciones civiles y de la cultura independiente.
+Este evento fue la segunda convocatoria en menos de un año desde el exitoso [Primer Encuentro OpenGLAM Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/) donde varias instituciones referentes del mundo los museos, archivos y bibliotecas del área metropolitana y también del interior, se reunieran en el Museo de Arte Moderno para debatir **problemáticas comunes**: recursos y etrategias para poner en linea sus colecciones y las tensiones generadas con nuestra legislación de propiedad intelectual. 
+
+En esta ocasión se profundizaron y analizaron las experiencias de las instituciones en la primer parte del evento, y se convocó a especialistas de reconocimiento mundial sobre propiedad intelectual para comprender la complejidad del problema en la segunda. Al igual que en el primer encuentro debe destacarse la **diversidad de la convocatoria**: asistieron colegas de muchas organizaciones de la cultura, tanto privadas como públicas, dependientes del gobierno de la Ciudad, de Nación, de administraciones provinciales y municipales. También colegas de organismos ministeriales, organizaciones civiles y de la cultura independiente.
 
 ### Galería de imágenes
 
