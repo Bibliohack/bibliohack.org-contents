@@ -23,8 +23,6 @@ El evento fue registrado integramente por el Museo del Cine ([ver en Youtube](ht
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UilLJADFTCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Encuentro: patrimonio cultural, propiedad intelectual y acceso a la cultura. Posiciones en debate](/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/flyer-openglam-malba.jpg)
-
 ### Galería de imágenes
 
 <div id="malba_2018" class="unite-gallery tiles" style="display:none;">
@@ -62,6 +60,9 @@ El evento fue registrado integramente por el Museo del Cine ([ver en Youtube](ht
    data-image="/uploads/galleries/malba_2018/1280px/09.jpg"
    data-description="">
 </div>
+
+![Encuentro: patrimonio cultural, propiedad intelectual y acceso a la cultura. Posiciones en debate](/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/flyer-openglam-malba.jpg)
+
 
 Enlaces:
  * [Anuncio del evento en OpenGlam Argentina](https://es-la.facebook.com/openglam.argentina/posts/248644882536155)
