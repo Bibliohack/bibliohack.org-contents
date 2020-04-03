@@ -1,6 +1,5 @@
 [[!tag activismo eventos]] 
 [[!meta title="OpenGLAM Argentina: patrimonio, acceso y propiedad intelectual"]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2018-06-19T12:00:00Z"]]
 [[!field
   body_class="post" 
@@ -9,6 +8,7 @@
   default_img="/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/openglam-malba.jpg"
   default_img_alt="Encuentro OpenGLAM en el auditorio del MALBA"
   featured=yes
+ unite_gallery="tiles" gallery_1="malba_2018"
 ]]
 
 El lunes 18 de junio, se realizó el encuentro [“Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate”](https://es-la.facebook.com/openglam.argentina/photos/a.240509976682979/240509783349665/), dirigido a profesionales y gestores culturales de museos públicos, privados y fundaciones, y al público interesado en la temática.
@@ -19,9 +19,55 @@ Por un lado, las experiencias estuvieron a cargo de **Valeria Semilla** (MAMBA),
 
 Fue organizado por [MALBA](), [Museo de Arte Moderno de Buenos Aires](), [OpenGLAM Argentina](). Colaboraron [Museo de Bellas Artes](), [Museo del Cine]() y [ArteBA]().
 
+El evento fue registrado integramente por el Museo del Cine ([ver en Youtube](https://www.youtube.com/watch?v=UilLJADFTCA)):
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UilLJADFTCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Encuentro: patrimonio cultural, propiedad intelectual y acceso a la cultura. Posiciones en debate](/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/flyer-openglam-malba.jpg)
+
+### Galería de imágenes
+
+<div id="malba_2018" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/malba_2018/300px/001.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/001.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/malba_2018/300px/002.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/002.jpg"
+   data-description="">
+   <img alt="Presentación del evento a cargo de Matias Butelman" src="/uploads/galleries/malba_2018/300px/000-opengalm-malba.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/000-opengalm-malba.jpg"
+   data-description="">
+   <img alt="Primera Mesa a cargo de Valeria Semilla (MAMBA), Socorro Giménez Cubillos (MALBA), Karina Luchetti (Museo del Cine), Paula Casajús (Bellas Artes) y Giselle Bordoy (Wikimedia Argentina)." src="/uploads/galleries/malba_2018/300px/02-derechos-de-reproducción.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/02-derechos-de-reproducción.jpg"
+   data-description="">
+   <img alt="Valeria Semilla, Socorro Giménez Cubillos, Karina Luchetti, Paula Casajús y Giselle Bordoy." src="/uploads/galleries/malba_2018/300px/03.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/03.jpg"
+   data-description="">
+   <img alt="Valeria Semilla, Socorro Giménez Cubillos, Karina Luchetti, Paula Casajús y Giselle Bordoy." src="/uploads/galleries/malba_2018/300px/04.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/04.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/malba_2018/300px/05.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/05.jpg"
+   data-description="">
+   <img alt="Segunda Mesa, perspectivas sobre PI aportadas por Maximiliano Marzetti (Universidad de Turin), Beatriz Busaniche (Fundación Vía Libre) y el Dr. José Miguel Onaindia." src="/uploads/galleries/malba_2018/300px/06.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/06.jpg"
+   data-description="">
+   <img alt="Maximiliano Marzetti, Beatriz Busaniche y  José Miguel Onaindia." src="/uploads/galleries/malba_2018/300px/07.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/07.jpg"
+   data-description="">
+   <img alt="Maximiliano Marzetti, Beatriz Busaniche y  José Miguel Onaindia." src="/uploads/galleries/malba_2018/300px/08.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/08.jpg"
+   data-description="">
+   <img alt="Maximiliano Marzetti, Beatriz Busaniche y  José Miguel Onaindia." src="/uploads/galleries/malba_2018/300px/09.jpg"
+   data-image="/uploads/galleries/malba_2018/1280px/09.jpg"
+   data-description="">
+</div>
+
+Enlaces:
+ * [Anuncio del evento en OpenGlam Argentina](https://es-la.facebook.com/openglam.argentina/posts/248644882536155)
+ * Reseña en el [Moderno](https://www.museomoderno.org/es/noticias/patrimonio-cultural-propiedad-intelectual-y-acceso-la-cultura)
+ * Reseña en [Vía Libre](https://www.vialibre.org.ar/2018/06/19/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/)
+ * Reseña en el [Museo del Cine](https://museodelcineba.org/blog/patrimonio-cultural-acceso-a-la-cultura-y-propiedad-intelectual/)
 
 <!-- 
 https://www.vialibre.org.ar/2018/06/19/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/
