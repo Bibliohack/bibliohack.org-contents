@@ -65,10 +65,11 @@ El evento fue registrado integramente por el Museo del Cine ([ver en Youtube](ht
 
 
 Enlaces:
+
+ * [Reseña en el Moderno](https://www.museomoderno.org/es/noticias/patrimonio-cultural-propiedad-intelectual-y-acceso-la-cultura)
  * [Anuncio del evento en OpenGlam Argentina](https://es-la.facebook.com/openglam.argentina/posts/248644882536155)
- * Reseña en el [Moderno](https://www.museomoderno.org/es/noticias/patrimonio-cultural-propiedad-intelectual-y-acceso-la-cultura)
- * Reseña en [Vía Libre](https://www.vialibre.org.ar/2018/06/19/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/)
- * Reseña en el [Museo del Cine](https://museodelcineba.org/blog/patrimonio-cultural-acceso-a-la-cultura-y-propiedad-intelectual/)
+ * [Reseña del Museo del Cine](https://museodelcineba.org/blog/patrimonio-cultural-acceso-a-la-cultura-y-propiedad-intelectual/)
+ * [Reseña de Vía Libre](https://www.vialibre.org.ar/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/)
 
 <!-- 
 https://www.vialibre.org.ar/2018/06/19/se-realizo-el-encuentro-de-patrimonio-acceso-a-la-cultura-y-propiedad-intelectual-openglam-argentina/
@@ -78,4 +79,7 @@ https://www.museomoderno.org/es/noticias/patrimonio-cultural-propiedad-intelectu
 https://museodelcineba.org/blog/patrimonio-cultural-acceso-a-la-cultura-y-propiedad-intelectual/
 https://twitter.com/museodelcineba/status/1009081583742214144
 https://www.youtube.com/watch?v=UilLJADFTCA
+
+https://web.archive.org/web/20200404093729/https://www.museomoderno.org/es/noticias/patrimonio-cultural-propiedad-intelectual-y-acceso-la-cultura
+https://web.archive.org/web/20200404093814/https://museodelcineba.org/blog/patrimonio-cultural-acceso-a-la-cultura-y-propiedad-intelectual/
 -->
