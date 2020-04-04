@@ -1,0 +1,23 @@
+[[!tag eventos]] 
+[[!meta date="2017-09-20T12:00:00Z"]]
+[[!field
+  body_class="post" 
+  summary="Bibliohack realizó una presentación en un encuentro organizado por el Museo Nacional del Cabildo"
+  teaserline="Bibliohack participó en un encuentro organizado por el Museo Nacional del Cabildo"
+]]
+<!-- 
+  default_img="/uploads/posts/Manzana_de_las_Luces/DKA9zdLXoAIOyMm-crop.jpeg"
+  default_img_alt="Expusimos la experienca de Bibliohack en el II Encuentro de Digitalización y Conservación"
+  featured=yes   // aparece en portada?
+
+-->
+
+
+Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
+
+<!--
+https://www.facebook.com/events/Asinppac-museos-bibliotecas-558716710929804/ii-encuentro-de-conservaci%C3%B3n-y-digitalizaci%C3%B3n/324678494637251/
+https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/
+https://twitter.com/search?q=from%3Aderechoaleer%20until%3A2017-09-19%20since%3A2017-09-18&src=typed_query&f=live
+https://www.eventbrite.com.ar/e/ii-encuentro-de-conservacion-y-digitalizacion-tickets-35379706655?aff=efbevent#
+-->
