@@ -1,5 +1,6 @@
 [[!tag eventos]] 
 [[!meta date="2017-09-20T12:00:00Z"]]
+[[!meta title="Encuentro sobre conservación y digitalizacion en la Manzana de las Luces"]]
 [[!field
   body_class="post" 
   summary="Bibliohack realizó una presentación en un encuentro organizado por el Museo Nacional del Cabildo"
