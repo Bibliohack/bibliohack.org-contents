@@ -10,7 +10,13 @@
   short_title="Conservación y digitalizacion en la Manzana de las Luces"
 ]]
 
-Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
+Luego de un primer encuentro en 2016 sobre la conservación de colecciones patrimoniales y su difusión mediante la digitalización, el **Museo Nacional del Cabildo** y la ***Manzana de las Luces** organizaron este [segundo encuentro](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/) el 17 de septiembre pasado, con numerosa asistencia de profesionales del ámbito de la catalogación, conservación y restauración del patrimonio cultural.
+
+A lo largo de la jornada se realizaron alrededor de 12 presentaciones sobre diferentes experiencias y metodologías. Se buscaba concientizar sobre la importancia de la preservación de las colecciones mediante la conversión a digital –que disminuye la manipulación y deterioro del material físico y aumenta el alcance de la difusión y su puesta en valor. Tambien se buscó capacitar a los trabajadores de archivos, museos y bibliotecas respecto de las mejores opciones en digitalización, preservación y acceso. Temas como las técnicas de registro tridimensional de objetos, la digitalización de archivos audiovisuales y sonoros (como diapositivas, VHS, cassette o films) o el uso de IoT ("Internet de las cosas") en los museos, formaron parte del programa. Las [presentaciones pueden consultarse aqui](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/)
+
+Desde **Bibliohack** contamos nuestra experiencia en los proyectos de digitalización de varias instituciones, la existencia de dispositivos para digitalizar libros y documentos de bajo costo "auto-contruibles" y las fortalezas del paradigma del **software y hardware libre** para el desarrollo de los procesos de digitalización y puesta en línea de colecciones. Tambien contamos nuestra visión sobre la necesidad de construcción de redes colaborativas en la produccion conocimiento y recursos entre las instituciones, tomando como ejemplo la Digital Public Library of America (DPLA) y su semejanza con los ecosistemas de desarrollo abiertos de la industria del software o de proyectos como Wikipedia. La presentacion puede descargarse desde aqui.
+
+Algunas imágenes del evento:
 
 <!--
 https://www.facebook.com/events/Asinppac-museos-bibliotecas-558716710929804/ii-encuentro-de-conservaci%C3%B3n-y-digitalizaci%C3%B3n/324678494637251/
