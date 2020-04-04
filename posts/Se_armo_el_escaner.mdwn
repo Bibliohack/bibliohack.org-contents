@@ -21,9 +21,16 @@
   default_video_poster="/ruta/a/imagen.jpg"
 -->
 
-### Subtitulo
+Con la ayuda de Yenny Valencia e Isabel Henao de Bibliotecas Comfama de Medellín, y de Camila Amado Rivera y María Juana Espinosa de [BibloRed](https://www.biblored.gov.co/) (Red Distrital de Bibliotecas Públicas de Colombia) llevamos adelante el ensamblaje de un estativo de digitalización autoconstruible diseñado por Bibliohack, en el último día de la conferencia **OpenCon Latam 2019**.
 
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
+OpenCon es la conferencia internacional sobre acceso abierto al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. [Este año se realizó en Colombia](https://www.opencon2018.org/opencon_2019_latam).
+
+Para nosotros, el desafío consistió en proveer la información y el know-how necesario para construir un prototipo funcional de un escáner cenital en una geografía lejana a la nuestra, y que esta práctica la llevaran a cabo colegas del ámbito de humanidades con poca formación tecnica en la construcción de esta clase de dispositivos. Durante el transcurso de la jornada, en un espacio de la universidad, se pudo realizar el ensamblaje mientras en Buenos Aires armábamos **un aparato gemelo**. A través de videos de corta duración e intercambio de fotos, enviamos indicaciones de armado y respodimos dudas. El corte de las piezas lo coordinó María Juana Espinosa con un proveedor en Bogotá, en los días previos al ensamble. Otros materiales y herramientas fueron adquiridas localmente.
+
+La experiencia fue exitosa, el dispositvo fue construido rápidamente y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto
+
+El clon construido en Buenos Aires actualmente es utilizado en la Academia Nacional de Historia de Argentina. El prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
+
 
 ### Galería de imágenes
 
@@ -85,8 +92,17 @@ Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Se
 <img alt="" src="/uploads/galleries/se_armo/300px/IMG_20190928_134256_725.jpg"
    data-image="/uploads/galleries/se_armo/1280px/IMG_20190928_134256_725.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/se_armo/300px/flyer_se_armo.jpg"
+<img alt="El clon armado en Buenos Aires se instaló en la Academia Nacional de Historia de Argentina" src="/uploads/galleries/se_armo/300px/academia.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/academia.jpg"
+   data-description="">
+<img alt="El escaner luego de haber 'obturado por primera vez', al decir de Juana." src="/uploads/galleries/se_armo/300px/final.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/final.jpg"
+   data-description="">
+<img alt="Flyer de la convicatoria" src="/uploads/galleries/se_armo/300px/flyer_se_armo.jpg"
    data-image="/uploads/galleries/se_armo/1280px/flyer_se_armo.jpg"
+   data-description="">
+<img alt="Foto grupal al final de la OpenCon Latam 2019" src="/uploads/galleries/se_armo/300px/grupal_opencon.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/grupal_opencon.jpg"
    data-description="">
 </div>
 
