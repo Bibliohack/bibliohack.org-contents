@@ -21,15 +21,15 @@
   default_video_poster="/ruta/a/imagen.jpg"
 -->
 
-Con la ayuda de Yenny Valencia e Isabel Henao de Bibliotecas Comfama de Medellín, y de Camila Amado Rivera y María Juana Espinosa de [BibloRed](https://www.biblored.gov.co/) (Red Distrital de Bibliotecas Públicas de Colombia) llevamos adelante el ensamblaje de un estativo de digitalización autoconstruible diseñado por Bibliohack, en el último día de la conferencia **OpenCon Latam 2019**.
+Con la ayuda de **Yenny Valencia** e **Isabel Henao** de Bibliotecas Comfama de Medellín, y de **Camila Amado Rivera** y **María Juana Espinosa** de [BibloRed](https://www.biblored.gov.co/) (Red Distrital de Bibliotecas Públicas de Colombia) llevamos adelante el ensamblaje de un estativo de digitalización autoconstruible diseñado por Bibliohack, en el último día de la conferencia **OpenCon Latam 2019**.
 
-OpenCon es la conferencia internacional sobre acceso abierto al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. [Este año se realizó en Colombia](https://www.opencon2018.org/opencon_2019_latam).
+**OpenCon** es la conferencia internacional sobre **acceso abierto** al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. OpenCon apoya la realización de eventos satélite, que han tenido lugar en 25 países. [Este año la tercer versión latinoamericana se realizó en Colombia](https://www.opencon2018.org/opencon_2019_latam). En este evento además Matias presentó su ponencia "Abrir bibliotecas, archivos y museos en Latinoamérica: un desafío situado".
 
-Para nosotros, el desafío consistió en proveer la información y el know-how necesario para construir un prototipo funcional de un escáner cenital en una geografía lejana a la nuestra, y que esta práctica la llevaran a cabo colegas del ámbito de humanidades con poca formación tecnica en la construcción de esta clase de dispositivos. Con la presencia de Matias Butelman durante el transcurso de la jornada, las colegas interesadas pudieron realizar el ensamblaje en un espacio de la Universidad Nacional de Colombia mientras en Buenos Aires armábamos **un aparato gemelo**. A través de videos de corta duración e intercambio de fotos, enviamos indicaciones de armado y respodimos dudas. El corte de las piezas lo coordinó María Juana Espinosa con un proveedor en Bogotá, en los días previos al ensamble. Otros materiales y herramientas también fueron adquiridas localmente.
+El desafío para Bibiohack consistió en proveer la información y el *know-how* necesario para construir un prototipo funcional de un escáner cenital en una geografía lejana a la nuestra, y que esta práctica la llevaran a cabo colegas del ámbito de humanidades con poca formación tecnica en la construcción de esta clase de dispositivos, com el fin de probar la viabilidad de esta modalidad de fabricación. Con la presencia de Matias durante el transcurso de la jornada, las colegas interesadas pudieron realizar el ensamblaje en un espacio de edificio de Ciencia y Tecnología de la sede Bogotá de Universidad Nacional de Colombia, mientras en Buenos Aires armábamos **un aparato gemelo**. A través de videos de corta duración e intercambio de fotos, enviamos indicaciones de armado y respodimos dudas desde aquí. El corte de las piezas lo coordinó María Juana Espinosa con un proveedor en Bogotá, en los días previos al ensamble. Otros materiales y herramientas también fueron adquiridas localmente.
 
-La experiencia fue exitosa, el dispositvo fue construido rápidamente y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto
+La experiencia fue exitosa, el dispositvo fue construido rápidamente y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto.
 
-El clon construido en Buenos Aires tuvo como destino la Academia Nacional de Historia de Argentina. El prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
+El clon construido en Buenos Aires tuvo como destino la Academia Nacional de Historia de Argentina y el prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
 
 ### Galería de imágenes
 
@@ -110,13 +110,9 @@ https://twitter.com/BiblioHack/status/1177988384654008321
 
 https://twitter.com/BiblioHack/status/1227421654650904576
 
-@YennValencia (Yenny Valencia) e Isabel Henao de Bibliotecas @Comfama (Bibliotecas Comfama)
- de Medellín y @amado_mila (Camila Amado Rivera)
- y @ju_anacronica (María Juana Espinosa) de @BibloRedBogota (Red Distrital de Bibliotecas Públicas https://www.biblored.gov.co/) llevan adelante el ensamblaje del estativo de digitalización en el último día de #openconlatam2019
+https://www.opencon2018.org/opencon_2019_latam
 
-La pintura, postergada, pero aquí podemos ver finalmente el prototipo del nuevo escáner cenital armado, después de haber "obturado por primera vez", al decir de @uy_anacronica. Muy pronto, funcionando en la Biblioteca Gabriel García Márquez de Bogotá
-
-Comfama (Caja de Compensación Familiar de Antioquia) es una empresa social de carácter privado, autónoma, vigilada por el Estado colombiano, que cubre con sus acciones a 4´600.000 personas en el Departamento de Antioquia y aporta a su bienestar y felicidad entregando servicios de salud, educación, crédito, subsidio cuota monetaria, empleabilidad, vivienda, recreación y cultura. Fue creada en 1954 como resultado de un pacto voluntario entre empresarios y sindicatos para mejorar la calidad de vida de la población trabajadora, constituye una de las más novedosas y exitosas experiencias de política social.
+https://conferencias.unimilitar.edu.co/index.php/opencon/2019
 
 -->
 
