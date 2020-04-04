@@ -99,14 +99,13 @@ En esta visita también co-organizamos junto a la Maestría en Humanidades Digit
    data-description="">
 </div>
 
+Las piezas del estativo:
+
+![texto alternativo](/uploads/posts/Se_armo_el_escaner/planos.png)
+
 <!--
 https://twitter.com/BiblioHack/status/1177988384654008321
-
 https://twitter.com/BiblioHack/status/1227421654650904576
-
 https://www.opencon2018.org/opencon_2019_latam
-
 https://conferencias.unimilitar.edu.co/index.php/opencon/2019
-
 -->
-
