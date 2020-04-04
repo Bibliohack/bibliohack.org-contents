@@ -13,14 +13,6 @@
 ]]
 
 
-<!-- 
-
-  short_title="Titulo para teasers"
-  default_video="/ruta/video"
-  default_video_alt="texto"
-  default_video_poster="/ruta/a/imagen.jpg"
--->
-
 **OpenCon** es la conferencia internacional sobre **acceso abierto** al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. OpenCon apoya la realización de eventos satélite, que han tenido lugar en 25 países. Este año la tercer versión latinoamericana se realizó en Colombia, la [OpenCon Latam 2019](https://www.opencon2018.org/opencon_2019_latam). Matias Butelman de Bibliohack asistió a la conferencia en Bogotá para presentar su ponencia **"Abrir bibliotecas, archivos y museos en Latinoamérica: un desafío situado"**.
 
 Luego, con la ayuda de **Yenny Valencia** e **Isabel Henao** de Bibliotecas Comfama de Medellín, y de **Camila Amado Rivera** y **María Juana Espinosa** de [BibloRed](https://www.biblored.gov.co/) (Red Distrital de Bibliotecas Públicas de Colombia) llevamos adelante el **ensamblaje experimental de un estativo de digitalización autoconstruible diseñado por Bibliohack**, en el último día de la OpenCon.
@@ -30,6 +22,8 @@ El desafío para Bibiohack consistió en proveer la información y el *know-how*
 La experiencia fue muy exitosa, **el dispositvo fue construido rápidamente** y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto.
 
 El clon armado en Buenos Aires tuvo como destino la Academia Nacional de Historia de Argentina y el prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
+
+En esta visita también co-organizamos junto a la Maestría en Humanidades Digitales de la Universidad de los Andes, y BibloRed el evento [**Abrir Colecciones en Latinomérica**](/posts/Abrir_Colecciones_en_Latinoamérica/).
 
 ### Galería de imágenes
 
