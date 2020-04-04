@@ -99,7 +99,7 @@ En esta visita también co-organizamos junto a la Maestría en Humanidades Digit
    data-description="">
 </div>
 
-Las esquemas, planos e instructivos para armar este dispositivo están liberados como todo el material que genera Bibliohack. Los cortes para MDF pueden descargarse [aqui](https://github.com/d-a-l/estativos-desarrollo/tree/master/colombia), sin embargo algunos problemas observados en este prototipo serán resultos en el siguiente modelos de estativo cenital estandar, asi que no recomendamos utilizar este diseño actualmente.
+Las esquemas, planos e instructivos para armar este dispositivo están liberados como todo el material que genera Bibliohack. Los cortes para MDF pueden descargarse [aqui](https://github.com/d-a-l/estativos-desarrollo/tree/master/colombia), sin embargo algunos problemas observados en este prototipo estan corriguiéndose en el siguiente modelo de estativo cenital estandar a publicarse en 2020, asi que no recomendamos utilizar este diseño por ahora.
 
 ![Cortes para estativo plano](/uploads/posts/Se_armo_el_escaner/planos.png)
 
