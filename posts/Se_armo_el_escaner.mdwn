@@ -25,12 +25,11 @@ Con la ayuda de Yenny Valencia e Isabel Henao de Bibliotecas Comfama de Medellí
 
 OpenCon es la conferencia internacional sobre acceso abierto al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. [Este año se realizó en Colombia](https://www.opencon2018.org/opencon_2019_latam).
 
-Para nosotros, el desafío consistió en proveer la información y el know-how necesario para construir un prototipo funcional de un escáner cenital en una geografía lejana a la nuestra, y que esta práctica la llevaran a cabo colegas del ámbito de humanidades con poca formación tecnica en la construcción de esta clase de dispositivos. Durante el transcurso de la jornada, en un espacio de la universidad, se pudo realizar el ensamblaje mientras en Buenos Aires armábamos **un aparato gemelo**. A través de videos de corta duración e intercambio de fotos, enviamos indicaciones de armado y respodimos dudas. El corte de las piezas lo coordinó María Juana Espinosa con un proveedor en Bogotá, en los días previos al ensamble. Otros materiales y herramientas fueron adquiridas localmente.
+Para nosotros, el desafío consistió en proveer la información y el know-how necesario para construir un prototipo funcional de un escáner cenital en una geografía lejana a la nuestra, y que esta práctica la llevaran a cabo colegas del ámbito de humanidades con poca formación tecnica en la construcción de esta clase de dispositivos. Con la presencia de Matias Butelman durante el transcurso de la jornada, las colegas interesadas pudieron realizar el ensamblaje en un espacio de la Universidad Nacional de Colombia mientras en Buenos Aires armábamos **un aparato gemelo**. A través de videos de corta duración e intercambio de fotos, enviamos indicaciones de armado y respodimos dudas. El corte de las piezas lo coordinó María Juana Espinosa con un proveedor en Bogotá, en los días previos al ensamble. Otros materiales y herramientas también fueron adquiridas localmente.
 
 La experiencia fue exitosa, el dispositvo fue construido rápidamente y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto
 
-El clon construido en Buenos Aires actualmente es utilizado en la Academia Nacional de Historia de Argentina. El prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
-
+El clon construido en Buenos Aires tuvo como destino la Academia Nacional de Historia de Argentina. El prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
 
 ### Galería de imágenes
 
