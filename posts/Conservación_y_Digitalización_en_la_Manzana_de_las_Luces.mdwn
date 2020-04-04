@@ -7,6 +7,7 @@
   teaserline="Bibliohack participó en un encuentro organizado por el Museo Nacional del Cabildo"
   default_img="/uploads/posts/Manzana_de_las_Luces/DKA9zdLXoAIOyMm-crop.jpeg"
   default_img_alt="Expusimos la experienca de Bibliohack en el II Encuentro de Digitalización y Conservación"
+  short_title="Conservación y digitalizacion en la Manzana de las Luces"
 ]]
 
 Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
