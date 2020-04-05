@@ -1,5 +1,5 @@
 [[!tag activismo eventos formación openglam]] 
-[[!meta title="OpenGLAM: encuentro sobre estrategias digitales para museos y archivos"]]
+[[!meta title="Encuentro sobre estrategias digitales para museos y archivos"]]
 [[!meta date="2018-12-20T12:00:00Z"]]
 [[!field
   body_class="post" 
@@ -7,8 +7,8 @@
 [[!field 
   default_img="/uploads/posts/Estrategias_digitales_para_museos_y_archivos/typ-banner.jpg" 
   default_img_alt="Encuentro en el Museo de Arte Moderno de Buenos Aires"
-  summary="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno de Buenos Aires sobre Tecnología y Patrimonio"
-  teaserline="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno"
+  summary="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno de Buenos Aires sobre Tecnología, Patrimonio y OpenGLAM."
+  teaserline="OpenGLAM: exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno"
   featured=yes 
 ]]
 
