@@ -85,6 +85,12 @@ En esta visita también co-organizamos junto a la Maestría en Humanidades Digit
 <img alt="" src="/uploads/galleries/se_armo/300px/IMG_20190928_134256_725.jpg"
    data-image="/uploads/galleries/se_armo/1280px/IMG_20190928_134256_725.jpg"
    data-description="">
+<img alt="Instrucciones de ensamblado, en Buenos Aires." src="/uploads/galleries/se_armo/300px/armado_arg-ej.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/armado_arg-ej.jpg"
+   data-description="">
+<img alt="Prototipo finalizado durante la jornada en Buenos Aires." src="/uploads/galleries/se_armo/300px/armado_arg.jpg"
+   data-image="/uploads/galleries/se_armo/1280px/armado_arg.jpg"
+   data-description="">
 <img alt="El clon armado en Buenos Aires se instaló en la Academia Nacional de Historia de Argentina" src="/uploads/galleries/se_armo/300px/academia.jpg"
    data-image="/uploads/galleries/se_armo/1280px/academia.jpg"
    data-description="">
