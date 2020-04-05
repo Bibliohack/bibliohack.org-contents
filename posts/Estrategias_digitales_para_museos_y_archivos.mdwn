@@ -1,0 +1,20 @@
+[[!tag activismo eventos formación openglam]] 
+[[!meta title="OpenGLAM: encuentro sobre estrategias digitales para museos y archivos"]]
+[[!meta date="2018-12-20T12:00:00Z"]]
+[[!field
+  body_class="post" 
+]]
+[[!field 
+  default_img="/uploads/posts/Estrategias_digitales_para_museos_y_archivos/typ_moderno.jpg" 
+  default_img_alt="Encuentro en el Museo de Arte Moderno de Buenos Aires"
+  summary="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno de Buenos Aires sobre Tecnología y Patrimonio"
+  teaserline="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno"
+  featured=yes 
+]]
+
+Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
+
+<!-- 
+https://www.facebook.com/events/museo-de-arte-moderno-de-buenos-aires/encuentro-de-tecnolog%C3%ADa-y-patrimonio-en-el-moderno/358794458012731/
+https://twitter.com/FViaLibre/status/1075343440878166017
+-->
