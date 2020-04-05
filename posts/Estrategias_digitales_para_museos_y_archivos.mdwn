@@ -8,7 +8,7 @@
   default_img="/uploads/posts/Estrategias_digitales_para_museos_y_archivos/typ-banner.jpg" 
   default_img_alt="Encuentro en el Museo de Arte Moderno de Buenos Aires"
   summary="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno de Buenos Aires sobre Tecnología, Patrimonio y OpenGLAM."
-  teaserline="OpenGLAM: exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno"
+  teaserline="Exitosa convocatoria co-organizada por Bibliohack en el Museo de Arte Moderno"
   featured=yes 
 ]]
 
