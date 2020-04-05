@@ -47,6 +47,21 @@ Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Pro
 ### Galería de imágenes del evento
 
 <div id="excepciones_limitaciones_y_dominio_pub" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_150520.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_150520.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_152029.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_152029.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_160708.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_160708.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_161049.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_161049.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_161900.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_161900.jpg"
+   data-description="">
    <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/65775436_2417772658268955_4385513178058981376_o.jpg"
    data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/65775436_2417772658268955_4385513178058981376_o.jpg"
    data-description="">
@@ -59,7 +74,16 @@ Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Pro
    <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66202585_2417777511601803_3374612906057400320_o.jpg"
    data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66202585_2417777511601803_3374612906057400320_o.jpg"
    data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/encuenro_pi2.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/encuenro_pi2.jpg"
+   data-description="">
    <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66224930_2417772664935621_6070665397898575872_o.jpg"
    data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66224930_2417772664935621_6070665397898575872_o.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/IMG_20190628_143714522.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/IMG_20190628_143714522.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/IMG_20190628_151359719.jpg"
+   data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/IMG_20190628_151359719.jpg"
    data-description="">
 </div>
