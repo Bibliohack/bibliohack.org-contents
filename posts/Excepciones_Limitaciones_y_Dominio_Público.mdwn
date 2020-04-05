@@ -24,7 +24,7 @@ Más de medio centenar de participantes concurrieron al Polo Tecnológico a deba
 
 Este encuentro se inscribe en una serie de actividades impulsada por un grupo de instituciones e individuos iniciada en 2017 a partir del [primer encuentro OpenGLAM de Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/) en el Moderno. Podemos mencionar en esta serie:
 
- * [Acceso, Jornadas sobre Patrimnobio Cultural, Práctica Artística, Propiedad Intelectual](/posts/Estrategias_digitales_para_museos_y_archivos/) en la Universidad Torcuato Di Tella (marzo de 2019)
+ * [Acceso, Jornadas sobre Patrimnobio Cultural, Práctica Artística, Propiedad Intelectual](/posts/Jornadas_Acceso/) en la Universidad Torcuato Di Tella (marzo de 2019)
  * [Técnología y Patrimonio, Estrategias Digitales para Bibliotecas, Archivos y Museos](/posts/Estrategias_digitales_para_museos_y_archivos/) en el Moderno (diciembre de 2018)
  * [Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate](/posts/malba_patrimonio_acceso_y_propiedad_intelectual/) en el Malba (junio de 2018)
 
