@@ -7,11 +7,8 @@
   summary="Junto con el Museo de Arte Moderno, Wikimedia Argentina, Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación co-organizamos el primer encuentro OpenGLAM en Buenos Aires."
   teaserline="Bibliohack ayudó a organizar el primer encuentro OpenGLAM de Argentina."
   featured=yes
+  unite_gallery="tiles" gallery_1="openglam_argentina_2017"
 ]]
-<!-- 
-  featured=yes
-  short_title="Titulo para teasers"
--->
 
 El **4 de diciembre de 2017** se llevó a cabo el [**Primer Encuentro OpenGLAM Argentina**](http://openglam.org.ar/#comunidad) organizado por el **Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, **Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de Cultura de la Nación.
 
@@ -27,10 +24,7 @@ El encuentro puso de manifiesto la necesidad constituir un ámbito específico p
 
 Desde **Bibliohack** dedicamos gran parte de nuestra energía y recursos a posibilitar estos encuentros, tendiendo lazos entre personas e instituciones que contribuyen a construir y consolidar espacios de participación y reflexión que busquen incidir en políticas públicas.
 
-enlaces: [OpenGLAM Argentina](http://openglam.org.ar) [#OpenGLAM Argentina en el sitio de Facebook del Moderno](https://www.facebook.com/permalink.php?id=699937893356056&story_fbid=1949512881731878)
-
-[[!field unite_gallery="tiles" gallery_1="openglam_argentina_2017"]]
-
+### Algunas imágenes del evento
 
 <div id="openglam_argentina_2017" class="unite-gallery tiles" style="display:none;">
    <img alt="Inicio del evento" src="/uploads/galleries/openglam_argentina_2017/300px/001.jpg"
@@ -76,3 +70,8 @@ enlaces: [OpenGLAM Argentina](http://openglam.org.ar) [#OpenGLAM Argentina en el
    data-image="/uploads/galleries/openglam_argentina_2017/1280px/100.jpg"
    data-description="">
 </div>
+
+enlaces: 
+
+ * [OpenGLAM Argentina](http://openglam.org.ar) 
+ * [#OpenGLAM Argentina en el sitio de Facebook del Moderno](https://www.facebook.com/permalink.php?id=699937893356056&story_fbid=1949512881731878)
