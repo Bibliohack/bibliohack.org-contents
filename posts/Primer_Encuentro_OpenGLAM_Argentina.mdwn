@@ -12,9 +12,9 @@
   short_title="Titulo para teasers"
 -->
 
-El **4 de diciembre de 2017** se llevó a cabo el **Primer Encuentro OpenGLAM Argentina** organizado por el **Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, **Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de Cultura de la Nación.
+El **4 de diciembre de 2017** se llevó a cabo el [[**Primer Encuentro OpenGLAM Argentina**]](http://openglam.org.ar/#comunidad) organizado por el **Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, **Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de Cultura de la Nación.
 
-La convocatoria superó ampliamente las expectativas y hubo alrededor de **100 asistentes**. Se formaron cinco grupos de trabajo y cada uno abordó una temática diferente relacionada con la apertura de acervos: 
+La convocatoria superó ampliamente las expectativas y hubo alrededor de **100 asistentes**, entre los cuales hubo personal de archivos, bibliotecas y museos de todos los niveles de la administración pública, y también de la sociedad civil y del sector privado. Se formaron cinco grupos de trabajo y cada uno abordó una temática diferente relacionada con la apertura de acervos: 
 
 * digitalización, 
 * catalogación y publicación en línea, 
@@ -25,3 +25,5 @@ La convocatoria superó ampliamente las expectativas y hubo alrededor de **100 a
 El encuentro puso de manifiesto la necesidad constituir un ámbito específico para compartir conocimientos y experiencias y propiciar la conversación sobre **problemáticas comunes**. También evidenció el interés por conformar una organización o colectivo que permita articular acciones conjuntas en los temas más urgentes, como la reforma de las leyes de propiedad intelectual para incorporar excepciones para instituciones culturales.
 
 Desde **Bibliohack** dedicamos gran parte de nuestra energía y recursos a posibilitar estos encuentros, tendiendo lazos entre personas e instituciones que contribuyen a construir y consolidar espacios de participación y reflexión que busquen incidir en políticas públicas.
+
+enlaces: [OpenGLAM Argentina](http://openglam.org.ar) [#OpenGLAM Argentina en el sitio de Facebook del Moderno](https://www.facebook.com/permalink.php?id=699937893356056&story_fbid=1949512881731878)
