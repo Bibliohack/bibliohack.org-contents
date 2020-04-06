@@ -12,3 +12,7 @@ Video de la presentación de **Matías Butelman** "Museo de Arte Moderno, Colegi
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rK7xzUT2gGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- 
+https://jbdu2018.unq.edu.ar/wp-content/uploads/2018/11/Parte1_Una-estrategia-digital-para-bibliotecas.pdf
+-->
