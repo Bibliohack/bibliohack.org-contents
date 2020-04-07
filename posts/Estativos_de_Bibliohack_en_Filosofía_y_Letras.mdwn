@@ -57,7 +57,7 @@ La sede 25 de mayo está emplazada en un imponente edificio en pleno microcentro
 
 El dispositivo, pintado y pre-armado, fue llevado a 25 de Mayo en partes y ensamblado en el lugar. En pocas jornadas el escaner ya estaba operativo y listo para iniciar las capacitaciones.
 
-[video]
+<video src="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.mp4" poster="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.png" controls></video>
 
 En el curso de capacitación dictado por Bibliohack durante este septiembre de 2018 participaron integrantes del Instituto de Artes del Espectáculo "Dr. Raúl H. Castagnino", el Instituto de Literatura hispanoamericana, el Instituto de Historia de España "Claudio Sánchez-Albornoz", el Instituto de Arqueologia, el Instituto de Teoría e Historia del Arte “Julio E. Payró”, entre otros, junto con personal de la Biblioteca Central. 
 
