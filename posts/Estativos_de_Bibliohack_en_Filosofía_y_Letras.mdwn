@@ -13,7 +13,7 @@
 ]]
 La Facultad de Filosofía y Letras de la Universidad de Buenos Aires fue fundada en 1896 y actualmente cuenta con mas de 15.000 alumnos. Su sede principal esta en la calle Puan, en el barrio porteño de Caballito. En el subsuelo del edificio (que originalmente fue una fábrica tabacalera) funciona la **Biblioteca de la Facultad de Filosofía y Letras "Augusto Raúl Cortazar"**. La institución gestiona y custodia uno de los acervos más importantes de la Argentina dedicado a las Humanidades y Ciencias Sociales; su origen se remonta a 1897. Actualmente cuenta con una colección de más de 390.000 volúmenes, sin contar los fondos de las 20 bibliotecas especializadas de los Institutos de Investigación. 
 
-La Facultad cuenta con una plataforma web de acceso abierto a su producción científica, pedagógica e institucional llamada [Filo Digital](http://bibliotecas.filo.uba.ar/filo-digital), que se presenta como un conjunto de servicios para la gestión de los materiales digitales creados por la comunidad académica de la universidad, a fin de incrementar la visibilidad, difusión e impacto de su producción intelectual.
+La Facultad cuenta con una plataforma web de acceso abierto a su producción científica, pedagógica e institucional llamada [Filo Digital](http://bibliotecas.filo.uba.ar/filo-digital), que se presenta como un conjunto de servicios para la gestión de los materiales digitales creados por la comunidad académica de la universidad, a fin de incrementar la visibilidad, difusión e impacto.
 
 ### Bibliohack en Filo
 
