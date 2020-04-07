@@ -1,4 +1,4 @@
-[[!tag activismo eventos]] 
+[[!tag activismo eventos openglam]] 
 [[!meta date="2019-03-30T12:00:00Z" ]]
 [[!field
   default_img="/uploads/posts/Jornadas_Acceso/IMG_6366.jpg"
