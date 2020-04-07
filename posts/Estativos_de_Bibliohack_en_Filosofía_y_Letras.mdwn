@@ -23,22 +23,22 @@ En mayo de este año iniciamos la construcción de un prototipo de estativo para
 
 
 <div id="filo_puan_2018" class="unite-gallery tiles" style="display:none;">
-   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras." src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/01.jpg"
    data-description="">
-   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/02.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras." src="/uploads/galleries/filo_puan_2018/300px/02.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/02.jpg"
    data-description="">
-   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/03.jpg"
+   <img alt="Conjuntos de piezas ensambladas." src="/uploads/galleries/filo_puan_2018/300px/03.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/03.jpg"
    data-description="">
-   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras." src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/04.jpg"
    data-description="">
-   <img alt="el dispositivo en la Biblioteca, durante una presentación de la Biblioteca en el marco de la Semana del Acceso Abierto 2018" src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
+   <img alt="El dispositivo en la Biblioteca, durante una presentación de la Biblioteca en el marco de la Semana del Acceso Abierto 2018." src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/05.jpg"
    data-description="">
-   <img alt="El patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
+   <img alt="El patio de la Facultad de Filosofia y Letras." src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/06.jpg"
    data-description="">
 </div>
@@ -71,34 +71,34 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
 
 
 <div id="filo_25m_2018" class="unite-gallery tiles" style="display:none;">
-   <img alt="Sede 25 de Mayo de Filosofía y Letras" src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
+   <img alt="Sede 25 de Mayo de Filosofía y Letras de la UBA." src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/001.jpg"
    data-description="">
-   <img alt="La sede fue a principios del siglo XX un lujoso hotel" src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
+   <img alt="La sede de los institutos de investigación fue a principios del siglo XX un lujoso hotel." src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/005.jpg"
    data-description="">
-   <img alt="Ajustando las piezas ensambladas" src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
+   <img alt="Ajustando las piezas ensambladas en el laboratorio de digitalización." src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/010.jpg"
    data-description="">
-   <img alt="Accesorios, tornillos y herramientas" src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
+   <img alt="Accesorios, tornillos y herramientas." src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/015.jpg"
    data-description="">
-   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
+   <img alt="Prueba de digitalización." src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/022.jpg"
    data-description="">
-   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
+   <img alt="Prueba de digitalización." src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/033.jpg"
    data-description="">
-   <img alt="Vista previa de la captura en pantalla." src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
+   <img alt="Prueba de digitalización." src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/035.jpg"
    data-description="">
-   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
+   <img alt="Vista previa de la captura en pantalla." src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/037.jpg"
    data-description="">
-   <img alt="Prueba de digitalización utilizando una notebook" src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
+   <img alt="Prueba de digitalización utilizando una notebook." src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/040.jpg"
    data-description="">
-   <img alt="Dispositivo con la pantalla colocada para facilitar la captura" src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
+   <img alt="Dispositivo con la pantalla colocada atrás para facilitar la captura." src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/060.jpg"
    data-description="">
 </div>
