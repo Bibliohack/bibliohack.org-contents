@@ -35,8 +35,13 @@ Este año iniciamos la construcción de un prototipo de estativo para digitaliza
    <img alt="" src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/04.jpg"
    data-description="">
+   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/05.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/06.jpg"
+   data-description="">
 </div>
-
 
 El programa de digitalización tiene tres líneas de trabajo priritarias en cuanto al material que incorpora al Repositorio Digital de la Facultad: la digitalización de tesis depositadas en la Biblioteca Central, de colecciones bibliográficas con valor patrimonial y de material de apoyo a la docencia.
 
