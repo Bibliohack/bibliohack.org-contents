@@ -89,13 +89,13 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
    <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/033.jpg"
    data-description="">
-   <img alt="Prueba de digitalización utilizando una notebook" src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
+   <img alt="Vista previa de la captura en pantalla." src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/035.jpg"
    data-description="">
    <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/037.jpg"
    data-description="">
-   <img alt="Vista previa de la captura en pantalla." src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
+   <img alt="Prueba de digitalización utilizando una notebook" src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/040.jpg"
    data-description="">
    <img alt="Dispositivo con la pantalla colocada para facilitar la captura" src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
