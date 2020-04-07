@@ -17,7 +17,7 @@ La Facultad cuenta con una plataforma web de acceso abierto a su producción cie
 
 ### Bibliohack en Filo
 
-Este mayo de este año iniciamos la construcción de un prototipo de estativo para digitalización *en V* a bajo costo, realizado integramente por corte laser y ensamblado in situ. El dispositivo permite digitalizar hasta tamaño tabloide. Realizamos el armado en el espacio de la biblioteca y la pintura de todas las piezas en el patio de la facultad. El aparato será utilizado por la biblioteca en el marco de su programa de digitalizacion. Agradecemos la confianza que **María Rosa Mostaccio**, Subsecretaria de Bibliotecas, tuvo en nuestra propuesta. Para nosotros es la primera iteración de un nuevo modelo constructivo que ira recibiendo mejoras en su diseño a medida que avanzemos en la construcción de nuevos prototipos.
+En mayo de este año iniciamos la construcción de un prototipo de estativo para digitalización *en V* a bajo costo, realizado integramente por corte laser y ensamblado in situ. El dispositivo permite digitalizar hasta tamaño tabloide. Realizamos el armado en el espacio de la biblioteca y la pintura de todas las piezas en el patio de la facultad. El aparato será utilizado por la biblioteca en el marco de su programa de digitalizacion. Agradecemos la confianza que **María Rosa Mostaccio**, Subsecretaria de Bibliotecas, tuvo en nuestra propuesta. Para nosotros es la primera iteración de un nuevo modelo constructivo que ira recibiendo mejoras en su diseño a medida que avanzemos en la construcción de nuevos prototipos.
 
 [[!field unite_gallery="tiles" gallery_1="filo_puan_2018"]]
 
