@@ -57,7 +57,7 @@ La sede 25 de mayo está emplazada en un imponente edificio en pleno microcentro
 
 El dispositivo, pintado y pre-armado, fue llevado a 25 de Mayo en partes y ensamblado en el lugar. En pocas jornadas el escaner ya estaba operativo y listo para iniciar las capacitaciones.
 
-<video style="margin: 3rem 0; text-align: center;" src="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.mp4" poster="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.png" controls></video>
+<video style="margin: 2rem 0; width: 700px;" src="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.mp4" poster="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.png" controls></video>
 
 En el curso de capacitación dictado por Bibliohack durante este septiembre de 2018 participaron integrantes del Instituto de Artes del Espectáculo "Dr. Raúl H. Castagnino", el Instituto de Literatura hispanoamericana, el Instituto de Historia de España "Claudio Sánchez-Albornoz", el Instituto de Arqueologia, el Instituto de Teoría e Historia del Arte “Julio E. Payró”, entre otros, junto con personal de la Biblioteca Central. 
 
@@ -71,34 +71,34 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
 
 
 <div id="filo_25m_2018" class="unite-gallery tiles" style="display:none;">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
+   <img alt="Sede 25 de Mayo de Filosofía y Letras" src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/001.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
+   <img alt="La sede fue a principios del siglo XX un lujoso hotel" src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/005.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
+   <img alt="Accesorios, tornillos y herramientas" src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/010.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
+   <img alt="Ajustando las piezas ensambladas" src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/015.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
+   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/022.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
+   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/033.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
+   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/035.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
+   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/037.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
+   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/040.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
+   <img alt="Dispositivo con la pantalla colocada para facilitar la captura" src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/060.jpg"
    data-description="">
 </div>
