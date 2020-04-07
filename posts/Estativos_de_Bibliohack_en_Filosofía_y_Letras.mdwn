@@ -47,7 +47,7 @@ El programa de digitalización tiene tres líneas de trabajo priritarias en cuan
 
 El equipo de digitalizacion de la Biblioteca ya contaba con experiencia en el uso de dispositivos "autoconstruibles" y en el uso de software de postproceso. La biblioteca es una de las pioneras en el uso de software libre y tambien en la experimentacion con escáneres "hazlo tu mismo" de bajo costo. En esta [galeria de fotos](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905) se pueden ver algunos de los dispositivos construidos por Juan Suárez durante 2012 para la Facultad de Filosofía y Letras de la UBA y para la Universidad de La Plata.
 
-[escaner 2012]
+![Modelo estándar diseño de Daniel Reetz (diybookscanner.org) construido por Juan Suárez en 2012 para la Facultad de Filosofía y Letras. Foto de presentación en el rectorado.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/escaner__95__dal.png)
 
 ### La experiencia en 25 de Mayo
 
