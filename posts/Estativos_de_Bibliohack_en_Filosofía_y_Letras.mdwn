@@ -45,9 +45,9 @@ Este mayo de este año iniciamos la construcción de un prototipo de estativo pa
 
 El programa de digitalización tiene tres líneas de trabajo priritarias en cuanto al material que incorpora al Repositorio Digital de la Facultad: la digitalización de tesis depositadas en la Biblioteca Central, de colecciones bibliográficas con valor patrimonial y de material de apoyo a la docencia.
 
-El equipo de digitalizacion de la Biblioteca ya contaba con experiencia en el uso de dispositivos "autoconstruibles" y en el uso de software de postproceso. La biblioteca es una de las pioneras en el uso de software libre y tambien en la experimentacion con escáneres "hazlo tu mismo" de bajo costo. En esta [galeria de fotos](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905) se pueden ver algunos de los dispositivos construidos por Juan Suárez durante 2012 para la Facultad de Filosofía y Letras de la UBA y para la Universidad de La Plata.
+El equipo de digitalizacion de la Biblioteca ya contaba con experiencia en el uso de dispositivos "autoconstruibles" y en el uso de software de postproceso. La biblioteca es una de las pioneras en el uso de software libre y tambien en la experimentacion con escáneres "hazlo tu mismo" de bajo costo. En esta [galeria de fotos](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905) se pueden ver algunos de los dispositivos construidos por Juan Suárez [durante 2012](http://derechoaleer.org/blog/2011/08/nuestro-do-it-yourself-book-scanner.html) para la Facultad de Filosofía y Letras de la UBA y para la Universidad de La Plata.
 
-![Modelo estándar diseño de Daniel Reetz (diybookscanner.org) construido por Juan Suárez en 2012 para la Facultad de Filosofía y Letras. Foto de presentación en el rectorado.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/escaner__95__dal.png)
+![Estativo basado en el diseño de Daniel Reetz (diybookscanner.org) construido por Juan Suárez en agosto de 2011 para la Facultad de Filosofía y Letras. Foto de presentación en el rectorado.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/escaner__95__dal.png)
 
 ### La experiencia en 25 de Mayo
 
