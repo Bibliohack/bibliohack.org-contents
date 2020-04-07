@@ -13,7 +13,7 @@
 ]]
 La Facultad de Filosofía y Letras de la Universidad de Buenos Aires fue fundada en 1896 y actualmente cuenta con mas de 15.000 alumnos. Su sede principal esta en la calle Puan, en el barrio porteño de Caballito. En el subsuelo del edificio (que originalmente fue una fábrica tabacalera) funciona la **Biblioteca de la Facultad de Filosofía y Letras "Augusto Raúl Cortazar"**. La institución gestiona y custodia uno de los acervos más importantes de la Argentina dedicado a las Humanidades y Ciencias Sociales; su origen se remonta a 1897. Actualmente cuenta con una colección de más de 390.000 volúmenes, sin contar los fondos de las 20 bibliotecas especializadas de los Institutos de Investigación. 
 
-La Facultad cuenta con una plataforma web de acceso abierto a su producción científica, pedagógica e institucional llamada [Filo Digital](http://bibliotecas.filo.uba.ar/filo-digital), que se presenta como un conjunto de servicios para la gestión de los materiales digitales creados por la comunidad académica de la universidad, a fin de incrementar la visibilidad, difusión e impacto.
+La Facultad cuenta con una plataforma web de acceso abierto a su producción científica, pedagógica e institucional llamada [*Filo Digital*](http://bibliotecas.filo.uba.ar/filo-digital), que se presenta como un conjunto de servicios para la gestión de los materiales digitales creados por la comunidad académica de la universidad, a fin de incrementar la visibilidad, difusión e impacto.
 
 ### Bibliohack en Filo
 
@@ -23,45 +23,45 @@ Este mayo de este año iniciamos la construcción de un prototipo de estativo pa
 
 
 <div id="filo_puan_2018" class="unite-gallery tiles" style="display:none;">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/01.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/02.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/02.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/02.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/03.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/03.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/03.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
+   <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/04.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
+   <img alt="el dispositivo en la Biblioteca, durante una presentación de la Biblioteca en el marco de la Semana del Acceso Abierto 2018" src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/05.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
+   <img alt="El patio de la Facultad de Filosofia y Letras" src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
    data-image="/uploads/galleries/filo_puan_2018/1280px/06.jpg"
    data-description="">
 </div>
 
-El programa de digitalización tiene tres líneas de trabajo priritarias en cuanto al material que incorpora al Repositorio Digital de la Facultad: la digitalización de tesis depositadas en la Biblioteca Central, de colecciones bibliográficas con valor patrimonial y de material de apoyo a la docencia.
+El programa de digitalización tiene tres líneas de trabajo priritarias en cuanto al material que incorpora al repositorio digital: la digitalización de tesis depositadas en la Biblioteca Central, de colecciones bibliográficas con valor patrimonial y de material de apoyo a la docencia.
 
-El equipo de digitalizacion de la Biblioteca ya contaba con experiencia en el uso de dispositivos "autoconstruibles" y en el uso de software de postproceso. La biblioteca es una de las pioneras en el uso de software libre y tambien en la experimentacion con escáneres "hazlo tu mismo" de bajo costo. En esta [galeria de fotos](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905) se pueden ver algunos de los dispositivos construidos por Juan Suárez [durante 2012](http://derechoaleer.org/blog/2011/08/nuestro-do-it-yourself-book-scanner.html) para la Facultad de Filosofía y Letras de la UBA y para la Universidad de La Plata.
+El equipo de digitalizacion de la Biblioteca ya contaba con experiencia en el uso de dispositivos "autoconstruibles" y en el uso de software de postproceso. La biblioteca es una de las **pioneras en el uso de software libre y tambien en la experimentación con escáneres "hazlo tu mismo" de bajo costo**. En esta [galería de fotos en Flickr](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905) se pueden ver algunos de los dispositivos construidos por Juan Suárez [durante 2012](http://derechoaleer.org/blog/2011/08/nuestro-do-it-yourself-book-scanner.html) para la Facultad de Filosofía y Letras de la UBA y para la Universidad de La Plata.
 
 ![Filo es pionera en el uso de «DIY Book Scanners»: estativo basado en el diseño de Daniel Reetz construido por Juan Suárez en agosto de 2011 para la Facultad de Filosofía y Letras. Foto de presentación en el Rectorado.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/escaner__95__dal.png)
 
 ### La experiencia en 25 de Mayo
 
-Una segunda etapa de este proyecto fue la instalación de un segundo prototipo (también en V) en la Sede 25 de Mayo de la Facultad, dando inicio al funcionamiento de un laboratorio de digitalización para uso de los institutos de investigación que funcionan en ese espacio. 
+Una segunda etapa de este proyecto fue la instalación de un segundo prototipo (también *en V*) en la **Sede 25 de Mayo de la Facultad**, dando inicio al funcionamiento de un **laboratorio de digitalización** para uso de los institutos de investigación que funcionan en ese espacio. 
 
-La sede 25 de mayo está emplazada en un imponente edificio en pleno microcentro inaugurado en 1906 como el Palace Hotel, uno de los mas lujosos de Buenos Aires en su época. Actualmente funcionan alli instituciones dependientes de la Facultad, como el Centro Cultural Paco Urondo, el Laboratorio de Idiomas y la sede de varios institutos de investigación.
+La sede 25 de mayo está emplazada en un imponente edificio en pleno microcentro inaugurado en 1906 como el *Palace Hotel*, uno de los mas lujosos en su época. Actualmente funcionan alli instituciones dependientes de la Facultad, como el Centro Cultural Paco Urondo, el Laboratorio de Idiomas y la sede de varios institutos.
 
 El dispositivo, pintado y pre-armado, fue llevado a 25 de Mayo en partes y ensamblado en el lugar. En pocas jornadas el escaner ya estaba operativo y listo para iniciar las capacitaciones.
 
 [video]
 
-En el curso de capacitación dictado por Bibliohack durante este mes participaron integrantes del Instituto de Artes del Espectáculo "Dr. Raúl H. Castagnino", el Instituto de Literatura hispanoamericana, el Instituto de Historia de España "Claudio Sánchez-Albornoz", el Instituto de Arqueologia, el Instituto de Teoría e Historia del Arte “Julio E. Payró”, entre otros, junto con personal de la Biblioteca Central. 
+En el curso de capacitación dictado por Bibliohack durante este septiembre de 2018 participaron integrantes del Instituto de Artes del Espectáculo "Dr. Raúl H. Castagnino", el Instituto de Literatura hispanoamericana, el Instituto de Historia de España "Claudio Sánchez-Albornoz", el Instituto de Arqueologia, el Instituto de Teoría e Historia del Arte “Julio E. Payró”, entre otros, junto con personal de la Biblioteca Central. 
 
-El curso consistió en varias jornadas teoricas y prácticas. Ademas del uso del aparato y el marco técnico de la digitalización, hablamos de varios temas en un contexto mas amplio: cómo organizar un proyecto de digitalización exitoso, como hacer una selección estratégica de material o sobre las ventajas, desde el punto de vista político, de la capacidad instalada sobre la externalización de servicios. 
+El curso consistió en varias jornadas teoricas y prácticas. Ademas del uso del aparato y el marco técnico de la digitalización, hablamos de varios temas en un contexto mas amplio: cómo organizar un proyecto de digitalización exitoso, cómo hacer una selección estratégica de material o sobre las ventajas, desde el punto de vista político, de la capacidad instalada sobre la externalización de servicios. 
 
 Además durante varias semanas asistimos tanto virtual como presencialmente en el proceso de captura y postproceso para llevar adelante los proyectos de digitalización de cada Instituto.
 
