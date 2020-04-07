@@ -1,4 +1,4 @@
-[[!tag activismo eventos]] 
+[[!tag activismo eventos openglam]] 
 [[!meta date="2019-07-05T12:00:00Z"]]
 [[!meta title="Excepciones, Limitaciones y Dominio Público"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
