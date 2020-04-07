@@ -77,10 +77,10 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
    <img alt="La sede fue a principios del siglo XX un lujoso hotel" src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/005.jpg"
    data-description="">
-   <img alt="Accesorios, tornillos y herramientas" src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
+   <img alt="Ajustando las piezas ensambladas" src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/010.jpg"
    data-description="">
-   <img alt="Ajustando las piezas ensambladas" src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
+   <img alt="Accesorios, tornillos y herramientas" src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/015.jpg"
    data-description="">
    <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
@@ -89,13 +89,13 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
    <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/033.jpg"
    data-description="">
-   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
+   <img alt="Prueba de digitalización utilizando una notebook" src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/035.jpg"
    data-description="">
    <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/037.jpg"
    data-description="">
-   <img alt="Prueba de digitalización" src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
+   <img alt="Vista previa de la captura en pantalla." src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/040.jpg"
    data-description="">
    <img alt="Dispositivo con la pantalla colocada para facilitar la captura" src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
