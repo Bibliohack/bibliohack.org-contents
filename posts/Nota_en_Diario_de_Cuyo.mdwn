@@ -35,6 +35,8 @@ Sin olvidar el recurso importantísimo del Reconocimiento Óptico de Caracteres 
 La siguiente nota [fue publicada](https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/) en Ecocuyo, en septiembre de 2018.
 <!-- https://web.archive.org/web/20190902225238/https://ecocuyo.com/irrigacion-incorpora-tecnologia-de-avanzada-para-digitalizar-documentos-historicos/ -->
 
+![Escaner instalado en el Archivo del Agua](/uploads/posts/Nota_en_Diario_de_Cuyo/TAIPEI1-90-1.jpg)
+
 <div class="copy-paste" markdown="1">
 
 ## Irrigación incorpora tecnología de avanzada para digitalizar documentos históricos
