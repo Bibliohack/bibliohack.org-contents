@@ -1,12 +1,10 @@
 [[!tag prensa Irrigación-INCIHUSA-CONICET]] 
 [[!meta date="2018-09-13T12:00:00Z"]]
+[[!meta title="MDZ Online: Irrigación digitalizará su archivo histórico"]]
 [[!field
   default_img="/uploads/posts/Nota_en_MDZ_Online/sergio_marinelli_probando_escaner_digitalizador.jpg"
   default_img_alt="Sergio Marinelli probando escaner digitalizador."
 ]]
-<!-- 
-https://web.archive.org/web/20180914120024/https://www.mdzol.com/culturaciencia/Irrigacion-digitalizara-su-archivo-historico-20180913-0154.html
--->
 
 La siguiente nota [salió publicada en MDZ Online](https://web.archive.org/web/20180914120024/http://www.mdzol.com/culturaciencia/Irrigacion-digitalizara-su-archivo-historico-20180913-0154.html).
 
@@ -37,3 +35,7 @@ La idea es que el público e investigadores de la provincia puedan acceder a doc
 Por otra parte, titulares de diversos organismos de preservación y archivamiento de nuestra provincia tuvieron la oportunidad, en el día  de ayer, de observar las funciones que posee el scanner a través de una capacitación que brindaron expertos de Bibliohack en la Biblioteca de Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San Martín, Marta Babillón; el encargado del Centro de Documentación Histórica de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la Provincia, Alicia Guevara;  se interiorizaron de los alcances de este laboratorio.
 
 </div>
+
+<!-- 
+https://web.archive.org/web/20180914120024/https://www.mdzol.com/culturaciencia/Irrigacion-digitalizara-su-archivo-historico-20180913-0154.html
+-->
