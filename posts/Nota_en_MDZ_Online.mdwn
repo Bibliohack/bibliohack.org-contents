@@ -1,7 +1,8 @@
 [[!tag prensa Irrigación-INCIHUSA-CONICET]] 
 [[!meta date="2018-09-13T12:00:00Z"]]
-[[!meta title="MDZ Online: Irrigación digitalizará su archivo histórico"]]
+[[!meta title="Irrigación digitalizará su archivo histórico"]]
 [[!field
+  teaserline="Nota publicada en MDZ Online sobre el proyecto donde participa Bibliohack"
   default_img="/uploads/posts/Nota_en_MDZ_Online/sergio_marinelli_probando_escaner_digitalizador.jpg"
   default_img_alt="Sergio Marinelli probando escaner digitalizador."
 ]]
