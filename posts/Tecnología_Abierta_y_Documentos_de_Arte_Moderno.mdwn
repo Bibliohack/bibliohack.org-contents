@@ -1,0 +1,32 @@
+[[!tag proyectos]] 
+[[!meta date="2017-10-15T12:00:00Z"]]
+[[!field 
+   default_img="/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png"
+  default_img_alt="Esquema descriptivo y dimensiones de modelo de estativo cenital"
+  body_class="post" 
+  summary="Desarrollo y construcción de un estativo cenital para el proyecto de digitalización del Museo de Arte Moderno de Buenos Aires"
+  teaserline="Desarrollo de estativo cenital para el Museo de Arte Moderno"
+  featured=yes
+]]
+
+En abril de 2017 comenzamos las primeras reunones de trabajo con **Valeria Semilla** y **Helena Raspo** del Museo de Arte Moderno --e **Ines Esteves** de la biblioteca del museo-- para analizar las posibilidades de desarrollo de un estativo cenital a bajo costo y los recursos de software necesarios para llevar adelante un ambicioso proyecto de digitalización del valioso acervo documental que posee el Museo sobre la historia del arte moderno argentino.
+
+La **Biblioteca del Museo de Arte Moderno de Buenos Aires** fue creada en la década del
+sesenta, a pocos años de la fundación del Museo, con la misión de reunir, conservar,
+organizar y difundir el patrimonio bibliográfico, hemerográfico y documental especializado en artes visuales de los siglos XX y XXI. Cuenta con más de 7000 volúmenes, incluyendo material librario y catálogos de exhibiciones. En ella se pueden encontrar, además, todas las publicaciones editadas por el Museo desde su fundación hasta la actualidad. La biblioteca cuenta con fondos donados al Museo por parte de relevantes personalidades del campo artístico como el crítico de arte José León Pagano, el coleccionista Ignacio Pirovano y el artista Alberto Heredia.
+
+Los [modestos primeros años](https://es.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Buenos_Aires) del Museo dan cuenta de una historia de contratiempos y precariedades superadas gracias a la voluntad y entusiasmo de su fundador, el crítico de arte **Rafael Squirru**. La ausencia de una sede propia mantuvo al museo en condición itinerante hasta que consiguió su primer espacio en uno de los pisos altos del Teatro General San Martín. Pero no fue hasta 2018, *62 años despues de su fundación*, que el museo realmente [contó por primera vez con una sede completa](https://www.nueva-ciudad.com.ar/notas/201807/37911-el-moderno-se-renueva.html), la actual, en la Av. San Juan en el barrio de San Telmo. El edificio le fue otorgado en 1987 (donde antiguamente funcionaba la Tabacalera Piccardo) y la mudanza a esta sede definitiva ocurrió dos años despues, pero esto no salvó al Moderno de una larga historia que intercala momentos de esplendor con postergaciones burocráticas y presupuestarias, que lo llevó incluso a cerrar sus puertas durante varios años a principios del nuevo milenio.
+
+Durante los ultimos años el museo recibió especial atención y se transformó en un **proyecto prioritario para gobierno porteño** como parte de una estrategia para colocar a la ciudad en un lugar de relevacia en el influyente ámbito del arte contemporaneo. Entonces los fondos fluyeron con abundancia, en especial para ampliar y reformar la estructura edilicia. A pesar de la inusual precedencia, las dificultades para sostener un proyecto de digitalizacion sustentable se mantuvieron, tal como ocurre en la mayor parte de las bibliotecas y museos de la ciudad. Esto constituye una muestra muy clara de **las limitaciones estructurales de las instituciones culturales de países en vías de desarrollo** y un lugar desde donde Bibliohack y las tecnologías abiertas pueden hacer su aporte. La pregunta que surge es clara ¿Si el Museo de Arte Moderno tiene limitaciones, qué queda para los demas museos mas postergados en el presupuesto?
+
+Desarrollo a medida
+
+Sin embargo la elección de nuestra iniciativa no solo estuvo relacionada con la adecuacion de costos, sino también con una vision de trabajo horizontal, de apertura, de apropiación técnica, integración de áreas y adecuación a contextos cambiantes. En el marco del proyecto **"Documentos de Arte Moderno"** comenzamos un proceso de prototipado y ajuste de un nuevo modelo de estativo que amplía la disponibilidad de tecnología abierta para trabajar de modo sistemático con folletos, fotografías, mapas, afiches, efémera, entre otros. 
+
+[laminas]
+
+El desarrollo del proyecto implicó la colaboración entre distintas áreas del Museo para ajustar y definir pautas de conservación, iluminación, selección de documentos, descripción archivística, gestión de datos o publicación en línea, desde una perspectiva realista y utilitaria. Para el software de captura y postprocesamiento desarrollamos nuevas funcionalidades y adaptamos configuraciones atendiendo las particularidades del material a digitalizar, analizando las condiciones de acceso y conservación digital, en feedback constante con el personal del Museo y la Biblioteca. Para el desarrollo del estativo probamos distintas configuraciones estructurales tomando en cuenta limitaciones de espacio y practicidad de uso.
+
+[galeria]
+
+Como corolario, el trabajo con el Museo durante este año afianzó nuestra idea de que más alla de las prioridades y limitaciones que a veces determinan politicas desalentadoras, es la cooperación estratégica entre los custodios directos de las colecciones y la adopción de herramientas basadas en software y hardware libre --y tecnología adecuada al contexto-- lo que posibilita el desarollo de capacidad instalada y la resiliencia de los recursos disponibles.
