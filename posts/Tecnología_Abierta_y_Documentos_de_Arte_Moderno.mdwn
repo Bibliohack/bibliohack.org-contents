@@ -9,7 +9,7 @@
   featured=yes
 ]]
 
-En abril de 2017 comenzamos las primeras reunones de trabajo con **Valeria Semilla** y **Helena Raspo** del Museo de Arte Moderno –e **Ines Esteves** de la biblioteca del museo– para analizar las posibilidades de diseño y construcción de un estativo cenital a bajo costo y desarrollo/adaptación de los recursos de software disponibles para llevar adelante un ambicioso proyecto de digitalización del acervo documental que posee el Museo sobre la historia del arte moderno argentino.
+En abril de 2017 comenzamos las primeras reuniones de trabajo con **Valeria Semilla** y **Helena Raspo** del Museo de Arte Moderno –e **Ines Esteves** de la biblioteca del museo– para analizar las posibilidades de diseño y construcción de un estativo cenital a bajo costo y de desarrollo/adaptación de los recursos de software disponibles para llevar adelante un ambicioso proyecto de digitalización del acervo documental que posee el Museo sobre la historia del arte moderno argentino.
 
 La **Biblioteca del Museo de Arte Moderno de Buenos Aires** fue creada en la década del
 sesenta, a pocos años de la fundación del Museo, con la misión de reunir, conservar,
