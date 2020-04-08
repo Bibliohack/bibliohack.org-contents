@@ -1,9 +1,11 @@
 [[!tag prensa]] 
-[[!meta title="Nota en Revista Cabal"]]
+[[!meta title="Made in Argentina, en Revista Cabal"]]
 [[!meta date="2016-12-15T12:00:00Z"]]
 [[!field
   featured=yes
   default_img="/uploads/posts/Nota_en_Revista_Cabal/escaner_cabal.jpg"
+  summary="Entrevista a Matias Butelman y Juan Suárez sobre la iniciativa Bibliohack"
+  teaserline="Entrevista a Matias Butelman y Juan Suárez sobre la iniciativa Bibliohack"
 ]]
 
 En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A continuación transcribimos el texto completo de la [nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), publicada en diciembre de 2016.
