@@ -6,6 +6,7 @@
   featured=yes
   default_img=/uploads/posts/Irrigaci%C3%B3n_digitalizar%C3%A1_documentos_hist%C3%B3ricos/DSC_2898.jpg
   default_img_alt="Hoy se puso en marcha el laboratorio de digitalización de documentos históricos del agua, que se encuentran en la biblioteca de Irrigación."
+  teaserline="Artículo publicado en el sitio de la Dirección de Irrigación de Mendoza"
 ]]
 
 A continuación reproducimos el [artículo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado el 13 de septiembre de 2018 en el sitio del **Departamento General de Irrigación de Mendoza**, sobre la instalación de un estativo en V de Bibliohack.
