@@ -1,9 +1,11 @@
 [[!tag prensa Irrigación-INCIHUSA-CONICET]] 
 [[!meta date="2018-10-18T12:00:00Z"]]
+[[!meta title="Digitalización de documentos históricos del agua"]]
 [[!field
   featured=yes
   default_img="/uploads/posts/Nota_en_Diario_de_Cuyo/opi-mendoza_3.jpg"
-  default_img_alt="El primer scanner de última generación que funciona en Mendoza permite digitalizar documentos sobre hidrología. ."
+  default_img_alt="El primer scanner de última generación que funciona en Mendoza permite digitalizar documentos sobre hidrología"
+  teaserline="Nota publicada en Diario de Cuyo sobre el escáner instalado en Mendoza"
 ]]
 
 La siguiente nota [salió publicada en Diario de Cuyo](https://www.diariodecuyo.com.ar/columnasdeopinion/Digitalizacion-de-documentos-historicos-del-agua-20181018-0092.html).
