@@ -2,7 +2,7 @@
 [[!meta title="Taller sobre tecnologías de digitalización en Córdoba"]]
 [[!meta date="2019-08-09T12:00:00Z"]]
 [[!field
-  default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png"
+  default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/cor1.jpg"
   default_img_alt="Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman"
   summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertaron sobre las estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
   teaserline="Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman"
@@ -18,4 +18,5 @@ Disertaron **Lucas Luchilo**, subsecretario de Evaluación Institucional de La S
 
 <!-- 
 http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/
+/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png
 -->
