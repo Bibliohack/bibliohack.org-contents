@@ -12,7 +12,7 @@
 
 A fines de marzo, por iniciativa del [Museo de Arte Moderno de Buenos Aires](https://www.museomoderno.org), [ARTE Di Tella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=7073) y la [Escuela de Derecho de UTDT](https://www.utdt.edu/ver_contenido.php?id_contenido=1336&id_item_menu=423), nos reunimos en el auditorio de la **Universidad Torcuato Di Tella** artistas, abogados, funcionarios, gestores de colecciones, críticos, coleccionistas, galeristas y otros interesados y agentes del ecosistema del arte para abordar un tema desde todas estas perspectivas: **el derecho de autor y las tensiones generadas con los usos de las obras por parte de los museos, coleccionistas, público y los propios artistas**.
 
-Este encuentro forma parte de una serie originada en 2017 con el [primer encuentro OpenGLAM de Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/), que por inicativa de un grupo de personas e instituciones viene organizando actividades para debatir problemáticas y poner en común recursos que permitan abrir colecciones de acervos de museos, archivos y bibliotecas en internet:
+Este encuentro forma parte de una serie originada en 2017 con el [primer encuentro OpenGLAM de Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/), que por inicativa de un grupo de individuos e instituciones viene organizando actividades para debatir problemáticas y poner en común recursos que permitan abrir colecciones de acervos de museos, archivos y bibliotecas en internet:
 
  * [Técnología y Patrimonio, Estrategias Digitales para Bibliotecas, Archivos y Museos](/posts/Estrategias_digitales_para_museos_y_archivos/) en el Moderno (diciembre de 2018)
  * [Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate](/posts/malba_patrimonio_acceso_y_propiedad_intelectual/) en el Malba (junio de 2018)
@@ -32,7 +32,6 @@ Gracias a todos quienes vinieron a escuchar y a compartir su visión ¡Espero qu
 ### Algunas imágenes del evento
 
 Fotos de Guido Limardo / Museo de Arte Moderno.
-
 
 <div id="acceso_utdt" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/acceso_utdt/300px/IMG_5387.jpg"
@@ -85,10 +84,9 @@ Fotos de Guido Limardo / Museo de Arte Moderno.
    data-description="">
 </div>
 
-
-
 [Programa completo del evento](/posts/Jornadas_Acceso/ACCESO_-_jornadas_marzo_2019_-_programa-web.pdf)
 
 <!--
 https://www.utdt.edu/listado_contenidos.php?id_item_menu=28639
+https://www.utdt.edu/ver_contenido.php?id_contenido=18011&id_item_menu=28639
 -->
