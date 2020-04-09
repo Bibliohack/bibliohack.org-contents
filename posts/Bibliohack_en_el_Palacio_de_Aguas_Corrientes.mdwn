@@ -1,0 +1,18 @@
+[[!tag proyectos]] 
+[[!meta date="2018-08-15T12:00:00Z"]]
+[[!field 
+  body_class="post" 
+  summary="Instalación de estativo en V y capacitación en la Biblioteca Ing. Agustín González de AySA"
+  teaserline="Instalación de estativo en V para la Biblioteca de AySA"
+   default_img="/uploads/posts/Bibliohack_en_el_Palacio_de_Aguas_Corrientes/Palacio-de-aguas-corrientes.jpg"
+  default_img_alt="El Palacio de Aguas Corrientes (foto Beatrice Murch, Wikipedia)"
+]]
+
+El **Palacio de Aguas Corrientes**, ubicado en el barrio porteño de Balvanera, fue contruido originalmente para alojar tanques de suministro de agua a fines del siglo XIX. Su llamativo exterior exhuberante y ecléctico lo convirtió en uno de los edificios mas emblemáticos de la ciudad, declarado Monumento Historico en 1989. Actualmente funcionan alli las oficinas de la empresa Agua y Saneamientos Argentinos (AySA). 
+
+En la planta baja está ubicada la [**Biblioteca Ingeniero Agustín González**](https://www.aysa.com.ar/Que-Hacemos/Concientizacion/Programa-Cultural/Biblioteca), especializada en Ingeniería Sanitaria y Ciencias del Ambiente. Su origen se remonta 1919 y su colección histórica está conformada por documentos editados por Obras Sanitarias de la Nación e instituciones precedentes con información que permite reconstruir más de 150 años de historia sanitaria argentina, constituyendo un patrimonio documental y cultural invaluable. Estos documentos constituyen una fuente primaria muy valiosa para los investigadores de la materia.
+
+Durante el segundo semestre de 2018 instalamos un estativo en V para digitalizar libros y revistas hasta tamaño tabloide. Con este dispositivo la Biblioteca busca por un lado responder a la demanda de material digitalizado para pedidos específicos, y llevar adelante un programa de digitalización para conservación digital y acceso.
+
+Queremos agradecer especialmente a Gabriela Pedrozo (Directora de la biblioteca), a Mariano Urteaga y Ramiro Sosa por su predisposición y por la confianza que pusieron en nuestra propuesta.
+
