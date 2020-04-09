@@ -16,3 +16,32 @@ Durante el segundo semestre de 2018 instalamos un estativo en V para digitalizar
 
 Queremos agradecer especialmente a Gabriela Pedrozo (Directora de la biblioteca), a Mariano Urteaga y Ramiro Sosa por su predisposición y por la confianza que pusieron en nuestra propuesta.
 
+[[!field unite_gallery="tiles" gallery_1="aysa_2018"]]
+
+
+<div id="aysa_2018" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/004.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/004.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/006.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/006.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/009.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/009.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/010.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/010.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/020.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/020.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/030.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/030.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/040.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/040.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/050.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/050.jpg"
+   data-description="">
+</div>
