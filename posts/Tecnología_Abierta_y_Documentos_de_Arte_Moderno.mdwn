@@ -27,7 +27,7 @@ El desarrollo del proyecto implicó la colaboración entre distintas áreas del 
 
 [galeria]
 
-Como corolario, el trabajo con el Museo durante este año afianzó nuestra idea de que más alla de las prioridades y limitaciones que a veces determinan politicas desalentadoras, es la cooperación estratégica entre los **custodios directos de las colecciones** y la adopción de herramientas basadas en **software y hardware libre** –y **tecnología adecuada** al contexto– lo que posibilita el desarollo de **capacidad instalada** y la **resiliencia** de los recursos disponibles.
+Como corolario, el trabajo con el Museo durante este año afianzó nuestra idea de que más alla de las prioridades y limitaciones que a veces determinan políticas desalentadoras, es la **cooperación estratégica** entre los **custodios directos de las colecciones** y la adopción de herramientas basadas en **software y hardware libre** –y **tecnología adecuada** al contexto– lo que posibilita el desarrollo de **capacidad instalada** y la **resiliencia** de los recursos a través del tiempo.
 
 <!--
 https://www.museomoderno.org/es/noticias/tecnologia-y-gestion-de-patrimonio-cultural-clinica
