@@ -1,6 +1,6 @@
 [[!tag proyectos archivo-del-agua]] 
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-[[!meta title="Instalación de estativo en el Archivo Histórico del Agua, Mendoza"]]
+[[!meta title="Instalación de estativo en el Archivo Histórico del Agua en Mendoza"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
   default_img="/uploads/posts/Mendoza_Instalación_de_estativo/mendoza_grupal.jpeg"
