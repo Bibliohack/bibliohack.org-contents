@@ -79,6 +79,9 @@ El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y
    <img alt="Iniciando una prueba de captura" src="/uploads/galleries/mendoza_2018/capacitacion/300px/15.jpg"
    data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/15.jpg"
    data-description="">
+   <img alt="Últimos ajustes antes de iniciar la capacitación" src="/uploads/galleries/mendoza_2018/capacitacion/300px/16.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/16.jpg"
+   data-description="">
    <img alt="Capacitación sobre el funcionamientoi" src="/uploads/galleries/mendoza_2018/capacitacion/300px/20.jpg"
    data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/20.jpg"
    data-description="">
@@ -92,4 +95,5 @@ El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y
    data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/30.jpg"
    data-description="">
 </div>
+
 
