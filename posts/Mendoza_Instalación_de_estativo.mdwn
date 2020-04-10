@@ -10,17 +10,49 @@
   teaserline="Durante tres días en Mendoza armamos un estativo para digitalizar documentación histórica"
 ]]
 
-La historia de Mendoza esta íntimamente ligada al uso del agua. La necesidad de realizar obras y arbitrar conflictos sobre este recurso escaso llevó a la creación de instituciones hídricas ya en épocas coloniales. En 1884 se dictará la primera ley de aguas y se creará el Departamento General de Aguas, hoy denominado [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/), una institucion autárquica e influyente de la provincia cuya función principal sigue siendo la de administración general de las aguas públicas.
+La historia de Mendoza esta íntimamente ligada al uso del agua. La necesidad de realizar obras y arbitrar conflictos sobre este recurso escaso llevó a la creación de instituciones hídricas ya en épocas coloniales. En 1884 se dictará la primera ley de aguas y se creará el Departamento General de Aguas, hoy denominado [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/), una institucion autárquica e influyente de la Provincia cuya función principal sigue siendo la administración general de las aguas públicas.
 
-Hablar de la administración del agua a través del tiempo en el territorio que hoy ocupa la provincia de Mendoza está directamente ligado al rescate e interpretación de la documentación que se ha generado desde hace más de dos siglos. Mucha de esta documentacion se encuentra bajo la custodia de archivos generales dispersos geograficamente en el denominado archivo pasivo del Departamento General de Irrigacion. Para facilitar el acceso y poner en valor este acervo Irrigación está conformando la **Biblioteca y Archivo Histórico del Agua** en las instalaciones centrales de Irrigación en la Ciudad de Mendoza.
+Hablar de la historia del agua en el territorio que hoy ocupa la provincia de Mendoza está directamente ligado al rescate e interpretación de actas, planos, informes, ilustraciones, fotografías o libros que han generado desde hace más de dos siglos las administraciones de estos recursos. Mucha de esta documentacion se encuentra bajo la custodia de archivos generales dispersos geograficamente en el denominado *archivo pasivo* del Departamento General de Irrigacion. Para facilitar el acceso y poner en valor este acervo Irrigación está conformando la **Biblioteca y Archivo Histórico del Agua** en las instalaciones centrales de Irrigación en la Ciudad de Mendoza. 
 
-[galeria archivo]
+A continuacion. algunas imágenes del archivo, mientras relevamos diferentes tipologías de documentos.
 
-En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet), es que fuimos a Mendoza a construir e instalar un estativo en V en la biblioteca. EL dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de facil acceso para los investigadores.
+[[!field unite_gallery="tiles" gallery_1="archivo"]]
 
-El corte láser de las piezas y la adquisición de materiales para el armado se realizo integramente con proveedores de la ciudad de Mendoza, gestionado por el Incihusa. A nuestra llegada ya contabamos con el material listo para comenzar a ensamblar el dispositivo.
+<div id="archivo" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/01.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/10.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/20.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/25.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/30.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/40.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/40.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/45.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/45.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/50.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/50.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/55.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/55.jpg"
+   data-description="">
+</div>
 
-[[!field unite_gallery="tiles" gallery_1="armado"]]
+En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet), es que fuimos a Mendoza a construir e instalar un estativo en V en la biblioteca. EL dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de fácil acceso para los investigadores.
+
+El corte láser de las piezas y la adquisición de materiales para el armado se realizó integramente con proveedores de la ciudad de Mendoza, gestionado por integrantes del Incihusa. A nuestra llegada ya contábamos con el material listo para comenzar a ensamblar el dispositivo.
+
+[[!field unite_gallery="tiles" gallery_2="armado"]]
 
 <div id="armado" class="unite-gallery tiles" style="display:none;">
    <img alt="Desembalando los cortes de MDF que entregó el proveedor" src="/uploads/galleries/mendoza_2018/armado/300px/01.jpg"
@@ -43,9 +75,9 @@ El corte láser de las piezas y la adquisición de materiales para el armado se 
    data-description="">
 </div>
 
-El segundo día emprendimos la tarea de enmascarar y pintar el estativo
+El segundo día emprendimos la tarea de enmascarar y pintar el estativo, en un espacio abierto dentro del edificio de Irrigación.
 
-[[!field unite_gallery="tiles" gallery_2="pintado"]]
+[[!field unite_gallery="tiles" gallery_3="pintado"]]
 <div id="pintado" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/011.jpg"
    data-image="/uploads/galleries/mendoza_2018/pintado/1280px/011.jpg"
@@ -67,10 +99,9 @@ El segundo día emprendimos la tarea de enmascarar y pintar el estativo
    data-description="">
 </div>
 
+El tercer día llevamos adelante los ultimos ajustes, el emplazamiento del dispositivo en su lugar definitivo, la instalación electrica, la programación de las cámaras y la instalación del software. Finalmente se realizó una prueba de uso del dispositivo y una capacitación.
 
-El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y la programacion de las cámaras y la instalacion del software. Finalmente se realizo una prueba de uso del dispositivo y una capacitación.
-
-[[!field unite_gallery="tiles" gallery_3="capacitacion"]]
+[[!field unite_gallery="tiles" gallery_4="capacitacion"]]
 
 <div id="capacitacion" class="unite-gallery tiles" style="display:none;">
    <img alt="Dispositivo listo" src="/uploads/galleries/mendoza_2018/capacitacion/300px/01.jpg"
@@ -101,5 +132,5 @@ El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y
    data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/30.jpg"
    data-description="">
 </div>
-
-
+ 
+Pro último, queremos agradecer especiualmente a **Mark Healy**, **Facundo Martín**, y **Sergio Terrera** que hicieron posible este proyecto.
