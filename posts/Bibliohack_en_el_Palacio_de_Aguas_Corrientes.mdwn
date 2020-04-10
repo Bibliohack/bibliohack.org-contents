@@ -36,9 +36,6 @@ Queremos agradecer especialmente a Gabriela Pedrozo (Directora de la biblioteca)
    <img alt="Ensamble del dispositivo en V en la biblioteca" src="/uploads/galleries/aysa_2018/300px/011.jpg"
    data-image="/uploads/galleries/aysa_2018/1280px/011.jpg"
    data-description="">
-   <img alt="Accesorios y herramientas para el ensamble del dispositivo" src="/uploads/galleries/aysa_2018/300px/012.jpg"
-   data-image="/uploads/galleries/aysa_2018/1280px/012.jpg"
-   data-description="">
    <img alt="Estructura armada" src="/uploads/galleries/aysa_2018/300px/015.jpg"
    data-image="/uploads/galleries/aysa_2018/1280px/015.jpg"
    data-description="">
@@ -54,4 +51,8 @@ Queremos agradecer especialmente a Gabriela Pedrozo (Directora de la biblioteca)
    <img alt="Dispositivo operativo en la biblioteca" src="/uploads/galleries/aysa_2018/300px/050.jpg"
    data-image="/uploads/galleries/aysa_2018/1280px/050.jpg"
    data-description="">
+   <img alt="" src="/uploads/galleries/aysa_2018/300px/45.jpg"
+   data-image="/uploads/galleries/aysa_2018/1280px/45.jpg"
+   data-description="">
 </div>
+
