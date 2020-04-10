@@ -6,6 +6,16 @@
 ]]
 
 
-Mini-entrevista realizada en el Museo de Arte Moderno para el programa radial "De Fogon en Fogon" (Radio Gráfica, FM 89.3 del Barrio de Barracas), durante el evento de presentación del proyecto de digitalización "Documentos de Arte Moderno".
+Mini-entrevistas a los participantes de la presentación realizada por programa radial "De Fogon en Fogon" (Radio Gráfica, FM 89.3 del Barrio de Barracas), durante el evento de presentación del proyecto de digitalización "Documentos de Arte Moderno".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBUCz1sNYus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aK2EQH9GvZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Quw3i_E9fA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nCP6D55JXKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTwk2vDELWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- https://youtu.be/gKkmruCH3gw -->
