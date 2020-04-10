@@ -5,6 +5,7 @@
   default_img="/uploads/posts/La_memoria_indocumentada/archivos-mendoza.png"
   default_img_alt="Archivos sonoros encontrados en el Centro Cultural Recoleta. Foto: Rafael Mario Quinteros."
   summary="En este artículo publicado en Revista Ñ Juan Mendoza reflexiona sobre la prolongada tradición de desidia archivística que recorre la historia de nuestro país ap propósito de la inauguración del Archivo General de la Nación."
+  teaserline="Juan Mendoza reflexiona sobre la prolongada tradición de desidia archivística argentina"
 ]]
 
 Lo que sigue es un *copy/paste* del [artículo publicado en Revista Ñ](https://www.clarin.com/revista-enie/escenarios/memoria-indocumentada_0_Qyz4HjP1l.html)
