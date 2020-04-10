@@ -27,7 +27,7 @@ Sin embargo la elección de nuestra iniciativa no solo estuvo relacionada con la
 
 [![Sistema de iluminación](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)
 
-[![Plátina o prensa](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)}(/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)
+[![Plátina o prensa](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)
 
 El desarrollo del proyecto implicó la colaboración entre distintas áreas del Museo para ajustar y definir pautas de **conservación**, **iluminación**, **selección de documentos**, **descripción archivística**, **gestión de datos**, **características de formatos** o **publicación en línea**, desde una perspectiva realista y utilitaria. Para el *software* de captura y postprocesamiento desarrollamos nuevas funcionalidades y adaptamos configuraciones atendiendo las particularidades del material a digitalizar, analizando las condiciones de acceso y conservación digital, en *feedback* constante con el personal del Museo y la Biblioteca. Para el desarrollo del estativo probamos distintas configuraciones estructurales tomando en cuenta limitaciones de espacio y practicidad de uso.
 
