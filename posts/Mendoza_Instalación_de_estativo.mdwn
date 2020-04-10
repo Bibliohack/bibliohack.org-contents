@@ -9,7 +9,6 @@
   summary="Durante tres días en la ciudad de Mendoza armamos un estativo en V, configuramos el software y capacitamos a los usuarios del dispositivo"
   teaserline="Durante tres días en Mendoza armamos un estativo para digitalizar documentación histórica"
 ]]
-[[!field unite_gallery="tiles" gallery_1="mendoza_2018"]]
 
 La historia de Mendoza esta íntimamente ligada al uso del agua. La necesidad de realizar obras y arbitrar conflictos sobre este recurso escaso llevó a la creación de instituciones hídricas ya en épocas coloniales. En 1884 se dictará la primera ley de aguas y se creará el Departamento General de Aguas, hoy denominado [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/), una institucion autárquica e influyente de la provincia cuya función principal sigue siendo la de administración general de las aguas públicas.
 
@@ -21,85 +20,82 @@ En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias H
 
 El corte láser de las piezas y la adquisición de materiales para el armado se realizo integramente con proveedores de la ciudad de Mendoza, gestionado por el Incihusa. A nuestra llegada ya contabamos con el material listo para comenzar a ensamblar el dispositivo.
 
-[galeria 1]
+[[!field unite_gallery="tiles" gallery_1="armado"]]
+
+<div id="armado" class="unite-gallery tiles" style="display:none;">
+   <img alt="Desembalando los cortes de MDF que entregó el proveedor" src="/uploads/galleries/mendoza_2018/armado/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/01.jpg"
+   data-description="">
+   <img alt="clasificando las piezas" src="/uploads/galleries/mendoza_2018/armado/300px/02.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/02.jpg"
+   data-description="">
+   <img alt="clasificando las piezas" src="/uploads/galleries/mendoza_2018/armado/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/10.jpg"
+   data-description="">
+   <img alt="Detalle del area de encastre para las diferentes posiciones del porta-cámara" src="/uploads/galleries/mendoza_2018/armado/300px/15.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/15.jpg"
+   data-description="">
+   <img alt="Ensamblando los conjuntos" src="/uploads/galleries/mendoza_2018/armado/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/20.jpg"
+   data-description="">
+   <img alt="Algunas herramientas de trabajo" src="/uploads/galleries/mendoza_2018/armado/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/25.jpg"
+   data-description="">
+   <img alt="ensamblando el porta lámparas" src="/uploads/galleries/mendoza_2018/armado/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/30.jpg"
+   data-description="">
+   <img alt="Todos los conjuntos armados" src="/uploads/galleries/mendoza_2018/armado/300px/40.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/40.jpg"
+   data-description="">
+</div>
 
 El segundo día emprendimos la tarea de enmascarar y pintar el estativo
 
-[galeria 2]
+[[!field unite_gallery="tiles" gallery_2="pintado"]]
+
+<div id="pintado" class="unite-gallery tiles" style="display:none;">
+   <img alt="Estructura ensamblada y enmascarada" src="/uploads/galleries/mendoza_2018/pintado/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/01.jpg"
+   data-description="">
+   <img alt="Pintado con aerosol" src="/uploads/galleries/mendoza_2018/pintado/300px/02.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/02.jpg"
+   data-description="">
+   <img alt="Algunas partes ya pintadas" src="/uploads/galleries/mendoza_2018/pintado/300px/03.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/03.jpg"
+   data-description="">
+   <img alt="La estructura, ya terminada" src="/uploads/galleries/mendoza_2018/pintado/300px/04.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/04.jpg"
+   data-description="">
+</div>
 
 El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y la programacion de las cámaras y la instalacion del software. Finalmente se realizo una prueba de uso del dispositivo y una capacitación.
 
-[galeria 3]
+[[!field unite_gallery="tiles" gallery_3="capacitacion"]]
 
-
-<div id="mendoza_2018" style="display:none;">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124417.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124417.jpg"
+<div id="capacitacion" class="unite-gallery tiles" style="display:none;">
+   <img alt="Dispositivo listo" src="/uploads/galleries/mendoza_2018/capacitacion/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/01.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124421.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124421.jpg"
+   <img alt="Probando la iluminación" src="/uploads/galleries/mendoza_2018/capacitacion/300px/05.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/05.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124451.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124451.jpg"
+   <img alt="Probando las cámaras" src="/uploads/galleries/mendoza_2018/capacitacion/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/10.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_124515.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_124515.jpg"
+   <img alt="Iniciando una prueba de captura" src="/uploads/galleries/mendoza_2018/capacitacion/300px/15.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/15.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_145716.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_145716.jpg"
+   <img alt="Capacitación sobre el funcionamientoi" src="/uploads/galleries/mendoza_2018/capacitacion/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/20.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_164825.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_164825.jpg"
+   <img alt="" src="/uploads/galleries/mendoza_2018/capacitacion/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/25.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_164933.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_164933.jpg"
+   <img alt="Al final del día 3, la capacitación sobre como operar el dispositivo" src="/uploads/galleries/mendoza_2018/capacitacion/300px/27.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/27.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180910_170756.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180910_170756.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_120343.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_120343.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_172603.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_172603.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_182648.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_182648.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_182701.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_182701.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180911_184205.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180911_184205.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_113440.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_113440.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_143230.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_143230.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/20180912_151630.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/20180912_151630.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_143138_307.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_143138_307.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_170704_846.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_170704_846.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_170721_999.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_170721_999.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180909_200852_131.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180909_200852_131.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180911_175927_932.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180911_175927_932.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180912_155527_921.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180912_155527_921.jpg"
-   data-description="">
-<img alt="" src="/uploads/galleries/mendoza_2018/300px/IMG_20180912_215315_275.jpg"
-   data-image="/uploads/galleries/mendoza_2018/1280px/IMG_20180912_215315_275.jpg"
+   <img alt="Ya digitalizando" src="/uploads/galleries/mendoza_2018/capacitacion/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/30.jpg"
    data-description="">
 </div>
+
