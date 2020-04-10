@@ -2,7 +2,7 @@
 [[!meta date="2018-11-09T12:00:00Z"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field
-   teaserline="Ponencia de Gabriela Striker, Agustina Miguens y Ileana Campagno Pizarro en el III Congreso de AAHD"
+   teaserline="Ponencia en el III Congreso de AAHD de Gabriela Striker, Agustina Miguens e Ileana Campagno Pizarro"
 ]]
 
 Compartimos la presentación realizada por **Gabriela Striker**, **Agustina Miguens** y **Ileana Campagno Pizarro** (coordinada por **Juan Mendoza**) en el [**"III Congreso Internacional de la Asociación de Humanidades Digitales (AAHD)**"](https://rephip.unr.edu.ar/handle/2133/13443), organizado por La Asociación Argentina de Humanidades Digitales (AAHD) y la Facultad de Humanidades y Artes de la Universidad Nacional de Rosario (UNR), que se llevó a cabo en la ciudad de Rosario, Santa Fe, del 7 al 9 de noviembre de 2018.
