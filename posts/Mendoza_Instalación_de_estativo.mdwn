@@ -78,6 +78,7 @@ El corte láser de las piezas y la adquisición de materiales para el armado se 
 El segundo día emprendimos la tarea de enmascarar y pintar el estativo, en un espacio abierto dentro del edificio de Irrigación.
 
 [[!field unite_gallery="tiles" gallery_3="pintado"]]
+
 <div id="pintado" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/011.jpg"
    data-image="/uploads/galleries/mendoza_2018/pintado/1280px/011.jpg"
