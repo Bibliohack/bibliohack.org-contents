@@ -31,7 +31,46 @@ Sin embargo la elección de nuestra iniciativa no solo estuvo relacionada con la
 
 El desarrollo del proyecto implicó la colaboración entre distintas áreas del Museo para ajustar y definir pautas de **conservación**, **iluminación**, **selección de documentos**, **descripción archivística**, **gestión de datos**, **características de formatos** o **publicación en línea**, desde una perspectiva realista y utilitaria. Para el *software* de captura y postprocesamiento desarrollamos nuevas funcionalidades y adaptamos configuraciones atendiendo las particularidades del material a digitalizar, analizando las condiciones de acceso y conservación digital, en *feedback* constante con el personal del Museo y la Biblioteca. Para el desarrollo del estativo probamos distintas configuraciones estructurales tomando en cuenta limitaciones de espacio y practicidad de uso.
 
-[galeria]
+[[!field unite_gallery="tiles" gallery_1="cenital_el_moderno"]]
+
+<div id="cenital_el_moderno" class="unite-gallery tiles" style="display:none;">
+   <img alt="Ensamble de las piezas" src="/uploads/galleries/cenital_el_moderno/300px/01.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/01.jpg"
+   data-description="">
+   <img alt="Pintura" src="/uploads/galleries/cenital_el_moderno/300px/20.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/20.jpg"
+   data-description="">
+   <img alt="Ensamble de las piezas ya pintadas" src="/uploads/galleries/cenital_el_moderno/300px/30.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/30.jpg"
+   data-description="">
+   <img alt="Montando las luces en la estructura" src="/uploads/galleries/cenital_el_moderno/300px/35.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/35.jpg"
+   data-description="">
+   <img alt="Probando las luces" src="/uploads/galleries/cenital_el_moderno/300px/40.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/40.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/50.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/50.jpg"
+   data-description="">
+   <img alt="Iniciando un test de captura" src="/uploads/galleries/cenital_el_moderno/300px/55.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/55.jpg"
+   data-description="">
+   <img alt="Primeros test de captura" src="/uploads/galleries/cenital_el_moderno/300px/60.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/60.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/70.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/70.jpg"
+   data-description="">
+   <img alt="Tarjeta de calibracion de color" src="/uploads/galleries/cenital_el_moderno/300px/77.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/77.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/80.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/80.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/82.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/82.jpg"
+   data-description="">
+</div>
 
 Como corolario, el trabajo con el Museo durante este año afianzó nuestra idea de que más alla de las prioridades y limitaciones que a veces determinan políticas desalentadoras, es la **cooperación estratégica** entre los **custodios directos de las colecciones** y la adopción de herramientas basadas en **software y hardware libre** –y **tecnología adecuada** al contexto– lo que posibilita el desarrollo de **capacidad instalada** y la **resiliencia** de los recursos a través del tiempo.
 
