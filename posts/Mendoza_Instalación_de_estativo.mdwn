@@ -26,14 +26,8 @@ El corte láser de las piezas y la adquisición de materiales para el armado se 
    <img alt="Desembalando los cortes de MDF que entregó el proveedor" src="/uploads/galleries/mendoza_2018/armado/300px/01.jpg"
    data-image="/uploads/galleries/mendoza_2018/armado/1280px/01.jpg"
    data-description="">
-   <img alt="clasificando las piezas" src="/uploads/galleries/mendoza_2018/armado/300px/02.jpg"
-   data-image="/uploads/galleries/mendoza_2018/armado/1280px/02.jpg"
-   data-description="">
    <img alt="clasificando las piezas" src="/uploads/galleries/mendoza_2018/armado/300px/10.jpg"
    data-image="/uploads/galleries/mendoza_2018/armado/1280px/10.jpg"
-   data-description="">
-   <img alt="Detalle del area de encastre para las diferentes posiciones del porta-cámara" src="/uploads/galleries/mendoza_2018/armado/300px/15.jpg"
-   data-image="/uploads/galleries/mendoza_2018/armado/1280px/15.jpg"
    data-description="">
    <img alt="Ensamblando los conjuntos" src="/uploads/galleries/mendoza_2018/armado/300px/20.jpg"
    data-image="/uploads/galleries/mendoza_2018/armado/1280px/20.jpg"
