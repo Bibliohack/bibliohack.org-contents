@@ -5,6 +5,7 @@
   default_video_alt="El archivo histórico del Museo de Arte Moderno a tu alcance"
   default_video_poster="/uploads/posts/Financiación_colectiva_para_digitalizar_el_archivo_del_Moderno/poster_img.jpg"
   default_img="/uploads/posts/Financiación_colectiva_para_digitalizar_el_archivo_del_Moderno/poster_img.jpg"
+  teaserline="Campaña de crowdfunding en la plataforma Kickstarter"
 ]]
 
 El Museo de Arte Moderno de Buenos Aires, con el auspicio de la Asociación Amigos del Moderno, te invita a formar parte del proyecto de puesta en valor y digitalización del archivo histórico del Museo, con el objetivo de garantizar su acceso y ponerlo a disposición de la comunidad artística y del gran público local e internacional.
