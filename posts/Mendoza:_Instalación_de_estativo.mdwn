@@ -3,7 +3,7 @@
 [[!meta title="Instalación de estativo en el Archivo del Agua, Mendoza"]]
 [[!meta date="2018-09-12T12:00:00Z"]]
 [[!field
-  default_img="/uploads/posts/Mendoza:_Instalación_de_estativo/mendoza_grupal.jpeg"
+  default_img="/uploads/posts/Mendoza_Instalación_de_estativo/mendoza_grupal.jpeg"
   default_img_alt="Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza."
   featured=yes
   summary="Durante tres días en la ciudad de Mendoza armamos un estativo en V, configuramos el software y capacitamos a los usuarios del dispositivo"
