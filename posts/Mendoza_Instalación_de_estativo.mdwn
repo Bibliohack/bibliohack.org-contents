@@ -48,7 +48,7 @@ A continuacion. algunas imágenes del archivo mientras relevábamos las diferent
    data-description="">
 </div>
 
-En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet) fuimos a Mendoza en septiembre de 2018 a construir e instalar un estativo *en V* para la biblioteca. El dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de fácil acceso para los investigadores.
+En el marco de ese proyecto de puesta en valor del acervo y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet) fuimos a Mendoza en septiembre de 2018 a construir e instalar un estativo *en V* para la biblioteca. El dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de fácil acceso para los investigadores.
 
 El corte láser de las piezas y la adquisición de materiales para el armado se realizó integramente con proveedores de la ciudad de Mendoza, gestionado por integrantes del Incihusa. A nuestra llegada ya contábamos con el material listo para comenzar a ensamblar el dispositivo.
 
