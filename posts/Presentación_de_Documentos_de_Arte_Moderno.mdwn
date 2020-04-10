@@ -67,6 +67,9 @@ Fotos: Jesica Echarri.
    data-description="">
 </div>
 
+Mini-entrevista realizada en el Museo de Arte Moderno para el programa radial "De Fogon en Fogon" (Radio Gráfica, FM 89.3 del Barrio de Barracas), durante el evento de presentación del proyecto de digitalización "Documentos de Arte Moderno".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aK2EQH9GvZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- 
   https://www.facebook.com/museodeartemodernodebuenosaires/photos/d41d8cd9/1918882738128226/ 
