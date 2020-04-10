@@ -46,8 +46,13 @@ El corte láser de las piezas y la adquisición de materiales para el armado se 
 El segundo día emprendimos la tarea de enmascarar y pintar el estativo
 
 [[!field unite_gallery="tiles" gallery_2="pintado"]]
-
 <div id="pintado" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/011.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/011.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/012.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/012.jpg"
+   data-description="">
    <img alt="Estructura ensamblada y enmascarada" src="/uploads/galleries/mendoza_2018/pintado/300px/01.jpg"
    data-image="/uploads/galleries/mendoza_2018/pintado/1280px/01.jpg"
    data-description="">
@@ -61,6 +66,7 @@ El segundo día emprendimos la tarea de enmascarar y pintar el estativo
    data-image="/uploads/galleries/mendoza_2018/pintado/1280px/04.jpg"
    data-description="">
 </div>
+
 
 El tercer día llevamos adelante los ultimos ajustes, la instalacion electrica y la programacion de las cámaras y la instalacion del software. Finalmente se realizo una prueba de uso del dispositivo y una capacitación.
 
