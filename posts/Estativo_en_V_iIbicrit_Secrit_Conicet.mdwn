@@ -16,7 +16,7 @@ En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y 
 
 El dispositivo para digitalizar los volúmenes es un *estativo en "V"* que utiliza dos cámaras digitales compactas conectadas a una computadora. El estativo de bajo costo fue desarrollado por Bibliohack y utiliza listones de madera de pino como elemento constructivo y acrílico cristal como medio de aplanamiento del documento. Para realizar las capturas se utilizó el software "Dalclick" de Bibliohack que controla las cámaras remotamente y permite hacer una vista previa del resultado. El post-proceso se realizó con **software libre** sobre una plataforma gnu/linux (Tesseract OCR, Scantailor y PDFBeads) operados mediante nuestro sistema "Dalproc" que permite la ejecución conjunta de todas estas etapas en lote. El proceso culmina con un archivo PDF listo para publicar en línea.
 
-Bibliohack capacitó a miembros del SECRIT sobre la operación del dispositivo y el uso del software para postproceso. La digitalización estuvo a cargo de Gabriela Striker, Ileana Campagno y Agustina Miguens.
+Bibliohack capacitó a integrantes del SECRIT sobre la operación del dispositivo y el uso del software para postproceso. La digitalización estuvo a cargo de Gabriela Striker, Ileana Campagno y Agustina Miguens.
 
 La **Revista Incipit** "publica colaboraciones originales dedicadas a los problemas y métodos de la edición y crítica textual de obras en español de la Península y América, desde la Edad Media hasta nuestros días, noticias de archivos y repositorios bibliográficos, y temas de lengua, estructura y estilo vinculados al texto o a la historia del texto".
 
