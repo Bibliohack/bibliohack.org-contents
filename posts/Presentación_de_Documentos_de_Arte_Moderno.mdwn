@@ -16,6 +16,58 @@ Muy pronto, el público general podrá acceder al archivo histórico del Moderno
 
 Fotos: Jesica Echarri.
 
+[[!field unite_gallery="tiles" gallery_1="documentos_de_arte_moderno"]]
+
+
+<div id="documentos_de_arte_moderno" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/004.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/004.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/005.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/005.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/009.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/009.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/013.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/013.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/014.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/014.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/017.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/017.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/018.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/018.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/019.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/019.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/021.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/021.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/027.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/027.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/028.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/028.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/030.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/030.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/032.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/032.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/034.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/034.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/documentos_de_arte_moderno/300px/037.jpg"
+   data-image="/uploads/galleries/documentos_de_arte_moderno/1280px/037.jpg"
+   data-description="">
+</div>
+
+
 <!-- 
   https://www.facebook.com/museodeartemodernodebuenosaires/photos/d41d8cd9/1918882738128226/ 
   https://twitter.com/mbutel/status/929042569148891136
