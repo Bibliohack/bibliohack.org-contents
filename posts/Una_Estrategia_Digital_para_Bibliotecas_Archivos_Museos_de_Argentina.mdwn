@@ -4,6 +4,7 @@
 [[!field
   default_img="/uploads/posts/Una_Estrategia_Digital_para_Bibliotecas_Archivos_Museos_de_Argentina/quilmes.png"
   default_img_alt="Panel ¿Una Estrategia Digital para Bibliotecas, Archivos y Museos de Argentina."
+  teaserline="Presentación de Matías Butelman en la Universidad Nacional de Quilmes"
 ]]
 
 Video de la presentación de **Matías Butelman** "Museo de Arte Moderno, Colegio Nacional de Buenos Aires UBA (CABA)
