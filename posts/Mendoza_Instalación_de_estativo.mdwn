@@ -10,11 +10,11 @@
   teaserline="Durante tres días en Mendoza armamos un estativo para digitalizar documentación histórica"
 ]]
 
-La historia de Mendoza esta íntimamente ligada al uso del agua. La necesidad de realizar obras y arbitrar conflictos sobre este recurso escaso llevó a la creación de instituciones hídricas ya en épocas coloniales. En 1884 se dictará la primera ley de aguas y se creará el Departamento General de Aguas, hoy denominado [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/), una institucion autárquica e influyente de la Provincia cuya función principal sigue siendo la administración general de las aguas públicas.
+La historia de Mendoza esta íntimamente ligada al uso del agua. La necesidad de realizar obras y arbitrar conflictos sobre este recurso escaso llevó a la creación de instituciones hídricas ya en épocas coloniales. En 1884 se dictará la primera ley de aguas y se creará el Departamento General de Aguas, hoy denominado [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/) (DGI), una institucion autárquica e influyente de la Provincia cuya función principal sigue siendo la administración general de las aguas públicas.
 
-Hablar de la historia del agua en el territorio que hoy ocupa la provincia de Mendoza está directamente ligado al rescate e interpretación de actas, planos, informes, ilustraciones, fotografías o libros que han generado desde hace más de dos siglos las administraciones de estos recursos. Mucha de esta documentacion se encuentra bajo la custodia de archivos generales dispersos geograficamente en el denominado *archivo pasivo* del Departamento General de Irrigacion. Para facilitar el acceso y poner en valor este acervo Irrigación está conformando la **Biblioteca y Archivo Histórico del Agua** en las instalaciones centrales de Irrigación en la Ciudad de Mendoza. 
+Hablar de la historia del agua en el territorio que hoy ocupa la provincia de Mendoza está directamente ligado al rescate e interpretación de actas, planos, informes, ilustraciones, fotografías o libros que han generado desde hace más de dos siglos las administraciones de estos recursos. Mucha de esta documentacion se encuentra bajo la custodia de archivos generales dispersos geograficamente en el denominado *archivo pasivo* del Departamento General de Irrigacion. Para facilitar el acceso y poner en valor este acervo se está conformando la **Biblioteca y Archivo Histórico del Agua** en las instalaciones centrales de Irrigación en la Ciudad de Mendoza. 
 
-A continuacion. algunas imágenes del archivo, mientras relevamos diferentes tipologías de documentos.
+A continuacion. algunas imágenes del archivo mientras relevábamos las diferentes tipologías de documentos existentes.
 
 [[!field unite_gallery="tiles" gallery_1="archivo"]]
 
@@ -48,7 +48,7 @@ A continuacion. algunas imágenes del archivo, mientras relevamos diferentes tip
    data-description="">
 </div>
 
-En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet), es que fuimos a Mendoza a construir e instalar un estativo en V en la biblioteca. EL dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de fácil acceso para los investigadores.
+En el marco de ese proyecto y en colaboración con el [**Instituto de Ciencias Humanas, Sociales y Ambientales del Conicet**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/Conicet) fuimos a Mendoza en septiembre de 2018 para construir e instalar un estativo *en V* para la biblioteca. EL dispositivo digitalizará parte de un acervo de libros, fotografias y revistas históricas que actualmente no son de fácil acceso para los investigadores.
 
 El corte láser de las piezas y la adquisición de materiales para el armado se realizó integramente con proveedores de la ciudad de Mendoza, gestionado por integrantes del Incihusa. A nuestra llegada ya contábamos con el material listo para comenzar a ensamblar el dispositivo.
 
@@ -100,7 +100,7 @@ El segundo día emprendimos la tarea de enmascarar y pintar el estativo, en un e
    data-description="">
 </div>
 
-El tercer día llevamos adelante los ultimos ajustes, el emplazamiento del dispositivo en su lugar definitivo, la instalación electrica, la programación de las cámaras y la instalación del software. Finalmente se realizó una prueba de uso del dispositivo y una capacitación.
+Finalmente en nuestro último día en Mendoza llevamos adelante los ultimos ajustes, el emplazamiento del dispositivo en su lugar definitivo, la instalación eléctrica del aparato, la programación de las cámaras y la instalación del software en una notebook destinada a operar el escáner. A ultima hora realizamos una prueba de uso del dispositivo y una capacitación a los integrantes de la Biblioteca y del Incihusa.
 
 [[!field unite_gallery="tiles" gallery_4="capacitacion"]]
 
@@ -134,4 +134,4 @@ El tercer día llevamos adelante los ultimos ajustes, el emplazamiento del dispo
    data-description="">
 </div>
  
-Pro último, queremos agradecer especiualmente a **Mark Healy**, **Facundo Martín**, y **Sergio Terrera** que hicieron posible este proyecto.
+Queremos agradecer especiualmente a **Mark Healy**, **Facundo Martín**, y **Sergio Terrera** por la confianza puesta en Bibliohack para llevar adelante este proyecto.
