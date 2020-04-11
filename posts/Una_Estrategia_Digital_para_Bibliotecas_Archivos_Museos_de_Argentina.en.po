@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag eventos presentaciones]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!meta title=\" ¿Una Estrategia Digital para Bibliotecas, Archivos y Museos "
+"de Argentina?\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2018-12-04T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Una_Estrategia_Digital_para_Bibliotecas_Archivos_Museos_de_Argentina/quilmes.png\"\n"
+"  default_img_alt=\"Panel ¿Una Estrategia Digital para Bibliotecas, Archivos "
+"y Museos de Argentina.\"\n"
+"  teaserline=\"Presentación de Matías Butelman en la Universidad Nacional de "
+"Quilmes\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Video de la presentación de **Matías Butelman** \"Museo de Arte Moderno, "
+"Colegio Nacional de Buenos Aires UBA (CABA)  ¿Una estrategia digital para "
+"bibliotecas, archivos y museos de Argentina?\", en la [**Jornada sobre la "
+"Biblioteca Digital Universitaria 2018**](https://jbdu2018.unq.edu.ar/) "
+"\"Reflexiones sobre la Biblioteca Académica y el contexto\", que se realizó "
+"el 1 y 2 de noviembre de 2018 en la Universidad Nacional de Quilmes."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<br>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<iframe width=\"560\" height=\"315\" "
+"src=\"https://www.youtube.com/embed/rK7xzUT2gGA\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; encrypted-media; gyroscope; "
+"picture-in-picture\" allowfullscreen></iframe>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<!-- \n"
+"https://jbdu2018.unq.edu.ar/wp-content/uploads/2018/11/Parte1_Una-estrategia-digital-para-bibliotecas.pdf\n"
+"-->\n"
+msgstr ""

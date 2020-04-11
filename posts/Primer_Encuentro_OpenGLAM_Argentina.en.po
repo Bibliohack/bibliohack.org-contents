@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag activismo openglam]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2017-12-04T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Primer_Encuentro_OpenGLAM_Argentina/openglam-dic-2017-mamba.jpg\"\n"
+"  default_img_alt=\"Más de 100 asistentes en el Primer Encuentro OpenGlam "
+"Argentina.\"\n"
+"  summary=\"Junto con el Museo de Arte Moderno, Wikimedia Argentina, "
+"Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación "
+"co-organizamos el primer encuentro OpenGLAM en Buenos Aires.\"\n"
+"  teaserline=\"Bibliohack ayudó a organizar el primer encuentro OpenGLAM de "
+"Argentina.\"\n"
+"  featured=yes\n"
+"  unite_gallery=\"tiles\" gallery_1=\"openglam_argentina_2017\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El **4 de diciembre de 2017** se llevó a cabo el [**Primer Encuentro "
+"OpenGLAM Argentina**](http://openglam.org.ar/#comunidad) organizado por el "
+"**Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, "
+"**Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de "
+"Cultura de la Nación."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La convocatoria superó ampliamente las expectativas y hubo alrededor de "
+"**100 asistentes**, entre los cuales hubo personal de archivos, bibliotecas "
+"y museos de todos los niveles de la administración pública, y también de la "
+"sociedad civil y del sector privado. Se formaron cinco grupos de trabajo y "
+"cada uno abordó una temática diferente relacionada con la apertura de "
+"acervos:"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid "digitalización,"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid "catalogación y publicación en línea,"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid "propiedad intelectual,"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid "conservación y"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid "financiación de proyectos."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El encuentro puso de manifiesto la necesidad constituir un ámbito específico "
+"para compartir conocimientos y experiencias y propiciar la conversación "
+"sobre **problemáticas comunes**. También evidenció el interés por conformar "
+"una organización o colectivo que permita articular acciones conjuntas en los "
+"temas más urgentes, como la reforma de las leyes de propiedad intelectual "
+"para incorporar excepciones para instituciones culturales."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Desde **Bibliohack** dedicamos gran parte de nuestra energía y recursos a "
+"posibilitar estos encuentros, tendiendo lazos entre personas e instituciones "
+"que contribuyen a construir y consolidar espacios de participación y "
+"reflexión que busquen incidir en políticas públicas."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Algunas imágenes del evento"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"openglam_argentina_2017\" class=\"unite-gallery tiles\" "
+"style=\"display:none;\">\n"
+"   <img alt=\"Inicio del evento\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/001.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/001.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Presentación a cargo de Valeria Semilla del Moderno.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/002.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/002.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Presentación a cargo de Giselle Bordoy de Wikimedia "
+"Argentina.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/003.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/003.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Presentación a cargo de Matías Butelman.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/005.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/005.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Se inicia la dinámica de los grupos de trabajo\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/010.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/010.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Panorámica de los grupos de trabajo.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/011.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/011.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Grupo sobre catalogación y publicación en línea.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/035.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/035.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Grupo sobre propiedad intelectual.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/040.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/040.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Al frente, el grupo debate y analiza la temática financiación "
+"de proyectos.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/050.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/050.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Grupo sobre digitalización.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/057.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/057.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Grupo de debate sobre conservación.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/058.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/058.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/060.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/060.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/070.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/070.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Foto Grupal en el Hall del Moderno.\" "
+"src=\"/uploads/galleries/openglam_argentina_2017/300px/100.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/openglam_argentina_2017/1280px/100.jpg\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+msgid "enlaces:"
+msgstr ""
+
+#. type: Bullet: ' * '
+msgid "[OpenGLAM Argentina](http://openglam.org.ar)"
+msgstr ""
+
+#. type: Bullet: ' * '
+msgid ""
+"[#OpenGLAM Argentina en el sitio de Facebook del "
+"Moderno](https://www.facebook.com/permalink.php?id=699937893356056&story_fbid=1949512881731878)"
+msgstr ""

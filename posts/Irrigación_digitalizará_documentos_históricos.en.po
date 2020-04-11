@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag prensa Irrigación-INCIHUSA-CONICET]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"Irrigación digitalizará documentos históricos del agua\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2018-09-13T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  featured=yes\n"
+"  "
+"default_img=/uploads/posts/Irrigaci%C3%B3n_digitalizar%C3%A1_documentos_hist%C3%B3ricos/DSC_2898.jpg\n"
+"  default_img_alt=\"Hoy se puso en marcha el laboratorio de digitalización "
+"de documentos históricos del agua, que se encuentran en la biblioteca de "
+"Irrigación.\"\n"
+"  teaserline=\"Artículo publicado en el sitio de la Dirección de Irrigación "
+"de Mendoza\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"A continuación reproducimos el "
+"[artículo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) "
+"publicado el 13 de septiembre de 2018 en el sitio del **Departamento General "
+"de Irrigación de Mendoza**, sobre la instalación de un estativo en V de "
+"Bibliohack.\n"
+"<!-- "
+"https://web.archive.org/web/20190902185512/http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior "
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ##
+#, no-wrap
+msgid ""
+"Irrigación digitalizará documentos históricos del agua con un scanner único "
+"en el interior del país"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El Departamento General de Irrigación, junto a CONICET, emprende trabajos "
+"que fundan un nuevo hito en la planificación cultural del organismo "
+"encargado del agua y la provincia, con la puesta en marcha del **laboratorio "
+"de digitalización de documentos históricos del agua que se encuentran en la "
+"biblioteca del organismo**."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"En el marco del **Convenio de Asistencia Técnica DGI-INCIHUSA-CONICET**, "
+"firmado en marzo de este año, Irrigación fortalece los vínculos de "
+"cooperación científico tecnológica e implementa acciones de carácter "
+"institucional, académico, científico y tecnológico con instituciones que "
+"aportan experticia en este proceso."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"\"Esta máquina que fue diseñada especialmente por investigadores del "
+"CONICET, digitaliza libros de tamaño considerable, por lo que permitirá a "
+"partir de ahora poder contemplar el patrimonio que tiene Irrigación, que "
+"durante muchos años ha sido cuidado por personal del organismo por voluntad "
+"propia ya que nunca se puso en relevancia\", aseguró el Superintendente "
+"Sergio Marinelli en el lanzamiento de la propuesta."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"\"Es el primer scanner en un organismo del interior del país. Hay otros "
+"cinco que están en Buenos Aires. Es una herramienta que le sirve a cualquier "
+"institución que tenga patrimonio como nosotros. Con esto tratamos de "
+"incorporar una visión diferente y una filosofía distinta que incluye la "
+"participación y colaboración. El código abierto u ‘Open source’ es una forma "
+"de libre circulación de software de un fuerte carácter social y "
+"comunitario. Por lo tanto, esto se ha logrado de manera solidaria desde un "
+"principio, junto al Conicet-Incihusa y a diferentes visiones que lograron la "
+"evolución de este proyecto.”    \n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"\"La aspiración es que cualquier ciudadano del mundo que esté investigando, "
+"conociendo Mendoza, su historia a partir del agua o cualquier ciudadano "
+"común, pueda entender la lógica con la cual se manejó el agua desde el "
+"comienzo. Para comprender el presente hay que repasar la historia y esta es "
+"la mejor manera de hacerlo con software libre\", agregó."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Facundo Martín, investigador de Conicet-Incihusa aseguró, \"estamos haciendo "
+"una asistencia técnica entorno a la creación y organización del archivo "
+"histórico del agua. Esto que inauguramos hoy es un dispositivo especialmente "
+"diseñado para la digitalización histórica que busca preservar los documentos "
+"históricos, que son sensibles, de manera que se puedan manipular de una sola "
+"vez y para la consulta del propio personal de Irrigación como del público en "
+"general e investigadores\", aseguró."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Un scanner de características únicas en el interior del país"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"En el marco de este convenio, en marzo el experto en digitalización de "
+"libros antiguos, Matías Butelman (Buenos Aires), desarrolló un taller de "
+"capacitación para investigadores en Irrigación. Butelman es el encargado de "
+"preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires "
+"(BCNBA) y uno de los dos creadores de un innovador equipo para la "
+"digitalización. Este taller fue el inicio de las acciones que hoy se "
+"complementan con la incorporación de un scanner de características únicas en "
+"el interior del país, que estará en Irrigación durante 2 años."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El componente tecnológico se centra en un scanner especialmente diseñado "
+"para la digitalización de documentos históricos que logra como resultado la "
+"preservación y accesibilidad de los mismos. Este scanner es desarrollado por "
+"Bibliohack, compañía de tecnología libre para bibliotecas, archivos y "
+"museos."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"El scanner es un dispositivo de bajo costo adaptado a las condiciones "
+"locales y está construido con materiales como MDF y cámaras digitales "
+"compactas de gama media. El software que utiliza se compone de diferentes "
+"piezas de software libre compartidas en internet. Entre las posibilidades de "
+"este scanner se destaca su cuna en V que permite la toma de copias de libros "
+"muy antiguos sin que sufran daño en su costura.  \n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Apertura a la biblioteca digital"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La idea es que el público e investigadores de la provincia puedan acceder a "
+"documentos digitales una vez formado e inaugurado el archivo. Inclusive, "
+"investigadores del mundo participarán de este proyecto especial de "
+"digitalización como Mark Healy del Departamento de Historia de la ECONN, "
+"(University of Conneticut)."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"Por otra parte, titulares de diversos organismos de preservación y "
+"archivamiento de nuestra provincia tuvieron la oportunidad, en el día  de "
+"ayer, de observar las funciones que posee el scanner a través de una "
+"capacitación que brindaron expertos de Bibliohack en la Biblioteca de "
+"Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San "
+"Martín, Marta Babillón; el encargado del Centro de Documentación Histórica "
+"de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la "
+"Provincia, Alicia Guevara;  se interiorizaron de los alcances de este "
+"laboratorio.   \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""

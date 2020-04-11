@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag eventos]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2017-09-20T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!meta title=\"Encuentro sobre conservación y digitalizacion en la Manzana "
+"de las Luces\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  body_class=\"post\" \n"
+"  summary=\"Bibliohack realizó una presentación en un encuentro organizado "
+"por el Museo Nacional del Cabildo\"\n"
+"  teaserline=\"Bibliohack participó en un encuentro organizado por el Museo "
+"Nacional del Cabildo\"\n"
+"  "
+"default_img=\"/uploads/posts/Manzana_de_las_Luces/DKA9zdLXoAIOyMm-crop.jpeg\"\n"
+"  default_img_alt=\"Expusimos la experienca de Bibliohack en el II Encuentro "
+"de Digitalización y Conservación\"\n"
+"  short_title=\"Conservación y digitalizacion en la Manzana de las Luces\"\n"
+"  unite_gallery=\"tiles\" gallery_1=\"manzana_de_las_luces_2017\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Luego de un primer encuentro en 2016 sobre la conservación de colecciones "
+"patrimoniales y su difusión mediante la digitalización, el **Museo Nacional "
+"del Cabildo** y la **Manzana de las Luces** organizaron este [segundo "
+"encuentro](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/) "
+"el 17 de septiembre pasado, con numerosa asistencia de profesionales del "
+"ámbito de la catalogación, conservación y restauración del patrimonio "
+"cultural."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"A lo largo de la jornada se realizaron alrededor de 12 presentaciones sobre "
+"diferentes experiencias y metodologías. Se buscaba concientizar sobre la "
+"importancia de la preservación de las colecciones mediante la conversión a "
+"digital –que disminuye la manipulación y deterioro del material físico y "
+"aumenta el alcance de la difusión y su puesta en valor. Tambien se buscó "
+"capacitar a los trabajadores de archivos, museos y bibliotecas respecto de "
+"las mejores opciones en digitalización, preservación y acceso. Temas como "
+"las técnicas de registro tridimensional de objetos, la digitalización de "
+"archivos audiovisuales y sonoros (como diapositivas, VHS, cassette o films) "
+"o el uso de IoT (\"Internet de las cosas\") en los museos, formaron parte "
+"del programa. Las [presentaciones pueden consultarse "
+"aqui](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/)"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Desde **Bibliohack** contamos nuestra experiencia en los proyectos de "
+"digitalización de varias instituciones, la existencia de dispositivos para "
+"digitalizar libros y documentos de bajo costo \"auto-contruibles\" y las "
+"fortalezas del paradigma del **software y hardware libre** para el "
+"desarrollo de los procesos de digitalización y puesta en línea de "
+"colecciones. También difundimos las prácticas y objetivos de organizaciones "
+"como Creative Commons, Wikimedia y su relación con el movimiento *OpenGLAM*, "
+"y contamos nuestra visión sobre la necesidad de construcción de redes "
+"colaborativas en la produccion conocimiento y recursos entre las "
+"instituciones que gestionan el patrimonio cultural, tomando como ejemplo la "
+"experiencia de la Digital Public Library of America (DPLA) y su semejanza "
+"con los ecosistemas de desarrollo abiertos de la industria del software como "
+"Linux o de proyectos como Wikipedia. La presentación puede descargarse desde "
+"aqui:"
+msgstr ""
+
+#. type: Bullet: '* '
+msgid ""
+"[**Del catálogo informatizado a la biblioteca "
+"digital**](http://new.bibliohack.org/posts/Conservaci%C3%B3n_y_Digitalizaci%C3%B3n_en_la_Manzana_de_las_Luces/ppt-cabildo-para-publicar.pdf)."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Algunas imágenes del evento"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"manzana_de_las_luces_2017\" class=\"unite-gallery tiles\" "
+"style=\"display:none;\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKA6naDWkAAT8Nw.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKA6naDWkAAT8Nw.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKA7uPoXcAAWjT2.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKA7uPoXcAAWjT2.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKA80ECXcAA81r8.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKA80ECXcAA81r8.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKA86I2W0AEBnTM.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKA86I2W0AEBnTM.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKA9zdLXoAIOyMm.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKA9zdLXoAIOyMm.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKBQltkXkAEBWyO.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKBQltkXkAEBWyO.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/manzana_de_las_luces_2017/300px/DKBTjy1XoAATt-R.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/manzana_de_las_luces_2017/1280px/DKBTjy1XoAATt-R.jpg\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<!--\n"
+"https://www.facebook.com/events/Asinppac-museos-bibliotecas-558716710929804/ii-encuentro-de-conservaci%C3%B3n-y-digitalizaci%C3%B3n/324678494637251/\n"
+"https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/\n"
+"https://twitter.com/search?q=from%3Aderechoaleer%20until%3A2017-09-19%20since%3A2017-09-18&src=typed_query&f=live\n"
+"https://www.eventbrite.com.ar/e/ii-encuentro-de-conservacion-y-digitalizacion-tickets-35379706655?aff=efbevent#\n"
+"https://centrodocumentacion.com.ar/preservacion-trabajo-colaborativo-y-divulgacion-del-patrimonio-del-diario-cordoba-en-el-ii-encuentro-de-conservacion-y-digitalizacion/\n"
+"-->\n"
+msgstr ""

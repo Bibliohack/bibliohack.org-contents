@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag proyectos]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2018-09-13T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<!-- \n"
+"!meta title=\"Titulo de post\"\n"
+"!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"\n"
+"!meta author=\"Bibliohack\"\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  body_class=\"post\" \n"
+"  "
+"default_img=\"/uploads/posts/Bibliohack_en_la_Academia_Nacional_de_Historia/Academia-Nacional-de-la-Historia-12.jpg\"\n"
+"  default_img_alt=\"Fachada del Antiguo Congreso Nacional, dentro del "
+"edificio de la AFIP, sede de la Academia Nacional de Historia\"\n"
+"  summary=\"Resumen que aparece abajo del titulo en el post\"\n"
+"  teaserline=\"Instalación de estativos para el laboratorio de "
+"digitalización\"\n"
+"  featured=yes\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La [**Academia Nacional de la Historia**](http://anh.org.ar) fue creada con "
+"la denominación de Junta de Numismática por el teniente general Bartolomé "
+"Mitre, padre de la historiografía argentina, y por otros destacados cultores "
+"de esa disciplina."
+msgstr ""

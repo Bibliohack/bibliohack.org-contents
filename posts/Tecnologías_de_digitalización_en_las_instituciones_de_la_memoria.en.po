@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag eventos talleres]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!meta title=\"Tecnologías de digitalización en las instituciones de la "
+"memoria\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2019-06-03T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg\"\n"
+"  default_img_alt=\"Encuentro sobre digitalización en el Centro Cultural de "
+"la Ciencia.\"\n"
+"  teaserline=\"Artículo sobre el encuentro realizado en Córdoba, al que fue "
+"invitado Matias Butelman\"\n"
+"]]\n"
+"<!-- \n"
+"https://web.archive.org/web/20190903063453/https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Lo siguiente es un *copy/paste* del "
+"[artículo](https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital) "
+"publicado en el sitio [argentina.gob.ar](http://argentina.gob.ar) luego de "
+"un encuentro sobre digitalización realizado en el Centro Cultural de la "
+"Ciencia en la ciudad de Córdoba."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ##
+#, no-wrap
+msgid "Desafíos de la preservación documental en tiempos de tecnología digital"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<big>El encuentro posibilitó el intercambio de experiencias y propuestas en "
+"torno a la preservación de objetos museográficos y bibliográficos en "
+"soportes digitales.</big>\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El taller “Tecnologías de digitalización en las instituciones de la memoria” "
+"se dictó en el Centro Cultural de la Ciencia (C3) el pasado viernes. La "
+"actividad se llevó a cabo en el marco del Sistema Nacional de Documentación "
+"Histórica, que depende de la Secretaría de Gobierno de Ciencia, Tecnología e "
+"Innovación Productiva."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El encuentro abordó las posibilidades y los desafíos que plantean las "
+"tecnologías de digitalización para la producción, la gestión y la "
+"preservación en el largo plazo de la información histórica y cultural. Las "
+"ponencias estuvieron a cargo de Fernando Boro, miembro del Proyecto "
+"Patrimonio Histórico del Instituto de Historia Argentina y Americana "
+"\"Dr. Emilio Ravignani\" (UBA-CONICET); y Matías Butelman, quien integra el "
+"colectivo de tecnología libre para bibliotecas, archivos y museos, "
+"BiblioHack."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La aparición y el creciente uso de estas tecnologías conlleva numerosas "
+"ventajas, especialmente en lo que respecta al acceso remoto de la "
+"información. Al mismo tiempo, presenta nuevos desafíos que derivan de las "
+"características de los propios objetos digitales y de su cambiante entorno, "
+"que también condiciona de manera crítica el acceso."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El Taller repasó los aspectos centrales asociados con las nuevas "
+"herramientas y favoreció el intercambio, la discusión y el análisis del "
+"impacto de las estrategias de digitalización en la labor de los "
+"profesionales de las instituciones del patrimonio histórico y cultural."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Durante su exposición, Boro presentó las diferencias más relevantes que "
+"existen entre la conservación en soportes analógicos y digitales, y en "
+"referencia a estos últimos señaló el rol del software como un traductor "
+"ineludible para el acceso a la información. Por lo tanto, remarcó, la "
+"necesidad de adoptar criterios de monitoreo tecnológico, atentos a los "
+"ciclos de obsolescencia, a la hora de planificar la conservación "
+"museográfica."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"A su vez, Butelman planteó un contrapunto entre las actuales exigencias por "
+"el acceso y las capacidades institucionales para compartir contenidos en "
+"línea. En ese sentido, problematizó instancias dentro del proceso de "
+"conservación que actúan como cuellos de botella y las dificultades asociadas "
+"con la utilización de tecnologías frecuentemente producidas en el "
+"extranjero. Así, abogó por el uso de software libre y el aprovechamiento de "
+"recursos locales vinculados con la innovación y el diseño."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Por último, el subsecretario de Evaluación Institucional, Lucas Luchilo, "
+"recordó que actualmente se impulsa en el ámbito del Estado Nacional una "
+"nueva modalidad de relacionamiento entre las áreas sustantivas y las "
+"direcciones de Sistemas para favorecer la sinergia y el desarrollo de "
+"soluciones específicas en materia de conservación patrimonial. Además, "
+"invitó a los presentes a interactuar a través del Sistema Nacional de "
+"Documentación Histórica y a proponer temas que deberían ser incorporados en "
+"próximos encuentros."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""

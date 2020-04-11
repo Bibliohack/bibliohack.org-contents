@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag prensa CNBA ]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2013-12-14T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Volver_al_futuro_digitalización_vs_soportes_físicos/inrocks.png\"\n"
+"  default_img_alt=\"\"\n"
+"]]\n"
+"<!-- \n"
+"https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Nota publicada por Revista Los InRocKuptibles, en diciembre de 2013. Enlace "
+"a [la copia guardada en Internet "
+"Archive](https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos)."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ##
+#, no-wrap
+msgid "Volver al futuro: digitalización vs. soportes físicos"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<big>El espacio para almacenar información no es infinito, y ante este "
+"problema resurge la eterna pelea entre los románticos que siguen enamorados "
+"de los soportes físicos y los que insisten en que lo digital es la "
+"salvación. Ante un panorama dividido, apuntes sobre la conservación y los "
+"avances científicos para preservar el patrimonio cultural para las "
+"generaciones futuras.</big>\n"
+msgstr ""
+
+#. type: Plain text
+msgid "Por Federico Abuaf"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"“Si bien la industria electrónica proclama que todo verdor tecnológico "
+"perecerá y que debemos una y otra vez comprar nuevos programas y nuevos "
+"artefactos para remplazar las aún relucientes novedades del año pasado, los "
+"carbonizados textos de la Villa de los Papiros, que su dueño habrá tenido a "
+"veces en sus manos cuando la tinta estaba todavía fresca, pueden ser leídos "
+"hoy, veinte siglos más tarde”, observa el escritor argentino **Alberto "
+"Manguel** en una nota publicada recientemente por el diario español *El "
+"País*, en la que analiza las técnicas de lectura, difusión y almacenamiento "
+"que utilizaban nuestros ancestros romanos."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La contraposición entre los modos en que se gestaron los documentos en el "
+"pasado y la manera de hiperproducir y consumir información en el presente "
+"permite comprender el valor testimonial de los soportes en los que guardamos "
+"nuestro conocimiento y la importancia que conlleva para la humanidad "
+"preservar su producción cultural, que no es otra cosa que la cosmovisión del "
+"mundo en el que vivimos."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Conocer los sofisticados experimentos de Edison a través de sus películas "
+"(se conservan intactas desde 1893), poder escuchar las bagualas y coplas "
+"anónimas que Leda Valladares supo recopilar en el Mapa Musical Argentino o "
+"incluso leer la primera edición del *Post-och* *Inrikes Tidningar* (el "
+"diario más antiguo del mundo, fundado en Suecia hacia 1645), junto a un "
+"sinfín de otros hechos históricos que no podrían ser imaginados sin la "
+"existencia de un registro, permiten distinguir momentos detenidos en el "
+"espacio y el tiempo que nos cuentan cómo era la vida cotidiana, cuáles eran "
+"nuestras creencias y cómo fueron mutando los paradigmas de las "
+"sociedades. Estos documentos tienen la capacidad única de construir "
+"identidad y son el puente que conecta culturas con generaciones enteras. El "
+"valor de la información como bien histórico ha permitido a las sociedades "
+"resolver problemas, conocer su pasado y proyectar sus "
+"horizontes. Reflexionar sobre lo que otros hicieron convierte en sinergia lo "
+"que otros harán; sin esa memoria heredada no existirían las civilizaciones "
+"modernas. Por eso mismo es que hoy podemos contemplar todo ese material y "
+"preocuparnos sobre la importancia de su conservación."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Sabemos que lo digital supera ampliamente, en capacidad de almacenamiento, a "
+"los soportes físicos, pero una película en su formato original (el fílmico) "
+"o un disco de vinilo resultan mucho más estables a largo plazo si se toman "
+"los debidos cuidados de preservación. Entonces, ¿en qué formato vamos a "
+"guardar nuestra historia cuando los datos que manipulamos cotidianamente son "
+"tan volátiles y tan propensos a desaparecer? El conflicto actual está "
+"vinculado a comprender los profundos cambios tecnológicos y científicos que "
+"atraviesan las sociedades de la información y a esclarecer los métodos que "
+"se están implementando para poder preservar tanto los datos virtuales como "
+"los tangibles. Nos encontramos a mitad de camino entre unos y otros procesos "
+"sin poder dimensionar con exactitud el futuro. Mientras tanto, miramos desde "
+"adentro y continuamos expectantes."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Los soportes físicos garantizan duración y perdurabilidad a largo plazo pero "
+"se presentan estáticos, ya que no ofrecen posibilidad de ser "
+"intervenidos. Lo digital, en cambio, adquiere propiedades de edición "
+"constante, lo que facilita una certera y democrática fluidez para el "
+"desarrollo del conocimiento. Otro punto favorable de estos formatos es su "
+"aspecto colaborativo. En los últimos años, compartir se ha vuelto la "
+"tendencia dominante en la Red, ya que todos los usuarios participan "
+"abiertamente en la liberación y propagación de contenidos apoyados en "
+"licencias de software libre, como **Creative Commons**."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Comunicar información que muta con facilidad es sin dudas la base del "
+"progreso científico y tecnológico. Sin embargo, los archivistas e "
+"historiadores más old school afirman que se está instalando la creencia "
+"nociva que indica que todo el conocimiento humano está en Internet, lo que "
+"deja de lado el saber que emana de las bibliotecas, las filmotecas y los "
+"archivos fotográficos. En este punto, lo digital se vuelve obsoleto ya que "
+"únicamente sirve para difundir pero no para preservar."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Si bien existe una relación antagónica e irreconciliable entre los puristas "
+"románticos, que defienden a capa y espada el analógico y la relación "
+"subjetiva y única que se establece con los objetos, y aquellos que solo "
+"priorizan la funcionalidad práctica de la información que buscan sin "
+"importar el dispositivo en que se halle, se dan casos concretos en donde el "
+"material no puede ser manipulado ya que se expone a daños "
+"irreparables. Entonces, no quedan más opciones que recurrir a su versión "
+"virtual."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"**Matías Butelman** está a cargo del proyecto que busca digitalizar todo el "
+"contenido de la **Biblioteca del Colegio Nacional de Buenos Aires** y "
+"reconoce que estos nuevos métodos de almacenamiento permiten acceder a "
+"documentos que, por su fragilidad y antigüedad, no están disponibles para el "
+"público en general. *“De esta manera, estamos asegurando su preservación y, "
+"como se hallan dentro del dominio público, podemos ofrecerlos vía Internet a "
+"los alumnos e investigadores interesados sin que sea necesario acercarse a "
+"la biblioteca”*, afirma.\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El interrogante que surge entonces apunta a lo que podría pasar si un rito "
+"tan ancestral como el de sentarse a disfrutar de una buena obra en papel es "
+"reemplazado por conductas más automáticas y artificiales. Butelman sostiene "
+"que si consideramos que la experiencia de leer un texto literario no se "
+"agota en el paseo de los ojos por las líneas, sino que también entran en la "
+"ecuación la postura que elegimos al leer el libro, su textura, el olor de "
+"las hojas viejas o el sonido al pasar las páginas, *“habrá algo del libro "
+"que no será digitalizable”*."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "ADN: ¿el pendrive del futuro?"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"**Ewan Birney** y **Nick Goldman** son científicos británicos que trabajan "
+"para el **Instituto de Bioinformática Europeo**. Mientras se tomaban unas "
+"birras después de una larga jornada laboral, se pusieron a reflexionar sobre "
+"nuevos procedimientos para hacer frente a los constantes problemas que se "
+"les presentan a la hora de recopilar e indexar todos los informes y papers "
+"que producen día a día. Conociendo las propiedades que tiene el ADN para "
+"guardar información, se preguntaron si podían hacer algo al respecto. Y "
+"dieron en la tecla. En enero de este año publicaron un artículo en la "
+"revista Science que demuestra que es factible almacenar información no "
+"biológica en la llamada “molécula de la vida”. El experimento permitió "
+"transcribir a esta un conjunto de archivos (alrededor de 760 kilobytes), que "
+"incluyen 154 sonetos de **William Shakespeare**, una fotografía en formato "
+"JPG, un PDF de un documento científico y 26 segundos del video en el que "
+"aparece **Martin Luther King** dando su mítico discurso, *“I have a "
+"dream”*. Sí. Como sacado de la mejor novela de ciencia ficción, este "
+"descubrimiento puede ser la solución real para reemplazar los inestables "
+"soportes digitales.\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El proceso consiste en digitalizar la información contenida en un libro, "
+"película o foto, convertirla al lenguaje genético (secuencia de letras ATCG, "
+"los componentes químicos del ADN) en una computadora, utilizando un software "
+"especial, y luego sintetizarla, es decir, materializarla, para finalmente "
+"introducirla en una bacteria que se encargue de replicarla. Para leer los "
+"datos allí contenidos es necesario disponer de máquinas muy caras, pero si "
+"la tecnología sigue avanzando con la misma velocidad que hasta ahora, y se "
+"logran abaratar los costos (actualmente, esta técnica implica un gasto de 10 "
+"mil euros por cada megabyte de información) y simplificar las técnicas, es "
+"posible que en un futuro no muy lejano se puedan implementar estos nuevos "
+"descubrimientos para la vida cotidiana. Es sorprendente: en un gramo de ADN "
+"se podrían almacenar el equivalente a 3 millones de CDs."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"*“Hay que buscar métodos que nos ofrezcan durabilidad en volúmenes chicos "
+"porque no hay espacio de sobra. Tenemos ADN de dinosaurio de hace millones "
+"de años y sus moléculas todavía están estables. Entonces, ¿por qué no buscar "
+"cosas que se comporten de esa manera?”*, se pregunta el director de la "
+"Licenciatura en Bioinformática de la UADE. El doctor Federico Prada es una "
+"eminencia en esta nueva disciplina que combina biología, genética y "
+"software, y la cabeza de un proyecto de divulgación basado en las "
+"mencionadas investigaciones británicas sobre el almacenamiento de datos en "
+"archivos biomoleculares. En un experimento del que participaron alumnos "
+"recientemente ingresados a la carrera, se logró condensar dentro de una "
+"bacteria el Himno Nacional Argentino en formato MIDI.\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"En este punto, el ser humano está usando lo más natural que existe –las "
+"moléculas que lo conforman– para resolver problemáticas vinculadas a su "
+"cultura, a la información que produce y a cómo transferir todos esos "
+"datos. *“Es muy paradójico. Resulta que el hombre evoluciona y evoluciona "
+"hasta crear la Máquina de Dios y satélites que controlan las "
+"telecomunicaciones. Entonces, alcanza un punto en que para seguir dando un "
+"paso más adelante tiene que retroceder hasta el origen de la vida”*, "
+"concluye Prada."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""

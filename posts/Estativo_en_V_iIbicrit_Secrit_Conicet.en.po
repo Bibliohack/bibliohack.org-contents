@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag proyectos SECRIT-Conicet]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<!-- prensa proyectos activismo eventos formación -->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!meta title=\"Estativo en V para el proyecto de digitalización del "
+"SECRIT/Conicet\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2017-03-16T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  featured=yes\n"
+"  "
+"default_img=\"/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg\"\n"
+"  default_img_alt=\"Juan Mendoza, Gabriela Striker, Ileana Campagno, "
+"Agustina Miguens, Mercedes Rodríguez Temperley y Leonardo Funes, junto al "
+"estativo listo para operar.\"\n"
+"  summary=\"Digitalización de los fondos bibliográficos del Seminario de "
+"Edición y Crítica Textual del Conicet, usando un dispositivo en V\"\n"
+"  teaserline=\"Digitalización de los fondos bibliográficos del Seminario de "
+"Edición y Crítica Textual\"\n"
+"   unite_gallery=\"tiles\" gallery_1=\"secrit_2017\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"En marzo de 2017 instalamos un estativo en \"V\" para el [Seminario de "
+"Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones "
+"Bibliográficas y Crítica Textual "
+"(IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo "
+"del proyecto fue digitalizar 29 tomos de la [\"Revista "
+"Incipit\"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/) en "
+"el marco del proyecto \"Digitalización de los fondos bibliográficos del "
+"Seminario de Edición y Crítica Textual\". La revista se publicó sólo en "
+"papel desde 1978 hasta 2009."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El dispositivo para digitalizar los volúmenes es un *estativo en \"V\"* que "
+"utiliza dos cámaras digitales compactas conectadas a una computadora. El "
+"estativo de bajo costo fue desarrollado por Bibliohack y utiliza listones de "
+"madera de pino como elemento constructivo y acrílico cristal como medio de "
+"aplanamiento del documento. Para realizar las capturas se utilizó el "
+"software \"Dalclick\" de Bibliohack que controla las cámaras remotamente y "
+"permite hacer una vista previa del resultado. El post-proceso se realizó con "
+"**software libre** sobre una plataforma gnu/linux (Tesseract OCR, Scantailor "
+"y PDFBeads) operados mediante nuestro sistema \"Dalproc\" que permite la "
+"ejecución conjunta de todas estas etapas en lote. El proceso culmina con un "
+"archivo PDF listo para publicar en línea."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Bibliohack capacitó a integrantes del SECRIT sobre la operación del "
+"dispositivo y el uso del software para postproceso. La digitalización estuvo "
+"a cargo de Gabriela Striker, Ileana Campagno y Agustina Miguens."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La **Revista Incipit** \"publica colaboraciones originales dedicadas a los "
+"problemas y métodos de la edición y crítica textual de obras en español de "
+"la Península y América, desde la Edad Media hasta nuestros días, noticias de "
+"archivos y repositorios bibliográficos, y temas de lengua, estructura y "
+"estilo vinculados al texto o a la historia del texto\"."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Actualmente todos los números digitalizados en este proyecto están "
+"disponibles en **acceso abierto** (con licencia *Creative Commons "
+"Attribution 3.0*) en [el sistema de publicación abierta del "
+"instituto](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/index)"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Galería de imágenes"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"secrit_2017\" class=\"unite-gallery tiles\" "
+"style=\"display:none;\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33473242614_0c28703dff_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33473242614_0c28703dff_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Capacitación\" "
+"src=\"/uploads/galleries/secrit_2017/300px/IMG_0288.jpg\"\n"
+"   data-image=\"/uploads/galleries/secrit_2017/1280px/IMG_0288.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33473657034_c49f221542_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33473657034_c49f221542_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33473725704_7cdc84c498_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33473725704_7cdc84c498_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Piezas del estativo embaladas, que son llevadas al sitio donde se "
+"utilizará el aparato para su ensamble.\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33475262104_5eab37ac3b_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33475262104_5eab37ac3b_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Cámaras digitales compactas de gaa media montadas en el "
+"estativo.\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33504906533_6613787422_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33504906533_6613787422_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/33930683620_baa5a3f459_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/33930683620_baa5a3f459_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/34274572426_aa024282c8_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/34274572426_aa024282c8_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Encuentro de la platina y la cuna en V, en donde se coloca el "
+"documento\" "
+"src=\"/uploads/galleries/secrit_2017/300px/34314721395_a4c9789631_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/34314721395_a4c9789631_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Detalle de la cuna ajustable al tamaño del documento\" "
+"src=\"/uploads/galleries/secrit_2017/300px/34314745235_c200844368_k.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/34314745235_c200844368_k.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/IMG_20170316_164519.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/IMG_20170316_164519.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"\" "
+"src=\"/uploads/galleries/secrit_2017/300px/IMG_20170316_173950.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/secrit_2017/1280px/IMG_20170316_173950.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Portada de la 'Revista Incipit'\" "
+"src=\"/uploads/galleries/secrit_2017/300px/incipit.jpg\"\n"
+"   data-image=\"/uploads/galleries/secrit_2017/1280px/incipit.jpg\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Captura ampliada 1:1 para ver en detalle la resolución de la "
+"imagen\" src=\"/uploads/galleries/secrit_2017/300px/capura.png\"\n"
+"   data-image=\"/uploads/galleries/secrit_2017/1280px/capura.png\"\n"
+"   data-description=\"\">\n"
+"<img alt=\"Ampliación 1:1 de captura procesada (bitono, recortada y "
+"ortogonalizada)\" "
+"src=\"/uploads/galleries/secrit_2017/300px/procesado.png\"\n"
+"   data-image=\"/uploads/galleries/secrit_2017/1280px/procesado.png\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Mas información sobre este proyecto"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[\"El proyecto de digitalización de las revistas "
+"Incipit\"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/STRIKER_Gabriela_etal-Digitalización_Revistas_Incipit-Congreso_AAHD.pdf): "
+"PDF de la presentación a cargo de Gabriela Striker, Agustina Miguens e "
+"Ileana Campagno Pizarro (UBA) en la \"Mesa Diseño y Construcción de "
+"Archivos\" coordinada por Juan Mendoza, en el III Congreso Internacional de "
+"la Asociación Argentina de Humanidades Digitales realizado en Rosario entre "
+"el 7 y 9 de Noviembre de 2018."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[\"La “Informática Humanística”: notas volanderas desde el ámbito "
+"hispánico\"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/251-872-1-PB.pdf) "
+"Un artículo de la \"Revista Incipit\" en PDF, ejemplo del resultado final "
+"del proceso de digitalización."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[\"Informe del proyecto "
+"Incipit\"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/Informe_Proyecto_Incipit.pdf) "
+"Informe elaborado por Gabriela Striker, Agustina Miguens e Ileana Campagno "
+"con detalles sobre la realización del proyecto, las dificultades encontradas "
+"y las sugerencias de mejoras al proceso desarrollado por Bibliohack."
+msgstr ""

@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag prensa]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"Made in Argentina\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2016-12-15T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  featured=yes\n"
+"  default_img=\"/uploads/posts/Nota_en_Revista_Cabal/escaner_cabal.jpg\"\n"
+"  default_img_alt=\"Estativo en V realizado con listones de pino en el "
+"Colegio Nacional Buenos Aires\"\n"
+"  summary=\"Entrevista a Matias Butelman y Juan Suárez sobre la iniciativa "
+"Bibliohack publicada en Revista Cabal\"\n"
+"  teaserline=\"Entrevista a Matias Butelman y Juan Suárez publicada en "
+"Revista Cabal\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A "
+"continuación transcribimos el texto completo de la "
+"[nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), "
+"publicada en diciembre de 2016.\n"
+"<!-- "
+"https://web.archive.org/save/http://www.revistacabal.coop/actualidad/made-argentina-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ##
+#, no-wrap
+msgid "Made in Argentina"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<big>Dos jóvenes argentinos construyeron un modelo de escáner pensado "
+"especialmente para que instituciones y organizaciones puedan digitalizar "
+"libros y documentos muy antiguos.</big>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"**Juan Pablo Suárez** tiene 45 años y es diseñador gráfico. **Matías "
+"Butelman** 28 y un pasado por la carrera de Letras. Juntos **tienen un "
+"proyecto con el cual construyen escáneres muy baratos especialmente "
+"diseñados para aquellas instituciones que necesitan digitalizar material "
+"antiguo que debe ser manipulado con mucho cuidado**. Podría tratarse de un "
+"emprendimiento comercial como cualquier otro, de esos que detectan una "
+"necesidad y desarrollan una herramienta para satisfacerla y hacer "
+"dinero. Pero no. Aún cuando se dedican casi full time a esta tarea y buscan "
+"incubar la idea para pensar una producción en serie, hay en ellos una "
+"militancia tan obsesiva por el trabajo colaborativo y por la construcción de "
+"una gran biblioteca pública y virtual que no permite encasillarlos en la tan "
+"moderna y vacua categoría de \"emprendedores\".\n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Por los pasillos de Puán"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La Facultad de Filosofía y Letras de la Universidad en Buenos Aires, también "
+"conocida en la jerga universitaria simplemente como \"Filo\" o \"Puán\" por "
+"la calle en la que está, es como todo claustro humanístico de la UBA un "
+"laboratorio de iniciativas que tienden a la democratización de la "
+"democratización.  Allí tiene su origen la historia de Suárez y Butelman, "
+"cuyos escáneres colaboran hoy con la digitalización de los archivos y las "
+"bibliotecas de instituciones como el Colegio Nacional Buenos Aires, la "
+"Fuerza Aérea y el Tribunal Fiscal de La Plata."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La cuestión es que allá por 2009, a instancias de una denuncia de la Cámara "
+"Argentina del Libro, la justicia procesó al profesor de Filosofía de la "
+"Universidad Nacional de Lanús Horacio Potel. ¿Su delito? Compartir la obra "
+"del francés Jacques Derrida a través de un sitio web.  Aunque finalmente "
+"sobreseído, la embestida contra Potel movilizó a la comunidad de Filosofía y "
+"Letras.  El caso fue bastante emblemático entre los cultores del libre "
+"acceso a la cultura y el conocimiento y despertó en Suárez y Butelman el "
+"deseo de combatir las restricciones que atentan contra esa circulación."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El primer paso lo dio Juan Pablo. \"A veces los diseñadores tenemos como un "
+"área de coincidencia con los programadores. El caso Potel generó toda una "
+"movida copyfight y a partir de ahí también me empecé a interesar en este "
+"tema de utilizar el software y el hardware libre en un contexto colaborativo "
+"para aportar acceso a materiales que están en las bibliotecas o en el "
+"dominio público o que pueden ser accesibles\", le cuenta Suárez a Revista "
+"Cabal sobre los comienzos del proyecto. Lo del trabajo colaborativo tiene "
+"que ver con una práctica bastante común entre los desarrolladores "
+"independientes que es la publicación en foros de un proyecto para que otros "
+"lo puedan copiar en principio y mejorarlo después. En el caso de este "
+"escáner, la idea surgió del foro diybookscanner.org con el objetivo de "
+"enseñar a construir un aparato más económico que los modelos comerciales. Su "
+"primer modelo Suárez lo armó justamente para la Facultad de Filosofía y "
+"Letras."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Matías Butelman, por su parte, también caminaba los pasillos de Puán porque "
+"estudiaba Letras, pero contrariando todos los prejuicios que su carrera "
+"puede sugerir, siempre se había interesado también por el mundo de las "
+"computadoras. \"Tenía pequeños proyectos web y armaba foros, pero más en el "
+"palo de las organizaciones. Entré a trabajar al Colegio Nacional Buenos "
+"Aires y fui descubriendo que había mucha documentación que no estaba "
+"disponible. Y en la facultad, a raíz de lo de Potel, se empezó a mover mucho "
+"el asunto de la digitalización. Me di por enterado de que existían este tipo "
+"de dispositivos, averigüé quién lo estaba construyendo y ahí di con Juan "
+"Pablo\", relata."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "*Hágalo usted mismo* "
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La primera gran diferencia del escáner desarrollado por Suárez respecto de "
+"los modelos comerciales más difundidos es que la plataforma sobre la cual se "
+"pone el material tiene forma de V en lugar de ser plana. \"Eso evita que el "
+"libro se dañe o se rompa, porque con el escáner plano tenés que abrir el "
+"libro pero también darlo vuelta\", explica Juan Pablo. \"Y además aumenta el "
+"margen de variación en la posición de la foto, por lo que las imágenes no "
+"van a estar siempre en el mismo lugar y eso es una dificultad para hacer "
+"después el post procesamiento\", agrega Matías."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La estructura del escáner es muy simple, con la base en V, dos cámaras "
+"digitales fijas a cada lado y unas luces oblicuas que mejoran la "
+"iluminación. Todo armado con materiales sencillos que pueden ser comprados "
+"en cualquier tienda. Si un escáner comercial barato cuesta alrededor de 5000 "
+"dólares, este prototipo ronda los 600 dólares. Pero además del aparato, los "
+"chicos también desarrollaron el software que levanta las capturas, siempre "
+"basados en programas de código abierto que requieren en todo caso algún "
+"ajuste o integración pero que evitan tener que comenzar de cero."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Juan Pablo es el constructor más no el inventor. De hecho, reniega un poco "
+"de ese mote y prefiere remarcar que la mayoría suele trabajar sobre ideas "
+"preconcebidas y que, en todo caso, la creatividad está en mejorar esos "
+"antecedentes. \"Dentro de esta lógica de trabajo colaborativo está un poco "
+"más clara la idea de que vos estás aportando o generando una nueva solución "
+"a algo que se está haciendo colectivamente\", dice. Así y todo, su modelo "
+"tiene algunas particularidades locales. \"Hay una cuota de invención que es "
+"responsabilidad de Juan Pablo y es que el diseño original tiene como unas "
+"placas de madera que se cortan con un aparato especial que es muy caro y que "
+"no está tan difundido en la Argentina. Él se salteó esa instancia y lo hizo "
+"con listones de madera que se consiguen en cualquier lado\", suma Matías."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Este detalle no es menor porque no solo ayuda a bajar el costo del producto "
+"sino que permite que el mismo pueda ser desarrollado en lugares alejados de "
+"las ciudades donde están las últimas tecnologías. Y a la vez marca uno de "
+"los posibles caminos que podría transitar el emprendimiento a futuro. \"Una "
+"de las ideas que da origen a esto es la posibilidad de construir "
+"dispositivos de estas características con los recursos que tenés disponibles "
+"en diferentes lugares. Al haber formulado una variante del escáner que se "
+"puede construir en nuestro contexto de Buenos Aires, y que sabemos que ese "
+"contexto se puede repetir en otros lugares, una opción es convertir esto en "
+"un kit para quienes quieren empezar un proyecto de digitalización, o incluso "
+"tres variantes para diferentes formatos de documentos\", planea Butelman."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Esta posibilidad resume de alguna manera las dos aristas del proyecto: que "
+"sea un negocio sustentable con una fuerte finalidad social y cultural. \"Hay "
+"pueblos con un diario que tiene toda la historia de ese lugar. Pero el "
+"papel, después de una cantidad de años, directamente se desintegra y toda "
+"esa memoria se está perdiendo. Esos pueblos quizá no tienen acceso a un "
+"escáner para poder digitalizar ejemplares que precisan de una técnica con "
+"cámara fotográfica. Acá hay mucha demanda de este tipo y es el nicho a dónde "
+"va esta clase de aparatos\", dice Suárez."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Acceso sin restricciones"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"De cómo el proyecto de un escáner puede derivar en una serie de debates "
+"acerca de la memoria, la preservación y hasta la necesidad de reformar las "
+"leyes de propiedad intelectual solo pueden dar cuenta dos jóvenes animados "
+"por convicciones muy profundas. Las conclusiones de ambos son más bien "
+"políticas. Para Suárez, \"si la función de las bibliotecas es dar acceso "
+"gratuito a los libros, ese acceso también tendría que poder darse por otros "
+"medios. La utilidad comercial de los libros generalmente no supera los cinco "
+"años y sin embargo por las leyes de copyright los derechos duran un promedio "
+"de 100, por lo que las obras están como en un limbo en el que no existe un "
+"interés comercial pero las bibliotecas tampoco las pueden poner en "
+"línea\". Butelman advierte que lo que está en juego son los niveles de "
+"restricción de los nuevos modelos que administran las relaciones entre "
+"productores y consumidores de cultura. \"Me motiva poder enriquecer y hacer "
+"más robusto el dominio público, una gran biblioteca universal. Creo que hay "
+"algo de las formas de interacción actuales que siempre está a punto de "
+"perderse porque algún interés preferiría poder cobrarte o restringirte ese "
+"acceso para obtener un lucro. Si logramos empezar a generar colecciones "
+"digitales en las diferentes organizaciones va a estar mucho más presente "
+"para el común de la población que eso es suyo, que lo puede consultar y que "
+"cualquier movimiento para restringirlo atenta contra sus propios derechos\", "
+"cierra."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""

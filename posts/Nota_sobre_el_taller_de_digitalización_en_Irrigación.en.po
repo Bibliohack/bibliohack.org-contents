@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag prensa Irrigación-INCIHUSA-CONICET]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2018-03-28T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!meta title=\"Taller de digitalización en Archivo Histórico del Agua de "
+"Mendoza\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  short_title=\"Taller de digitalización en Archivo Histórico del Agua\"\n"
+"  "
+"default_img=\"/uploads/posts/Nota_sobre_el_taller_de_digitalización_en_Irrigación/DSC_8039.jpg\"\n"
+"  default_img_alt=\"Butelman es el encargado de preservación digital en la "
+"Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos "
+"creadores de un equipo que se está utilizando para la digitalización, que "
+"también se implementó en el Centro de Estudios Históricos de la Fuerza Aérea "
+"Argentina.\"\n"
+"  summary=\"El taller es parte de un proceso de puesta en valor del archivo "
+"histórico de la Dirección General de Irrigación.\"\n"
+"  teaserline=\"Reseña publicada por la Dirección General de Irrigación de "
+"Mendoza\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"Matías Butelman dió un taller sobre digitalización de libros en Mendoza, en "
+"Sede Central de Irrigación. A continuación [la reseña publicada en el sitio "
+"de "
+"Irrigación](http://www.irrigacion.gov.ar/dgi/noticias/experto-en-digitalizaci%C3%B3n-de-libros-antiguos-brind%C3%B3-un-taller-en-irrigaci%C3%B3n).\n"
+"<!--\n"
+"https://web.archive.org/save/http://www.irrigacion.gov.ar/dgi/noticias/experto-en-digitalizaci%C3%B3n-de-libros-antiguos-brind%C3%B3-un-taller-en-irrigaci%C3%B3n\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ##
+#, no-wrap
+msgid "Experto en digitalización de libros antiguos brindó un taller en Irrigación"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El proyecto de puesta en valor del Archivo Histórico del Agua ya desarrolla "
+"actividades que benefician a estos organismos involucrados. Estos se "
+"comprometen a generar vínculos de cooperación científico tecnológica e "
+"implementar acciones tendientes de carácter institucional, académico, "
+"científico y tecnológico."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Hablar de la administración del agua a través del tiempo, en el territorio "
+"que hoy ocupa la provincia de Mendoza, se encuentra ligado al rescate e "
+"interpretación de la documentación que han generado desde la época de la "
+"colonia, distintas instituciones a cargo de la ejecución de obras y "
+"resolución de conflictos para una equitativa distribución del recurso "
+"hídrico. Posteriormente, más específicamente, desde la sanción de la Ley "
+"general de aguas en 1884, la documentación que produce y acopia, en "
+"principio el Departamento General de Aguas y posteriormente el Departamento "
+"General de Irrigación, se vuelve indispensable para comprender la historia "
+"de Mendoza y la región."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Recordemos que en esta semana se firmó un convenio donde Irrigación puso en "
+"valor el Archivo Histórico del Agua compuesto por numerosos antecedentes "
+"sobre la gestión del agua en Mendoza que también es la historia de la "
+"provincia. En este caso, con la ayuda de CONICET e INCIHUSA se procederá a "
+"la investigación histórica de la documentación que se encuentra en "
+"Irrigación que consta de actas, fotografías antiguas y planos que datan de "
+"1896, entre otras joyas históricas."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"En el salón Virgen de las Nieves de Sede Central de Irrigación el experto en "
+"digitalización de libros antiguos, Matías Butelman, desarrolló un taller que "
+"inicia la puesta en valor del archivo histórico del organismo.   \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"Butelman es el encargado de preservación digital en la Biblioteca del "
+"Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un "
+"equipo que se está utilizando para la digitalización, que también se "
+"implementó en el Centro de Estudios Históricos de la Fuerza Aérea "
+"Argentina. También es el responsable de la materialización de un dispositivo "
+"de digitalización de bajo costo que utiliza cámaras digital con "
+"funcionalidades agregadas y un estativo (soporte de instrumentos de "
+"precisión, como microscopios) diseñado para ser fabricado usando técnicas de "
+"autoconstrucción.  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""

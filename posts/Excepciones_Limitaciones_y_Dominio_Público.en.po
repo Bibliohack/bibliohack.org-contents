@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag activismo eventos openglam]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2019-07-05T12:00:00Z\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"Excepciones, Limitaciones y Dominio Público\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg\"\n"
+"  default_img_alt=\"Convocatoria realizada en el Polo Tecnológico, Ciudad de "
+"Buenos Aires\"\n"
+"  body_class=\"post\"\n"
+"  summary=\"Iniciativa para un proyecto de declaración sobre las tensiones "
+"existentes entre la legislación actual de propiedad intelectual y la misión "
+"de bibliotecas, archivos, museos y repositorios digitales de acceso "
+"abierto\"\n"
+"  teaserline=\"Exitosa convocatoria a bibliotecas, archivos, museos y "
+"repositorios digitales de acceso abierto\"\n"
+"  unite_gallery=\"tiles\" "
+"gallery_1=\"excepciones_limitaciones_y_dominio_pub\"\n"
+"]]\n"
+"<!-- \n"
+"  !meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"\n"
+"  !meta author=\"Bibliohack\"\n"
+"  featured=yes   // aparece en portada?\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  default_video=\"/ruta/video\"\n"
+"  default_video_alt=\"texto que aparece como epigrafe\"\n"
+"  default_video_poster=\"/ruta/a/imagen_poster.jpg\"\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Más de medio centenar de participantes concurrieron al Polo Tecnológico a "
+"debatir sobre excepciones y limitaciones al derecho de autor, convocados por "
+"la Secretaría de Ciencia, Tecnología e Innovación Productiva, y Creative "
+"Commons Argentina. **Valentina Delich** y **Maximiliano Marzetti**, "
+"moderados por **Paula Nahirñak** y **Matías Butelman**, ofrecieron un "
+"panorama de las tensiones entre la legislación en propiedad intelectual y la "
+"misión de bibliotecas, archivos, museos y repositorios."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Este encuentro se inscribe en una serie de actividades impulsada por un "
+"grupo de instituciones e individuos iniciada en 2017 a partir del [primer "
+"encuentro OpenGLAM de "
+"Argentina](/posts/Primer_Encuentro_OpenGLAM_Argentina/) en el "
+"Moderno. Podemos mencionar en esta serie:"
+msgstr ""
+
+#. type: Bullet: ' * '
+msgid ""
+"[Acceso, Jornadas sobre Patrimnobio Cultural, Práctica Artística, Propiedad "
+"Intelectual](/posts/Jornadas_Acceso/) en la Universidad Torcuato Di Tella "
+"(marzo de 2019)"
+msgstr ""
+
+#. type: Bullet: ' * '
+msgid ""
+"[Técnología y Patrimonio, Estrategias Digitales para Bibliotecas, Archivos y "
+"Museos](/posts/Estrategias_digitales_para_museos_y_archivos/) en el Moderno "
+"(diciembre de 2018)"
+msgstr ""
+
+#. type: Bullet: ' * '
+msgid ""
+"[Patrimonio cultural, propiedad intelectual y acceso a la cultura, "
+"posiciones en "
+"debate](/posts/malba_patrimonio_acceso_y_propiedad_intelectual/) en el Malba "
+"(junio de 2018)"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"A continuación copiamos la reseña publicada por [Creative Commons "
+"Argentina](https://es-la.facebook.com/creativecommonsar/posts/2417777658268455)."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Excepciones, limitaciones y domino público"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El viernes pasado, 28 de junio de 2019, decenas de bibliotecarios, "
+"archivistas, museólogos, abogados e investigadores nos encontramos en el "
+"Polo Cientìfico-Tecnológico a discutir sobre “Propiedad intelectual en "
+"bibliotecas, archivos, museos y repositorios digitales de acceso abierto: "
+"excepciones, limitaciones y domino público”."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El evento fue organizado por el Sistema Nacional de Documentación Histórica "
+"y el Programa de Datos Abiertos en Ciencia y Tecnología, pertenecientes a la "
+"Secretaría de Articulación Científico Tecnológica, Secretaría de Gobierno de "
+"Ciencia, Tecnología e Innovación Productiva, y por Creative Commons "
+"Argentina."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Este encuentro fue el más reciente de una serie de eventos (el primero el "
+"año pasado en el MALBA, el segundo hace unos meses en la UTDT) en la que "
+"venimos discutiendo, junto a diferentes agentes del ecosistema del arte, la "
+"cultura y el conocimiento, cómo el régimen de propiedad intelectual de la "
+"Argentina afecta el trabajo de instituciones culturales, educativas, y de "
+"investigación."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"En esta ocasión, acompañados por Valentina Delich (FLACSO Argentina), "
+"Maximiliano Marzetti, (IÉSEG School Of Management – Business School. Paris, "
+"Francia) y Paula Nahirñak (Subsecretaría de Coordinación Institucional, "
+"Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva de la "
+"Nación) revisamos nuevamente la tensión entre derechos de autor y derechos "
+"culturales, analizamos las “capturas regulatorias” que muchas veces bloquean "
+"reformas en la legislación de PI y, claro, nos enfocamos en la ya ineludible "
+"ausencia de excepciones de cualquier tipo para museos, archivos y "
+"bibliotecas en nuestro país, peculiaridad que se suma a la del ya "
+"idiosincràtico “dominio público pagante”. La presentación de Maximiliano "
+"[**puede consultarse "
+"aquí**](/posts/Excepciones_Limitaciones_y_Dominio_P%C3%BAblico/MARZETTI-MUSEOS_19_III_para_distribuir.pdf) "
+"<!-- "
+"https://drive.google.com/file/d/0B4yX-Ai1JbVuLXFPNEkxMUh4cHFXZEE5Ui1NdS01bXBkdFRB/view "
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Esta reunión es el corolario de un esfuerzo de varios años y de diversos "
+"grupos para reactivar el debate sobre el derecho de autor en nuestro país, "
+"en una época en la que reformas europeas, tratados de libre comercio, y "
+"conflictos entre grandes medios tradicionales y gigantes de internet "
+"amenazan con introducir nuevas restricciones que dificulten la circulación "
+"del conocimiento y la cultura, y en particular la misión de bibliotecas, "
+"archivos, y museos."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Por esta misma razón durante el encuentro se presentó un proyecto de "
+"declaración sobre la imperante necesidad de excepciones y limitaciones para "
+"bibliotecas, archivos y museos de Argentina. Invitamos a que lo revisen, lo "
+"modifiquen con sus aportes e ideas y a que, si sienten que acuerdan con los "
+"principios allí expresados, no dejen de adherir desde sus organizaciones y "
+"[**compartirlo entre sus "
+"colegas**](https://docs.google.com/document/d/1s5sSP7pQOrMj4ONLbynbgAfGwrchZRYD1Iv_7-IIbJw/edit?ts=5d1661e0)"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la "
+"Propiedad Intelectual) se estuvieron discutiendo exactamente estos "
+"temas. Hacer visible nuestra posición y nuestro reclamo, para las "
+"autoridades argentinas y para los colegas de otros países de la región, es "
+"uno de los modos más inmediatos que tenemos para aportar a esta discusión."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "</div>\n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Algunas imágenes del encuentro"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"excepciones_limitaciones_y_dominio_pub\" class=\"unite-gallery "
+"tiles\" style=\"display:none;\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_150520.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_150520.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_152029.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_152029.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_160708.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_160708.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_161049.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_161049.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/20190628_161900.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/20190628_161900.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/65775436_2417772658268955_4385513178058981376_o.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/65775436_2417772658268955_4385513178058981376_o.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66123770_2417772451602309_4710890988346802176_o.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66123770_2417772451602309_4710890988346802176_o.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66158916_2417772441602310_6971402511831793664_o.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66158916_2417772441602310_6971402511831793664_o.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/encuenro_pi2.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/encuenro_pi2.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/66202585_2417777511601803_3374612906057400320_o.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/66202585_2417777511601803_3374612906057400320_o.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/IMG_20190628_143714522.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/IMG_20190628_143714522.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/300px/IMG_20190628_151359719.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/IMG_20190628_151359719.jpg\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""

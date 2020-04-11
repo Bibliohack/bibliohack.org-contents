@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag proyectos formación]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<!-- prensa proyectos activismo eventos formación -->\n"
+"<!-- \n"
+"!meta title=\"Titulo de post\"\n"
+"!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"\n"
+"!meta author=\"Bibliohack\"\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2019-07-12T12:00:00Z\" ]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Estativo_en_V_en_UCA_Rosario/0IMG-20190426-WA0068.jpg\"\n"
+"  body_class=\"post\" \n"
+"  unite_gallery=\"tiles\" gallery_1=\"uca_rosario_estativo_v\"\n"
+"]]\n"
+"<!-- \n"
+"  default_img=\"/img/estativo.jpg\"\n"
+"  default_img_alt=\"Las imagenes siempre debe llevar epigrafe!\"\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  summary=\"Resumen que aparece abajo del titulo en el post\"\n"
+"  short_title=\"Variante alternativa de titulo para teasers\"\n"
+"  teaserline=\"Texto copete debajo del titulo solo en teasers\"\n"
+"  featured=yes   // aparece en portada?\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  default_video=\"/ruta/video\"\n"
+"  default_video_alt=\"texto que aparece como epigrafe\"\n"
+"  default_video_poster=\"/ruta/a/imagen_poster.jpg\"\n"
+"-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La semana pasada estuvimos instalando un estativo en V en la biblioteca de "
+"Univeridad Católica en Rosario."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La Biblioteca Central, inaugurada en 2008, tiene cinco pisos. El dispositivo "
+"quedó alojado en el área de Colecciones Especiales, en la que se llevarán a "
+"cabo las capacitaciones y primeras pruebas de uso."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"En este ciclo de desarrollo incorporamos un soporte accesorio para montar "
+"una sombra, que permite aislar el area de digitalización del entorno y "
+"evitar la contaminacion cromatica o luminica. Cuando es posible trabajar en "
+"ambientes de iluminacion controlada (que puede convertirse en cuarto "
+"oscuro), este accesorio no es necesario."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Galería de Imágenes"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"uca_rosario_estativo_v\" style=\"display:none;\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0062.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0062.jpg\"\n"
+"   data-description=\"Biblioteca Central de la Universidad Católica (UCA), "
+"en Rosario\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0068.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0068.jpg\"\n"
+"   data-description=\"Dispositivo emplazado en el laboratorio de "
+"digitalización.\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0069.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0069.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0089.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0089.jpg\"\n"
+"   data-description=\"Biblioteca Central Rosario de la UCA\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0074.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0074.jpg\"\n"
+"   data-description=\"Armado del estativo, estructura para el covertor "
+"(sombra)\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0076.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0076.jpg\"\n"
+"   data-description=\"Partes de la estructura de iluminación durante el "
+"ensamblado.\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0079.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0079.jpg\"\n"
+"   data-description=\"Cuna en V durante el ensamblado.\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0082.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0082.jpg\"\n"
+"   data-description=\"El dispositivo en proceso de ensamble\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0114.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0114.jpg\"\n"
+"   data-description=\"Disposición del tecaldo y monitor al lado del "
+"estativo\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/20190704_100741.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_100741.jpg\"\n"
+"   data-description=\"Dispositivo con el covertor para sombra colocado\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111016.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111016.jpg\"\n"
+"   data-description=\"Instalación del software\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111117.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111117.jpg\"\n"
+"   data-description=\"Capacitación en el funcionamiento del dispositivo y el "
+"proceso de digitlación\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111150.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111150.jpg\"\n"
+"   data-description=\"El dispositivo ya operativo  durante la "
+"capacitación.\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/20190704_143816.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_143816.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/2IMG-20190426-WA0066.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG-20190426-WA0066.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/uca_rosario_estativo_v/300px/2IMG_20190704_174756_251.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG_20190704_174756_251.jpg\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""

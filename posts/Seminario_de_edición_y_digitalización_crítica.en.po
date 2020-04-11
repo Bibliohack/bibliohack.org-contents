@@ -1,0 +1,330 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-11 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag activismo eventos formación]] \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta date=\"2019-08-13T12:00:00Z\" ]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"  "
+"default_img=\"/uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg\" "
+"\n"
+"  body_class=\"post\" \n"
+"  default_img_alt=\"El Seminario se realizó en Museo Casa de Ricardo "
+"Rojas\"\n"
+"  teaserline=\"Junto con el Secrit y la Casa Museo de Ricardo Rojas, "
+"Bibliohack participó de un seminario sobre digitalización y literatura\"\n"
+"  summary=\"Junto con el Secrit/Conicet y la Casa Museo de Ricardo Rojas, "
+"Bibliohack participó de un seminario sobre digitalización y literatura, que "
+"tomó como eje el proceso de digitalización de la obra *Historia de la "
+"Literatura Argentina* de Ricardo Rojas\"\n"
+"  featured=yes\n"
+"   unite_gallery=\"tiles\" gallery_1=\"seminario_digitalizacion_critica\"\n"
+"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\" ]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/), el "
+"[Museo Casa de Ricardo Rojas](https://museorojas.cultura.gob.ar) y "
+"[Bibliohack](http://bibliohack.org) y coordinado por el **Dr. Juan "
+"Mendoza**, se llevó a cabo entre el 29 de agosto y el 14 de noviembre de "
+"2019 el [*Seminario de Edición y Digitalización "
+"Crítica*](https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/)."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"El curso abordó desde una multiplicidad de visiones el proceso de "
+"digitalización, tomando como eje el proyecto de convertir a digital la obra "
+"más significativa de Ricardo Rojas, **los cuatro tomos de la primera edición "
+"de la monumental \"Historia de la Literatura Argentina\"**, tarea emprendida "
+"por el **Laboratorio de Digitalización del Museo Casa de Ricardo Rojas**."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"¿Por qué hablar de \"digitalización crítica\"? La expresión juega con el "
+"concepto de \"edición crítica\", central en la práctica filológica, y ayuda "
+"a poner en evidencia que la digitalización no es un proceso \"trivial y "
+"automático\". Lo que llamamos digitalización de libros es, en la mayoría de "
+"casos, el proceso de generar una edición digital análoga al ejemplar "
+"material ¿Cuántos aspectos del objeto físico pueden preservarse en la "
+"representación digital que generamos? ¿Debe ser *facsimilar* o solo "
+"conservar la información del texto? ¿El borde de la hoja debe ser visible? "
+"¿Qué información se conserva, qué información se descarta?"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Durante el coloquio final Andres Olaizola presentó la ponencia [\"Huellas "
+"digitales de la Historia de la Literatura "
+"Argentina\"](/posts/Seminario_de_edición_y_digitalización_crítica/Olaizola__44___Andres___40__2019__41__._Huellas_digitales_de_la_Historia_de_la_Literatura_Argentina.pdf), "
+"donde recorre \"las trayectorias de los libros impresos cuando son "
+"digitalizados por comunidades de usuarios\", trazando el recorrido azaroso "
+"de escaneos fragmentarios de la Historia de Rojas desde el pdf a la "
+"fotocopiadora de la universidad y veceversa, llenas de \"subrayados, "
+"anotaciones y glosas\" de los lectores, que a su vez, se vuelven a "
+"digitalizar."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Cabe recordar que no existe una publicación digital integral de los cuatro "
+"tomos de la Historia de Rojas. Lejos de un pasaje trivial entre el material "
+"impreso y el formato digital, el proceso requiere una **perspectiva critica "
+"amplia** que pueda dar cuenta de todos los aspectos implicados en este nuevo "
+"recorrido, donde los verdaderos dilemas están lejos de ser capturados por "
+"soluciones genéricas y automatizadas."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Otro aspecto significativo para nosotros es que el Laboratorio de "
+"Digitalización del Museo utiliza un escáner construido por Bibliohack "
+"inicialmente para el [**proyecto de la digitalización de la Revista Incipit "
+"en 2017**](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/) del "
+"Secrit/Conicet. El dispositivo fue uno de los primeros diseños de "
+"Bibliohack, donde logramos producir con *tecnologia adecuada* (listones de "
+"madera de pino y camaras digitales de bajo costo) un aparato que pudiera "
+"adaptarse a los requisitos y condiciones locales, superando las limitaciones "
+"presupuestarias y técnicas implicadas. El plan de digitalización de la "
+"revista concluyó exitosamente y este año el dispositivo fue cedido al Museo "
+"Casa de Ricardo Rojas en el marco de un acuerdo de colaboración entre ambas "
+"instituciones."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Los avatares de la digitalización, las tensiones disciplinares involucradas "
+"en los proyectos de digitalización, el acceso abierto y la preservación "
+"digital, los desafíos en la gestión de colecciones, las maneras de leer en "
+"la era digital y la circulación por internet de las obras en el contexto "
+"académico, fueron algunos de los temas sobre los cuales reflexionaron los "
+"participantes del seminario."
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Galeria de imagenes"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"seminario_digitalizacion_critica\" class=\"unite-gallery tiles\" "
+"style=\"display:none;\">\n"
+"   <img alt=\"Matias Butelman hablando sobre el dispositivo de "
+"digitalización en V, de tecnología abierta y bajo costo de Bibliohack\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EZsem2.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EZsem2.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"María Laura Mendoza (directora de la Casa Museo de Ricardo "
+"Rojas), Mercedes Rodríguez Temperley y Leonardo R. Funes (Secrit/Conicet) "
+"durante la presentación del Seminario.\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/00EBdHA08XsAA-JEo.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/00EBdHA08XsAA-JEo.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/01EBdIpE9WkAARF4z.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/01EBdIpE9WkAARF4z.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/01EBdL43jXsAAGAaU.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/01EBdL43jXsAAGAaU.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Desarrollo del seminario: Exhibición del uso del "
+"dispositiivo\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EJWZjiNW4AEZ79z.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EJWZjiNW4AEZ79z.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Desarrollo del seminario.\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EJWZkubWkAU_3yP.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EJWZkubWkAU_3yP.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EJWZmJOWwAEJuX6.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EJWZmJOWwAEJuX6.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EJWZnjHXsAAe2xq.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EJWZnjHXsAAe2xq.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/EZsemn3.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/EZsemn3.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Realizando las capturas del libro 'Historia de la Literatura "
+"Argentina' en el Laboratorio de Digitalización de la Casa Museo de Ricardo "
+"Rojas\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/f0EAvwJhfWwAAHk5d.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/f0EAvwJhfWwAAHk5d.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Realizando las capturas del libro 'Historia de la Literatura "
+"Argentina\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/photo_2019-09-13_15-02-05.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/photo_2019-09-13_15-02-05.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Uso de dispositivo en el Laboratorio de Digitalización de la "
+"Casa Museo de Ricardo Rojas\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/f0EAvwKjvWkAEYedx.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/f0EAvwKjvWkAEYedx.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Prueba de procesamiento de las capturas\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/captura.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/captura.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/flyer1.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/flyer1.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/fluyer2.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/fluyer2.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Frente de la Casa Museo Ricardo Rojas (crédito de la imagen: "
+"Museo)\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/aa15806598557_0d34a64815_c.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15806598557_0d34a64815_c.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Interior de la Museo Casa de Ricardo Rojas (crédito de la "
+"imagen: Museo)\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/aa15990315911_af9a454487_c.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/aa15990315911_af9a454487_c.jpg\"\n"
+"   data-description=\"\">\n"
+"   <img alt=\"Interior de la Museo Casa de Ricardo Rojas (crédito de la "
+"imagen: Museo)\" "
+"src=\"/uploads/galleries/seminario_digitalizacion_critica/300px/aa19497880192_68f22f7e8e_c.jpg\"\n"
+"   "
+"data-image=\"/uploads/galleries/seminario_digitalizacion_critica/1280px/aa19497880192_68f22f7e8e_c.jpg\"\n"
+"   data-description=\"\">\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ###
+#, no-wrap
+msgid "Programa del seminario"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<div class=\"copy-paste\" markdown=\"1\">\n"
+msgstr ""
+
+#. type: Plain text
+msgid "Coordina Dr. Juan Mendoza"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "**29/8 | 1º Encuentro | 10 a 13hs**\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Hacia una digitalización de la Historia de la Literatura Argentina de "
+"Ricardo Rojas. Presentación de una problemática. Maneras de leer en la Era "
+"Digital: una cartografía."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "**12/9 | 2º Encuentro | 10 a 13hs**\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"La Ediciones, Los Libros, Los Archivos. Modelo para armar. Desafíos en la "
+"gestión de colecciones. Museo del Traje comparte experiencias."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "**26/9 | 3º Encuentro | 10 a 13hs**\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Avatares de una Digitalización. Accesibilidad y preservación digital, "
+"Edición Digital, Digitalización. Algunas aproximaciones críticas."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "**17/10 | 4º Encuentro | 10 a 13hs**\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Por una estrategia de Digitalización Crítica. Conservación, Estudios "
+"críticos, Acceso Abierto. MNBA comparte experiencias."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "**COLOQUIO | 14/11 | 11 a 18hs**\n"
+msgstr ""
+
+#. type: Plain text
+msgid "I Coloquio de Edición y Digitalización Crítica"
+msgstr ""
+
+#. type: Plain text
+msgid "Exposición de conclusiones y panel plenario de cierre."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"</div>\n"
+"<!-- hilo en twitter de la presentación: "
+"https://twitter.com/BiblioHack/status/1159473523544461312 \n"
+"https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/ "
+"\n"
+"-->\n"
+msgstr ""
