@@ -1,119 +1,30 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-04-11 18:28+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+[[!tag proyectos]] 
+[[!meta title="We returned to Mendoza"]]
+[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+[[!meta date="2019-05-03T12:00:00Z" ]]
+[[!field
+  default_img="/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg"
+  default_img_alt="Capacitación y mantenimiento de dispositivo en el Archivo de Agua, Mendoza."
+]]
+[[!field unite_gallery="tiles" gallery_1="mendoza_2019" ]]
 
-#. type: Plain text
-#, no-wrap
-msgid "[[!tag proyectos]] \n"
-msgstr ""
+We returned to Mendoza to update the "V" scanner of the Water Archive!
 
-#. type: Plain text
-#, no-wrap
-msgid "[[!meta title=\"Volvimos a Mendoza\"]]\n"
-msgstr ""
+DALCLIC capture management software now works with scantailor-advanced, which brings many UI improvements and processing times.
 
-#. type: Plain text
-#, no-wrap
-msgid "[[!meta license=\"https://creativecommons.org/licenses/by-sa/2.5/ar/\"]]\n"
-msgstr ""
+In addition, in the afternoon we will be evaluating different digital history projects to identify recurring formats in the digital treatment of historical sources and archival material.
 
-#. type: Plain text
-#, no-wrap
-msgid "[[!meta date=\"2019-05-03T12:00:00Z\" ]]\n"
-msgstr ""
-
-#. type: Plain text
-#, no-wrap
-msgid ""
-"  "
-"default_img=\"/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
-"  default_img_alt=\"Capacitación y mantenimiento de dispositivo en el "
-"Archivo de Agua, Mendoza.\"\n"
-"]]\n"
-msgstr ""
-
-#. type: Plain text
-#, no-wrap
-msgid "[[!field unite_gallery=\"tiles\" gallery_1=\"mendoza_2019\" ]]\n"
-msgstr ""
-
-#. type: Plain text
-msgid "¡Volvimos a Mendoza a actualizar el escáner en \"V\" del Archivo del Agua!"
-msgstr ""
-
-#. type: Plain text
-msgid ""
-"El software de gestión de captura DALCLIC ahora trabaja con "
-"scantailor-advanced, que trae muchas mejoras de UI y tiempos de "
-"procesamiento."
-msgstr ""
-
-#. type: Plain text
-msgid ""
-"Además, por la tarde vamos a estar evaluando diferentes proyectos de "
-"historia digital para identificar formatos recurrentes en el tratamiento "
-"digital de fuentes històricas y de material archivístico."
-msgstr ""
-
-#. type: Plain text
-#, no-wrap
-msgid ""
-"<div id=\"mendoza_2019\" style=\"display:none;\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59295515_589683034866466_754711837936713728_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59295515_589683034866466_754711837936713728_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59446194_589679951533441_3016270070721544192_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59446194_589679951533441_3016270070721544192_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59688223_589683028199800_3609051028734869504_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59688223_589683028199800_3609051028734869504_o.jpg\"\n"
-"   data-description=\"\">\n"
-"</div>\n"
-msgstr ""
-"<div id=\"mendoza_2019\" style=\"display:none;\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59295515_589683034866466_754711837936713728_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59295515_589683034866466_754711837936713728_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59446194_589679951533441_3016270070721544192_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59446194_589679951533441_3016270070721544192_o.jpg\"\n"
-"   data-description=\"\">\n"
-"<img alt=\"\" "
-"src=\"/uploads/galleries/mendoza_2019/300px/59688223_589683028199800_3609051028734869504_o.jpg\"\n"
-"   "
-"data-image=\"/uploads/galleries/mendoza_2019/1280px/59688223_589683028199800_3609051028734869504_o.jpg\"\n"
-"   data-description=\"\">\n"
-"</div>\n"
+<div id="mendoza_2019" style="display:none;">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59152953_589684981532938_4371132618234658816_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59152953_589684981532938_4371132618234658816_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59295515_589683034866466_754711837936713728_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59295515_589683034866466_754711837936713728_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59446194_589679951533441_3016270070721544192_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59446194_589679951533441_3016270070721544192_o.jpg"
+   data-description="">
+<img alt="" src="/uploads/galleries/mendoza_2019/300px/59688223_589683028199800_3609051028734869504_o.jpg"
+   data-image="/uploads/galleries/mendoza_2019/1280px/59688223_589683028199800_3609051028734869504_o.jpg"
+   data-description="">
+</div>
