@@ -95,7 +95,6 @@ msgid ""
 "   data-description=\"\">\n"
 "</div>\n"
 msgstr ""
-
 "<div id=\"mendoza_2019\" style=\"display:none;\">\n"
 "<img alt=\"\" "
 "src=\"/uploads/galleries/mendoza_2019/300px/59152953_589684981532938_4371132618234658816_o.jpg\"\n"
