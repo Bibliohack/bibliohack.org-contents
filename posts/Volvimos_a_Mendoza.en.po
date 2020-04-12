@@ -8,7 +8,7 @@
 ]]
 [[!field unite_gallery="tiles" gallery_1="mendoza_2019" ]]
 
-We returned to Mendoza to update the "V" scanner of the Water Archive!
+We returned to Mendoza to update the "V" scanner of the Archivo del Agua!
 
 DALCLIC capture management software now works with scantailor-advanced, which brings many UI improvements and processing times.
 
