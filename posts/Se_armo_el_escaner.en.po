@@ -1,6 +1,6 @@
 [[!tag activismo eventos formación ]] 
 <!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Bogotá: se armó el escáner"]]
+[[!meta title="Bogotá: the scanner was assembled"]]
 [[!meta date="2019-09-29T12:00:00Z" ]]
 [[!field
   default_img="/uploads/posts/Se_armo_el_escaner/20190928_115033.jpg"
