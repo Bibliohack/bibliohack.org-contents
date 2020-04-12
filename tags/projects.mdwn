@@ -1,5 +1,5 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: projects"]]
+[[!meta title="Tag: projects"]]
 <div class="row">
 [[!inline pages="tagged(projects)" show="10" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
