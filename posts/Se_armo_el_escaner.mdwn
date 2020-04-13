@@ -10,6 +10,7 @@
   body_class="post" 
   featured=yes
   unite_gallery="tiles" gallery_1="se_armo"
+  translatable=yes
 ]]
 
 **OpenCon** es la conferencia internacional sobre **acceso abierto** al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. OpenCon apoya la realización de eventos satélite, que han tenido lugar en 25 países. Este año la tercer versión latinoamericana se realizó en Colombia, la [OpenCon Latam 2019](https://www.opencon2018.org/opencon_2019_latam). Matias Butelman de Bibliohack asistió a la conferencia en Bogotá para presentar su ponencia **"Abrir bibliotecas, archivos y museos en Latinoamérica: un desafío situado"**.
