@@ -5,7 +5,7 @@
    postlist_home=yes
 ]]
 <div class="row">
-[[!inline pages="page(./posts/*) and lang(es)" show="50" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
+[[!inline pages="page(./posts/*) and lang(en)" show="50" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
 </div>
 
 [[!inline pages="page(./posts/*)" show="50" rootpage="posts" feedonly=yes postform=no]]
