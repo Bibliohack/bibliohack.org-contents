@@ -5,6 +5,7 @@
 [[!field
   default_img="/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg"
   default_img_alt="Capacitación y mantenimiento de dispositivo en el Archivo de Agua, Mendoza."
+  translatable=yes  
 ]]
 [[!field unite_gallery="tiles" gallery_1="mendoza_2019" ]]
 
