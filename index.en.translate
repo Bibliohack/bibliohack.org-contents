@@ -1,0 +1,125 @@
+[[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
+<div>[[!template  
+  id=landing_page_section_top.tmpl 
+  titulo="¿Qué es Bibliohack?" 
+  texto="""
+*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
+
+Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios y capacitación a las organizaciones GLAM que enfrentan el desafío de incorporar tecnología informática a sus procesos de trabajo.
+
+También impulsamos la construcción de redes profesionales e institucionales que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación, y también sumar masa crítica para definir políticas públicas que favorezcan la **preservación del patrimonio cultural**, **el acceso abierto al conocimiento** y la **reforma de la propiedad intelectual**.
+"""
+]]
+<div class="seccion-ejes" id="ejes">
+<div class="container">
+ <div class="row">
+  <div class="col-lg-9 mx-auto text-center">
+   <h2 class="section-heading text-darkred">¿Qué hacemos?</h2>
+   <hr class="my-4">
+  </div>
+ </div> 
+</div>
+[[!template  id=landing_page_section_slide.tmpl 
+  cid=1
+  texto_izq=1
+  texto="""
+### DIY Scanners y Tecnologías libres
+
+Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de procesos, colecciones digitales y publicación en línea (Collective Access, Omeka, Drupal).
+"""
+  item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
+  item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
+  item2_img="/img/tecnologia_abierta/proceso.jpg"
+  item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
+  item3_img="/img/tecnologia_abierta/github.jpg"
+  item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
+  item4_img="/img/tecnologia_abierta/madera.jpg"
+  item4_txt="<span>&nbsp;Tecnología adecuada significa lo apropiado por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
+  item5_img="/img/tecnologia_abierta/lam3.jpg"
+  item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
+]][[!template  id=landing_page_section_slide.tmpl 
+  cid=2
+  texto="""
+### Capacitación y consultorías
+
+Ofrecemos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
+"""
+  item1_img="/img/capacitacion/capac_filo.jpg"
+  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
+  item2_img="/img/capacitacion/capacitacion.jpg"
+  item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
+  item3_img="/img/capacitacion/clinicas.jpg"
+  item3_txt="Clínica de Tecnología y Patrimonio en el Museo de Arte Moderno de Buenos Aires (2018)"
+]][[!template  id=landing_page_section_slide.tmpl 
+  cid=3
+  texto_izq=1
+  texto="""
+### Actividades y eventos
+
+Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno reforma de la propiedad intelectual y licencias libres, acceso abierto en instituciones culturales, desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
+
+"""
+  item1_img="/img/politicas/politicas.jpg"
+  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el MALBA (Argentina, 2018)"
+  item2_img="/img/politicas/openglam.jpg"
+  item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
+  item3_img="/img/politicas/utdt-matias.jpg"
+  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella (Argentina, 2019)"
+  item4_img="/img/politicas/excepciones.jpg"
+  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
+  item5_img="/img/politicas/matias-mamba.jpg"
+  item5_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
+]]
+</div>[[!template id=landing_page_section_html.tmpl 
+  titulo="Proyectos" 
+  texto="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: planos, código, procesos, documentación."
+  html="""
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/mamba.png" title="Museo de Arte Moderno de Buenos Aires"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/anh.png" title="Academia Nacional de la Historia de la República Argentina"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/cnba.png" title="Colegio Nacional Buenos Aires"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/filo.png" title="Facultad de Filosofía y Letras de la UBA"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/iibicrit.png" title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/ida.png" title="Fundación Investigación en Diseño Argentino"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/incihusa.png" title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"/>
+</div>
+
+<div class="col-lg-3 text-center">
+<img src="/img/apoyos/idelcoop2.png" title="Instituto de la Cooperación"/>
+</div>
+"""
+
+]][[!template  id=landing_page_section_bullets.tmpl 
+  titulo="Recursos" 
+  item1_icon="fa-info-circle"
+  item1_link="http://codex.bibliohack.org"
+  item1_titulo="Codex"
+  item1_texto="Información técnica y documentación."
+  item2_icon="fa-newspaper-o"
+  item2_link="/posts/"
+  item2_titulo="Blog"
+  item2_texto="Noticias sobre Bibliohack: proyectos, digitalizacion, instalación de dispositivos y artículos."
+  item3_icon="fa-github"
+  item3_link="https://github.com/bibliohack"
+  item3_titulo="Planos y Código"
+  item3_texto="Repositorio libre de Bibliohack con recursos de software y planos."
+]][[!template id=landing_page_section_featured.tmpl 
+]][[!template id=landing_page_section_form.tmpl ]]</div>
