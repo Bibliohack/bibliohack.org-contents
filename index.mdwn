@@ -1,4 +1,4 @@
-[[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
+[[!pagetemplate  template="landing_page.tmpl" header_img="/img/logo_fume.png"]]
 <div>[[!template id=landing_page_section_top.tmpl 
 
   section_id="que_es_bibliohack"
@@ -17,7 +17,7 @@ También impulsamos la construcción de redes profesionales e institucionales qu
   section_id="que_hacemos"
   title="¿Qué hacemos?"
 
-]][[!template  id=landing_page_section_slides_item.tmpl 
+]][[!template id=landing_page_section_slides_item.tmpl 
 
   cid=1
   margin_left=1
@@ -109,22 +109,24 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/ida.png"
+  logo=/img/apoyos/ida.png
   title="Fundación Investigación en Diseño Argentino"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/incihusa.png"
+  logo=/img/apoyos/incihusa.png
   title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/idelcoop2.png"
+  logo=/img/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
 
 ]][[!template id=landing_page_section_bullets.tmpl 
+
+  section_id="recursos"
   titulo="Recursos" 
   item1_icon="fa-info-circle"
   item1_link="http://codex.bibliohack.org"
@@ -140,5 +142,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item3_texto="Repositorio libre de Bibliohack con recursos de software y planos."
 
 ]][[!template id=landing_page_section_featured.tmpl 
-
-]][[!template id=landing_page_section_form.tmpl ]]</div>
+   section_id="featured"
+]][[!template id=landing_page_section_form.tmpl 
+   section_id="contacto"
+]]</div>
