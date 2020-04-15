@@ -1,6 +1,6 @@
 [[!pagetemplate  template="landing_page.tmpl" header_img="./img/logo_fume.png"]]
 <div>[[!template  
-  id=landing_page_section_top.tmpl 
+  id=landing_page_sections/top.tmpl 
   titulo="¿Qué es Bibliohack?" 
   texto="""
 *Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
