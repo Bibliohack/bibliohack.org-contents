@@ -1,4 +1,7 @@
-[[!pagetemplate  template="landing_page.tmpl" header_img="/img/logo_fume.png"]]
+[[!pagetemplate template="landing_page.tmpl" ]]
+[[!field
+     extra_bottom_line=yes
+]]
 <div>[[!template id=landing_page_section_top.tmpl 
 
   section_id="que_es_bibliohack"
@@ -142,7 +145,69 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item3_texto="Repositorio libre de Bibliohack con recursos de software y planos."
 
 ]][[!template id=landing_page_section_featured.tmpl 
+
    section_id="featured"
+
 ]][[!template id=landing_page_section_form.tmpl 
+
    section_id="contacto"
+
 ]]</div>
+[[!template id=landing_page_json.tmpl
+
+   json_id="landing_page_header_items"
+   json_items="""
+{
+	"img": "/img/home/mendoza.jpg",
+	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
+},
+{
+	"img": "/img/home/0020.jpg",
+	"caption": "Prueba y demostración de uso del estativo cenital. Museo Moderno, 2018."
+},
+{
+	"img": "/img/home/0040.jpg",
+	"caption": "Digitalización de libros con dispositivo \"en V\". Biblioteca Aysa, 2018."			
+},
+{
+	"img": "/img/home/0050.jpg",
+	"caption": "Jornada sobre acceso y patrimonio en el Moderno. De fondo, estativo plano de Bibliohack. 2019."
+},
+{
+	"img": "/img/home/0055.jpg",
+	"caption": "Matías hablando sobre Creative Commons y Bibliohack. Universidad Torcuato Di Tella, 2019."
+},
+{
+	"img": "/img/home/cnba_biblio.jpg",
+	"caption": "Escaner \"en V\" realizado con listones de madera de pino. Colegio Nacional Buenos Aires, 2013."
+},
+{
+	"img": "/img/home/0060.jpg",
+	"caption": "Piezas de corte laser en MDF para un estativo \"en V\" aún sin armar."
+},
+{
+	"img": "/img/home/0070.jpg",
+	"caption": "Jornadas sobre Acceso, Universidad Torcuato Di Tella. 2019."
+},
+{
+	"img": "/img/home/0080.jpg",
+	"caption": "Capacitación para el Incihusa/Conicet en el Archivo del Agua. Mendoza, 2018."
+},
+{
+	"img": "/img/home/0085.jpg",
+	"caption":	"Charla sobre propiedad intelecual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
+},
+{
+	"img": "/img/home/0090.jpg",
+	"caption":	"Primer encuentro OpenGLAM de Argentina. Buenos Aires 2017."	
+},
+{
+	"img": "/img/home/0100.jpg",
+	"caption": "Dispositivos de digitalización (Cenital y \"en V\") en la Academia Nacional de Historia. Buenos Aires, 2019."
+},
+{
+	"img": "/img/home/standart.jpg",
+	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La PLata, 2012."
+}
+"""
+]]
