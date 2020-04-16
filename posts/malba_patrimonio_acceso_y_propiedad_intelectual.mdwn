@@ -8,7 +8,8 @@
   default_img="/uploads/posts/malba_patrimonio_acceso_y_propiedad_intelectual/openglam-malba.jpg"
   default_img_alt="Encuentro OpenGLAM en el auditorio del MALBA"
   featured=yes
- unite_gallery="tiles" gallery_1="malba_2018"
+  translatable=yes
+  unite_gallery="tiles" gallery_1="malba_2018"
 ]]
 
 El lunes 18 de junio, en el Auditorio del Museo de Arte Latinoamericano de Buenos Aires (Malba) se realizó el encuentro [**“Patrimonio cultural, propiedad intelectual y acceso a la cultura, posiciones en debate”**](https://es-la.facebook.com/openglam.argentina/photos/a.240509976682979/240509783349665/), dirigido a profesionales y gestores culturales de museos públicos, privados y fundaciones, y al público interesado en la temática.

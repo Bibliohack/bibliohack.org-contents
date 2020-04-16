@@ -151,7 +151,12 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]][[!template id=landing_page_section_form.tmpl 
 
    section_id="contacto"
-
+   title="Contacto"
+   label_name="Nombre"
+   label_email="Tu Email"
+   label_email_disclaimer="Nunca compartiremos tu email con nadie."
+   label_buttom="Enviar"
+   
 ]]</div>
 [[!template id=landing_page_json.tmpl
 

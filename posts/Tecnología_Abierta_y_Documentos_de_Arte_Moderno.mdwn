@@ -1,7 +1,7 @@
 [[!tag proyectos]] 
 [[!meta date="2017-10-15T12:00:00Z"]]
 [[!field 
-   default_img="/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png"
+  default_img="/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png"
   default_img_alt="Esquema descriptivo y dimensiones de modelo de estativo cenital"
   body_class="post" 
   summary="Crónica sobre el diseño y construcción de un estativo cenital para el proyecto de digitalización del Museo de Arte Moderno de Buenos Aires y algunas reflexiones sobre la realidad local de las instituciones que custodian patrimonio"
