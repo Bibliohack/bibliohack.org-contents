@@ -1,0 +1,29 @@
+[[!tag activismo ]] 
+[[!meta title="Test de post"]]
+<!-- 
+!meta title="Titulo de post"
+!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
+!meta author="Bibliohack"
+!meta date="2018-09-13T12:00:00Z"
+-->
+[[!field
+  body_class="post" 
+]]
+<!-- 
+  default_img="/img/estativo.jpg"
+  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
+
+  summary="Resumen que aparece abajo del titulo en el post"
+  short_title="Variante alternativa de titulo para teasers"
+  teaserline="Texto copete debajo del titulo solo en teasers"
+  featured=yes   // aparece en portada?
+
+  default_video="/ruta/video"
+  default_video_alt="texto que aparece como epigrafe"
+  default_video_poster="/ruta/a/imagen_poster.jpg"
+-->
+
+<big>Esto es un texto destacado</big>
+
+Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
+
