@@ -7,6 +7,7 @@
   summary="Junto con el Museo de Arte Moderno, Wikimedia Argentina, Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación co-organizamos el primer encuentro OpenGLAM en Buenos Aires."
   teaserline="Bibliohack ayudó a organizar el primer encuentro OpenGLAM de Argentina."
   featured=yes
+  translatable=yes
   unite_gallery="tiles" gallery_1="openglam_argentina_2017"
 ]]
 
