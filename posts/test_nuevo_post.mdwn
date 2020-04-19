@@ -1,30 +1,12 @@
 ---
-title: Test de Post
+title: 
 date: 2010-09-13T12:00:00Z
+tag: activismo prensa
 license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 default_img: /uploads/posts/buevo_test_del_blogui/MG_9736.jpg
 default_img_alt: Las imagenes siempre debe llevar epigrafe!
 teaserline: Texto copete debajo del titulo solo en teasers
 ---
-[[!tag activismo]]
-
-<!-- 
-!meta title="Titulo de post"
-!meta 
-!meta author="Bibliohack"
-!meta 
--->
-<!-- 
-
-  summary="Resumen que aparece abajo del titulo en el post"
-  short_title="Variante alternativa de titulo para teasers"
-
-  featured=yes   // aparece en portada?
-
-  default_video="/ruta/video"
-  default_video_alt="texto que aparece como epigrafe"
-  default_video_poster="/ruta/a/imagen_poster.jpg"
--->
 
 <big>Esto es un texto destacado</big>
 
