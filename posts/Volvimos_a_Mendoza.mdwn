@@ -1,10 +1,10 @@
 [[!tag proyectos]] 
-[[!meta title="We returned to Mendoza"]]
+[[!meta title="Volvimos a Mendoza"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta date="2019-05-03T12:00:00Z" ]]
 [[!field
   default_img="/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg"
-  default_img_alt="Training and device maintenance in the Archivo de Agua, Mendoza." 
+  default_img_alt="Capacitación y mantenimiento del dispositivo en el Archivo de Agua, Mendoza." 
   unite_gallery="tiles" gallery_1="mendoza_2019"
   translatable=yes
 ]]
