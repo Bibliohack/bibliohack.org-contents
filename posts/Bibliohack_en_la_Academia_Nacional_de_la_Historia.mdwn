@@ -11,7 +11,7 @@
   default_img_alt="Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia"
   summary="Resumen que aparece abajo del titulo en el post"
   teaserline="Instalación de estativos para el laboratorio de digitalización"
-  featured=yes
+   hide=yes
 ]]
 
 La [**Academia Nacional de la Historia**](http://anh.org.ar) fue creada con la denominación de Junta de Numismática por el teniente general Bartolomé Mitre, padre de la historiografía argentina, y por otros destacados cultores de esa disciplina.
