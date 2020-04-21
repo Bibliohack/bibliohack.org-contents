@@ -2,7 +2,6 @@
 [[!meta title="Infobae: digitalizadores y bibliotecas al siglo XXI"]]
 [[!meta date="2017-12-31T12:00:00Z" ]]
 [[!field
-  featured=yes
   default_img="/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png"
   default_img_alt=" Digitalización de documentos (Museo de Arte Moderno de Buenos Aires)."
   summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
