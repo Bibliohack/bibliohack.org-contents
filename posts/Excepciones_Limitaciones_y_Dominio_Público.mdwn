@@ -9,7 +9,6 @@ summary: Iniciativa para un proyecto de declaración sobre las tensiones existen
 teaserline: Exitosa convocatoria a bibliotecas, archivos, museos y repositorios digitales de acceso abierto
 unite_gallery: tiles
 gallery_1: excepciones_limitaciones_y_dominio_pub
-featured: yes
 ---
 
 Más de medio centenar de participantes concurrieron al Polo Tecnológico a debatir sobre excepciones y limitaciones al derecho de autor, convocados por la Secretaría de Ciencia, Tecnología e Innovación Productiva, y Creative Commons Argentina. **Valentina Delich** y **Maximiliano Marzetti**, moderados por **Paula Nahirñak** y **Matías Butelman**, ofrecieron un panorama de las tensiones entre la legislación en propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios.
