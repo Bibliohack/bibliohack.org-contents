@@ -3,7 +3,6 @@
 [[!field
   default_img="/uploads/posts/Algún_tipo_de_paraíso/paraiso.jpg"
   default_img_alt=""
-  featured=yes
 ]]
 
 El siguiente artículo fue publicado por Matías Butelman en La Agenda de Buenos Aires. [Enlace al articulo en La Agenda](https://laagenda.buenosaires.gob.ar/post/152524662625/alg%C3%BAn-tipo-de-para%C3%ADso)
