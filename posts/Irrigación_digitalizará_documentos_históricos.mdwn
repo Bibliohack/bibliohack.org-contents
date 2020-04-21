@@ -3,7 +3,6 @@
 [[!meta date="2018-09-13T12:00:00Z"]]
 [[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!field 
-  featured=yes
   default_img=/uploads/posts/Irrigaci%C3%B3n_digitalizar%C3%A1_documentos_hist%C3%B3ricos/DSC_2898.jpg
   default_img_alt="Hoy se puso en marcha el laboratorio de digitalización de documentos históricos del agua, que se encuentran en la biblioteca de Irrigación."
   teaserline="Artículo publicado en el sitio de la Dirección de Irrigación de Mendoza"
