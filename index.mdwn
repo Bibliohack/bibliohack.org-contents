@@ -147,7 +147,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]][[!template id=landing_page_section_featured.tmpl 
 
    section_id="featured"
-   show_items=15
+   show_items=12
 
 ]][[!template id=landing_page_section_form.tmpl 
 
