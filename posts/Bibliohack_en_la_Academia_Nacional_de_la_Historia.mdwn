@@ -1,17 +1,17 @@
-[[!tag proyectos]] 
-[[!meta date="2018-09-13T12:00:00Z"]]
-<!-- 
-!meta title="Titulo de post"
-!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
-!meta author="Bibliohack"
--->
-[[!field
-  body_class="post" 
-  default_img="/uploads/posts/Bibliohack_en_la_Academia_Nacional_de_Historia/Academia-Nacional-de-la-Historia-12.jpg"
-  default_img_alt="Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia"
-  summary="Resumen que aparece abajo del titulo en el post"
-  teaserline="Instalación de estativos para el laboratorio de digitalización"
-   hide=yes
-]]
+---
+title:
+author:
+date: 2018-09-13T12:00:00Z
+tag: proyectos
+license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 
-La [**Academia Nacional de la Historia**](http://anh.org.ar) fue creada con la denominación de Junta de Numismática por el teniente general Bartolomé Mitre, padre de la historiografía argentina, y por otros destacados cultores de esa disciplina.
+default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_Historia/Academia-Nacional-de-la-Historia-12.jpg
+default_img_alt: Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia
+summary: Resumen que aparece abajo del titulo en el post
+teaserline: Instalación de estativos para el laboratorio de digitalización
+hide: yes
+---
+La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) es una institución creada en 1893, dedicada a la investigación y promoción del conocimiento histórico argentino y sudamericano. Tuvo origen en la «Junta de Numismática» creada en la década de 1890 por iniciativa de Bartolomé Mitre. La sede de la institución estuvo inicialmente en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al antiguo Congreso, solo que este edificio se encuentra ahora "adentro" del edificio de la Sede Central de la AFIP. Parte de su fachada original esta en el interior de edificio. 
+
+La Biblioteca de la Academia se especializa en historia argentina y americana. Sus primeros libros fueron publicaciones de los propios académicos, luego fueron incorporando fondos bibliográficos legados luego de su muerte. EL archivo
+
