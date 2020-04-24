@@ -11,7 +11,18 @@ summary: Resumen que aparece abajo del titulo en el post
 teaserline: Instalación de estativos para el laboratorio de digitalización
 hide: yes
 ---
-La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) es una institución creada en 1893, dedicada a la investigación y promoción del conocimiento histórico argentino y sudamericano. Tuvo origen en la «Junta de Numismática» creada en la década de 1890 por iniciativa de Bartolomé Mitre. La sede de la institución estuvo inicialmente en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al antiguo Congreso, solo que este edificio se encuentra ahora "adentro" del edificio de la Sede Central de la AFIP. Parte de su fachada original esta en el interior de edificio. 
 
-La Biblioteca de la Academia se especializa en historia argentina y americana. Sus primeros libros fueron publicaciones de los propios académicos, luego fueron incorporando fondos bibliográficos legados luego de su muerte. EL archivo
+La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) existe con ese nombre desde 1938. Es la principal organización dedicada al fomento de la investigación histórica por fuera del marco universitario y tuvo su origen en la «Junta de Numismática» fundada en la década de 1890 por iniciativa de Bartolomé Mitre, institución que tuvo un papel fundamental en la consolidación de la historiografía en nuestro país. La sede de la Academia estuvo en sus inicios en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al Congreso, sólo que este edificio histórico cuenta ahora con una condicion edilicia peculiar: se encuentra preservada (en forma parcial) en el interior de otra construcción, la actual Sede Central de la AFIP. Incluso se accede a la fachada original estando adentro del otro edificio. Se conserva el recinto de sesiones donde durante cuatro decadas tuvieron lugar los debates y la sanción de leyes fundamentales para la República. Alli es donde la Academia realiza actualmente sus reuniones.
+
+[fotos del edificio y libros]
+
+La Biblioteca de la Academia, especializada en historia argentina y americana, se inició con las publicaciones de los integrantes de la institución y luego sumó los valiosos fondos bibliográficos legados por los propios académicos. Actualmente continua desarrollando una relevante tarea editorial a través de la publicación de libros y documentos relacionados con la labor académica de la institución. Junto con el Archivo, convocan habitualmente a investigadores, historiadores y estudiantes avanzados que necesitan acceder a sus invaluables acervos.
+
+[fotos de cosas digitalizadas, almanaques]
+
+En el contexto de la [creación de su Biblioteca Digital](https://anh.org.ar/blog/2017/12/15/la-anh-anuncia-la-creacion-de-su-biblioteca-digital/), Durante 2018 Bibliohack tomó contacto con la Academia para encontrar soluciones a medida para las diferentes tipologias del material bibliográfico que debia digitalizarse, asi como seleccionar y desarrollar recursos de software para procesar el material de forma operativa y optimizarlo para el acceso en linea. 
+
+Instalamos primero un estativo *en V* para digitalizar volúmenes hasta tamaño tabloide, con el cual la Academia digitalizó varias colecciones que están disponibles en línea [aqui]() y [aqui](). Posteriormente contruimos un estativo cenital para material de archivo no encuadernado. Contribuimos también en el establecimiento de un criterio para la selección del material a digitalizar y una estrategia con objetivos realizables.
+
+[fotos del escaner]
 
