@@ -6,7 +6,7 @@ tag: proyectos
 
 default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/Antiguo_Congreso_Nacional.jpg
 default_img_alt: Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia (<a href="https://commons.wikimedia.org/w/index.php?curid=82842383">Cacen Gymraeg</a> CC BY-SA 4.0)
-summary: Resumen que aparece abajo del titulo en el post
+summary: En el contexto de la creación de la Biblioteca Digital de la Academia, Bibliohack instaló dos dipositivos con los cuales se digitaliza material bibliográfico y documental.
 teaserline: Instalación de estativos para el laboratorio de digitalización
 featured: yes
 cc_by_sa: yes
