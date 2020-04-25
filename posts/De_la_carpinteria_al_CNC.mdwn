@@ -1,0 +1,37 @@
+---
+title:
+author:
+date: 2019-01-13T12:00:00Z
+cc_na_by: yes
+hide: yes
+---
+<!--
+tag: prensa proyectos activismo eventos formación
+summary: Resumen que aparece abajo del titulo en el post
+
+# imagen encabezado de post
+default_img: /img/estativo.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
+
+#teasers
+short_title: Variante alternativa de titulo para teasers
+teaserline: Texto copete debajo del titulo solo en teasers
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+-->
+
+Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el CNBA, FFAA y tfaba) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y facil de conseguir, la necesidad de mano de obra intensiva y más especializada para el trabajo de carpintería tiene como desventaja reducir la replicabilidad del proceso.
+
+Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecario o archivista un sistema de autoconstrucción que requiera habilidades técnicas modestas para su implementación, es decir **que pueda ser adoptado por instituciones del mundo real en tiempos aceptables**.
+
+Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
+
+Entre las alternativas posibles, el *router* de corte láser bidimensional sobre MDF representa un recurso técnicamente más limitado en comparación con los sistemas de control númerico con herramientas de corte mecánicas (conocido cómo *CNC router*) sobre madera terciada u otros materiales de mejor calidad, que permite obtener diferentes espesores del material y de mayor resistencia. El uso del *CNC router* está muy difundido en el ambiente de los [*hacklabs* o *makerspaces*](https://es.wikipedia.org/wiki/Hacklab) y no es tan difícil encontrar proveedores, sin embargo los negocios que realizan corte láser, cuya principal demanda proviene de la producción de elementos corpóreos para publicidad, tienen mercado mucho completamente ubicuo y por lo tanto muy fácilmente hallables en cualquier ciudad mediana, en especial en Argentina. De igual forma, el MDF es más económico y fácil de conseguir que la madera terciada de calidad. La limitación del corte bidimensional implica más trabajo de diseño, pero la abundancia de proveedores y bajo costo hizo que finalmente consideremos la tecnolgia de corte láser como la mas sencilla, economicamente aceptable y ubicua *para nuestra región*, y por lo tanto *mas adecuada*.
+
+Nuestro anhelo es encontrar proveedores cercanos en cualquier localizacion y operarios aptos en las instituciones, de forma que incluso con presencia minima o a distancia, la auto-construccion funcione en el mundo real de bibliotecas y archivos
+
+En la [Facultad de Filosofia y Letras](), la [Academia Nacional de Historia]() y la [Biblioteca de Aysa](), desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto minimo viable](https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo) realizado en corte laser sobre MDF, que [esta disponible en nuestro repositorio]().
