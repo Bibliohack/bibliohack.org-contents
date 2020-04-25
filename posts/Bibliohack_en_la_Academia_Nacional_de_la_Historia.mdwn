@@ -5,7 +5,7 @@ date: 2018-09-13T12:00:00Z
 tag: proyectos
 license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 
-default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_Historia/Academia-Nacional-de-la-Historia-12.jpg
+default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/Antiguo_Congreso_Nacional.jpg
 default_img_alt: Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia
 summary: Resumen que aparece abajo del titulo en el post
 teaserline: Instalación de estativos para el laboratorio de digitalización
