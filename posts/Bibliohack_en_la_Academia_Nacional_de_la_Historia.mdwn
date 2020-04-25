@@ -86,9 +86,9 @@ En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta 
    <img alt="Realizando ajustes en el dispositivo, junto con Pablo Bianchi" src="/uploads/galleries/anh_2018/instalacion/300px/0035.jpg"
    data-image="/uploads/galleries/anh_2018/instalacion/1280px/0035.jpg"
    data-description="">
-   <img alt="Dispositivos de digitalización en la Academia" src="/uploads/galleries/anh_2018/instalacion/300px/0080.jpg"
+   <!-- <img alt="Dispositivos de digitalización en la Academia" src="/uploads/galleries/anh_2018/instalacion/300px/0080.jpg"
    data-image="/uploads/galleries/anh_2018/instalacion/1280px/0080.jpg"
-   data-description="">
+   data-description=""> -->
    <img alt="Estativo cenital para digitalizar documentos no encuadernados" src="/uploads/galleries/anh_2018/instalacion/300px/0100.jpg"
    data-image="/uploads/galleries/anh_2018/instalacion/1280px/0100.jpg"
    data-description="">
