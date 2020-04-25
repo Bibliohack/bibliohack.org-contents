@@ -39,7 +39,7 @@ La [**Academia Nacional de la Historia de la República Argentina**](http://anh.
 
 La Biblioteca, especializada en historia argentina y americana, constituyó sus fondos a partir de los valiosos fondos bibliográficos legados por los propios académicos. Actualmente continua desarrollando una relevante tarea editorial a través de la publicación de libros y documentos relacionados con la labor académica de la institución. Junto con el Archivo, convocan habitualmente a investigadores, historiadores y estudiantes avanzados que necesitan acceder a sus invaluables acervos.
 
-[[!field unite_gallery="tiles" gallery_1="digitalizaciones"]]
+[[!field unite_gallery="tiles" gallery_2="digitalizaciones"]]
 
 <div id="digitalizaciones" class="unite-gallery tiles" style="display:none;">
    <img alt="Detalle de Ilustración interiro de Almanaque Sud-Americano de 1900" src="/uploads/galleries/anh_2018/digitalizaciones/300px/47933.jpg"
@@ -66,7 +66,7 @@ En el contexto de la [creación de su Biblioteca Digital](https://anh.org.ar/blo
 
 En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta tamaño tabloide, con el cual la Academia digitalizó varias colecciones que están disponibles actualmente en línea [aqui]() y [aqui](). Posteriormente contruimos un estativo cenital para material de archivo no encuadernado. La elaboración de un criterio para la selección del material a digitalizar y de un plan de trabajo con objetivos realizables, fue parte del proceso inicial en el que también pudimos hacer nuestro aporte.
 
-[[!field unite_gallery="tiles" gallery_1="instalacion"]]
+[[!field unite_gallery="tiles" gallery_3="instalacion"]]
 
 <div id="instalacion" class="unite-gallery tiles" style="display:none;">
    <img alt="Estativo en V instalado en la Biblioteca de la Academia Nacional de Historia" src="/uploads/galleries/anh_2018/instalacion/300px/0010.jpg"
