@@ -9,7 +9,7 @@ default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/An
 default_img_alt: Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia (<a href="https://commons.wikimedia.org/w/index.php?curid=82842383">Cacen Gymraeg</a> CC BY-SA 4.0)
 summary: Resumen que aparece abajo del titulo en el post
 teaserline: Instalación de estativos para el laboratorio de digitalización
-hide: yes
+featured: yes
 ---
 
 La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) existe con ese nombre desde 1938. Es la principal organización dedicada al fomento de la investigación histórica por fuera del marco universitario y tuvo su origen en la «Junta de Numismática» fundada en la década de 1890 por iniciativa de Bartolomé Mitre. A lo largo de su historia la institución tuvo un papel fundamental en la consolidación de la historiografía en nuestro país. 
