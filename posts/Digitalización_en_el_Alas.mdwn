@@ -5,6 +5,7 @@ date: 2018-09-13T12:00:00Z
 cc_by_sa: yes
 default_img: /uploads/posts/Digitalización_en_el_Alas/edificio__95__alas.jpg
 default_img_alt: "Edificio Alas de la Fuerza Aérea (Foto: Silvana Boemo)"
+hide: yes
 ---
 <!--
 tag: prensa proyectos activismo eventos formación
@@ -29,6 +30,9 @@ hide: yes
 
 -->
 
-La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) cumple las funciones que posee un archivo histórico en el ámbito de la Fuerza. Tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional. También registrar y preservar los bienes que constituyen el patrimonio histórico cultural aeronáutico argentino.
+La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional. También registrar y preservar los bienes que constituyen el patrimonio histórico cultural aeronáutico argentino. Desde abril de 1984 la Direccion se encuentra alojada en el **edificio Alas de la Fuerza Aérea**. Inaugurado en 1957 este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre Le Parc en 1994 fue el más alto de la Ciudad.
 
-Desde abril de 1984 la Direccion de Estudios Históricos se encuentra ubicada en el **edificio Alas de la Fuerza Aérea**. Finalizado en 1957 este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre Le Parc en 1994 fue el más alto de la Ciudad.
+Evitar el deterioro de documentos por la continua manipulación en la consulta es la razón prioritaria para digitalizar en esta organización. Durante 2016 elaboramos una propuesta experimental de un estativo para digitalizar volumenes de gran tamaño a muy bajo costo. Diseñamos u construimos un estativo realizado en listones de madera, con una plátina de acrílico. Configuramos una computadora para gestionar las capturas y posprocesamiento. Finalmente capacitamos al equipo encargado de digitalizar.
+
+[fotos]
+
