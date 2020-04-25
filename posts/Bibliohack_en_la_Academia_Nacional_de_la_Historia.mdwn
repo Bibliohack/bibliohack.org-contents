@@ -39,7 +39,7 @@ La sede de la Academia estuvo en sus inicios en el edificio del antiguo Congreso
    data-description="">
 </div>
 
-La Biblioteca, especializada en historia argentina y americana, constituyó sus fondos a partir de los valiosos fondos bibliográficos legados por los propios académicos. Actualmente continua desarrollando una relevante tarea editorial a través de la publicación de libros y documentos relacionados con la labor académica de la institución. Junto con el Archivo, convocan habitualmente a investigadores, historiadores y estudiantes avanzados que necesitan acceder a sus invaluables acervos.
+La **Biblioteca de la Academia Nacional de la Historia** constituyó su acervo a partir de los valiosos fondos bibliográficos legados por los propios académicos. Actualmente continúa desarrollando una relevante tarea editorial a través de la publicación de libros y documentos relacionados con la producción intelectual de la institución. Junto con el Archivo, convocan habitualmente a investigadores, historiadores y estudiantes avanzados que necesitan acceder a sus invaluables acervos.
 
 [[!field unite_gallery="tiles" gallery_2="digitalizaciones"]]
 
@@ -64,9 +64,11 @@ La Biblioteca, especializada en historia argentina y americana, constituyó sus 
    data-description="">
 </div>
 
-En el contexto de la [creación de su Biblioteca Digital](https://anh.org.ar/blog/2017/12/15/la-anh-anuncia-la-creacion-de-su-biblioteca-digital/), Bibliohack tomó contacto con la Academia durante 2018 con el fin de encontrar soluciones a medida para la digitalización de las diferentes tipologias del material bibliográfico existente, y desarrollar recursos de software para procesar el material de forma operativa y optimizarlo para el acceso en línea. 
+En el contexto de la [creación de su Biblioteca Digital](https://anh.org.ar/blog/2017/12/15/la-anh-anuncia-la-creacion-de-su-biblioteca-digital/), Bibliohack tomó contacto con la Academia durante 2018 con el fin de encontrar soluciones a medida para la digitalización de las diferentes tipologías del material bibliográfico y docuemntal existente, y desarrollar recursos de software para procesar el material de forma operativa y optimizarlo para el acceso en línea, lo cual era el principal objetivo del proyecto: dar acceso abierto a sus acervos a través de internet. Tal como indicaba María Sáenz Quesada (Secretaria académica de la ANH)en un texto sobre la Biblioteca Digital:
 
-En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta tamaño tabloide, con el cual la Academia digitalizó varias colecciones que están disponibles actualmente en línea [aqui]() y [aqui](). Posteriormente contruimos un estativo cenital para material de archivo no encuadernado. La elaboración de un criterio para la selección del material a digitalizar y de un plan de trabajo con objetivos realizables, fue parte del proceso inicial en el que también pudimos hacer nuestro aporte.
+> La historia  nacida en la antigua Grecia, disciplina aplicada a conocer y comprender la obra de las sucesivas generaciones, exige a sus cultores un proceso de renovación permanente en cuanto a sus métodos de estudio. Hasta hace poco eran los archivos y bibliotecas los que guardaban el material de libros y documentos a disposición del historiador. Hoy la moderna tecnología permite digitalizar esos materiales y subirlos a una página web a fin de que sean libremente consultados y utilizados.
+
+En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta tamaño tabloide, con el cual la Academia digitalizó varias colecciones que están disponibles actualmente en línea [aqui](http://colecciones.anh.org.ar/Browse/objects) y [aqui](http://colecciones.anh.org.ar/Browse/objects). Posteriormente construimos un estativo cenital para material de archivo no encuadernado. La elaboración de un criterio para la selección del material a digitalizar y de un plan de trabajo con objetivos realizables, fue parte del proceso inicial en el que también pudimos hacer nuestro aporte.
 
 [[!field unite_gallery="tiles" gallery_3="instalacion"]]
 
@@ -94,4 +96,4 @@ En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta 
    data-description="">
 </div>
 
-El proyecto de digitalización llevado adelante por la Academia es uno de los más exitosos en los que hemos participado. El buen resultado es consecuencia, seguramente, de la participación de un equipo de trabajo motivado, donde además de Bibliohack, participó **Pablo Bianchi** en el despligue y capacitación de Koha (un sistema de gestión de bibliotecas de código abierto), y **Mauricio Genta** de Wikimedia Argentina, en la digitalización de los documentos. Muchas gracias a ellos y a **Mariana Lagar**, Directora de la Biblioteca por su siempre buena predisposición.
+El proyecto de digitalización llevado adelante por la Academia **es uno de los más exitosos en los que hemos participado**. El buen resultado es consecuencia, seguramente, de la participación de un equipo de trabajo motivado, donde además de Bibliohack, participó **Pablo Bianchi** en el despliegue y capacitación de Koha (un sistema de gestión de bibliotecas de código abierto), y **Mauricio Genta** de Wikimedia Argentina, en la digitalización de los documentos. Muchas gracias a ellos y a **Mariana Lagar**, Directora de la Biblioteca por su siempre buena predisposición.
