@@ -1,0 +1,34 @@
+---
+title:
+author:
+date: 2018-09-13T12:00:00Z
+cc_by_sa: yes
+---
+<!--
+tag: prensa proyectos activismo eventos formación
+summary: Resumen que aparece abajo del titulo en el post
+
+# imagen encabezado de post
+default_img: /img/estativo.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
+
+#teasers
+short_title: Variante alternativa de titulo para teasers
+teaserline: Texto copete debajo del titulo solo en teasers
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+# sale en portada?
+featured: yes
+
+# no se muestra en /posts
+hide: yes
+
+-->
+
+La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) cumple las funciones que posee un archivo histórico en el ámbito de la Fuerza. Tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional. También registrar y preservar los bienes que constituyen el patrimonio histórico cultural aeronáutico argentino.
+
+Desde abril de 1984 la Direccion de Estudios Históricos se encuentra ubicada en el **edificio Alas de la Fuerza Aérea**. Finalizado en 1957 este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre Le Parc en 1994 fue el más alto de la Ciudad.
