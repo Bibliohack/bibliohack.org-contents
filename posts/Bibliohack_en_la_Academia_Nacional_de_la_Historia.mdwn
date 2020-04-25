@@ -12,7 +12,9 @@ teaserline: Instalación de estativos para el laboratorio de digitalización
 hide: yes
 ---
 
-La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) existe con ese nombre desde 1938. Es la principal organización dedicada al fomento de la investigación histórica por fuera del marco universitario y tuvo su origen en la «Junta de Numismática» fundada en la década de 1890 por iniciativa de Bartolomé Mitre. A lo largo de su historia la institución tuvo un papel fundamental en la consolidación de la historiografía en nuestro país. La sede de la Academia estuvo en sus inicios en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al Congreso, sólo que este edificio histórico cuenta ahora con una condicion edilicia peculiar: se encuentra preservada (en forma parcial) en el interior de otra construcción, la actual Sede Central de la AFIP. Se accede a la fachada original estando adentro del otro edificio. Se conserva el recinto de sesiones donde tuvieron lugar los primeros debates y sanciones de leyes del Congreso Nacional, luego de la reunificación del país en 1860. Alli es donde la Academia realiza actualmente sus reuniones.
+La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) existe con ese nombre desde 1938. Es la principal organización dedicada al fomento de la investigación histórica por fuera del marco universitario y tuvo su origen en la «Junta de Numismática» fundada en la década de 1890 por iniciativa de Bartolomé Mitre. A lo largo de su historia la institución tuvo un papel fundamental en la consolidación de la historiografía en nuestro país. 
+
+La sede de la Academia estuvo en sus inicios en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al Congreso, sólo que este edificio histórico cuenta ahora con una condicion edilicia peculiar: se encuentra preservada (en forma parcial) en el interior de otra construcción, la actual Sede Central de la AFIP. Se accede a la fachada original estando adentro del otro edificio. Se conserva el recinto de sesiones donde tuvieron lugar los primeros debates y sanciones de leyes del Congreso Nacional, luego de la reunificación del país en 1860. Alli es donde la Academia realiza actualmente sus reuniones.
 
 [[!field unite_gallery="tiles" gallery_1="edificio"]]
 
@@ -26,10 +28,10 @@ La [**Academia Nacional de la Historia de la República Argentina**](http://anh.
    <img alt="Reunión de integrantes de la Academia en el recinto del antiguo congreso" src="/uploads/galleries/anh_2018/edificio/300px/025.jpg"
    data-image="/uploads/galleries/anh_2018/edificio/1280px/025.jpg"
    data-description="">
-   <img alt="Uno de los tomos de Nueva Historia de la Nación Argentina, actualmente digitalizados y disponibles para consulta en línea - Foto ANH" src="/uploads/galleries/anh_2018/edificio/300px/030.jpg"
+   <img alt="Uno de los tomos de Nueva Historia de la Nación Argentina, actualmente digitalizados y disponibles para consulta en línea - Imagen ANH" src="/uploads/galleries/anh_2018/edificio/300px/030.jpg"
    data-image="/uploads/galleries/anh_2018/edificio/1280px/030.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/anh_2018/edificio/300px/040.jpg"
+   <img alt="Antiguo Congreso Nacional en 1870" src="/uploads/galleries/anh_2018/edificio/300px/040.jpg"
    data-image="/uploads/galleries/anh_2018/edificio/1280px/040.jpg"
    data-description="">
    <img alt="Sede actual de la AFIP, en su interior se encuentra parte del edificio del antiguo congreso, y la sede de la Academia Nacional de Historia." src="/uploads/galleries/anh_2018/edificio/300px/050.jpg"
