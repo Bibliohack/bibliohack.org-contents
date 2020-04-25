@@ -3,14 +3,14 @@ title:
 author:
 date: 2018-09-13T12:00:00Z
 cc_by_sa: yes
+default_img: /uploads/posts/Digitalización_en_el_Alas/edificio__95__alas.jpg
+default_img_alt: "Edificio Alas de la Fuerza Aérea (Foto: Silvana Boemo)"
 ---
 <!--
 tag: prensa proyectos activismo eventos formación
 summary: Resumen que aparece abajo del titulo en el post
 
 # imagen encabezado de post
-default_img: /img/estativo.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
 
 #teasers
 short_title: Variante alternativa de titulo para teasers
