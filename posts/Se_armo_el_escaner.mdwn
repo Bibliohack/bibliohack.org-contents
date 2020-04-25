@@ -21,7 +21,7 @@ El desafío para Bibiohack consistió en proveer la información y el *know-how*
 
 La experiencia fue muy exitosa, **el dispositvo fue construido rápidamente** y se realizaron pruebas de digitalización luego del evento. Solo requerimos de ayuda experimentada para hacer la instalación eléctrica del artefacto.
 
-El clon armado en Buenos Aires tuvo como destino la Academia Nacional de Historia de Argentina y el prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
+El clon armado en Buenos Aires tuvo como destino [la Academia Nacional de Historia de Argentina](/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia) y el prototipo colombiano deberá llegar a la Biblioteca Gabriel García Márquez de Bogotá.
 
 En esta visita también co-organizamos junto a la Maestría en Humanidades Digitales de la Universidad de los Andes, y BibloRed el evento [**Abrir Colecciones en Latinomérica**](/posts/Abrir_Colecciones_en_Latinoamérica/).
 
