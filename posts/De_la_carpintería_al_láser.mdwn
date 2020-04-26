@@ -38,4 +38,4 @@ Nuestro anhelo es encontrar proveedores cercanos en cualquier localización y op
 
 En la [Facultad de Filosofia y Letras](), la [Academia Nacional de Historia]() y la [Biblioteca de Aysa](), desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto mínimo viable](https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo) realizado en corte laser sobre MDF, cuyos planos y cortes [están disponibles en nuestro repositorio]().
 
-[...]
+![Estativo en V, realizado en corte laser, un producto mínimo viable](/uploads/posts/De_la_carpintería_al_láser/estativo_en_v_ok.jpg)
