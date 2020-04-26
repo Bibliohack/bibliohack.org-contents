@@ -1,7 +1,7 @@
 ---
 tag: prensa articulos
 default_img: /uploads/posts/Algún_tipo_de_paraíso/paraiso.jpg
-default_img_alt: 
+default_img_alt: '"Es un sistema distribuido, abierto y horizontal" dice Robert Darnton de la Public Digital Library of America durante su visita a BUenos Aires'
 teaserline: Entrevista al historiador Robert Darnton por Matías Butelman
 ---
 [[!meta date="2016-08-31T12:00:00Z"]]
