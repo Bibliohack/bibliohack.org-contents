@@ -1,4 +1,5 @@
 ---
+title: Digitalización enel Alas
 date: "2016-08-13T12:00:00Z"
 cc_by_sa: yes
 default_img: /uploads/posts/Digitalización_en_el_Alas/edificio__95__alas.jpg
