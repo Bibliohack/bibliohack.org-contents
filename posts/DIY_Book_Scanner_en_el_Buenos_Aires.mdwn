@@ -1,0 +1,30 @@
+---
+date: 2016-09-13T12:00:00Z
+cc_by_sa: yes
+---
+<!--
+tag: prensa proyectos activismo eventos formación
+summary: Resumen que aparece abajo del titulo en el post
+
+# imagen encabezado de post
+default_img: /img/estativo.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
+
+#teasers
+short_title: Variante alternativa de titulo para teasers
+teaserline: Texto copete debajo del titulo solo en teasers
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+# sale en portada?
+featured: yes
+
+# no se muestra en /posts
+hide: yes
+
+-->
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/derechoaleer/albums/72157641277982783" title="DIYBookScanner"><img src="https://live.staticflickr.com/7179/14022552163_b7ea403f7f_q.jpg" width="150" height="150" alt="DIYBookScanner"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

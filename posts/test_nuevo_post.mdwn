@@ -1,11 +1,13 @@
 ---
-title: 
+title: Prueba de publicación
+autor:
 date: 2010-09-13T12:00:00Z
 tag: activismo prensa
 license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 default_img: /uploads/posts/buevo_test_del_blogui/MG_9736.jpg
 default_img_alt: Las imagenes siempre debe llevar epigrafe!
 teaserline: Texto copete debajo del titulo solo en teasers
+hide: yes
 ---
 
 <big>Esto es un texto destacado</big>

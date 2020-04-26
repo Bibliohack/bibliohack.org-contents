@@ -1,26 +1,32 @@
-[[!tag ]] 
-<!-- prensa proyectos activismo eventos formación -->
-<!-- 
-!meta title="Titulo de post"
-!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
-!meta author="Bibliohack"
-!meta date="2018-09-13T12:00:00Z"
--->
-[[!field
-  body_class="post" 
-]]
-<!-- 
-  default_img="/img/estativo.jpg"
-  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
+---
+title:
+author:
+date: 2018-09-13T12:00:00Z
+cc_by_sa: yes
+---
+<!--
+tag: prensa proyectos activismo eventos formación
+summary: Resumen que aparece abajo del titulo en el post
 
-  summary="Resumen que aparece abajo del titulo en el post"
-  short_title="Variante alternativa de titulo para teasers"
-  teaserline="Texto copete debajo del titulo solo en teasers"
-  featured=yes   // aparece en portada?
+# imagen encabezado de post
+default_img: /img/estativo.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
 
-  default_video="/ruta/video"
-  default_video_alt="texto que aparece como epigrafe"
-  default_video_poster="/ruta/a/imagen_poster.jpg"
+#teasers
+short_title: Variante alternativa de titulo para teasers
+teaserline: Texto copete debajo del titulo solo en teasers
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+# sale en portada?
+featured: yes
+
+# no se muestra en /posts
+hide: yes
+
 -->
 
 <big>Esto es un texto destacado</big>
