@@ -1,4 +1,3 @@
-[[!meta date="2019-08-13T12:00:00Z" ]]
 ---
 tag: activismo eventos formación
 default_img: /uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg
@@ -10,6 +9,8 @@ unite_gallery: tiles
 gallery_1: seminario_digitalizacion_critica
 cc_by_sa: yes
 ---
+
+[[!meta date="2019-08-13T12:00:00Z" ]]
 
 Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/), el [Museo Casa de Ricardo Rojas](https://museorojas.cultura.gob.ar) y [Bibliohack](http://bibliohack.org) y coordinado por el **Dr. Juan Mendoza**, se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el [*Seminario de Edición y Digitalización Crítica*](https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/).
 
