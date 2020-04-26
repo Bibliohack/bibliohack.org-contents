@@ -6,23 +6,9 @@ tag: proyectos
 summary: Algunas reflexiones sobre tecnología adecuada y métodos de autocontrucción para nuestros estativos
 teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción
 default_img: /uploads/posts/De_la_carpintería_al_láser/listones.jpg
+default_img_alt: Estativo construido para el Colegio Nacional Buenos Aires, realizado con listones de madera de pino
 ---
 [[!meta date="2019-01-13T12:00:00Z"]]
-<!--
-# imagen encabezado de post
-default_img: /img/estativo.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-#teasers
-short_title: Variante alternativa de titulo para teasers
-
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
--->
 
 Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el CNBA, [DEHFA](/posts/Digitalizaci%C3%B3n_en_el_Alas/), TFABA o [Secrit/Conicet](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/)) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y fácil de conseguir, la necesidad de mano de obra intensiva y más especializada para el trabajo de carpintería tiene como desventaja reducir la replicabilidad del proceso.
 
