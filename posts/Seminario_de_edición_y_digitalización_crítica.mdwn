@@ -1,15 +1,15 @@
-[[!tag activismo eventos formación]] 
 [[!meta date="2019-08-13T12:00:00Z" ]]
-[[!field 
-  default_img="/uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg" 
-  body_class="post" 
-  default_img_alt="El Seminario se realizó en Museo Casa de Ricardo Rojas"
-  teaserline="Junto con el Secrit y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura"
-  summary="Junto con el Secrit/Conicet y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura, que tomó como eje el proceso de digitalización de la obra *Historia de la Literatura Argentina* de Ricardo Rojas"
-  featured=yes
-   unite_gallery="tiles" gallery_1="seminario_digitalizacion_critica"
-]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/" ]]
+---
+tag: activismo eventos formación
+default_img: /uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg
+default_img_alt: El Seminario se realizó en Museo Casa de Ricardo Rojas
+teaserline: Junto con el Secrit y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura
+summary: "Junto con el Secrit/Conicet y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura, que tomó como eje el proceso de digitalización de la obra *Historia de la Literatura Argentina* de Ricardo Rojas"
+featured: yes
+unite_gallery: tiles
+gallery_1: seminario_digitalizacion_critica
+cc_by_sa: yes
+---
 
 Organizado por el [Secrit/Conicet](http://www.iibicrit-conicet.gov.ar/), el [Museo Casa de Ricardo Rojas](https://museorojas.cultura.gob.ar) y [Bibliohack](http://bibliohack.org) y coordinado por el **Dr. Juan Mendoza**, se llevó a cabo entre el 29 de agosto y el 14 de noviembre de 2019 el [*Seminario de Edición y Digitalización Crítica*](https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/).
 
@@ -113,6 +113,7 @@ I Coloquio de Edición y Digitalización Crítica
 Exposición de conclusiones y panel plenario de cierre.
 
 </div>
-<!-- hilo en twitter de la presentación: https://twitter.com/BiblioHack/status/1159473523544461312 
+<!-- 
+hilo en twitter de la presentación: https://twitter.com/BiblioHack/status/1159473523544461312 
 https://museorojas.cultura.gob.ar/noticia/abrimos-la-convocatoria-al-seminario-de-edicion-y-digitalizacion-critica/ 
 -->
