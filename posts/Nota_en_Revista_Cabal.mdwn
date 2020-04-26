@@ -1,4 +1,3 @@
-[[!meta date="2016-12-15T12:00:00Z"]]
 ---
 title: Made in Argentina
 tag: prensa
@@ -7,6 +6,7 @@ default_img_alt: Estativo en V realizado con listones de pino en el Colegio Naci
 summary: Entrevista a Matias Butelman y Juan Suárez sobre la iniciativa Bibliohack publicada en Revista Cabal
 teaserline: Entrevista a Matias Butelman y Juan Suárez publicada en Revista Cabal
 ---
+[[!meta date="2016-12-15T12:00:00Z"]]
 
 En noviembre nos entrevistó **Sebastián Prats** de la Revista Cabal. A continuación transcribimos el texto completo de la [nota](http://www.revistacabal.coop/actualidad/made-argentina?fb_comment_id=1477128082300607_1500328469980568), publicada en diciembre de 2016.
 <!-- https://web.archive.org/save/http://www.revistacabal.coop/actualidad/made-argentina-->
