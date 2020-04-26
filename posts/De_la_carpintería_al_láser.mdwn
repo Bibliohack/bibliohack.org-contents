@@ -4,7 +4,7 @@ author:
 cc_na_by: yes
 hide: yes
 tag: prensa proyectos activismo eventos formación
-summary: Algunas reflexiones sobre tecnología adecuada, luego de probar diferentes métodos de autocontrucción para nuestros estativos
+summary: Algunas reflexiones sobre tecnología adecuada y métodos de autocontrucción para nuestros estativos de tecnología abierta
 teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción
 ---
 [[!meta date="2019-01-13T12:00:00Z"]]
