@@ -20,14 +20,14 @@ La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.arge
 [[!field unite_gallery="tiles" gallery_1="dehfa"]]
 
 <div id="dehfa" class="unite-gallery tiles" style="display:none;">
+   <img alt="Edificio Alas" src="/uploads/galleries/ffaa_2016/dehfa/300px/Edificio_Alas.jpg"
+   data-image="/uploads/galleries/ffaa_2016/dehfa/1280px/Edificio_Alas.jpg"
+   data-description="">
    <img alt="Sala de conservación de la Dirección de Estudios Históricos" src="/uploads/galleries/ffaa_2016/dehfa/300px/05.jpg"
    data-image="/uploads/galleries/ffaa_2016/dehfa/1280px/05.jpg"
    data-description="">
    <img alt="Material encuadernado del archivo" src="/uploads/galleries/ffaa_2016/dehfa/300px/10.jpg"
    data-image="/uploads/galleries/ffaa_2016/dehfa/1280px/10.jpg"
-   data-description="">
-   <img alt="Edificio Alas" src="/uploads/galleries/ffaa_2016/dehfa/300px/Edificio_Alas.jpg"
-   data-image="/uploads/galleries/ffaa_2016/dehfa/1280px/Edificio_Alas.jpg"
    data-description="">
 </div>
 
