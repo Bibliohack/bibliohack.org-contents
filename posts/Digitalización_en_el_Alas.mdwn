@@ -5,34 +5,33 @@ date: 2018-09-13T12:00:00Z
 cc_by_sa: yes
 default_img: /uploads/posts/Digitalización_en_el_Alas/edificio__95__alas.jpg
 default_img_alt: "Edificio Alas de la Fuerza Aérea (Foto: Silvana Boemo)"
+summary: Instalamos un dispositivo en V a bajo costo en la Direccion de Estudios Históricos de la Fuerza Aérea
+teaserline: Estativo en V de Bibliohack en la Dirección de Estudios Históricos de la Fuerza Aérea
+tag: proyectos
 hide: yes
 ---
 <!--
-tag: prensa proyectos activismo eventos formación
-summary: Resumen que aparece abajo del titulo en el post
-
-# imagen encabezado de post
-
-#teasers
-short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
 # sale en portada?
 featured: yes
-
-# no se muestra en /posts
-hide: yes
-
 -->
 
-La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional. También registrar y preservar los bienes que constituyen el patrimonio histórico cultural aeronáutico argentino. Desde abril de 1984 la Direccion se encuentra alojada en el **edificio Alas de la Fuerza Aérea**. Inaugurado en 1957 este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre Le Parc en 1994 fue el más alto de la Ciudad.
+La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) (DEHFA)tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional que recorre todo el siglo XX. También registrar y preservar los bienes que constituyen el patrimonio de la fuerza. Desde abril de 1984 la Direccion se encuentra alojada en el **edificio Alas de la Fuerza Aérea**. Inaugurado en 1957 este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre Le Parc en 1994 fue el más alto de la Ciudad.
 
-Evitar el deterioro de documentos por la continua manipulación en la consulta es la razón prioritaria para digitalizar en esta organización. Durante 2016 elaboramos una propuesta experimental de un estativo para digitalizar volumenes de gran tamaño a muy bajo costo. Diseñamos u construimos un estativo realizado en listones de madera, con una plátina de acrílico. Configuramos una computadora para gestionar las capturas y posprocesamiento. Finalmente capacitamos al equipo encargado de digitalizar.
+[edificio y documentos]
+
+En 2012 hubo una inciativa del Ministerio de Defensa para poner en valor el material de archivo de las Fuerzas Armadas, esto llevó a las dependencias de las tres fuerzas a realizar relevamientos sobre la existencia y el estado de su archivo, y su restauración y estabilización en caso de ser necesario. Se reforzaron las políticas de preservación y para la Dirección de Estudios Históricos la necesidad de digitalizar el material de consulta frecuente se volvió prioritario. Si deseaban reducir la manipulación, para no continuar deteriorando registros valiosos, el acceso digital era la opción más razonable. 
+
+Recurrieron a servicios convencionales de digitalización comercial. No resultó aceptable la calidad de entrega de los documentos digitalizados (monocromo) en especial para en mapas y fotografías, ni tampoco el riesgo sobre la custodia del material que debía salir del edificio. Por otra parte la experiencia generó daños en documentos frágiles. Por otro lado, las alternativas comerciales más adecuadas a las necesidades del archivo estaban completamente por fuera de los recursos presupuestarios de la Dirección.
 
 [fotos]
+
+Durante 2016 elaboramos una propuesta experimental de un estativo en V para digitalizar volumenes de gran tamaño a muy bajo costo. El equipo instalado en la sala de conservación reduciría el riesgo referido a la custodia documental. Además no expondría el material encuadernado a roturas al dispone de una cuan en V. El paquete de software de Bibliohack permite controlar la calidad y formato de salida, de manera que podiamos ajustarlo según los requerimientos de la consulta digital
+
+Diseñamos y construimos un **estativo realizado en listones de madera**, con una plátina de acrílico, que terminamos de ensamblar en el lugar. El sistema para gestionar las capturas y posprocesamiento basado en componentes de software libre lo instalamos en un equipo provisto por la Dirección. Finalmente capacitamos al equipo encargado de digitalizar.
+
+[digitalizaciones]
+
+Gracias a Diana Partuso (conservadora) Cristina Cosci (archivista) y Mariana Elena de la DEHFA que hicieron posible llevar adelante este proyecto.
+
+
 
