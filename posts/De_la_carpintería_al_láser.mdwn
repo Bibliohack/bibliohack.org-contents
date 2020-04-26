@@ -10,6 +10,29 @@ date: "2019-01-13T12:00:00Z"
 
 Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el CNBA, [DEHFA](/posts/Digitalizaci%C3%B3n_en_el_Alas/), TFABA o [Secrit/Conicet](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/)) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y fácil de conseguir, la necesidad de mano de obra intensiva y más especializada para el trabajo de carpintería tiene como desventaja reducir la replicabilidad del proceso.
 
+[[!field unite_gallery="tiles" gallery_1="listones"]]
+
+<div id="listones" class="unite-gallery tiles" style="display:none;">
+   <img alt="Estativo construido para el Colegio Nacional Buenos Aires" src="/uploads/galleries/carpinteria_al_laser/listones/300px/010.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/010.jpg"
+   data-description="">
+   <img alt="Estativo para el Tribunal Fiscal de Apelaciones de la Provincia de Buenos Aires" src="/uploads/galleries/carpinteria_al_laser/listones/300px/030.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/030.jpg"
+   data-description="">
+   <img alt="Estativo para la Dirección de Estudios Históricos de la Fuerza Aérea Argentina (en el edificio Alas)" src="/uploads/galleries/carpinteria_al_laser/listones/300px/040.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/040.jpg"
+   data-description="">
+   <img alt="Estativo para el Secrit/Conitet" src="/uploads/galleries/carpinteria_al_laser/listones/300px/050.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/050.jpg"
+   data-description="">
+   <img alt="Listones de madera de pino" src="/uploads/galleries/carpinteria_al_laser/listones/300px/060.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/060.jpg"
+   data-description="">
+   <img alt="La Silla Roja y Azul de Gerrit Rietveld, donde se puede observar el uso de la junta cartesiana o junta Rietveld" src="/uploads/galleries/carpinteria_al_laser/listones/300px/100.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/100.jpg"
+   data-description="">
+</div>
+
 Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecario o archivista un sistema de autoconstrucción que requiera habilidades técnicas modestas para su implementación, es decir **que pueda ser adoptado por instituciones del mundo real en tiempos aceptables**.
 
 Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
@@ -20,6 +43,22 @@ Entre las alternativas posibles el *corte láser* sobre MDF representa un recurs
 
 Nuestro anhelo es encontrar proveedores cercanos en cualquier localización y operarios aptos en las instituciones, de forma que incluso con presencia mínima o a distancia, la auto-construcción funcione en **el mundo real de bibliotecas y archivos**.
 
+[[!field unite_gallery="tiles" gallery_2="laser"]]
+
+<div id="laser" class="unite-gallery tiles" style="display:none;">
+   <img alt="Estativo instalado en la sede 25 de Mayo de Filosofia y Letras de la UBA" src="/uploads/galleries/carpinteria_al_laser/laser/300px/25m.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/laser/1280px/25m.jpg"
+   data-description="">
+   <img alt="Estativo en V instalado en la Biblioteca de la Academia Nacional de Historia" src="/uploads/galleries/carpinteria_al_laser/laser/300px/anh.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/laser/1280px/anh.jpg"
+   data-description="">
+   <img alt="Estativo en V instalado en la Biblioteca de AySA (en el Palacio de Aguas Corrientes)" src="/uploads/galleries/carpinteria_al_laser/laser/300px/aysa1.jpg"
+   data-image="/uploads/galleries/carpinteria_al_laser/laser/1280px/aysa1.jpg"
+   data-description="">
+</div>
+
 En la [Facultad de Filosofia y Letras](), la [Academia Nacional de Historia]() y la [Biblioteca de Aysa](), desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto mínimo viable](https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo) realizado en corte laser sobre MDF, cuyos planos y cortes [están disponibles en nuestro repositorio]().
+
+Durante septiembre de 2018 [en Mendoza](/posts/Mendoza_Instalaci%C3%B3n_de_estativo/) pudimos poner a prueba nuestro enfoque, ya que sólo disponiamos de un tiempo limitado para ensamblar el dispositivo y dejarlo operativo desde cero (3 dias), y debiamos hacer el encargo de corte laser en un proveedor local. El éxito de esta experiencia nos demostró que, aún con ideas para mejoras, el diseño para estativos en V hasta tamaño tabloide ya es un producto viable de Bibliohack.
 
 ![Estativo en V, realizado en corte laser, un producto mínimo viable](/uploads/posts/De_la_carpintería_al_láser/estativo_en_v_ok.jpg)
