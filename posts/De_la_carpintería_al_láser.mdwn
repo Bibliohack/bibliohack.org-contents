@@ -12,8 +12,6 @@ Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la t
 
 Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecario o archivista un sistema de autoconstrucción que requiera habilidades técnicas modestas para su implementación, es decir **que pueda ser adoptado por instituciones del mundo real en tiempos aceptables**.
 
-Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
-
 [[!field unite_gallery="tiles" gallery_1="listones"]]
 
 <div id="listones" class="unite-gallery tiles" style="display:none;">
@@ -36,6 +34,8 @@ Además el proceso de carpintería representaba para nosotros un costo hundido e
    data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/100.jpg"
    data-description="">
 </div>
+
+Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
 
 Los sistemas de corte o mecanizado a control numérico (o CNC, por *Computer Numerical Control*) permiten cortar materiales como cartón, acrílico, MDF o madera terciada a partir de los parámetros obtenidos de un archivo vectorial. Este archivo se puede generar con un sistema CAD (diseño asistido por ordenador) o un software de edición vectorial. Estos sistemas se clasifican según la herramienta de corte: mecánicas como brocas o fresas (conocido como "*CNC router*") o un haz láser (*corte laser*). El sistema mecánico permite no sólo realizar cortes bidimensionales en el material sino también, mediante el fresado dar diferentes espesores. El corte laser está limitado a actuar en solo dos dimesiones y en los servicios no especializados corta materiales menos resistentes o de menor espesor.
 
