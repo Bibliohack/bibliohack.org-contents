@@ -1,6 +1,6 @@
 ---
 tag: prensa articulos
-default_img: posts/Algún_tipo_de_paraíso/Robert-Darnton.jpg
+default_img: /uploads/posts/Algún_tipo_de_paraíso/Robert-Darnton.jpg
 default_img_alt: '"Es un sistema distribuido, abierto y horizontal" dice Robert Darnton de la Public Digital Library of America durante su visita a BUenos Aires (foto: <a href="https://commons.wikimedia.org/wiki/File:Robert_Darnton_no_Fronteiras_do_Pensamento_Porto_Alegre_2016_(29257577462).jpg">Wikimedia Commons</a>)'
 teaserline: Entrevista al historiador Robert Darnton por Matías Butelman
 ---
