@@ -1,7 +1,7 @@
 ---
 title:
 author:
-date: 2019-01-13T12:00:00Z
+date: "2019-01-13T12:00:00Z"
 cc_na_by: yes
 hide: yes
 ---
