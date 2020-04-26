@@ -2,10 +2,10 @@
 title:
 author:
 cc_na_by: yes
-hide: yes
 tag: proyectos
 summary: Algunas reflexiones sobre tecnología adecuada y métodos de autocontrucción para nuestros estativos
 teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción
+default_img: /uploads/posts/De_la_carpintería_al_láser/listones.jpg
 ---
 [[!meta date="2019-01-13T12:00:00Z"]]
 <!--
