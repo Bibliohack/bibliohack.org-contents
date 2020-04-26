@@ -1,6 +1,4 @@
 ---
-title:
-author:
 cc_na_by: yes
 tag: proyectos
 summary: Algunas reflexiones sobre tecnología adecuada y métodos de autocontrucción para nuestros estativos
