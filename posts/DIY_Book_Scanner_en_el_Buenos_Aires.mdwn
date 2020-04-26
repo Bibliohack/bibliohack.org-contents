@@ -5,7 +5,7 @@ default_img: /uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/diybookscanner-c
 default_img_alt: Estativo en V realizado con técnicas autoconstructivas en la Biblioteca del Colegio Nacional Buenos Aires
 teaserline: Dispositivo de digitalización para libros antiguos en la Biblioteca del Colegio Nacional Buenos Aires
 ---
-[[!date date="2016-09-13T12:00:00Z"]]
+[[!meta date="2014-09-13T12:00:00Z"]]
 
 <!--
 
