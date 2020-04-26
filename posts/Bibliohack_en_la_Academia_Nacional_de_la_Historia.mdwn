@@ -16,6 +16,8 @@ La [**Academia Nacional de la Historia de la República Argentina**](http://anh.
 
 La sede de la Academia estuvo en sus inicios en el edificio del antiguo Congreso Nacional, luego pasó al Museo Mitre y en 1971 regresó al Congreso, sólo que este edificio histórico cuenta ahora con una condicion edilicia peculiar: se encuentra preservada (en forma parcial) en el interior de otra construcción, la actual Sede Central de la AFIP. Se accede a la fachada original estando adentro del otro edificio. Se conserva el recinto de sesiones donde tuvieron lugar los primeros debates y sanciones de leyes del Congreso Nacional, luego de la reunificación del país en 1860. Alli es donde la Academia realiza actualmente sus reuniones.
 
+No hay dudas que "se respira historia y patrimonio" en este lugar.
+
 [[!field unite_gallery="tiles" gallery_1="edificio"]]
 
 <div id="edificio" class="unite-gallery tiles" style="display:none;">
