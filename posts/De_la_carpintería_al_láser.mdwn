@@ -8,7 +8,11 @@ default_img_alt: Estativo construido para el Colegio Nacional Buenos Aires, real
 date: "2019-01-13T12:00:00Z"
 ---
 
-Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el CNBA, [DEHFA](/posts/Digitalizaci%C3%B3n_en_el_Alas/), TFABA o [Secrit/Conicet](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/)) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y fácil de conseguir, la necesidad de mano de obra intensiva y más especializada para el trabajo de carpintería tiene como desventaja reducir la replicabilidad del proceso.
+Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el CNBA, [DEHFA](/posts/Digitalizaci%C3%B3n_en_el_Alas/), TFABA o [Secrit/Conicet](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/)) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y fácil de conseguir, la necesidad de mayores competencias para trabajar la madera, herramientas de carpinteria y muchos días de trabajo, tiene como desventaja reducir la replicabilidad del proceso.
+
+Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecario o archivista un sistema de autoconstrucción que requiera habilidades técnicas modestas para su implementación, es decir **que pueda ser adoptado por instituciones del mundo real en tiempos aceptables**.
+
+Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
 
 [[!field unite_gallery="tiles" gallery_1="listones"]]
 
@@ -32,10 +36,6 @@ Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la t
    data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/100.jpg"
    data-description="">
 </div>
-
-Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecario o archivista un sistema de autoconstrucción que requiera habilidades técnicas modestas para su implementación, es decir **que pueda ser adoptado por instituciones del mundo real en tiempos aceptables**.
-
-Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
 
 Los sistemas de corte o mecanizado a control numérico (o CNC, por *Computer Numerical Control*) permiten cortar materiales como cartón, acrílico, MDF o madera terciada a partir de los parámetros obtenidos de un archivo vectorial. Este archivo se puede generar con un sistema CAD (diseño asistido por ordenador) o un software de edición vectorial. Estos sistemas se clasifican según la herramienta de corte: mecánicas como brocas o fresas (conocido como "*CNC router*") o un haz láser (*corte laser*). El sistema mecánico permite no sólo realizar cortes bidimensionales en el material sino también, mediante el fresado dar diferentes espesores. El corte laser está limitado a actuar en solo dos dimesiones y en los servicios no especializados corta materiales menos resistentes o de menor espesor.
 
