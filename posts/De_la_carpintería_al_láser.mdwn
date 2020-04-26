@@ -3,7 +3,7 @@ title:
 author:
 cc_na_by: yes
 hide: yes
-tag: prensa proyectos activismo eventos formación
+tag: proyectos
 summary: Algunas reflexiones sobre tecnología adecuada y métodos de autocontrucción para nuestros estativos
 teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción
 ---
