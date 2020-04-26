@@ -1,18 +1,18 @@
 ---
 date: 2016-09-13T12:00:00Z
+tag: proyectos
 cc_by_sa: yes
+default_img: /uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/diybookscanner-cnba.jpg
+default_img_alt: Estativo en V realizado con técnicas autoconstructivas en la Biblioteca del Colegio Nacional Buenos Aires
+teaserline: Dispositivo de digitalización para libros antiguos en la Biblioteca del Colegio Nacional Buenos Aires
 ---
 <!--
-tag: prensa proyectos activismo eventos formación
-summary: Resumen que aparece abajo del titulo en el post
 
-# imagen encabezado de post
-default_img: /img/estativo.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
+summary: Resumen que aparece abajo del titulo en el post
 
 #teasers
 short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
+
 
 # video encabezado de post
 default_video: /ruta/video.mp4
@@ -27,4 +27,4 @@ hide: yes
 
 -->
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/derechoaleer/albums/72157641277982783" title="DIYBookScanner"><img src="https://live.staticflickr.com/7179/14022552163_b7ea403f7f_q.jpg" width="150" height="150" alt="DIYBookScanner"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/derechoaleer/albums/72157641277982783" title="DIYBookScanner"><img src="https://live.staticflickr.com/7179/14022552163_b7ea403f7f_c.jpg" width="800" height="600" alt="DIYBookScanner"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
