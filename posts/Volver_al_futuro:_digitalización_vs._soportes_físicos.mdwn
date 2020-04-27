@@ -2,11 +2,9 @@
 tag: prensa
 default_img: /uploads/posts/Volver_al_futuro:_digitalización_vs._soportes_físicos/inrock.jpg
 default_img_alt: Tapa del numero 187 de la revista "Los InRockuptibles"
+teaserline: Nota publica en la revista Los InRockuptibles sobre preservación digital y digitalización
 ---
 [[!meta date="2013-12-14T12:00:00Z"]]
-<!-- 
-https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos
--->
 
 Nota publicada por Revista Los InRocKuptibles, en diciembre de 2013. Enlace a [la copia guardada en Internet Archive](https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos).
 
@@ -47,3 +45,7 @@ El proceso consiste en digitalizar la información contenida en un libro, pelíc
 En este punto, el ser humano está usando lo más natural que existe –las moléculas que lo conforman– para resolver problemáticas vinculadas a su cultura, a la información que produce y a cómo transferir todos esos datos. *“Es muy paradójico. Resulta que el hombre evoluciona y evoluciona hasta crear la Máquina de Dios y satélites que controlan las telecomunicaciones. Entonces, alcanza un punto en que para seguir dando un paso más adelante tiene que retroceder hasta el origen de la vida”*, concluye Prada.
 
 </div>
+
+<!-- 
+https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos
+-->
