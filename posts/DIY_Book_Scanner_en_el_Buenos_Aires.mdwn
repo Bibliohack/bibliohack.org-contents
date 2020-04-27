@@ -96,6 +96,6 @@ K) Interruptores para las luces
 L) Interruptor de alimentación eléctrica   
 M) Enchufes de luces   
 N) Enchufe a la red eléctrica   
-O) Luces
+P) Luces
 
 X,Y,Z marcan los ejes sobre los cuales puede rotar cámara y las perillas que fijan o liberan el movimiento.
