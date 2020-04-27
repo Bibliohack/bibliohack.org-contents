@@ -1,8 +1,9 @@
 ---
 title: "Infobae: digitalizadores y bibliotecas al siglo XXI"
 tag: prensa MAMBA
-default_img: /uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae.jpg
+default_img: /uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png
 default_img_alt: Digitalización de documentos (Museo de Arte Moderno de Buenos Aires).
+teaserline: Nota sobre algunas experiencias de proyectos de digitalización en instituciones culturales argentinas
 ---
 [[!meta date="2017-12-31T12:00:00Z" ]]
 
@@ -84,4 +85,5 @@ Otras experiencias a nivel mundial
 
 <!--
 /uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png
+/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae.jpg
 -->
