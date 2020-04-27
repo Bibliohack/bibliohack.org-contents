@@ -34,6 +34,7 @@ Uno de los objetivos de Bibliohack es poner al alcance de cualquier bibliotecari
    data-image="/uploads/galleries/carpinteria_al_laser/listones/1280px/100.jpg"
    data-description="">
 </div>
+<p class="epigrafe">Estativos construidos por Bibliohack usando listone de madera de pino y uniones rietveld</p>
 
 Además el proceso de carpintería representaba para nosotros un costo hundido en la fabricación, que se invisibiliza en periodos de inversión de tiempo de trabajo en el desarrollo de prototipos, porque se solapa con el trabajo de producción. Lograr un prototipo funcional íntegramente construido con piezas obtenidas del corte láser tiene como ventaja acortar el tiempo de fabricación, de casi dos semanas, a 2 o 3 días, y reducir la exigencia de capacidades en los operarios. 
 
