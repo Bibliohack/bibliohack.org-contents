@@ -1,9 +1,9 @@
-[[!tag prensa CNBA ]] 
+---
+tag: prensa
+default_img: /uploads/posts/Volver_al_futuro:_digitalización_vs._soportes_físicos/inrock.jpg
+default_img_alt: Tapa del numero 187 de la revista "Los InRockuptibles"
+---
 [[!meta date="2013-12-14T12:00:00Z"]]
-[[!field
-  default_img="/uploads/posts/Volver_al_futuro_digitalización_vs_soportes_físicos/inrocks.png"
-  default_img_alt=""
-]]
 <!-- 
 https://web.archive.org/web/20131229003608/http://www.losinrocks.com/sociedad/volver-al-futuro-digitalizacion-vs-soportes-fisicos
 -->
