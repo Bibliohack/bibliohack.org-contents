@@ -12,9 +12,37 @@ El [**Colegio Nacional Buenos Aires**](https://es.wikipedia.org/wiki/Colegio_Nac
 
 La vida de la [**Biblioteca del CNBA**](https://www.cnba.uba.ar/academico/institutos-y-dependencias/biblioteca) se inició con la fundación del colegio en 1863, y en poco tiempo  iría tomando un aspecto orgánico apreciable. Cinco años después, su catálogo ya alcanzaba los 1644 volúmenes. Durante más de un siglo se enriqueció con importantes adquisiciones y donaciones, ya que el prestigio del Nacional Buenos Aires favoreció la recepción de muchas donaciones particulares muy valiosas. Su colección es de tipo enciclopédico pero su riqueza es particularmente notable en disciplinas humanísticas. 
 
- 
-[fotos de la bibioteca y el material]
+[[!field unite_gallery="tiles" gallery_1="biblioteca"]]
 
+<div id="biblioteca" class="unite-gallery tiles" style="display:none;">
+   <img alt="Fachada del colegio Nacional Buenos Aires en 1984 (foto: Wikimedia Commons)" src="/uploads/galleries/cnba_2013/biblioteca/300px/010-cnba_1984.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/010-cnba_1984.jpg"
+   data-description="">
+   <img alt="Escaleras desde el primer piso (foto Tomas Bernardo CC-BY)" src="/uploads/galleries/cnba_2013/biblioteca/300px/020-rectoria.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/020-rectoria.jpg"
+   data-description="">
+   <img alt="Claustro a la salida del gabinete de química (foto Tomás Bernardo CC-BY)." src="/uploads/galleries/cnba_2013/biblioteca/300px/040-laboratorio.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/040-laboratorio.jpg"
+   data-description="">
+   <img alt="Biblioteca desde el segundo piso (foto Tomás Bernardo CC-BY)." src="/uploads/galleries/cnba_2013/biblioteca/300px/045-biblio.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/045-biblio.jpg"
+   data-description="">
+   <img alt="Busto de Sarmiento en la sala de lectura de la Biblioteca" src="/uploads/galleries/cnba_2013/biblioteca/300px/050.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/050.jpg"
+   data-description="">
+   <img alt="Libros en la Biblioteca del Nacional Buenos Aires" src="/uploads/galleries/cnba_2013/biblioteca/300px/060.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/060.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cnba_2013/biblioteca/300px/065.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/065.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cnba_2013/biblioteca/300px/070.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/070.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cnba_2013/biblioteca/300px/080.jpg"
+   data-image="/uploads/galleries/cnba_2013/biblioteca/1280px/080.jpg"
+   data-description="">
+</div>
 
 Durante 2013, por iniciativa de la directora de la biblioteca **Adriana Carreira**, se dio inicio a un proyecto piloto para construir una **biblioteca digital** en la que exponer las colecciones especiales que custodian. Inicialmente se propuso la digitalización de ciertos libros antiguos, de la época colonial, que se habían sumado a su acervo en la década del 1930. Por la forma, tamaño y estado de conservación, estos materiales requerían una manipulación especial y los dispositivos de digitalización corrientes no aplicaban. 
 
