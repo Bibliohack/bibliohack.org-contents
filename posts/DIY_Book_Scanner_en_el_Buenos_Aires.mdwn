@@ -55,7 +55,7 @@ Detalle de algunos elementos de ajuste que necesita conocer el operador
 ![](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/referencias.png)
 
 A) Distribuidor USB   
-B) Enlace de la extensión USB hacia la PC   
+B\) Enlace de la extensión USB hacia la PC   
 C) Conexiones USB y fuente para cámara   
 D) Brazo porta-cámara  
 E) Fijación de los brazos porta-cámaras   
