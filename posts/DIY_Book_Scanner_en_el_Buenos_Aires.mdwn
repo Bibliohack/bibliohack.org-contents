@@ -42,12 +42,13 @@ El dispositivo está realizado utilizando listones de *pino clear* (sin nudos) a
 
 El estativo esta compuesto por 7 conjuntos funcionales que estás identificados con un color diferente: 
 
-1. La estructura principal de sostén
-2. la platina en V movil sujetada con un par de correderas verticales a la estructura
-3. la cuna en V ajustable
-4. la base móvil de la cuna unida a la estructura con dos correderas horizontales
-5. los portacámaras ajustables, que permiten que las camaras tengan movimiento sobre los tres ejes, ademas de poder regular la distancia al objetivo.
-
+1. **Estructura** principal de sostén.
+2. **Platina** en V móvil que conforma un prisma de acrílico cristal y está sujeta a la estructura con un par de correderas verticales.
+3. **Cuna** en V ajustable, que permite subir o bajar el documento según su forma y tamaño.
+4. **Base Móvil** de la cuna unida a la estructura con dos correderas que permiten el movimiento horizontal de la cuna.
+5. **Porta-cámaras** donde se fijan las cámaras digitales y se ajusta su posicion en los tres ejes (para asegurar la ortogonalidad al documento), ademas las guías que vinculan los portacámaras a la estructura (5') permiten regular la distancia al objetivo con varios puntos de fijación.
+6. **Porta-luces** ajustables.
+7. **Tablero** de conexión, con tomas para la iluminacion e interruptores de control.
 
 Detalles
 
