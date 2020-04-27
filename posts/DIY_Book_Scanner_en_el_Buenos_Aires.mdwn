@@ -34,3 +34,4 @@ Si bien el software se desarrolló rápidamente utilizando estos recursos libres
 
 [ejemplos de capturas]
 
+![referencias](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/referencias.png)
