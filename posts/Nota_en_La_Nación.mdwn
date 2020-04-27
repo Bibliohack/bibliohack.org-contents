@@ -1,11 +1,11 @@
-[[!tag prensa CNBA DEHFAA]] 
+---
+tag: prensa CNBA DEHFAA
+featured: yes
+default_img: /uploads/posts/Nota_en_La_Nación/lanacion.jpg
+default_img_alt: El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX.
+teaserline: Digitalizan la biblioteca del Colegio Nacional Buenos Aires con un scanner hecho en el país
+---
 [[!meta date="2016-10-06T12:00:00Z"]]
-[[!field
-  featured=yes
-  default_img="/uploads/posts/Nota_en_La_Nación/2280990h965.jpg"
-  default_img_alt="El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX."
-  teaserline="Digitalizan la biblioteca del Colegio Nacional Buenos Aires con un scanner hecho en el país"
-]]
 
 Luego de una entrevista realizada a Matías Butelman, a periodista de La Nación Cintia Perazo publicó [la siguiente nota](https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871) que compartimos acontinuación:
 
@@ -44,4 +44,9 @@ Tanto el equipo como el software son fruto de un desarrollo de producción colab
 Según aclara Butelman, este equipo no está aún listo para salir al mercado, sino que se encuentra en un proceso experimental. "Actualmente estamos buscando la posibilidad de incubar el proyecto", concluye.
 
 </div>
-<!-- https://web.archive.org/save/https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871 -->
+
+<!--
+https://web.archive.org/save/https://www.lanacion.com.ar/tecnologia/digitalizan-la-biblioteca-del-colegio-nacional-buenos-aires-con-un-scanner-hecho-en-el-pais-nid1942871 
+
+/uploads/posts/Nota_en_La_Nación/2280990h965.jpg
+-->
