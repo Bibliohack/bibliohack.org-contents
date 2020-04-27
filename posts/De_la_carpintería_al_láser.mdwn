@@ -56,7 +56,7 @@ Nuestro objetivo es encontrar proveedores cercanos en cualquier lugar y un méto
    <img alt="Estativo en V instalado en la Biblioteca de AySA (en el Palacio de Aguas Corrientes)" src="/uploads/galleries/carpinteria_al_laser/laser/300px/aysa1.jpg"
    data-image="/uploads/galleries/carpinteria_al_laser/laser/1280px/aysa1.jpg"
    data-description="">
-</div>
+</div><p class="epigrafe">Los tres prototipos instalados en el laboratorio de digitalización de la sede 25 de Mayo de Filosofía y Letras, en la Biblioteca Aysa y en la Academia Nacional de Historia realizados con corte laser sobre MDF.</p>
 
 En la [Facultad de Filosofia y Letras](/posts/Estativos_de_Bibliohack_en_Filosof%C3%ADa_y_Letras/), la [Academia Nacional de Historia](/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/) y la [Biblioteca de Aysa](/posts/Bibliohack_en_el_Palacio_de_Aguas_Corrientes/), desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño, en la usabilidad y en la facilidad del ensamble y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto mínimo viable](https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo) realizado en corte laser sobre MDF, cuyos planos y cortes [están disponibles en nuestro repositorio](https://github.com/Bibliohack/V-cradle).
 
