@@ -3,9 +3,8 @@ title:
 author:
 date: 2018-09-13T12:00:00Z
 tag: proyectos
-
-default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/Antiguo_Congreso_Nacional.jpg
-default_img_alt: Fachada del Antiguo Congreso Nacional, dentro del edificio de la AFIP, sede de la Academia Nacional de Historia (<a href="https://commons.wikimedia.org/w/index.php?curid=82842383">Cacen Gymraeg</a> CC BY-SA 4.0)
+default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/bandera.jpg
+default_img_alt: Guide de l'étranger a Buenos Aires de 1882, de la colección de almanaques de la Biblioteca de la Academia Nacional de la Historia'
 summary: En el contexto de la creación de la Biblioteca Digital de la Academia, Bibliohack instaló dos dipositivos con los cuales se digitaliza material bibliográfico y documental.
 teaserline: Instalación de estativos para el laboratorio de digitalización
 featured: yes
@@ -99,3 +98,4 @@ En un principio instalamos un estativo *en V* para digitalizar volúmenes hasta 
 </div>
 
 El proyecto de digitalización llevado adelante por la Academia **es uno de los más exitosos en los que hemos participado**. El buen resultado es consecuencia, seguramente, de la participación de un equipo de trabajo motivado, donde además de Bibliohack, participó **Pablo Bianchi** en el despliegue y capacitación de Koha (un sistema de gestión de bibliotecas de código abierto), y **Mauricio Genta** de Wikimedia Argentina, en la digitalización de los documentos. Muchas gracias a ellos y a **Mariana Lagar**, Directora de la Biblioteca por su siempre buena predisposición.
+
