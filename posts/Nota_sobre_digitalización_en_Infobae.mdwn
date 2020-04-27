@@ -1,11 +1,10 @@
-[[!tag prensa MAMBA digitalización]] 
-[[!meta title="Infobae: digitalizadores y bibliotecas al siglo XXI"]]
+---
+title: "Infobae: digitalizadores y bibliotecas al siglo XXI"
+tag: prensa MAMBA
+default_img: /uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae.jpg
+default_img_alt: Digitalización de documentos (Museo de Arte Moderno de Buenos Aires).
+---
 [[!meta date="2017-12-31T12:00:00Z" ]]
-[[!field
-  default_img="/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png"
-  default_img_alt=" Digitalización de documentos (Museo de Arte Moderno de Buenos Aires)."
-  summary="Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem."
-]]
 
 <big>Tanscribimos [la nota publicada en Infobae](https://www.infobae.com/cultura/2017/12/31/como-trabajan-los-digitalizadores-que-buscan-empujar-las-bibliotecas-al-siglo-xxi/) el 31 de diciembre de 2017, donde el periodista **Federico Millenaar** difunde algunas experiencias de proyectos de digitalización en instituciones culturales argentinas, entre ellas, el proyecto que Bibliohack lleva adelante junto con el Museo de Arte Moderno de Buenos Aires.</big>
 
@@ -82,3 +81,7 @@ Otras experiencias a nivel mundial
 ![Afiches para reclutar tropas (archivo DPLA)](/uploads/posts/Nota_sobre_digitalización_en_Infobae/afiches_guerra.png)
 
 </div>
+
+<!--
+/uploads/posts/Nota_sobre_digitalización_en_Infobae/infobae-1.png
+-->
