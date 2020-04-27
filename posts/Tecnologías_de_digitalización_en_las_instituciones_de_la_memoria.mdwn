@@ -1,14 +1,12 @@
-[[!tag eventos talleres]] 
-[[!meta title="Tecnologías de digitalización en las instituciones de la memoria"]]
+---
+title: Tecnologías de digitalización en las instituciones de la memoria
+short_title: Digitalización en las instituciones de la memoria
+tag: eventos talleres
+default_img: /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg
+default_img_alt: Encuentro sobre digitalización en el Centro Cultural de la Ciencia.
+teaserline: Artículo sobre el encuentro realizado en Córdoba, al que fue invitado Matias Butelman
+---
 [[!meta date="2019-06-03T12:00:00Z"]]
-[[!field
-  default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg"
-  default_img_alt="Encuentro sobre digitalización en el Centro Cultural de la Ciencia."
-  teaserline="Artículo sobre el encuentro realizado en Córdoba, al que fue invitado Matias Butelman"
-]]
-<!-- 
-https://web.archive.org/web/20190903063453/https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital
--->
 
 Lo siguiente es un *copy/paste* del [artículo](https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital) publicado en el sitio [argentina.gob.ar](http://argentina.gob.ar) luego de un encuentro sobre digitalización realizado en el Centro Cultural de la Ciencia en la ciudad de Córdoba.
 
@@ -33,3 +31,7 @@ A su vez, Butelman planteó un contrapunto entre las actuales exigencias por el 
 Por último, el subsecretario de Evaluación Institucional, Lucas Luchilo, recordó que actualmente se impulsa en el ámbito del Estado Nacional una nueva modalidad de relacionamiento entre las áreas sustantivas y las direcciones de Sistemas para favorecer la sinergia y el desarrollo de soluciones específicas en materia de conservación patrimonial. Además, invitó a los presentes a interactuar a través del Sistema Nacional de Documentación Histórica y a proponer temas que deberían ser incorporados en próximos encuentros.
 
 </div>
+
+<!-- 
+https://web.archive.org/web/20190903063453/https://www.argentina.gob.ar/noticias/desafios-de-la-preservacion-documental-en-tiempos-de-tecnologia-digital
+-->
