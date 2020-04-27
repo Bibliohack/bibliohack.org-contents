@@ -1,7 +1,7 @@
 ---
 title: DIY Book Scanner en el Nacional Buenos Aires
 tag: proyectos
-cc_by_sa: yes
+cc_by_sa_plus: yes
 default_img: /uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/diybookscanner-cnba.jpg
 default_img_alt: Estativo en V realizado con técnicas autoconstructivas en la Biblioteca del Colegio Nacional Buenos Aires
 teaserline: Dispositivo de digitalización para libros antiguos en la Biblioteca del Colegio Nacional Buenos Aires
