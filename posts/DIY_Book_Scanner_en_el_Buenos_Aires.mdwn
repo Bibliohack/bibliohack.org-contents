@@ -36,15 +36,18 @@ Si bien el software se desarrolló rápidamente utilizando estos recursos libres
 
 ### Breve referencia técnica del dispositivo de digitalización
 
-El estativo esta compuesto por 7 conjuntos funcionales que estás identificados con un color diferente en la siguiente ilustración de más abajo 
-
-1) La estructura principal de sostén
-2) la platina en V movil sujetada con un par de correderas verticales a la estructura
-3) la cuna en V ajustable
-4) la base móvil de la cuna unida a la estructura con dos correderas horizontales
-5) los portacámaras ajustables, que permiten que las camaras tengan movimiento sobre los tres ejes, ademas de poder regular la distancia al objetivo.
+El dispositivo está realizado utilizando listones de *pino clear* (sin nudos) a los cuales solo se le realizan dos operaciones: corte y perforación. Las uniones rietveld utlizan tornillos de 3/16 de pulgada en vez de tarugos. La excepciones a esta configuración son: la base rectangular de la estructura y la base de la cuna, realizadas en [MDF](https://es.wikipedia.org/wiki/Tablero_de_fibra_de_densidad_media) crudo de 18mm de espesor, el sosten lateral del panel de control que es de cartón madera ([HDF](https://es.wikipedia.org/wiki/Tablero_de_fibra_de_alta_densidad) o "chapadur" por su denominacion comercial en Argentina) y el sostén superior con un corte curvo también del mismo material
 
 ![texto alternativo](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/elementos.png)
+
+El estativo esta compuesto por 7 conjuntos funcionales que estás identificados con un color diferente: 
+
+1. La estructura principal de sostén
+2. la platina en V movil sujetada con un par de correderas verticales a la estructura
+3. la cuna en V ajustable
+4. la base móvil de la cuna unida a la estructura con dos correderas horizontales
+5. los portacámaras ajustables, que permiten que las camaras tengan movimiento sobre los tres ejes, ademas de poder regular la distancia al objetivo.
+
 
 Detalles
 
