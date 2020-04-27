@@ -74,7 +74,7 @@ El estativo esta compuesto por 7 conjuntos funcionales que estás identificados 
 2. **Platina** en V móvil que conforma un prisma de acrílico cristal y está sujeta a la estructura con un par de correderas verticales.
 3. **Cuna** en V ajustable, que permite subir o bajar el documento según su forma y tamaño.
 4. **Base Móvil** de la cuna unida a la estructura con dos correderas que permiten el movimiento horizontal de la cuna.
-5. **Porta-cámaras** conformado cada uno por un brazo donde se fija las cámara digital y se ajusta en los tres ejes (para asegurar la ortogonalidad al documento), y una guía que vincula el brazo a la estructura (5') y permite regular la distancia al objetivo con varios puntos de fijación.
+5. **Porta-cámaras** conformado cada uno por un brazo donde se fija las cámara digital y se ajusta rotando sobre los tres ejes (para asegurar la ortogonalidad al documento), y una guía que vincula el brazo a la estructura (5') y permite regular la distancia al objetivo con varios puntos de fijación.
 6. **Porta-luces** ajustables.
 7. **Tablero** de conexión con tomas eléctricas para la iluminación y las fuentes de alimentación de las cámaras e interruptores de control.
 
@@ -98,4 +98,4 @@ M) Enchufes de luces
 N) Enchufe a la red eléctrica   
 O) Luces
 
-X,Y,Z marcan las perillas que ajustan la cámara sobre cada eje del espacio
+X,Y,Z marcan los ejes sobre los cuales puede rotar cámara y las perillas que fijan o liberan el movimiento.
