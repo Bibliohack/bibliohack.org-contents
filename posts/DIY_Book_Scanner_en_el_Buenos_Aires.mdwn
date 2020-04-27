@@ -54,18 +54,20 @@ Detalle de algunos elementos de ajuste que necesita conocer el operador
 
 ![](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/referencias.png)
 
-A. Distribuidor USB   
-B. Enlace de la extensión USB hacia la PC   
-C. Conexiones USB y fuente para cámara   
-D. Brazo porta-cámara  
-E. Fijación de los brazos porta-cámaras   
-F. Superficie para ajuste del brazo porta-cámara   
-G. Manija para movimiento ascendente y descendente   
-H. Ajuste para la fijación de cama a la base   
-I. Ajuste de la inclinación de cama   
-J. Fuentes alimentación de cámaras   
-K. Interruptores para las luces   
-L. Interruptor de alimentación eléctrica   
-M. Enchufes de luces   
-N. Enchufe a la red eléctrica   
-O. Luces
+A) Distribuidor USB   
+B) Enlace de la extensión USB hacia la PC   
+C) Conexiones USB y fuente para cámara   
+D) Brazo porta-cámara  
+E) Fijación de los brazos porta-cámaras   
+F) Superficie para ajuste del brazo porta-cámara   
+G) Manija para movimiento ascendente y descendente   
+H) Ajuste para la fijación de cama a la base   
+I) Ajuste de la inclinación de cama   
+J) Fuentes alimentación de cámaras   
+K) Interruptores para las luces   
+L) Interruptor de alimentación eléctrica   
+M) Enchufes de luces   
+N) Enchufe a la red eléctrica   
+O) Luces
+
+X,Y,Z marcan las perillas que ajustan la cámara sobre cada eje del espacio
