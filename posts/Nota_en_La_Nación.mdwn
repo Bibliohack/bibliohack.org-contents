@@ -1,7 +1,7 @@
 ---
 tag: prensa CNBA DEHFAA
 featured: yes
-default_img: /uploads/posts/Nota_en_La_Nación/lanacion.jpg
+default_img: /uploads/posts/Nota_en_La_Nación/lanacion-capt.jpg
 default_img_alt: El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX.
 teaserline: Digitalizan la biblioteca del Colegio Nacional Buenos Aires con un scanner hecho en el país
 ---
