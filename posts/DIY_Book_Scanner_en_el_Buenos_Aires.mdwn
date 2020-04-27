@@ -38,7 +38,7 @@ Si bien el software se desarrolló rápidamente utilizando estos recursos libres
 
 El dispositivo está realizado utilizando listones de *pino clear* (sin nudos) a los cuales solo se le realizan dos operaciones: corte y perforación. Las uniones rietveld utlizan tornillos de 3/16 de pulgada en vez de tarugos. La excepciones a esta configuración son: la base rectangular de la estructura y la base de la cuna, realizadas en [MDF](https://es.wikipedia.org/wiki/Tablero_de_fibra_de_densidad_media) crudo de 18mm de espesor, el sosten lateral del panel de control que es de cartón madera ([HDF](https://es.wikipedia.org/wiki/Tablero_de_fibra_de_alta_densidad) o "chapadur" por su denominacion comercial en Argentina) y el sostén superior con un corte curvo también del mismo material
 
-![texto alternativo](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/elementos.png)
+![](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/elementos.png)
 
 El estativo esta compuesto por 7 conjuntos funcionales que estás identificados con un color diferente: 
 
@@ -52,7 +52,7 @@ El estativo esta compuesto por 7 conjuntos funcionales que estás identificados 
 
 Detalle de algunos elementos de ajuste que necesita conocer el operador
 
-![referencias](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/referencias.png)
+![](/uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/referencias.png)
 
 a. Distribuidor USB
 b. Enlace de la extensión USB hacia la PC
@@ -67,4 +67,4 @@ j. Fuentes alimentación de cámaras
 k. Interruptores para las luces
 l. Interruptor de alimentación eléctrica
 m. Enchufes de luces
-m. Enchufe a la red eléctrica
+n. Enchufe a la red eléctrica
