@@ -1,4 +1,5 @@
 ---
+title: DIY Book Scanner en el Nacional Buenos Aires
 tag: proyectos
 cc_by_sa: yes
 default_img: /uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/diybookscanner-cnba.jpg
