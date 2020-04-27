@@ -1,11 +1,11 @@
-[[!tag prensa MAMBA]] 
-[[!meta title="Revista Ñ: Compartir el arte moderno"]]
+---
+title: "Revista Ñ: Compartir el arte moderno"
+tag: prensa MAMBA
+default_img: /uploads/posts/Compartir_el_arte_moderno/compartir-el-moderno-crop.jpg
+default_img_alt: «Cultura maker». Dispositivo de digitalización de bajo costo que utiliza cámaras digitales hackeadas (con funcionalidades agregadas) y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción.
+teaserline: Entrevistas a los participantes del proyecto Documentos de Arte Moderno
+---
 [[!meta date="2017-12-26T12:00:00Z"]]
-[[!field
-  default_img="/uploads/posts/Compartir_el_arte_moderno/moderno-n.png"
-  default_img_alt="“Cultura maker”. Dispositivo de digitalización de bajo costo que utiliza cámaras digitales hackeadas (con funcionalidades agregadas) y un estativo (soporte de instrumentos de precisión, como microscopios) diseñado para ser fabricado usando técnicas de autoconstrucción."
-  teaserline="Entrevistas a los participantes del proyecto Documentos de Arte Moderno"
-]]
 
 La periodista Bibiana Ruiz entrevistó a varios de los participantes del proyecto “Documentos de Arte Moderno”. En diciembre de 2017 [salió publicada la nota](https://www.clarin.com/revista-enie/ideas/compartir-arte-moderno_0_ByDEF4xmM.html) en Revista Ñ.
 
