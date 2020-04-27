@@ -1,4 +1,4 @@
---
+---
 title: Estativo en V para el proyecto de digitalización del Secrit/Conicet
 tag: proyectos SECRIT-Conicet 
 cc_by_sa: yes
