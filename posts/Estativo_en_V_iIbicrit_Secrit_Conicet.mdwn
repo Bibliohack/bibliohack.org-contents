@@ -1,16 +1,16 @@
-[[!tag proyectos SECRIT-Conicet]] 
-<!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Estativo en V para el proyecto de digitalización del SECRIT/Conicet"]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+--
+title: Estativo en V para el proyecto de digitalización del Secrit/Conicet
+tag: proyectos SECRIT-Conicet 
+cc_by_sa: yes
+featured: yes
+default_img: /uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg
+default_img_alt: Juan Mendoza, Gabriela Striker, Ileana Campagno, Agustina Miguens, Mercedes Rodríguez Temperley y Leonardo Funes, junto al estativo listo para operar
+summary: Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual del Conicet, usando un dispositivo en V
+teaserline: Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual
+unite_gallery: tiles
+gallery_1: secrit_2017
+---
 [[!meta date="2017-03-16T12:00:00Z"]]
-[[!field
-  featured=yes
-  default_img="/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg"
-  default_img_alt="Juan Mendoza, Gabriela Striker, Ileana Campagno, Agustina Miguens, Mercedes Rodríguez Temperley y Leonardo Funes, junto al estativo listo para operar."
-  summary="Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual del Conicet, usando un dispositivo en V"
-  teaserline="Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual"
-   unite_gallery="tiles" gallery_1="secrit_2017"
-]]
 
 En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/) en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
 
