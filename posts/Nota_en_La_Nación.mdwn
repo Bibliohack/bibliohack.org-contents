@@ -1,5 +1,5 @@
 ---
-tag: prensa CNBA DEHFAA
+tag: prensa cnba dehfaa
 featured: yes
 default_img: /uploads/posts/Nota_en_La_Nación/lanacion-capt.jpg
 default_img_alt: El prototipo de escáner comenzó con sus primeras pruebas en 2013 con el objetivo de digitalizar publicaciones del siglo XIX.
