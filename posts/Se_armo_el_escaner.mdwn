@@ -1,17 +1,16 @@
-[[!tag activismo eventos formación]] 
-<!-- prensa proyectos activismo eventos formación -->
-[[!meta title="Bogotá: se armó el escáner"]]
+---
+title: "Bogotá: se armó el escáner"
+tag: eventos colombia proyectos
+default_img: /uploads/posts/Se_armo_el_escaner/20190928_115033.jpg
+default_img_alt: Construcción colectiva de un escáner cenital de Bibliohack
+summary: Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam 2019
+teaserline: Construcción colectiva de un escáner cenital de bibliohack durante la OpenCon Latam
+featured: yes
+unite_gallery: tiles
+gallery_1: se_armo
+translatable: yes
+---
 [[!meta date="2019-09-29T12:00:00Z" ]]
-[[!field
-  default_img="/uploads/posts/Se_armo_el_escaner/20190928_115033.jpg"
-  default_img_alt="Construcción colectiva de un escáner cenital de Bibliohack"
-  summary="Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam 2019"
-  teaserline="Construcción colectiva de un escáner cenital de bibliohack durante la OpenCon Latam"
-  body_class="post" 
-  featured=yes
-  unite_gallery="tiles" gallery_1="se_armo"
-  translatable=yes
-]]
 
 **OpenCon** es la conferencia internacional sobre **acceso abierto** al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes. Las ediciones de 2014 y 2016 se llevaron a cabo en Washington, en 2015 en Bruselas, en 2017 en Berlín y en 2018 en Toronto. OpenCon apoya la realización de eventos satélite, que han tenido lugar en 25 países. Este año la tercer versión latinoamericana se realizó en Colombia, la [OpenCon Latam 2019](https://www.opencon2018.org/opencon_2019_latam). Matias Butelman de Bibliohack asistió a la conferencia en Bogotá para presentar su ponencia **"Abrir bibliotecas, archivos y museos en Latinoamérica: un desafío situado"**.
 
