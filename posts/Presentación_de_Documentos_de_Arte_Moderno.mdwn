@@ -1,12 +1,12 @@
-[[!tag proyectos eventos]] 
+---
+tag: el-moderno proyectos eventos
+default_img: /uploads/posts/Presentación_de_Documentos_de_Arte_Moderno/IMG_9710.jpg
+default_img_alt: Valeria Semilla, Ramiro Ouviña, Matías Butelman, Inés Alfonzo Esteves, Juan Pablo Suarez y Silvia Borja.
+summary: Presentación del proyecto de digitalización, puesta en valor y acceso de los fondos documentales de la biblioteca del Moderno.
+teaserline: Proyecto de digitalización, puesta en valor y acceso de fondos documentales.
+cc_by_sa: yes
+---
 [[!meta date="2017-11-08T12:00:00Z"]]
-[[!field
-  body_class="post" 
-  default_img="/uploads/posts/Presentación_de_Documentos_de_Arte_Moderno/IMG_9710.jpg"
-  default_img_alt="Valeria Semilla, Ramiro Ouviña, Matías Butelman, Inés Alfonzo Esteves, Juan Pablo Suarez y Silvia Borja"
-  summary="Presentación del proyecto de digitalización, puesta en valor y acceso de los fondos documentales de la biblioteca del Moderno."
-  teaserline="Proyecto de digitalización, puesta en valor y acceso de fondos documentales"
-]]
 
 Ayer Valeria Semilla, Ramiro Ouviña, Matías Butelman, Inés Alfonzo Esteves, Juan Pablo Suarez y Silvia Borja presentaron el proyecto **Documentos de Arte Moderno** en el Museo.
 Para inaugurar esta nueva etapa de la Biblioteca del Museo de Arte Moderno, se dio inicio a Documentos de Arte Moderno, para la puesta en valor y acceso a nuestros fondos documentales y colecciones especiales.
