@@ -10,7 +10,7 @@ featured: yes
 ---
 [[!meta date="2016-08-13T12:00:00Z"]]
 
-La [**Dirección de Estudios Históricos de la Fuerza Aérea**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) (DEHFA) tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional, que recorre todo el siglo XX. También registrar y preservar los objetos que constituyen el patrimonio de la fuerza. Desde abril de 1984 la Dirección se encuentra alojada en el **edificio Alas de la Fuerza Aérea**. Inaugurado en la década del cincuenta este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre *Le Parc* en 1994 fue el más alto de la Ciudad.
+La [**Dirección de Estudios Históricos de la Fuerza Aérea Argentina**](https://www.argentina.gob.ar/defensa/archivos-abiertos/instituciones-de-archivo/direccion-de-estudios-historicos-de-la-fuerza-aerea) (DEHFAA) tiene la misión de reunir, conservar e investigar los bienes documentales en los que está asentado el Acervo Histórico Aeronáutico Nacional, que recorre todo el siglo XX. También registrar y preservar los objetos que constituyen el patrimonio de la fuerza. Desde abril de 1984 la Dirección se encuentra alojada en el **edificio Alas de la Fuerza Aérea**. Inaugurado en la década del cincuenta este edificio es uno de los más emblemáticos de Buenos Aires. Hasta la construcción de la Torre *Le Parc* en 1994 fue el más alto de la Ciudad.
 
 [[!field unite_gallery="tiles" gallery_1="dehfa"]]
 
