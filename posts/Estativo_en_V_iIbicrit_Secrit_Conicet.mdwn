@@ -1,6 +1,6 @@
 ---
 title: Estativo en V para el proyecto de digitalización del Secrit/Conicet
-tag: proyectos SECRIT-Conicet 
+tag: proyectos secrit 
 cc_by_sa_plus: yes
 featured: yes
 default_img: /uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg
@@ -12,7 +12,10 @@ gallery_1: secrit_2017
 ---
 [[!meta date="2017-03-16T12:00:00Z"]]
 
-En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)](http://www.iibicrit-conicet.gov.ar/) del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"](http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/) en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
+En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)][1] del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"][2] en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
+
+[1]: http://www.iibicrit-conicet.gov.ar/
+[2]: http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/
 
 El dispositivo para digitalizar los volúmenes es un *estativo en "V"* que utiliza dos cámaras digitales compactas conectadas a una computadora. El estativo de bajo costo fue desarrollado por Bibliohack y utiliza listones de madera de pino como elemento constructivo y acrílico cristal como medio de aplanamiento del documento. Para realizar las capturas se utilizó el software "Dalclick" de Bibliohack que controla las cámaras remotamente y permite hacer una vista previa del resultado. El post-proceso se realizó con **software libre** sobre una plataforma gnu/linux (Tesseract OCR, Scantailor y PDFBeads) operados mediante nuestro sistema "Dalproc" que permite la ejecución conjunta de todas estas etapas en lote. El proceso culmina con un archivo PDF listo para publicar en línea.
 
