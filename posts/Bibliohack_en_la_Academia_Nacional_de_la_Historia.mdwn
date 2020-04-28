@@ -1,8 +1,6 @@
 ---
-title:
-author:
 date: 2018-09-13T12:00:00Z
-tag: proyectos
+tag: proyectos anh
 default_img: /uploads/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/bandera.jpg
 default_img_alt: «Guide de l'étranger a Buenos Aires» (1882), de la colección de almanaques de la Biblioteca de la Academia Nacional de la Historia digitalizados con un dispositivo de Bibliohack
 summary: En el contexto de la creación de la Biblioteca Digital de la Academia, Bibliohack instaló dos dipositivos con los cuales se digitaliza material bibliográfico y documental.
