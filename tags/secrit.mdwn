@@ -1,0 +1,7 @@
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: secrit"]]
+<div class="row">
+[[!inline pages="tagged(secrit)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(secrit)" feedonly=yes feedshow=10]]
