@@ -1,15 +1,15 @@
 ---
 title: Irrigación digitalizará documentos históricos del agua
-date: 2018-09-13T12:00:00Z
-tag: prensa Irrigación-INCIHUSA-CONICET
-license: https://creativecommons.org/licenses/by-sa/2.5/ar/
+tag: prensa archivo-del-agua mendoza
 default_img: /uploads/posts/Irrigaci%C3%B3n_digitalizar%C3%A1_documentos_hist%C3%B3ricos/DSC_2898.jpg
 default_img_alt: Hoy se puso en marcha el laboratorio de digitalización de documentos históricos del agua, que se encuentran en la biblioteca de Irrigación.
 teaserline: Artículo publicado en el sitio de la Dirección de Irrigación de Mendoza
 ---
+[[!meta date="2018-09-13T12:00:00Z"]]
 
-A continuación reproducimos el [artículo](http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior) publicado el 13 de septiembre de 2018 en el sitio del **Departamento General de Irrigación de Mendoza**, sobre la instalación de un estativo en V de Bibliohack.
-<!-- https://web.archive.org/web/20190902185512/http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior -->
+A continuación reproducimos el [artículo][1] publicado el 13 de septiembre de 2018 en el sitio del **Departamento General de Irrigación de Mendoza**, sobre la instalación de un estativo en V de Bibliohack.
+
+[1]: http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior
 
 <div class="copy-paste" markdown="1">
 
@@ -42,3 +42,7 @@ La idea es que el público e investigadores de la provincia puedan acceder a doc
 Por otra parte, titulares de diversos organismos de preservación y archivamiento de nuestra provincia tuvieron la oportunidad, en el día  de ayer, de observar las funciones que posee el scanner a través de una capacitación que brindaron expertos de Bibliohack en la Biblioteca de Irrigación. Allí, la Directora de la Biblioteca Pública Provincial San Martín, Marta Babillón; el encargado del Centro de Documentación Histórica de la UNCuyo, Pablo Agüero y la encargada del Archivo general de la Provincia, Alicia Guevara; se interiorizaron de los alcances de este laboratorio.   
 
 </div>
+
+<!--
+- https://web.archive.org/web/20190902185512/http://www.irrigacion.gov.ar/dgi/noticias/irrigaci%C3%B3n-digitalizar%C3%A1-documentos-hist%C3%B3ricos-del-agua-con-un-scanner-%C3%BAnico-en-el-interior
+-->
