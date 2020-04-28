@@ -1,16 +1,19 @@
-[[!tag eventos formación Filo-UBA]] 
-[[!meta title="¿Cómo producir material accesible de lectura?" ]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/" ]]
+---
+tag: eventos formación filo-uba
+title: ¿Cómo producir material accesible de lectura?
+summary: Muestra del funcionamiento del escáner en V de Bibliohack en una jornada sobre accesibilidad en Filosofia y Letras de la UBA.
+teaserline: Muestra del funcionamiento del escáner en V en jornada sobre accesibilidad.
+default_img: /uploads/posts/Cómo_producir_material_accesible_de_lectura/Dpv6KNSXcAAdk6i.jpeg
+default_img_alt: Desarrollo de la jornada en la Biblioteca Central "Prof. Augusto Raúl Cortázar"
+cc_by_sa_plus: yes
+---
 [[!meta date="2018-10-20T12:00:00Z" ]]
-[[!field
-  body_class="post" 
-  summary="Muestra del funcionamiento del escáner en V de Bibliohack en una jornada sobre accesibilidad en Filosofia y Letras de la UBA"
-  teaserline="Muestra del funcionamiento del escáner en V en jornada sobre accesibilidad"
-  default_img="/uploads/posts/Cómo_producir_material_accesible_de_lectura/Dpv6KNSXcAAdk6i.jpeg"
-  default_img_alt="Desarrollo de la jornada en la Biblioteca Central 'Prof. Augusto Raúl Cortázar'"
-]]
 
-El equipo del [Espacio de Consulta de Material Accesible "Norberto Butler"](http://novedades.filo.uba.ar/novedades/se-inaugur%C3%B3-el-espacio-de-consulta-de-material-accesible-norberto-butler) (ECMA) y el Programa de Discapacidad de Facultad de Filosofía y Letras de la UBA, junto con la [Asociación Civil Tiflonexos](https://tiflonexos.org/) desarrollaron la capacitación anual teórico-práctica sobre la producción de material de estudio accesible en la universidad titulada ["II Jornada de Capacitación en "Tiflotecnología y Políticas de Accesibilidad en la Universidad: ¿Cómo producir material accesible de lectura?"](http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-). La iniciativa se enmarca en una serie de políticas adoptadas por esta casa de estudios orientadas hacia la accesibilidad académica.
+El equipo del [Espacio de Consulta de Material Accesible "Norberto Butler"][1] (ECMA) y el Programa de Discapacidad de Facultad de Filosofía y Letras de la UBA, junto con la [Asociación Civil Tiflonexos][2] desarrollaron la capacitación anual teórico-práctica sobre la producción de material de estudio accesible en la universidad titulada ["II Jornada de Capacitación en "Tiflotecnología y Políticas de Accesibilidad en la Universidad: ¿Cómo producir material accesible de lectura?"][3]. La iniciativa se enmarca en una serie de políticas adoptadas por esta casa de estudios orientadas hacia la accesibilidad académica.
+
+[1]: http://novedades.filo.uba.ar/novedades/se-inaugur%C3%B3-el-espacio-de-consulta-de-material-accesible-norberto-butler
+[2]: https://tiflonexos.org/
+[3]: http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
 
 En el taller se realizó una práctica sobre la preparación y corrección de textos accesibles a cargo de Tiflonexos, se discutió sobre el marco legal y sus tensiones con la políticas de acceso y las bibliotecas digitales. También se realizó una muestra del funcionamiento del nuevo escáner diseñado con tecnologías de hardware y software libre por Bibliohack que utiliza la biblioteca. Agradecemos a Maria Rosa Mostaccio por la invitación.
 
@@ -19,12 +22,8 @@ Organizaron: Programa de Discapacidad (SEUBE) y Subsecretaría de Bibliotecas ju
 <small>(*) Norberto Butler fue estudiante de la Facultad de Filosofía y Letras y militante por los derechos de las personas con discapacidad, ingresó a la carrera de Letras en el año 1984. La primera etapa de sus estudios asistía a clase superando muchas barreras ya que era usuario de silla de ruedas y ciego. Falleció el 3 de noviembre de 2016 cuando se encontraba finalizando la última materia de la carrera y realizaba la cursada presencial asistido por un transporte que lo trasladaba en camilla acompañado de una asistente personal.</small>
 
 <!-- 
-http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
-
-https://web.archive.org/web/20181008150523/http://novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
-
-https://twitter.com/BiblioHack/status/1055613656887713792
-
-https://twitter.com/BiblioHack/status/1052711836410421254
-
+- http://www.novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
+- https://web.archive.org/web/20181008150523/http://novedades.filo.uba.ar/novedades/ii-jornada-de-capacitación-tiflotecnología-y-políticas-de-accesibilidad-en-la-universidad-
+- https://twitter.com/BiblioHack/status/1055613656887713792
+- https://twitter.com/BiblioHack/status/1052711836410421254
 -->
