@@ -1,8 +1,8 @@
 ---
 tag: prensa
 default_img: /uploads/posts/Volver_al_futuro:_digitalización_vs._soportes_físicos/los-inrockuptibles.jpg
-default_img_alt: Tapa del numero 187 de la revista "Los InRockuptibles"
-teaserline: Nota publica en el Nº187 de la revista "Los InRockuptibles" sobre preservación digital y digitalización
+default_img_alt: Tapa del numero 187 de la revista "Los InRockuptibles".
+teaserline: Nota en "Los InRockuptibles" (Nº 187) sobre preservación digital y digitalización.
 ---
 [[!meta date="2013-12-14T12:00:00Z"]]
 
