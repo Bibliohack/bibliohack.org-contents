@@ -1,5 +1,5 @@
 ---
-tag: eventos openglam
+tag: eventos openglam el-moderno
 default_img: /uploads/posts/Primer_Encuentro_OpenGLAM_Argentina/openglam-dic-2017-mamba.jpg
 default_img_alt: Más de 100 asistentes en el Primer Encuentro OpenGlam Argentina.
 summary: Junto con el Museo de Arte Moderno, Wikimedia Argentina, Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación co-organizamos el primer encuentro OpenGLAM en Buenos Aires.
