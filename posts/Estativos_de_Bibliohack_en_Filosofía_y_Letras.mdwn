@@ -1,16 +1,14 @@
-[[!tag proyectos formacion]] 
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
+---
+tag: proyectos filo-uba 
+cc_by_sa: yes
+default_img: /uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/01.jpg
+default_img_alt: Pintura del estativo en el patio de Filo.
+summary: Ensamblado de dispositivos y capacitaciones en el marco de proyectos de digitalización de la Facultad.
+teaserline: Ensamblado de dispositivos y capacitaciones.
+featured: yes
+---
 [[!meta date="2018-09-30T12:00:00Z"]]
-[[!field
-  body_class="post" 
-  default_img="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/01.jpg"
-  default_img_alt="Pintura del estativo en el patio de Filo"
 
-  summary="Ensamblado de dispositivos y capacitaciones en el marco de proyectos de digitalización de la Facultad"
-  teaserline="Ensamblado de dispositivos y capacitaciones"
-  featured=yes
-
-]]
 La Facultad de Filosofía y Letras de la Universidad de Buenos Aires fue fundada en 1896 y actualmente cuenta con mas de 15.000 alumnos. Su sede principal esta en la calle Puan, en el barrio porteño de Caballito. En el subsuelo del edificio (que originalmente fue una fábrica tabacalera) funciona la **Biblioteca de la Facultad de Filosofía y Letras "Augusto Raúl Cortazar"**. La institución gestiona y custodia uno de los acervos más importantes de la Argentina dedicado a las Humanidades y Ciencias Sociales; su origen se remonta a 1897. Actualmente cuenta con una colección de más de 390.000 volúmenes, sin contar los fondos de las 20 bibliotecas especializadas de los Institutos de Investigación. 
 
 La Facultad cuenta con una plataforma web de acceso abierto a su producción científica, pedagógica e institucional llamada [*Filo Digital*](http://bibliotecas.filo.uba.ar/filo-digital), que se presenta como un conjunto de servicios para la gestión de los materiales digitales creados por la comunidad académica de la universidad, a fin de incrementar la visibilidad, difusión e impacto.
@@ -20,7 +18,6 @@ La Facultad cuenta con una plataforma web de acceso abierto a su producción cie
 En mayo de este año iniciamos la construcción de un prototipo de estativo para digitalización *en V* a bajo costo, realizado integramente por corte laser y ensamblado in situ. El dispositivo permite digitalizar hasta tamaño tabloide. Realizamos el armado en el espacio de la biblioteca y la pintura de todas las piezas en el patio de la facultad. El aparato será utilizado por la biblioteca en el marco de su programa de digitalizacion. Agradecemos la confianza que **María Rosa Mostaccio**, Subsecretaria de Bibliotecas, tuvo en nuestra propuesta. Para nosotros es la primera iteración de un nuevo modelo constructivo al que iremos incorporando modificaciones en su diseño a medida que avanzemos en la construcción y prueba de nuevos prototipos.
 
 [[!field unite_gallery="tiles" gallery_1="filo_puan_2018"]]
-
 
 <div id="filo_puan_2018" class="unite-gallery tiles" style="display:none;">
    <img alt="Pintado del estativo en el patio de la Facultad de Filosofia y Letras." src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
@@ -69,7 +66,6 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
 
 [[!field unite_gallery="tiles" gallery_2="filo_25m_2018"]]
 
-
 <div id="filo_25m_2018" class="unite-gallery tiles" style="display:none;">
    <img alt="Sede 25 de Mayo de Filosofía y Letras de la UBA." src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
    data-image="/uploads/galleries/filo_25m_2018/1280px/001.jpg"
@@ -104,6 +100,5 @@ Además durante varias semanas asistimos tanto virtual como presencialmente en e
 </div>
 
 <!--
-https://twitter.com/danavido/status/1055633991397793793
+- https://twitter.com/danavido/status/1055633991397793793
 -->
-
