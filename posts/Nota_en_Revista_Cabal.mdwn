@@ -1,6 +1,6 @@
 ---
 title: Made in Argentina
-tag: prensa
+tag: prensa cnba dehfaa
 default_img: /uploads/posts/Nota_en_Revista_Cabal/escaner_cabal.jpg
 default_img_alt: Estativo en V realizado con listones de pino en el Colegio Nacional Buenos Aires
 summary: Entrevista a Matias Butelman y Juan Suárez sobre la iniciativa Bibliohack publicada en Revista Cabal
