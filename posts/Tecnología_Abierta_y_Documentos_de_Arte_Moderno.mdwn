@@ -1,14 +1,12 @@
-[[!tag proyectos]] 
+---
+tag: proyectos el-moderno 
+default_img: /uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png
+default_img_alt: Esquema descriptivo y dimensiones de modelo de estativo cenital.
+summary: Crónica sobre el diseño y construcción de un estativo cenital para el proyecto de digitalización del Museo de Arte Moderno de Buenos Aires y algunas reflexiones sobre la realidad local de las instituciones que custodian patrimonio.
+teaserline: Desarrollo de estativo cenital para el Museo de Arte Moderno.
+featured: yes
+---
 [[!meta date="2017-10-15T12:00:00Z"]]
-[[!field 
-  default_img="/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png"
-  default_img_alt="Esquema descriptivo y dimensiones de modelo de estativo cenital"
-  body_class="post" 
-  summary="Crónica sobre el diseño y construcción de un estativo cenital para el proyecto de digitalización del Museo de Arte Moderno de Buenos Aires y algunas reflexiones sobre la realidad local de las instituciones que custodian patrimonio"
-  teaserline="Desarrollo de estativo cenital para el Museo de Arte Moderno"
-  featured=yes
-  translatable=yes
-]]
 
 En abril de 2017 comenzamos las primeras reuniones de trabajo con **Valeria Semilla** y **Helena Raspo** del Museo de Arte Moderno –e **Ines Esteves** de la biblioteca del museo– para analizar la posibilidad de diseñar y construir un estativo cenital de bajo costo para la institución, y de desarrollar y adaptar recursos de *software* para poder procesar el material digitalizado de manera práctica y eficiente. La idea se enmarcaba en un ambicioso proyecto de digitalización del acervo documental que posee el Museo sobre la historia del arte moderno argentino.
 
