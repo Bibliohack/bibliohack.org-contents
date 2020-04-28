@@ -9,6 +9,7 @@ featured: yes
 unite_gallery: tiles
 gallery_1: se_armo
 translatable: yes
+cc_by_sa: yes
 ---
 [[!meta date="2019-09-29T12:00:00Z" ]]
 
