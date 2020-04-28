@@ -1,30 +1,10 @@
-[[!tag proyectos formación]] 
-<!-- prensa proyectos activismo eventos formación -->
-<!-- 
-!meta title="Titulo de post"
-!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"
-!meta author="Bibliohack"
-
--->
+---
+tag: proyectos rosario uca
+default_img: /uploads/posts/Estativo_en_V_en_UCA_Rosario/0IMG-20190426-WA0068.jpg
+unite_gallery: tiles
+gallery_1: uca_rosario_estativo_v
+---
 [[!meta date="2019-07-12T12:00:00Z" ]]
-[[!field
-  default_img="/uploads/posts/Estativo_en_V_en_UCA_Rosario/0IMG-20190426-WA0068.jpg"
-  body_class="post" 
-  unite_gallery="tiles" gallery_1="uca_rosario_estativo_v"
-]]
-<!-- 
-  default_img="/img/estativo.jpg"
-  default_img_alt="Las imagenes siempre debe llevar epigrafe!"
-
-  summary="Resumen que aparece abajo del titulo en el post"
-  short_title="Variante alternativa de titulo para teasers"
-  teaserline="Texto copete debajo del titulo solo en teasers"
-  featured=yes   // aparece en portada?
-
-  default_video="/ruta/video"
-  default_video_alt="texto que aparece como epigrafe"
-  default_video_poster="/ruta/a/imagen_poster.jpg"
--->
 
 La semana pasada estuvimos instalando un estativo en V en la biblioteca de Univeridad Católica en Rosario.
 
