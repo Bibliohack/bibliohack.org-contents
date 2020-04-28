@@ -1,7 +1,7 @@
 ---
 title: Tecnologías de digitalización en las instituciones de la memoria
 short_title: Digitalización en las instituciones de la memoria
-tag: eventos formacion
+tag: eventos formación córdoba
 default_img: /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg
 default_img_alt: Encuentro sobre digitalización en el Centro Cultural de la Ciencia.
 teaserline: Artículo sobre el encuentro realizado en Córdoba, al que fue invitado Matias Butelman
