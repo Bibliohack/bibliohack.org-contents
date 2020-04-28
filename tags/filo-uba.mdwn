@@ -1,0 +1,7 @@
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: filo-uba"]]
+<div class="row">
+[[!inline pages="page(./posts/*) and tagged(filo-uba) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="page(./posts/*) end tagged(filo-uba) and lang(es) and field_null(hide)" feedonly=yes feedshow=30]]
