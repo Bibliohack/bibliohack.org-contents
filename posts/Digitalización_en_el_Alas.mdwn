@@ -1,11 +1,11 @@
 ---
 title: Digitalización en el Alas
+tag: proyectos dehfaa
 cc_by_sa: yes
 default_img: /uploads/posts/Digitalización_en_el_Alas/edificio__95__alas.jpg
 default_img_alt: "Edificio Alas de la Fuerza Aérea (Foto: Silvana Boemo)"
 summary: Instalamos un dispositivo en V a bajo costo en la Direccion de Estudios Históricos de la Fuerza Aérea
 teaserline: Estativo en V de Bibliohack en la Dirección de Estudios Históricos de la Fuerza Aérea
-tag: proyectos dehfaa
 featured: yes
 ---
 [[!meta date="2016-08-13T12:00:00Z"]]
