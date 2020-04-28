@@ -1,13 +1,12 @@
-[[!tag eventos talleres]] 
-[[!meta title="Taller sobre tecnologías de digitalización en Córdoba"]]
+---
+title: Taller sobre tecnologías de digitalización en Córdoba
+tag: eventos córdoba
+default_img: /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/cor1.jpg
+default_img_alt: Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman
+summary: Lucas Luchilo, Fernando Boro y Matías Butelman disertaron sobre las estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural
+teaserline: Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman
+---
 [[!meta date="2019-08-16T12:00:00Z"]]
-[[!field
-  default_img="/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/cor1.jpg"
-  default_img_alt="Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman"
-  summary="Lucas Luchilo, Fernando Boro y Matías Butelman disertaron sobre las estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural"
-  teaserline="Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman"
-  body_class="post"
-]]
 
 El **Archivo Histórico de la Memoria de la provincia de Córdoba** invitó a Matías Butelman a participar del taller [**Tecnologías de digitalización en las instituciones de la memoria**](http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/)
  que se realizó el 15 de agosto de 2019 en el Centro Cultural Córdoba.
@@ -19,7 +18,7 @@ Disertaron **Lucas Luchilo**, subsecretario de Evaluación Institucional de La S
 ![Lucas Luchilo](/uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/cor2.jpg)
 
 <!-- 
-http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/
-https://twitter.com/mbutel/status/1161986781102915586
+- http://www.upc.edu.ar/2019/08/09/taller-tecnologias-de-digitalizacion-en-las-instituciones-de-la-memoria/
+- https://twitter.com/mbutel/status/1161986781102915586
 /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria_en_Córdoba/image-1.png
 -->
