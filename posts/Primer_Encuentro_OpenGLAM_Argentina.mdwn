@@ -1,15 +1,15 @@
-[[!tag activismo openglam]] 
+---
+tag: eventos openglam
+default_img: /uploads/posts/Primer_Encuentro_OpenGLAM_Argentina/openglam-dic-2017-mamba.jpg
+default_img_alt: Más de 100 asistentes en el Primer Encuentro OpenGlam Argentina.
+summary: Junto con el Museo de Arte Moderno, Wikimedia Argentina, Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación co-organizamos el primer encuentro OpenGLAM en Buenos Aires.
+teaserline: Bibliohack ayudó a organizar el primer encuentro OpenGLAM de Argentina.
+featured: yes
+unite_gallery: tiles
+gallery_1: openglam_argentina_2017
+cc_by_sa: yes
+---
 [[!meta date="2017-12-04T12:00:00Z"]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-[[!field
-  default_img="/uploads/posts/Primer_Encuentro_OpenGLAM_Argentina/openglam-dic-2017-mamba.jpg"
-  default_img_alt="Más de 100 asistentes en el Primer Encuentro OpenGlam Argentina."
-  summary="Junto con el Museo de Arte Moderno, Wikimedia Argentina, Fundación Vía Libre y el apoyo del Ministerio de Cultura de la Nación co-organizamos el primer encuentro OpenGLAM en Buenos Aires."
-  teaserline="Bibliohack ayudó a organizar el primer encuentro OpenGLAM de Argentina."
-  featured=yes
-  translatable=yes
-  unite_gallery="tiles" gallery_1="openglam_argentina_2017"
-]]
 
 El **4 de diciembre de 2017** se llevó a cabo el [**Primer Encuentro OpenGLAM Argentina**](http://openglam.org.ar/#comunidad) organizado por el **Museo de Arte Moderno de Buenos Aires**, **Wikimedia Argentina**, **Fundación Vía Libre** y **Bibliohack**, con el apoyo del Ministerio de Cultura de la Nación.
 
