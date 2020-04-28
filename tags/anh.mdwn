@@ -1,0 +1,7 @@
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Etiqueta: anh"]]
+<div class="row">
+[[!inline pages="tagged(anh)" show="10" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(anh)" feedonly=yes feedshow=10]]
