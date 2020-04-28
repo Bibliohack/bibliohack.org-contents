@@ -1,7 +1,6 @@
 ---
 title: Excepciones, Limitaciones y Dominio Público
-tag: activismo eventos openglam
-date: 2019-07-05T12:00:00Z
+tag: eventos openglam
 license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 default_img: /uploads/posts/Excepciones__44___Limitaciones_y_Dominio_Público/66224930_2417772664935621_6070665397898575872_o.jpg
 default_img_alt: Convocatoria realizada en el Polo Tecnológico, Ciudad de Buenos Aires
@@ -10,6 +9,7 @@ teaserline: Exitosa convocatoria a bibliotecas, archivos, museos y repositorios 
 unite_gallery: tiles
 gallery_1: excepciones_limitaciones_y_dominio_pub
 ---
+[[!meta date="2019-07-05T12:00:00Z"]]
 
 Más de medio centenar de participantes concurrieron al Polo Tecnológico a debatir sobre excepciones y limitaciones al derecho de autor, convocados por la Secretaría de Ciencia, Tecnología e Innovación Productiva, y Creative Commons Argentina. **Valentina Delich** y **Maximiliano Marzetti**, moderados por **Paula Nahirñak** y **Matías Butelman**, ofrecieron un panorama de las tensiones entre la legislación en propiedad intelectual y la misión de bibliotecas, archivos, museos y repositorios.
 
@@ -31,7 +31,7 @@ El evento fue organizado por el Sistema Nacional de Documentación Histórica y 
 
 Este encuentro fue el más reciente de una serie de eventos (el primero el año pasado en el MALBA, el segundo hace unos meses en la UTDT) en la que venimos discutiendo, junto a diferentes agentes del ecosistema del arte, la cultura y el conocimiento, cómo el régimen de propiedad intelectual de la Argentina afecta el trabajo de instituciones culturales, educativas, y de investigación.
 
-En esta ocasión, acompañados por Valentina Delich (FLACSO Argentina), Maximiliano Marzetti, (IÉSEG School Of Management – Business School. Paris, Francia) y Paula Nahirñak (Subsecretaría de Coordinación Institucional, Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva de la Nación) revisamos nuevamente la tensión entre derechos de autor y derechos culturales, analizamos las “capturas regulatorias” que muchas veces bloquean reformas en la legislación de PI y, claro, nos enfocamos en la ya ineludible ausencia de excepciones de cualquier tipo para museos, archivos y bibliotecas en nuestro país, peculiaridad que se suma a la del ya idiosincràtico “dominio público pagante”. La presentación de Maximiliano [**puede consultarse aquí**](/posts/Excepciones_Limitaciones_y_Dominio_P%C3%BAblico/MARZETTI-MUSEOS_19_III_para_distribuir.pdf) <!-- https://drive.google.com/file/d/0B4yX-Ai1JbVuLXFPNEkxMUh4cHFXZEE5Ui1NdS01bXBkdFRB/view -->
+En esta ocasión, acompañados por Valentina Delich (FLACSO Argentina), Maximiliano Marzetti, (IÉSEG School Of Management – Business School. Paris, Francia) y Paula Nahirñak (Subsecretaría de Coordinación Institucional, Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva de la Nación) revisamos nuevamente la tensión entre derechos de autor y derechos culturales, analizamos las “capturas regulatorias” que muchas veces bloquean reformas en la legislación de PI y, claro, nos enfocamos en la ya ineludible ausencia de excepciones de cualquier tipo para museos, archivos y bibliotecas en nuestro país, peculiaridad que se suma a la del ya idiosincràtico “dominio público pagante”. La presentación de Maximiliano [**puede consultarse aquí**](/posts/Excepciones_Limitaciones_y_Dominio_P%C3%BAblico/MARZETTI-MUSEOS_19_III_para_distribuir.pdf) 
 
 Esta reunión es el corolario de un esfuerzo de varios años y de diversos grupos para reactivar el debate sobre el derecho de autor en nuestro país, en una época en la que reformas europeas, tratados de libre comercio, y conflictos entre grandes medios tradicionales y gigantes de internet amenazan con introducir nuevas restricciones que dificulten la circulación del conocimiento y la cultura, y en particular la misión de bibliotecas, archivos, y museos.
 
@@ -81,3 +81,7 @@ Ayer y hoy, en un seminario regional de la OMPI (Organización Mundial de la Pro
    data-image="/uploads/galleries/excepciones_limitaciones_y_dominio_pub/1280px/IMG_20190628_151359719.jpg"
    data-description="">
 </div>
+
+<!-- 
+- https://drive.google.com/file/d/0B4yX-Ai1JbVuLXFPNEkxMUh4cHFXZEE5Ui1NdS01bXBkdFRB/view
+-->
