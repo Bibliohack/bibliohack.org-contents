@@ -1,12 +1,11 @@
-[[!tag prensa MAMBA]] 
-[[!meta title="Biblioteca del moderno: vuelta a casa"]]
+---
+title: "Biblioteca del moderno: vuelta a casa"
+tag: prensa el-moderno
+default_img: /uploads/posts/Biblioteca_del_Moderno_Volver_a_casa/jnUInMA6i_1200x0__1.jpg
+default_img_alt: Pieza gráfica que funcionó como catálogo de la exposición “Noé + experiencias colectivas” (1965). Museo de Arte Moderno.
+teaserline: Nota en Clarín sobre el translado de la Biblioteca del Museo de Arte Moderno.
+---
 [[!meta date="2019-02-22T12:00:00Z"]]
-[[!field
-  default_img="/uploads/posts/Biblioteca_del_Moderno_Volver_a_casa/jnUInMA6i_1200x0__1.jpg"
-  default_img_alt="Pieza gráfica que funcionó como catálogo de la exposición “Noé + experiencias colectivas” (1965). / Museo de Arte Moderno."
-  body_class="post"
-  teaserline="Nota en Clarín sobre el translado de la Biblioteca del Museo de Arte Moderno"
-]]
 
 Con motivo del translado de la Biblioteca del Museo de Arte Moderno la periodista Débora Campos [publicó esta nota en Clarín](https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html), donde también se menciona el proyecto de digitalización.
 <!-- https://web.archive.org/save/https://www.clarin.com/cultura/mayores-bibliotecas-arte-quiere-volver-casa_0_qaYmsenwx.html -->
