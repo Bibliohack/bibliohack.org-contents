@@ -1,12 +1,12 @@
 ---
-cc_na_by: yes
-tag: proyectos
-summary: Algunas reflexiones sobre tecnología adecuada y métodos de autoconstrucción para nuestros estativos
-teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción
+tag: artículos proyectos
+summary: Algunas reflexiones sobre tecnología adecuada y métodos de autoconstrucción para nuestros estativos.
+teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción.
 default_img: /uploads/posts/De_la_carpintería_al_láser/listones.jpg
-default_img_alt: Estativo construido para el Colegio Nacional Buenos Aires, realizado con listones de madera de pino
-date: "2019-01-13T12:00:00Z"
+default_img_alt: Estativo construido para el Colegio Nacional Buenos Aires, realizado con listones de madera de pino.
+cc_na_by: yes
 ---
+[[!meta date="2019-01-13T12:00:00Z"]]
 
 Durante 2018 iniciamos un nuevo ciclo de desarrollo de prototipos adoptando la tecnología de corte láser sobre [tableros de fibra madera de densidad media](), más conocido como MDF. Los estativos construidos anteriormente (en el [CNBA](/posts/DIY_Book_Scanner_en_el_Buenos_Aires/), [DEHFA](/posts/Digitalizaci%C3%B3n_en_el_Alas/), TFABA o [Secrit/Conicet](/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/)) utilizaban como sistema constructivo estructuras de listones de pino y [uniones Rietvel](https://en.wikipedia.org/wiki/Rietveld_joint). Si bien este tipo insumos resulta extremadamente económico y fácil de conseguir, la necesidad de mayores competencias para trabajar la madera, herramientas de carpinteria y muchos días de trabajo, tiene como desventaja reducir la replicabilidad del proceso.
 
@@ -58,7 +58,13 @@ Nuestro objetivo es encontrar proveedores cercanos en cualquier lugar y un méto
    data-description="">
 </div><p class="epigrafe">Los tres prototipos instalados en el laboratorio de digitalización de la sede 25 de Mayo de Filosofía y Letras, en la Biblioteca Aysa y en la Academia Nacional de Historia realizados con corte laser sobre MDF.</p>
 
-En la [Facultad de Filosofia y Letras](/posts/Estativos_de_Bibliohack_en_Filosof%C3%ADa_y_Letras/), la [Academia Nacional de Historia](/posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/) y la [Biblioteca de Aysa](/posts/Bibliohack_en_el_Palacio_de_Aguas_Corrientes/), desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño, en la usabilidad y en la facilidad del ensamble y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto mínimo viable](https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo) realizado en corte laser sobre MDF, cuyos planos y cortes [están disponibles en nuestro repositorio](https://github.com/Bibliohack/V-cradle).
+En la [Facultad de Filosofia y Letras][1], la [Academia Nacional de Historia][2] y la [Biblioteca de Aysa][3], desplegamos tres prototipos realizados con corte laser. Cada uno tiene diferencias y mejoras en el diseño, en la usabilidad y en la facilidad del ensamble y nos permitió llegar a un modelo "estable" y probadamente funcional que nos permite disponer de un [producto mínimo viable][4] realizado en corte laser sobre MDF, cuyos planos y cortes [están disponibles en nuestro repositorio][5]
+
+[1]: /posts/Estativos_de_Bibliohack_en_Filosof%C3%ADa_y_Letras/
+[2]: /posts/Bibliohack_en_la_Academia_Nacional_de_la_Historia/
+[3]: /posts/Bibliohack_en_el_Palacio_de_Aguas_Corrientes/
+[4]: https://es.wikipedia.org/wiki/Producto_viable_m%C3%ADnimo
+[5]: https://github.com/Bibliohack/V-cradle
 
 Durante septiembre de 2018 [en la ciudad de Mendoza](/posts/Mendoza_Instalaci%C3%B3n_de_estativo/) pudimos poner a prueba nuestro enfoque, ya que sólo disponiamos de un tiempo limitado para ensamblar el dispositivo y dejarlo operativo desde cero (3 dias), y debiamos hacer el encargo de corte laser en un proveedor local y construir el dispositivo en el lugar. El éxito de esta experiencia nos demostró que el diseño para estativos en V hasta tamaño tabloide ya es un producto viable de Bibliohack.
 
