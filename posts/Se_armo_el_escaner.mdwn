@@ -55,9 +55,6 @@ En esta visita también co-organizamos junto a la Maestría en Humanidades Digit
 <img alt="" src="/uploads/galleries/se_armo/300px/20190928_115033.jpg"
    data-image="/uploads/galleries/se_armo/1280px/20190928_115033.jpg"
    data-description="">
-<img alt="" src="/uploads/galleries/se_armo/300px/20190928_131027.jpg"
-   data-image="/uploads/galleries/se_armo/1280px/20190928_131027.jpg"
-   data-description="">
 <img alt="" src="/uploads/galleries/se_armo/300px/20190928_132725.jpg"
    data-image="/uploads/galleries/se_armo/1280px/20190928_132725.jpg"
    data-description="">
