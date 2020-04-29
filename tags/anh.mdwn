@@ -1,7 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: ANH"]]
-[[!field body_class="tags"]]
-[[!field summary="Publicaciones relacionadas con la Academia Nacional de la Historia de la República Argentina"]]
+[[!meta title="Academia Nacional de la Historia de la República Argentina"]]
+[[!field 
+   summary="Publicaciones relacionadas con la Academia Nacional de la Historia de la República Argentina"
+   body_class="taglist"
+   hashtag="anh"
+]]
 <div class="row">
 [[!inline pages="tagged(anh) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
