@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: Formación"]]
-[[!field summary="Cursos y talleres de formación"]]
+[[!meta title="Formación"]]
+[[!field 
+   summary="Publicaciones sobre Cursos y talleres de formación"
+   body_class="taglist"
+   hashtag="formación"
+]]
 <div class="row">
 [[!inline pages="tagged(formación) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
