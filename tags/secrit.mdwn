@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: SECRIT"]]
-[[!field summary="Seminario de Edición y Crítica Textual (SECRIT/IIBICRIT/CONICET)"]]
+[[!meta title="Secrit/Conicet"]]
+[[!field 
+   summary="Publicaciones relacionadas con el Seminario de Edición y Crítica Textual (Secrit/Iibicrit/Conicet)"
+   body_class="taglist"
+   hashtag="secrit"
+]]
 <div class="row">
 [[!inline pages="tagged(secrit) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
