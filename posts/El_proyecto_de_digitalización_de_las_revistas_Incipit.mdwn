@@ -1,5 +1,5 @@
 ---
-tag: secrit conicet
+tag: secrit aahd
 teaserline: Ponencia en el III Congreso Argentino de Humanidades Digitales.
 ---
 [[!meta date="2018-11-09T12:00:00Z"]]
