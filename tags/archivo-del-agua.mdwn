@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Etiqueta: Archivo del Agua"]]
 [[!field body_class="tags"]]
-[[!field summary="<span>Posts relacionados con:</span> Archivo Histórico del Agua del Departamento General de Irrigación"]]
+[[!field summary="Publicaciones relacionadas con el Archivo Histórico del Agua del Departamento General de Irrigación de Mendoza"]]
 <div class="row">
 [[!inline pages="tagged(archivo-del-agua) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
