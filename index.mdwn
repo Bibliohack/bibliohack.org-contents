@@ -1,6 +1,7 @@
 [[!pagetemplate template="landing_page.tmpl" ]]
 [[!field
      extra_bottom_line=yes
+     scroll_class="js-scroll-trigger"
 ]]
 <div>[[!template id=landing_page_section_top.tmpl 
 
