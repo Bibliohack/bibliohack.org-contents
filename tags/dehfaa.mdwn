@@ -1,6 +1,11 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: DEHFAA"]]
-[[!field summary="Dirección de Estudios Históricos de la Fuerza Aérea Argentina"]]
+[[!meta title="Dirección de Estudios Históricos de la Fuerza Aérea Argentina"]]
+[[!field 
+   summary="Publicaciones relacionadas con la Dirección de Estudios Históricos de la Fuerza Aérea Argentina"
+   body_class="taglist"
+   hashtag="dehfaa"
+]]
+[[!field summary=""]]
 <div class="row">
 [[!inline pages="tagged(dehfaa) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
