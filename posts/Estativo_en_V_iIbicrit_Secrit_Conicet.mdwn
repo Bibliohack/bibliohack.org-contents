@@ -1,6 +1,6 @@
 ---
 title: Estativo en V para el proyecto de digitalización del Secrit/Conicet
-tag: proyectos secrit conicet
+tag: proyectos conicet secrit
 cc_by_sa_plus: yes
 featured: yes
 default_img: /uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/secrit-1280x720.jpg
