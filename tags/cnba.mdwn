@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: cnba"]]
-[[!field summary="Colegio Nacional Buenos Aires"]]
+[[!meta title="Colegio Nacional Buenos Aires"]]
+[[!field 
+   summary="Publicaciones relacionadas con el Colegio Nacional Buenos Aires"
+   body_class="taglist"
+   hashtag="cnba"
+]]
 <div class="row">
 [[!inline pages="tagged(cnba) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
