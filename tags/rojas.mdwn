@@ -1,6 +1,6 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: rojas"]]
-[[!field summary="rojas"]]
+[[!meta title="Etiqueta: Rojas"]]
+[[!field summary="Casa Museo de Ricardo Rojas"]]
 <div class="row">
 [[!inline pages="tagged(rojas) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
