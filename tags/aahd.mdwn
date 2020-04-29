@@ -1,7 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="#aahd"]]
-[[!field body_class="tags"]]
-[[!field summary="Publicaciones relacionadas con la Asociación Argentina de Humanidades Digitales"]]
+[[!meta title="Asociación Argentina de Humanidades Digitales"]]
+[[!field 
+   summary="Publicaciones relacionadas con la Asociación Argentina de Humanidades Digitales"
+   body_class="taglist"
+   hashtag="#aahd"
+]]
 <div class="row">
 [[!inline pages="tagged(aahd) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
