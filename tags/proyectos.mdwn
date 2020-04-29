@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: proyectos"]]
-[[!field summary="Posts relacionados con proyectos de Bibliohack"]]
+[[!meta title="Proyectos de Bibliohack"]]
+[[!field 
+   summary="Publicaciones sobre proyectos de Bibliohack"
+   body_class="taglist"
+   hashtag="proyectos"
+]]
 <div class="row">
 [[!inline pages="tagged(proyectos) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
