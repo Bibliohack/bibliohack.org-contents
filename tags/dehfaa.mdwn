@@ -5,7 +5,6 @@
    body_class="taglist"
    hashtag="dehfaa"
 ]]
-[[!field summary=""]]
 <div class="row">
 [[!inline pages="tagged(dehfaa) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
