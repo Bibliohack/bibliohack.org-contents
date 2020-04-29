@@ -2,7 +2,6 @@
 [[!meta title="#aysa"]]
 [[!field body_class="tags"]]
 [[!field summary="Publicaciones relacionadas con la Biblioteca de Aguas y Saneamientos Argentinos"]]
-[[!field summary=""]]
 <div class="row">
 [[!inline pages="tagged(aysa) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
