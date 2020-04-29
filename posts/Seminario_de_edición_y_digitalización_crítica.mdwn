@@ -1,5 +1,5 @@
 ---
-tag: eventos formación secrit
+tag: eventos formación secrit conicet
 default_img: /uploads/posts/Seminario_de_edición_y_digitalización_crítica/EJWZjiNW4AEZ79z.jpeg
 default_img_alt: El Seminario se realizó en Museo Casa de Ricardo Rojas
 teaserline: Junto con el Secrit y la Casa Museo de Ricardo Rojas, Bibliohack participó de un seminario sobre digitalización y literatura
