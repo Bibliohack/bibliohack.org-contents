@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: Filo UBA"]]
-[[!field summary="Facultad de Filosofía y Letras de la UBA"]]
+[[!meta title="Facultad de Filosofía y Letras de la UBA"]]
+[[!field 
+   summary="Publicaciones relacionadas con la Facultad de Filosofía y Letras de la UBA"
+   body_class="taglist"
+   hashtag="filo-uba"
+]]
 <div class="row">
 [[!inline pages="tagged(filo-uba) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
