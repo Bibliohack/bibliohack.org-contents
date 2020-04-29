@@ -1,6 +1,6 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: aahd"]]
-[[!field summary="aahd"]]
+[[!meta title="Etiqueta: AAHD"]]
+[[!field summary=" "Asociación de Humanidades Digitales"]]
 <div class="row">
 [[!inline pages="tagged(aahd) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
