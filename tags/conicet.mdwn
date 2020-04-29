@@ -1,6 +1,6 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Etiqueta: conicet"]]
-[[!field summary="conicet"]]
+[[!field summary="Consejo Nacional de Investigaciones Científicas y Técnicas"]]
 <div class="row">
 [[!inline pages="tagged(conicet) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
