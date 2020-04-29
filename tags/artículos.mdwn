@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="#artículos"]]
-[[!field body_class="tags"]]
+[[!meta title="Artículos"]]
+[[!field 
+   summary="Artículos"
+   body_class="taglist"
+   hashtag="artículos"
+]]
 <div class="row">
 [[!inline pages="tagged(artículos) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
