@@ -1,6 +1,3 @@
-[[!tag proyectos ]] 
-<!-- prensa activismo eventos formación -->
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 [[!meta title="Colegio Nacional Buenos Aires"]]
 <!--
 metadatos (crear una directiva !meta para cada metadato)

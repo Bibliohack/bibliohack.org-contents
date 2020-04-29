@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pino"]]
-
-[[!inline pages="tagged(pino)" actions="no" archive="yes"
-feedshow=10]]

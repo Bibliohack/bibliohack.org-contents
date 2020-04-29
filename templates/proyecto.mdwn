@@ -1,24 +1,19 @@
-[[!tag proyectos ]] 
-<!-- prensa activismo eventos formación -->
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
-<!--
-metadatos (crear una directiva !meta para cada metadato)
-     title="Titulo que se mostrara diferete a la url"
-     author="Nombre"
-     date="2018-09-13T12:00:00Z"
--->
-[[!field
-  default_img="/img/estativo.jpg"
-  default_img_alt="Etiam sit amet orci eget eros faucibus tincidunt."
-]]
+---
+title:
+author:
+---
 <!-- 
-fields (pueden ir varios fields por cada directiva !field)
-    short_title="Titulo para teasers"
-    summary="Texto resumen que sólo aparecerá en los teasers"
-    featured=yes
-    default_video="/ruta/video"
-    default_video_alt="texto descriptivop alt"
-    default_video_poster="/ruta/a/imagen.jpg"
+tag: proyectos prensa activismo eventos formación
+cc_by_sa_plus: yes 
+default_img:
+default_img_alt:
+short_title: 
+summary:
+featured: yes
+default_video:
+default_video_alt:
+default_video_poster:
+[[!meta date="2018-09-13T12:00:00Z"]]
 -->
 
 <!-- Actividades

@@ -1,6 +1,6 @@
 ---
 title: Encuentro sobre tecnología y patrimonio en El Moderno
-tag: activismo eventos openglam
+tag: eventos openglam
 date: 2018-12-20T12:00:00Z
 default_img: /uploads/posts/Estrategias_digitales_para_museos_y_archivos/typ-banner.jpg
 default_img_alt: Encuentro en el Museo de Arte Moderno de Buenos Aires"

@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: presentaciones"]]
+[[!meta title="Etiqueta: Presentaciones"]]
 <div class="row">
-[[!inline pages="tagged(presentaciones)" show="10" actions="no" timeformat="%d/%m/%Y"
+[[!inline pages="tagged(presentaciones) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
 </div>
-[[!inline pages="tagged(presentaciones)" feedonly=yes feedshow=10]]
+[[!inline pages="tagged(presentaciones) and lang(es) and field_null(hide)" feedonly=yes feedshow=30]]

@@ -1,18 +1,18 @@
 ---
 title:
 author:
-date: 2018-09-13T12:00:00Z
 cc_by_sa: yes
 ---
 <!--
-tag: prensa proyectos activismo eventos formación
+
+tag: prensa proyectos eventos formación
 summary: Resumen que aparece abajo del titulo en el post
 
 # imagen encabezado de post
-default_img: /img/estativo.jpg
+default_img: /ruta/imagen.jpg
 default_img_alt: Las imagenes siempre debe llevar epigrafe!
 
-#teasers
+# teasers
 short_title: Variante alternativa de titulo para teasers
 teaserline: Texto copete debajo del titulo solo en teasers
 
@@ -26,6 +26,8 @@ featured: yes
 
 # no se muestra en /posts
 hide: yes
+
+[[!meta date: "2018-09-13T12:00:00Z"]]
 
 -->
 

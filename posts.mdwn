@@ -1,9 +1,9 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
 [[!field 
-   summary="Noticias y novedades sobre Bibliohack, digitalización, patrimonio, Acceso Abierto y OpenGLAM"
    postlist_home=yes
 ]]
+<!--   summary="Noticias y novedades sobre Bibliohack, digitalización, patrimonio, Acceso Abierto y OpenGLAM" -->
 <div class="row">
 [[!inline pages="page(./posts/*) and lang(es) and field_null(hide)" show="50" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
 </div>

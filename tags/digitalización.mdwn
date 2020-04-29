@@ -1,7 +1,0 @@
-[[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: digitalización"]]
-<div class="row">
-[[!inline pages="tagged(digitalización)" show="10" actions="no" timeformat="%d/%m/%Y"
-feeds=no id="2"]]
-</div>
-[[!inline pages="tagged(digitalización)" feedonly=yes feedshow=10]]

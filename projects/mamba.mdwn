@@ -1,7 +1,5 @@
-[[!tag proyectos]] 
 <!-- prensa activismo eventos formación -->
 [[!meta title="Museo de Arte Moderno de Buenos Aires"]]
-[[!meta license="https://creativecommons.org/licenses/by-sa/2.5/ar/"]]
 <!--
    author="Nombre"
    date="2018-09-13T12:00:00Z"

@@ -1,7 +1,0 @@
-[[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: formacion"]]
-<div class="row">
-[[!inline pages="tagged(formacion)" show="10" actions="no" timeformat="%d/%m/%Y"
-feeds=no id="2"]]
-</div>
-[[!inline pages="tagged(formacion)" feedonly=yes feedshow=10]]
