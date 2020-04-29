@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: OpenGLAM"]]
-[[!field summary="OpenGLAM en Argentina y Latinoamérica"]]
+[[!meta title="OpenGLAM"]]
+[[!field 
+   summary="Publicaciones sobre OpenGLAM en Argentina y Latinoamérica"
+   body_class="taglist"
+   hashtag="openglam"
+]]
 <div class="row">
 [[!inline pages="tagged(openglam) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
