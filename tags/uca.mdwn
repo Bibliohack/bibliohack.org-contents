@@ -1,6 +1,6 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Etiqueta: UCA"]]
-[[!field summary="Biblioteca de la Universidad Católica Argentina"]]
+[[!field summary="Universidad Católica Argentina"]]
 <div class="row">
 [[!inline pages="tagged(uca) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
