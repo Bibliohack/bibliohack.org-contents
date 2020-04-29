@@ -1,5 +1,5 @@
 ---
-tag: proyectos archivo-del-agua mendoza
+tag: archivo-del-agua proyectos conicet mendoza
 cc_by_sa_plus: yes
 title: Instalación de estativo en el Archivo Histórico del Agua en Mendoza
 default_img: /uploads/posts/Mendoza_Instalación_de_estativo/mendoza_grupal.jpeg
