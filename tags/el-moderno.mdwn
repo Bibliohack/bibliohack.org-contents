@@ -1,6 +1,10 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: El Moderno"]]
-[[!field summary="Museo de Arte Moderno de Buenos Aires"]]
+[[!meta title="Museo de Arte Moderno de Buenos Aires"]]
+[[!field 
+   summary="Publicaciones relacionadas con el Museo de Arte Moderno de Buenos Aires"
+   body_class="taglist"
+   hashtag="el-moderno"
+]]
 <div class="row">
 [[!inline pages="tagged(el-moderno) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
