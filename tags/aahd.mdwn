@@ -3,7 +3,7 @@
 [[!field 
    summary="Publicaciones relacionadas con la Asociación Argentina de Humanidades Digitales"
    body_class="taglist"
-   hashtag="#aahd"
+   hashtag="aahd"
 ]]
 <div class="row">
 [[!inline pages="tagged(aahd) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
