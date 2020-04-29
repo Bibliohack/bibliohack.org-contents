@@ -1,7 +1,10 @@
 [[!pagetemplate template="page_postlist.tmpl" sylent]]
-[[!field body_class="tags"]]
-[[!meta title="#rojas"]]
-[[!field summary="Posts relacionados con: Casa Museo de Ricardo Rojas"]]
+[[!meta title="Casa Museo de Ricardo Rojas"]]
+[[!field 
+   summary="Publicaciones relacionadas con la Casa Museo de Ricardo Rojas"
+   body_class="taglist"
+   hashtag="rojas"
+]]
 <div class="row">
 [[!inline pages="tagged(rojas) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
