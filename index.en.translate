@@ -4,8 +4,8 @@
 ]]
 <div>[[!template id=landing_page_section_top.tmpl 
 
-  section_id="about_bibliohack"
-  title="About Bibliohack" 
+  section_id="que_es_bibliohack"
+  title="¿Qué es Bibliohack?" 
   img=/img/bibliohack_bkg.png
   content="""
 *Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
@@ -17,8 +17,8 @@ También impulsamos la construcción de redes profesionales e institucionales qu
 
 ]][[!template id=landing_page_section_slides_header.tmpl
 
-  section_id="what_we_do"
-  title="What We Do"
+  section_id="que_hacemos"
+  title="¿Qué hacemos?"
 
 ]][[!template id=landing_page_section_slides_item.tmpl 
 
@@ -80,8 +80,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_header.tmpl 
 
-  section_id="projects"
-  title="Projects" 
+  section_id="proyectos"
+  title="Proyectos" 
   intro="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: planos, código, procesos, documentación."
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
@@ -129,8 +129,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_bullets.tmpl 
 
-  section_id="resourses"
-  titulo="Resources" 
+  section_id="recursos"
+  titulo="Recursos" 
   item1_icon="fa-info-circle"
   item1_link="http://codex.bibliohack.org"
   item1_titulo="Codex"
@@ -147,17 +147,16 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]][[!template id=landing_page_section_featured.tmpl 
 
    section_id="featured"
-   lang_en="en"
-   show_items=6
+   show_items=12
 
 ]][[!template id=landing_page_section_form.tmpl 
 
-   section_id="contact"
-   title="Contact"
-   label_name="Name"
-   label_email="Email"
-   label_email_disclaimer="We will never share your email with anyone."
-   label_buttom="Send"
+   section_id="contacto"
+   title="Contacto"
+   label_name="Nombre"
+   label_email="Tu Email"
+   label_email_disclaimer="Nunca compartiremos tu email con nadie."
+   label_buttom="Enviar"
    
 ]]</div>
 [[!template id=landing_page_json.tmpl
@@ -166,7 +165,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    json_items="""
 {
 	"img": "/img/home/mendoza.jpg",
-	"caption": "Opensource Technology for Libraries, Archivesand Museums."
+	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
 },
 {
 	"img": "/img/home/0020.jpg",
