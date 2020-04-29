@@ -1,4 +1,4 @@
-[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!pagetemplate template="page_postlist.tmpl" body_class="tags" sylent]]
 [[!meta title="#rojas"]]
 [[!field summary="Casa Museo de Ricardo Rojas"]]
 <div class="row">
