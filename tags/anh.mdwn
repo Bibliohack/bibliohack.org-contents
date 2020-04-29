@@ -1,7 +1,8 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Etiqueta: anh"]]
+[[!meta title="Etiqueta: ANH"]]
+[[!field summary="Academia Nacional de la Historia de la República Argentina"]]
 <div class="row">
-[[!inline pages="tagged(anh)" show="10" actions="no" timeformat="%d/%m/%Y"
+[[!inline pages="tagged(anh) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
 </div>
-[[!inline pages="tagged(anh)" feedonly=yes feedshow=10]]
+[[!inline pages="tagged(anh) and lang(es) and field_null(hide)" feedonly=yes feedshow=30]]
