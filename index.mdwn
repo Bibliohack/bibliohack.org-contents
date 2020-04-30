@@ -3,7 +3,7 @@
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
 ]]
-<div>[[!template id=landing_page_section_top.tmpl 
+<div markdown="1">[[!template id=landing_page_section_top.tmpl 
 
   section_id="que_es_bibliohack"
   title="¿Qué es Bibliohack?" 
