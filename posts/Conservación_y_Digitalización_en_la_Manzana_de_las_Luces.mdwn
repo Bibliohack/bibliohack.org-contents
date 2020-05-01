@@ -1,15 +1,16 @@
-[[!tag eventos]] 
+---
+tag: eventos
+title: Encuentro sobre conservación y digitalizacion en la Manzana de las Luces
+summary: Bibliohack realizó una presentación en un encuentro organizado por el Museo Nacional del Cabildo
+teaserline: Bibliohack participó en un encuentro organizado por el Museo Nacional del Cabildo
+default_img: /uploads/posts/Manzana_de_las_Luces/DKA9zdLXoAIOyMm-crop.jpeg
+default_img_alt: Expusimos la experienca de Bibliohack en el II Encuentro de Digitalización y Conservación
+short_title: Conservación y digitalizacion en la Manzana de las Luces
+unite_gallery: tiles
+gallery_1: manzana_de_las_luces_2017
+ajax_content: last_posts
+---
 [[!meta date="2017-09-20T12:00:00Z"]]
-[[!meta title="Encuentro sobre conservación y digitalizacion en la Manzana de las Luces"]]
-[[!field
-  body_class="post" 
-  summary="Bibliohack realizó una presentación en un encuentro organizado por el Museo Nacional del Cabildo"
-  teaserline="Bibliohack participó en un encuentro organizado por el Museo Nacional del Cabildo"
-  default_img="/uploads/posts/Manzana_de_las_Luces/DKA9zdLXoAIOyMm-crop.jpeg"
-  default_img_alt="Expusimos la experienca de Bibliohack en el II Encuentro de Digitalización y Conservación"
-  short_title="Conservación y digitalizacion en la Manzana de las Luces"
-  unite_gallery="tiles" gallery_1="manzana_de_las_luces_2017"
-]]
 
 Luego de un primer encuentro en 2016 sobre la conservación de colecciones patrimoniales y su difusión mediante la digitalización, el **Museo Nacional del Cabildo** y la **Manzana de las Luces** organizaron este [segundo encuentro](https://asinppac.com/programacion-2018/2017-2/ii-encuentro-de-conservacion-y-digitalizacion-2017/) el 17 de septiembre pasado, con numerosa asistencia de profesionales del ámbito de la catalogación, conservación y restauración del patrimonio cultural.
 
