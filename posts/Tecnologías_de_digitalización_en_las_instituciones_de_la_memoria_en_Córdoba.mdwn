@@ -5,6 +5,7 @@ default_img: /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones
 default_img_alt: Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman
 summary: Lucas Luchilo, Fernando Boro y Matías Butelman disertaron sobre las estrategias, posibilidades y desafíos para la producción, gestión y preservación de información histórica y cultural
 teaserline: Disertaron Lucas Luchilo, Fernando Boro y Matías Butelman
+ajax_content: last_posts
 ---
 [[!meta date="2019-08-16T12:00:00Z"]]
 
