@@ -9,6 +9,7 @@ summary: Digitalización de los fondos bibliográficos del Seminario de Edición
 teaserline: Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual
 unite_gallery: tiles
 gallery_1: secrit_2017
+ajax_content: projects
 ---
 [[!meta date="2017-03-16T12:00:00Z"]]
 
