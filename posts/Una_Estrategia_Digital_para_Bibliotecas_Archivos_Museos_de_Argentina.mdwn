@@ -4,6 +4,7 @@ tag: eventos
 default_img: /uploads/posts/Una_Estrategia_Digital_para_Bibliotecas_Archivos_Museos_de_Argentina/quilmes.png
 default_img_alt: "Panel: ¿Una Estrategia Digital para Bibliotecas, Archivos y Museos de Argentina."
 teaserline: Presentación de Matías Butelman en la Universidad Nacional de Quilmes
+ajax_content: last_posts
 ---
 [[!meta date="2018-12-04T12:00:00Z"]]
 
