@@ -8,6 +8,7 @@ featured: yes
 unite_gallery: tiles
 gallery_1: openglam_argentina_2017
 cc_by_sa: yes
+ajax_content: openglam
 ---
 [[!meta date="2017-12-04T12:00:00Z"]]
 
