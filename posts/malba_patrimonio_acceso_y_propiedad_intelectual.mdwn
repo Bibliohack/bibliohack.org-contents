@@ -8,6 +8,7 @@ default_img_alt: Encuentro OpenGLAM en el auditorio del MALBA
 featured: yes
 unite_gallery: tiles
 gallery_1: malba_2018
+ajax_content: openglam
 ---
 [[!meta date="2018-06-19T12:00:00Z"]]
 
