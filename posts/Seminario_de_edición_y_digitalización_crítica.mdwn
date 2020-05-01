@@ -8,6 +8,7 @@ featured: yes
 unite_gallery: tiles
 gallery_1: seminario_digitalizacion_critica
 cc_by_sa: yes
+ajax_content: last_posts
 ---
 
 [[!meta date="2019-08-13T12:00:00Z" ]]
