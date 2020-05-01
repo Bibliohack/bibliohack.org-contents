@@ -31,17 +31,23 @@ En este ciclo de desarrollo del dispositivo en V, incorporamos un soporte acceso
    <img alt="Dispositivo emplazado en el laboratorio de digitalización de área Colecciones Especiales." src="/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0068.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0068.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0069.jpg"
+   <img alt="Area de Colecciones Especiales de la biblioteca." src="/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0069.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0069.jpg"
    data-description="">
    <img alt="Biblioteca Central Rosario de la UCA" src="/uploads/galleries/uca_rosario_estativo_v/300px/0IMG-20190426-WA0089.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/0IMG-20190426-WA0089.jpg"
    data-description="">
-   <img alt="Armado del estativo, estructura para el covertor (sombra)" src="/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0074.jpg"
+   <img alt="Armado del estativo, estructura para la cubierta (sombra)." src="/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0074.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0074.jpg"
    data-description="">
-   <img alt="Partes de la estructura de iluminaci�n durante el ensamblado." src="/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0076.jpg"
+   <img alt="Partes de la estructura de iluminación durante el ensamblado." src="/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0076.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0076.jpg"
+   data-description="">
+   <img alt="Ensable casi finalizado." src="/uploads/galleries/uca_rosario_estativo_v/300px/2IMG-20190426-WA0066.jpg"
+   data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG-20190426-WA0066.jpg"
+   data-description="">
+   <img alt="Estativo la cubierta colocada." src="/uploads/galleries/uca_rosario_estativo_v/300px/2IMG_20190704_174756_251.jpg"
+   data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG_20190704_174756_251.jpg"
    data-description="">
    <img alt="Cuna en V durante el ensamblado." src="/uploads/galleries/uca_rosario_estativo_v/300px/1IMG-20190426-WA0079.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/1IMG-20190426-WA0079.jpg"
@@ -58,20 +64,14 @@ En este ciclo de desarrollo del dispositivo en V, incorporamos un soporte acceso
    <img alt="Instalación del software en la computadora provista pro la Biblioteca." src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111016.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111016.jpg"
    data-description="">
-   <img alt="Capacitación en el funcionamiento del dispositivo y el proceso de digitlación" src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111117.jpg"
+   <img alt="Capacitación en el funcionamiento del dispositivo y el proceso de digitalización" src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111117.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111117.jpg"
    data-description="">
-   <img alt="El dispositivo ya operativo  durante la capacitación." src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111150.jpg"
+   <img alt="El dispositivo ya operativo durante la capacitación." src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_111150.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_111150.jpg"
    data-description="">
-   <img alt="" src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_143816.jpg"
+   <img alt="Previsualización de una captura." src="/uploads/galleries/uca_rosario_estativo_v/300px/20190704_143816.jpg"
    data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/20190704_143816.jpg"
-   data-description="">
-   <img alt="" src="/uploads/galleries/uca_rosario_estativo_v/300px/2IMG-20190426-WA0066.jpg"
-   data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG-20190426-WA0066.jpg"
-   data-description="">
-   <img alt="" src="/uploads/galleries/uca_rosario_estativo_v/300px/2IMG_20190704_174756_251.jpg"
-   data-image="/uploads/galleries/uca_rosario_estativo_v/1280px/2IMG_20190704_174756_251.jpg"
    data-description="">
 </div>
 
