@@ -5,6 +5,7 @@ teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción.
 default_img: /uploads/posts/De_la_carpintería_al_láser/listones.jpg
 default_img_alt: Estativo construido para el Colegio Nacional Buenos Aires, realizado con listones de madera de pino.
 cc_na_by: yes
+ajax_content: last_posts
 ---
 [[!meta date="2019-01-13T12:00:00Z"]]
 
