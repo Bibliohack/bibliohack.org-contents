@@ -8,6 +8,7 @@ summary: Iniciativa para un proyecto de declaración sobre las tensiones existen
 teaserline: Exitosa convocatoria a bibliotecas, archivos, museos y repositorios digitales de acceso abierto
 unite_gallery: tiles
 gallery_1: excepciones_limitaciones_y_dominio_pub
+ajax_content: openglam
 ---
 [[!meta date="2019-07-05T12:00:00Z"]]
 
