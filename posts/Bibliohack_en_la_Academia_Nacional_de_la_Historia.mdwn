@@ -7,6 +7,7 @@ summary: En el contexto de la creación de la Biblioteca Digital de la Academia,
 teaserline: Instalación de estativos para el laboratorio de digitalización
 featured: yes
 cc_by_sa: yes
+ajax_content: projects
 ---
 
 La [**Academia Nacional de la Historia de la República Argentina**](http://anh.org.ar) existe con ese nombre desde 1938. Es la principal organización dedicada al fomento de la investigación histórica por fuera del marco universitario y tuvo su origen en la «Junta de Numismática» fundada en la década de 1890 por iniciativa de Bartolomé Mitre. A lo largo de su historia la institución tuvo un papel fundamental en la consolidación de la historiografía en nuestro país. 
