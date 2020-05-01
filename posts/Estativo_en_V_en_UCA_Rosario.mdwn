@@ -6,7 +6,7 @@ unite_gallery: tiles
 gallery_1: uca_rosario_estativo_v
 ajax_content: projects
 cc_by_sa_plus: yes
-teaserline: El dispositivo se instaló área de Colecciones Especiales y Archivos de la Biblioteca.
+teaserline: Instalamos un dispositivo de digitalización en el área de Colecciones Especiales de la Biblioteca.
 ---
 [[!meta date="2019-07-12T12:00:00Z" ]]
 
