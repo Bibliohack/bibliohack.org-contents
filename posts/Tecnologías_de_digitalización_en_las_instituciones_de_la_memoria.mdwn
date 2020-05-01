@@ -5,6 +5,7 @@ tag: eventos formación córdoba
 default_img: /uploads/posts/Tecnologías_de_digitalización_en_las_instituciones_de_la_memoria/lucv9686.jpg
 default_img_alt: Encuentro sobre digitalización en el Centro Cultural de la Ciencia.
 teaserline: Artículo sobre el encuentro realizado en Córdoba, al que fue invitado Matias Butelman
+ajax_content: last_posts
 ---
 [[!meta date="2019-06-03T12:00:00Z"]]
 
