@@ -7,6 +7,7 @@ default_img_alt: "Edificio Alas de la Fuerza Aérea (Foto: Silvana Boemo)"
 summary: Instalamos un dispositivo en V a bajo costo en la Direccion de Estudios Históricos de la Fuerza Aérea
 teaserline: Estativo en V de Bibliohack en la Dirección de Estudios Históricos de la Fuerza Aérea
 featured: yes
+ajax_content: projects
 ---
 [[!meta date="2016-08-13T12:00:00Z"]]
 
