@@ -7,11 +7,11 @@ ajax_content: projects
 ---
 [[!meta date="2019-07-12T12:00:00Z" ]]
 
-La semana pasada estuvimos instalando un estativo en V en la biblioteca de Univeridad Católica en Rosario.
+La [**Universidad Católica Argentina**](http://uca.edu.ar) se fundó en 1958. Tiene 15 facultades y sedes en Buenos Aires, Rosario, Mendoza y Paraná. En 2008 las bibliotecas de las sedes de la UCA en Rosario centralizaron sus colecciones y servicios y se inauguró la [**Biblioteca Central de Rosario**](http://uca.edu.ar/es/rosario/biblioteca-central-rosario) que con una superficie de 3200 metros cuadrados, distribuidos en cinco pisos, reunió una colección de 32000 libros especializados en Derecho, Química, Historia y Economía. Sus fondos suman también publicaciones periódicas y colecciones electrónicas de documentos, multimedia, bases de datos y materiales especiales.
 
-La Biblioteca Central, inaugurada en 2008, tiene cinco pisos. El dispositivo quedó alojado en el área de Colecciones Especiales, en la que se llevarán a cabo las capacitaciones y primeras pruebas de uso.
+Durante julio de 2019 instalamos un **estativo en V** para la digitalización de colecciones especiales y otros fondos de interés por parte de institutos de investigación. El dispositivo fue pre-armado y pintado en Buenos Aires. Llevamos a Rosario las partes para ser ensabladas en su locación final en el área de Colecciones Especiales y Archivos de la Biblioteca. Durante nuestra permanencia en Rosario llevamos adelante capacitaciones y las primeras pruebas de uso.
 
-En este ciclo de desarrollo incorporamos un soporte accesorio para montar una sombra, que permite aislar el area de digitalización del entorno y evitar la contaminacion cromatica o luminica. Cuando es posible trabajar en ambientes de iluminacion controlada (que puede convertirse en cuarto oscuro), este accesorio no es necesario.
+En este ciclo de desarrollo del dispositivo en V, incorporamos un soporte accesorio para montar una sombra, que permite aislar el area de digitalización del entorno y evitar la contaminacion cromatica o lumínica ambiente. Cuando es posible trabajar en ambientes de iluminacion controlada (es decir que pueden convertirse en cuarto oscuro), este accesorio no es necesario.
 
 ### Galería de Imágenes
 
