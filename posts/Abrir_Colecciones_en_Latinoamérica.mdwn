@@ -2,7 +2,7 @@
 tag: eventos openglam colombia
 default_img: /uploads/posts/Abrir_Colecciones_en_Latinoamérica/abrir.jpg
 default_img_alt: OpenGLAM en Latinoamérica
-summary: La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron a un conversatorio sobre apertura de colecciones en América Latina con disertantes de Chile, Colombia y Argentina"
+summary: La Maestría en Humanidades Digitales de la Universidad de los Andes junto a BibloRed (Red Distrital de Bibliotecas Públicas de Bogotá) y Bibliohack convocaron a un conversatorio sobre apertura de colecciones en América Latina con disertantes de Chile, Colombia y Argentina
 teaserline: Evento OpenGLAM co-organizado por Bibliohack en Colombia
 featured: yes
 unite_gallery: tiles
