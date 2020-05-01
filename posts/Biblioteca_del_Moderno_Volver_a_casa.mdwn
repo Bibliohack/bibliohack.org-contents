@@ -4,6 +4,7 @@ tag: prensa el-moderno
 default_img: /uploads/posts/Biblioteca_del_Moderno_Volver_a_casa/jnUInMA6i_1200x0__1.jpg
 default_img_alt: Pieza gráfica que funcionó como catálogo de la exposición “Noé + experiencias colectivas” (1965). Museo de Arte Moderno.
 teaserline: Nota en Clarín sobre el translado de la Biblioteca del Museo de Arte Moderno.
+ajax_content: last_posts
 ---
 [[!meta date="2019-02-22T12:00:00Z"]]
 
