@@ -95,4 +95,4 @@ Fotos de Guido Limardo / Museo de Arte Moderno.
 - https://www.utdt.edu/ver_contenido.php?id_contenido=18011&id_item_menu=28639
 -->
 
-[[!inline pages="page(./posts/*) and lang(es) and field_null(hide)" show="6" actions=no timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no]]
+[[!inline pages="page(/posts/*) and lang(es) and field_null(hide)" show="6" actions=no timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no]]
