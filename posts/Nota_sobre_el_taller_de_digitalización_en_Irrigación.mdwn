@@ -6,6 +6,7 @@ default_img: /uploads/posts/Nota_sobre_el_taller_de_digitalización_en_Irrigaci�
 default_img_alt: Matías Butelman es el encargado de preservación digital en la Biblioteca del Colegio Nacional de Buenos Aires (BCNBA) y uno de los dos creadores de un equipo que se está utilizando para la digitalización, que también se implementó en el Centro de Estudios Históricos de la Fuerza Aérea Argentina.
 summary: El taller es parte de un proceso de puesta en valor del archivo histórico de la Dirección General de Irrigación.
 teaserline: Reseña publicada por la Dirección General de Irrigación de Mendoza.
+ajax_content: last_posts
 ---
 [[!meta date="2018-03-28T12:00:00Z"]]
 
