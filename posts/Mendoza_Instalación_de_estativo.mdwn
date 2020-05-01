@@ -7,6 +7,7 @@ default_img_alt: Instalacion de estativo en 'V' en el Archivo del Agua, Mendoza.
 featured: yes
 summary: Durante tres días en la ciudad de Mendoza armamos un estativo en V, configuramos el software y capacitamos a los usuarios del dispositivo.
 teaserline: El estativo se usará para digitalizar documentación histórica.
+ajax_content: projects
 ---
 [[!meta date="2018-09-12T12:00:00Z"]]
 
