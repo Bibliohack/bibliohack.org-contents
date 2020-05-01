@@ -6,6 +6,7 @@ teaserline: Muestra del funcionamiento del escáner en V en jornada sobre accesi
 default_img: /uploads/posts/Cómo_producir_material_accesible_de_lectura/Dpv6KNSXcAAdk6i.jpeg
 default_img_alt: Desarrollo de la jornada en la Biblioteca Central "Prof. Augusto Raúl Cortázar"
 cc_by_sa_plus: yes
+ajax_content: last_posts
 ---
 [[!meta date="2018-10-20T12:00:00Z" ]]
 
