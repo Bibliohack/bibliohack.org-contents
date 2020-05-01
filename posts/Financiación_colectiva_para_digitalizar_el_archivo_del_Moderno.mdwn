@@ -5,6 +5,7 @@ default_video_alt: El archivo histórico del Museo de Arte Moderno a tu alcance.
 default_video_poster: /uploads/posts/Financiación_colectiva_para_digitalizar_el_archivo_del_Moderno/poster_img.jpg
 default_img: /uploads/posts/Financiación_colectiva_para_digitalizar_el_archivo_del_Moderno/poster_img.jpg
 teaserline: Campaña de crowdfunding en la plataforma Kickstarter.
+ajax_content: projects
 ---
 [[!meta date="2017-10-15T12:00:00Z"]]
 
