@@ -3,7 +3,7 @@
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
 ]]
-<div markdown="1">[[!template id=landing_page_section_top.tmpl 
+[[!template id=landing_page_section_top.tmpl 
 
   section_id="que_es_bibliohack"
   title="¿Qué es Bibliohack?" 
@@ -15,8 +15,8 @@ Nos especializamos en **digitalización de libros y documentos** y en **gestión
 
 También impulsamos la construcción de redes profesionales e institucionales que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación, y también sumar masa crítica para definir políticas públicas que favorezcan la **preservación del patrimonio cultural**, **el acceso abierto al conocimiento** y la **reforma de la propiedad intelectual**.
 """
-
-]][[!template id=landing_page_section_slides_header.tmpl
+]]
+[[!template id=landing_page_section_slides_header.tmpl
 
   section_id="que_hacemos"
   title="¿Qué hacemos?"
@@ -47,7 +47,11 @@ Diseñamos y construímos dispositivos de digitalización de especificaciones ab
   content="""
 ### Capacitación y consultorías
 
-Ofrecemos capacitaciones sobre nuevas prácticas de gestión de información, operación de dispositivos y software para digitalización, formulación de proyectos digitales, adopción de estándares de metadatos, gestión de propiedad intelectual, licencias Creative Commons y construcción de estativos con metodologías <i>do it yourself</i>.
+Ofrecemos capacitaciones sobre nuevas prácticas de gestión de 
+información, operación de dispositivos y software para digitalización, 
+formulación de proyectos digitales, adopción de estándares de metadatos, 
+gestión de propiedad intelectual, licencias Creative Commons y 
+construcción de estativos con metodologías *do it yourself*.
 """
   item1_img="/img/capacitacion/capac_filo.jpg"
   item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
@@ -79,7 +83,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
 
-]][[!template id=landing_page_section_logos_header.tmpl 
+]]
+[[!template id=landing_page_section_logos_header.tmpl 
 
   section_id="proyectos"
   title="Proyectos" 
@@ -95,8 +100,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   logo=/img/apoyos/anh.png
   title="Academia Nacional de la Historia de la República Argentina"
 
-]]
-[[!template id=landing_page_section_logos_item.tmpl 
+]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/img/apoyos/cnba.png
   title="Colegio Nacional Buenos Aires"
@@ -128,7 +132,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
 
-]][[!template id=landing_page_section_bullets.tmpl 
+]]
+[[!template id=landing_page_section_bullets.tmpl 
 
   section_id="recursos"
   titulo="Recursos" 
@@ -145,12 +150,14 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   item3_titulo="Planos y Código"
   item3_texto="Repositorio libre de Bibliohack con recursos de software y planos."
 
-]][[!template id=landing_page_section_featured.tmpl 
+]]
+[[!template id=landing_page_section_featured.tmpl 
 
    section_id="featured"
    show_items=12
 
-]][[!template id=landing_page_section_form.tmpl 
+]]
+[[!template id=landing_page_section_form.tmpl 
 
    section_id="contacto"
    title="Contacto"
@@ -159,7 +166,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    label_email_disclaimer="Nunca compartiremos tu email con nadie."
    label_buttom="Enviar"
    
-]]</div>
+]]
 [[!template id=landing_page_json.tmpl
 
    json_id="landing_page_header_items"

@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Universidad Católica Argentina"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Universidad Católica Argentina"
+   summary="Posts relacionados con la Universidad Católica Argentina"
    body_class="taglist"
    hashtag="uca"
 ]]

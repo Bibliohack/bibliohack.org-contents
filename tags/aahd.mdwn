@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Asociación Argentina de Humanidades Digitales"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Asociación Argentina de Humanidades Digitales"
+   summary="Posts relacionados con la Asociación Argentina de Humanidades Digitales"
    body_class="taglist"
    hashtag="aahd"
 ]]

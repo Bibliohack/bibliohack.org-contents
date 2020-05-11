@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Dirección de Estudios Históricos de la Fuerza Aérea Argentina"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Dirección de Estudios Históricos de la Fuerza Aérea Argentina"
+   summary="Posts relacionados con la Dirección de Estudios Históricos de la Fuerza Aérea Argentina"
    body_class="taglist"
    hashtag="dehfaa"
 ]]

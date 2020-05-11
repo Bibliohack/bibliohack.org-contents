@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Colegio Nacional Buenos Aires"]]
 [[!field 
-   summary="Publicaciones relacionadas con el Colegio Nacional Buenos Aires"
+   summary="Posts relacionados con el Colegio Nacional Buenos Aires"
    body_class="taglist"
    hashtag="cnba"
 ]]

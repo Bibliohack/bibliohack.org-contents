@@ -1,7 +1,7 @@
 [[!pagetemplate template="page_postlist.tmpl" sylent]]
 [[!meta title="Casa Museo de Ricardo Rojas"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Casa Museo de Ricardo Rojas"
+   summary="Posts relacionados con la Casa Museo de Ricardo Rojas"
    body_class="taglist"
    hashtag="rojas"
 ]]

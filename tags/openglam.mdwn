@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="OpenGLAM"]]
 [[!field 
-   summary="Publicaciones sobre OpenGLAM en Argentina y Latinoamérica"
+   summary="Posts sobre OpenGLAM en Argentina y Latinoamérica"
    body_class="taglist"
    hashtag="openglam"
 ]]

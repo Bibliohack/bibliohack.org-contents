@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Conicet"]]
 [[!field 
-   summary="Publicaciones relacionadas con el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)"
+   summary="Posts relacionados con el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)"
    body_class="taglist"
    hashtag="conicet"
 ]]

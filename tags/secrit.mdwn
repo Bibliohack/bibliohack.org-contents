@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Secrit/Conicet"]]
 [[!field 
-   summary="Publicaciones relacionadas con el Seminario de Edición y Crítica Textual (Secrit/Iibicrit/Conicet)"
+   summary="Posts relacionados con el Seminario de Edición y Crítica Textual (Secrit/Iibicrit/Conicet)"
    body_class="taglist"
    hashtag="secrit"
 ]]

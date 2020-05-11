@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Academia Nacional de la Historia de la República Argentina"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Academia Nacional de la Historia de la República Argentina"
+   summary="Posts relacionados con la Academia Nacional de la Historia de la República Argentina"
    body_class="taglist"
    hashtag="anh"
 ]]

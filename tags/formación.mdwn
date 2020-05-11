@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Formación"]]
 [[!field 
-   summary="Publicaciones sobre Cursos y talleres de formación"
+   summary="Posts sobre Cursos y talleres de formación"
    body_class="taglist"
    hashtag="formación"
 ]]

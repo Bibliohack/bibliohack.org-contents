@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Aguas y Saneamientos Argentinos"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Biblioteca de Aguas y Saneamientos Argentinos"
+   summary="Posts relacionados con la Biblioteca de Aguas y Saneamientos Argentinos"
    body_class="taglist"
    hashtag="aysa"
 ]]

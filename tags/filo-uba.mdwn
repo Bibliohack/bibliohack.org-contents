@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Facultad de Filosofía y Letras de la UBA"]]
 [[!field 
-   summary="Publicaciones relacionadas con la Facultad de Filosofía y Letras de la UBA"
+   summary="Posts relacionados con la Facultad de Filosofía y Letras de la UBA"
    body_class="taglist"
    hashtag="filo-uba"
 ]]

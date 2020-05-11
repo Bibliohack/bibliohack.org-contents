@@ -1,0 +1,14 @@
+[[!pagetemplate template="empty.tmpl" ]]
+<div class="ajax-postlist">
+ <div class="row">
+   <div class="col">
+ 	  <h4>Más sobre <a href="/tags/proyectos">proyectos</a>:</h4>
+ 	</div>
+ </div>
+ <div class="row">
+ [[!inline pages="tagged(proyectos) and lang(es) and field_null(hide)" template="inlinepage_ajax" show="7" actions=no timeformat="%d/%m/%Y" postform=no feeds=no ]]
+ </div>
+ <div class="row">
+   <div class="col posts-link">Ver <a href="/posts/">todas las publicaciones</a></div>
+ </div>
+</div>

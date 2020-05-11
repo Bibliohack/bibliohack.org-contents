@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Archivo Histórico del Agua"]]
 [[!field 
-   summary="Publicaciones relacionadas con el Archivo Histórico del Agua del Departamento General de Irrigación de Mendoza"
+   summary="Posts relacionados con el Archivo Histórico del Agua del Departamento General de Irrigación de Mendoza"
    body_class="taglist"
    hashtag="archivo-del-agua"
 ]]

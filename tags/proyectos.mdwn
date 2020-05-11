@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Proyectos de Bibliohack"]]
 [[!field 
-   summary="Publicaciones sobre proyectos de Bibliohack"
+   summary="Posts sobre proyectos de Bibliohack"
    body_class="taglist"
    hashtag="proyectos"
 ]]

@@ -1,6 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
 [[!trailitems pages="page(./posts/*) and lang(es) and field_null(hide)" sort="age"]]
+[[!meta title="Posts"]]
 [[!field 
    postlist_home=yes
 ]]

@@ -2,11 +2,14 @@
 title:
 author:
 cc_by_sa: yes
+ajax_content: last_posts
 ---
 <!--
 
 tag: prensa proyectos eventos formación
 summary: Resumen que aparece abajo del titulo en el post
+
+ajax_content: last_posts/openglam/projects
 
 # imagen encabezado de post
 default_img: /ruta/imagen.jpg

@@ -1,7 +1,7 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="Museo de Arte Moderno de Buenos Aires"]]
 [[!field 
-   summary="Publicaciones relacionadas con el Museo de Arte Moderno de Buenos Aires"
+   summary="Posts relacionados con el Museo de Arte Moderno de Buenos Aires"
    body_class="taglist"
    hashtag="el-moderno"
 ]]
