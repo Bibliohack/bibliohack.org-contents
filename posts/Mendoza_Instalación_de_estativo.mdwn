@@ -135,4 +135,4 @@ Finalmente en nuestro último día en Mendoza llevamos adelante los ajustes fina
    data-description="">
 </div>
  
-Queremos agradecer especialmente a **Mark Healy**, **Facundo Martín**, y **Sergio Terrera** por la confianza puesta en Bibliohack para llevar adelante este proyecto.
+Queremos agradecer especialmente a **Mark Healey**, **Facundo Martín**, y **Sergio Terrera** por la confianza puesta en Bibliohack para llevar adelante este proyecto.
