@@ -33,13 +33,13 @@ We design and build open specification digitizing devices using affordable and a
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware means sharing technical specifications, drawings and processes without restrictions.&nbsp;</span>"
   item2_img="/img/tecnologia_abierta/proceso.jpg"
-  item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
+  item2_txt="<span>&nbsp;Describing the technical processes helps to generate installed capacity in each institution.&nbsp;</span>"
   item3_img="/img/tecnologia_abierta/github.jpg"
-  item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
+  item3_txt="<span>&nbsp;We publish all our developments online in our open repository.&nbsp;</span>"
   item4_img="/img/tecnologia_abierta/madera.jpg"
-  item4_txt="<span>&nbsp;Tecnología adecuada significa lo apropiado por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
+  item4_txt="<span>&nbsp;Appropriate technology means appropriate for costs, resources, sustainability and in tune with the local context.&nbsp;</span>"
   item5_img="/img/tecnologia_abierta/lam3.jpg"
-  item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
+  item5_txt="<span>&nbsp;We follow an iterative and incremental development model where each real life project involves a cycle of improvements in our products.&nbsp;</span>"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
 
@@ -47,13 +47,13 @@ We design and build open specification digitizing devices using affordable and a
   content="""
 ### Training and consulting
 
-We provide training in new data management practices, operation of devices and software for digitization, digital project design, adoption of metadata standards, intellectual property management, Creative Commons licenses and the building of copy stands using the do-it-yourself techniques."""
+We provide training in new information management practices, operation of devices and software for digitization, digital exhibits project design, adoption of metadata standards, intellectual property management, Creative Commons licenses and the building of copy stands using the do-it-yourself techniques."""
   item1_img="/img/capacitacion/capac_filo.jpg"
   item1_txt="Training at the Research Institutes – Faculty of Philosophy and Letters – University of Buenos Aires (2018)"
   item2_img="/img/capacitacion/capacitacion.jpg"
-  item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
+  item3_txt="Training during the installation of a scanner in the Water Archive of Mendoza, Argentina (2019)"
   item3_img="/img/capacitacion/clinicas.jpg"
-  item3_txt="Clínica de Tecnología y Patrimonio en el Museo de Arte Moderno de Buenos Aires (2018)"
+  item3_txt="Technology and Heritage course at the Museum of Modern Art of Buenos Aires (2018)"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
 
@@ -68,13 +68,13 @@ We organize public activities and meetings for information professionals, resear
   item1_img="/img/politicas/politicas.jpg"
   item1_txt="Meeting on cultural heritage, intellectual property and access to culture - MALBA (Museo de Arte Latinoamericano de Buenos Aires)"
   item2_img="/img/politicas/openglam.jpg"
-  item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
+  item2_txt="'First OpenGLAM Argentina Meeting' at the Museum of Modern Art in Buenos Aires, with more than 100 participants (we co-organized, 2017)"
   item3_img="/img/politicas/utdt-matias.jpg"
-  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella (Argentina, 2019)"
+  item4_txt="Matias speaking at the 'Conference on cultural heritage, artistic practice and intellectual property' at the Universidad Torcuato Di Tella (Argentina, 2019)"
   item4_img="/img/politicas/excepciones.jpg"
-  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
+  item4_txt="Debate on limitations and exceptions and enrichment of the public domain (Argentina, 2019)"
   item5_img="/img/politicas/matias-mamba.jpg"
-  item5_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
+  item5_txt="Matias at a meeting about digitization and digital archives organized by MAMBA and Bibliohack (Argentina, 2018)"
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
 
@@ -88,12 +88,12 @@ We organize public activities and meetings for information professionals, resear
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/img/apoyos/mamba.png
-  title="Museo de Arte Moderno de Buenos Aires"
+  title="Museum of Modern Art of Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/img/apoyos/anh.png
-  title="Academia Nacional de la Historia de la República Argentina"
+  title="National Academy of History of the Argentine Republic"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -103,7 +103,7 @@ We organize public activities and meetings for information professionals, resear
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/img/apoyos/filo.png
-  title="Facultad de Filosofía y Letras de la UBA"
+  title="Faculty of Philosophy and Letters – University of Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -113,7 +113,7 @@ We organize public activities and meetings for information professionals, resear
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/img/apoyos/ida.png
-  title="Fundación Investigación en Diseño Argentino"
+  title="Fundación Investigación en Diseño Argentino IDA"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -168,55 +168,55 @@ We organize public activities and meetings for information professionals, resear
    json_items="""
 {
 	"img": "/img/home/mendoza.jpg",
-	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
+	"caption": "Bibliohack - Open Source Technology for Archives, Museums and Libraries"
 },
 {
 	"img": "/img/home/0020.jpg",
-	"caption": "Prueba y demostración de uso del estativo cenital. Museo Moderno, 2018."
+	"caption": "Test and demonstration of use of copy stand. Museum of Modern Art of Buenos Aires, 2018"
 },
 {
 	"img": "/img/home/0040.jpg",
-	"caption": "Digitalización de libros con dispositivo \"en V\". Biblioteca Aysa, 2018."			
+	"caption": "Digitization of books with V-cradle device. Aysa Library, 2018."
 },
 {
 	"img": "/img/home/0050.jpg",
-	"caption": "Jornada sobre acceso y patrimonio en el Moderno. De fondo, estativo plano de Bibliohack. 2019."
+	"caption": "Conference on access and heritage in the MAMBA Museum. In the background, a flat Bibliohack stand. 2019."
 },
 {
 	"img": "/img/home/0055.jpg",
-	"caption": "Matías hablando sobre Creative Commons y Bibliohack. Universidad Torcuato Di Tella, 2019."
+	"caption": "Matías talking about Creative Commons and Bibliohack. Torcuato Di Tella University, 2019."
 },
 {
 	"img": "/img/home/cnba_biblio.jpg",
-	"caption": "Escaner \"en V\" realizado con listones de madera de pino. Colegio Nacional Buenos Aires, 2013."
+	"caption": "V-cradle scanner made with pine wood slats. Colegio Nacional Buenos Aires, 2013."
 },
 {
 	"img": "/img/home/0060.jpg",
-	"caption": "Piezas de corte laser en MDF para un estativo \"en V\" aún sin armar."
+	"caption": "Laser cut pieces in MDF for a V-cradle scanner (not yet assembled)."
 },
 {
 	"img": "/img/home/0070.jpg",
-	"caption": "Jornadas sobre Acceso, Universidad Torcuato Di Tella. 2019."
+	"caption": "Conference on Access, Universidad Torcuato Di Tella. 2019."
 },
 {
 	"img": "/img/home/0080.jpg",
-	"caption": "Capacitación para el Incihusa/Conicet en el Archivo del Agua. Mendoza, 2018."
+	"caption": "Training for Incihusa/Conicet in the \"Water Archive\". Mendoza, 2018."
 },
 {
 	"img": "/img/home/0085.jpg",
-	"caption":	"Charla sobre propiedad intelecual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
+	"caption":	"Talk about intellectual property and access restrictions at the MAMBA Museum. Buenos Aires, 2018."
 },
 {
 	"img": "/img/home/0090.jpg",
-	"caption":	"Primer encuentro OpenGLAM de Argentina. Buenos Aires 2017."	
+	"caption":	"First OpenGLAM meeting of Argentina. Buenos Aires 2017."
 },
 {
 	"img": "/img/home/0100.jpg",
-	"caption": "Dispositivos de digitalización (Cenital y \"en V\") en la Academia Nacional de Historia. Buenos Aires, 2019."
+	"caption": "Digitization devices (copy stand and V-cradle) at the National Academy of History. Buenos Aires, 2019."
 },
 {
 	"img": "/img/home/standart.jpg",
-	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La PLata, 2012."
+	"caption": "Adaptation of the "standard model" from diybookscanner.org. La Plata, 2012."
 }
 """
 ]]
