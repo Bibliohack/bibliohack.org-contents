@@ -5,33 +5,33 @@
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
-  section_id="que_es_bibliohack"
-  title="¿Qué es Bibliohack?" 
+  section_id="about_bibliohack"
+  title="About Bibliohack" 
   img=/img/bibliohack_bkg.png
   content="""
-*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
+*Bibliohack* is an initiative that works for the **digital transformation** of **libraries**, **archives** and **museums**, with [appropriate technology](https://en.wikipedia.org/wiki/Appropriate_technology) to the specific context of the Global South, following **open access** and **open source** technology principles.
 
-Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios y capacitación a las organizaciones GLAM que enfrentan el desafío de incorporar tecnología informática a sus procesos de trabajo.
+We specialized in **digitizing books and documents**, and also in **managing collections and digital assets**. We provide services and trainging to GLAM organizations that face the challenge of incorporating computer technology into their work processes.
 
-También impulsamos la construcción de redes profesionales e institucionales que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación, y también sumar masa crítica para definir políticas públicas que favorezcan la **preservación del patrimonio cultural**, **el acceso abierto al conocimiento** y la **reforma de la propiedad intelectual**.
+We also promote the development of professional and institutional networks that allow the **production and release of resources** for the community: drawings, code, processes and documentation, and also add critical mass to define public policies that facilitate the **preservation of cultural heritage**, **open access to knowledge** and **intellectual property reform**.
 """
 ]]
 [[!template id=landing_page_section_slides_header.tmpl
 
-  section_id="que_hacemos"
-  title="¿Qué hacemos?"
+  section_id="what_we_do"
+  title="What we do"
 
 ]][[!template id=landing_page_section_slides_item.tmpl 
 
   cid=1
   margin_left=1
   content="""
-### DIY Scanners y Tecnologías libres
+### DIY Scanners and free and open source technologies
 
-Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de procesos, colecciones digitales y publicación en línea (Collective Access, Omeka, Drupal).
+We design and build open specification digitizing devices using affordable and accessible materiales (appropriate technology); we develop free software for document digitization and processing, and implement open resources for processes management, digital collections and their online publication (Collective Access, Omeka, Drupal).
 """
   item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
-  item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
+  item1_txt="<span>&nbsp;Open Hardware means sharing technical specifications, drawings and processes without restrictions.&nbsp;</span>"
   item2_img="/img/tecnologia_abierta/proceso.jpg"
   item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
   item3_img="/img/tecnologia_abierta/github.jpg"
@@ -45,16 +45,11 @@ Diseñamos y construímos dispositivos de digitalización de especificaciones ab
 
   cid=2
   content="""
-### Capacitación y consultorías
+### Training and consulting
 
-Ofrecemos capacitaciones sobre nuevas prácticas de gestión de 
-información, operación de dispositivos y software para digitalización, 
-formulación de proyectos digitales, adopción de estándares de metadatos, 
-gestión de propiedad intelectual, licencias Creative Commons y 
-construcción de estativos con metodologías *do it yourself*.
-"""
+We provide training in new data management practices, operation of devices and software for digitization, digital project design, adoption of metadata standards, intellectual property management, Creative Commons licenses and the building of copy stands using the do-it-yourself techniques."""
   item1_img="/img/capacitacion/capac_filo.jpg"
-  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
+  item1_txt="Training at the Research Institutes – Faculty of Philosophy and Letters – University of Buenos Aires (2018)"
   item2_img="/img/capacitacion/capacitacion.jpg"
   item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
   item3_img="/img/capacitacion/clinicas.jpg"
@@ -65,13 +60,13 @@ construcción de estativos con metodologías *do it yourself*.
   cid=3
   margin_left=1
   content="""
-### Actividades y eventos
+### Activities and events
 
-Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno reforma de la propiedad intelectual y licencias libres, acceso abierto en instituciones culturales, desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
+We organize public activities and meetings for information professionals, researchers, activists and cultural managers about intellectual property reform and free licenses, open access in cultural institutions, collaborative initiatives and technological pools comprising public and third sector organizations.
 
 """
   item1_img="/img/politicas/politicas.jpg"
-  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el MALBA (Argentina, 2018)"
+  item1_txt="Meeting on cultural heritage, intellectual property and access to culture - MALBA (Museo de Arte Latinoamericano de Buenos Aires)"
   item2_img="/img/politicas/openglam.jpg"
   item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
   item3_img="/img/politicas/utdt-matias.jpg"
@@ -86,9 +81,9 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]]
 [[!template id=landing_page_section_logos_header.tmpl 
 
-  section_id="proyectos"
-  title="Proyectos" 
-  intro="Además de brindar asistencia a los proyectos de digitalización de diferentes instituciones culturales, en Bibliohack buscamos desarrollar vínculos estratégicos estables con el objetivo de generar capacidad instalada al interior de las organizaciones y liberar recursos para la comunidad: planos, código, procesos, documentación."
+  section_id="projets"
+  title="Projects"
+  intro="In addition to providing assistance to the digitization projects of different cultural institutions, at Bibliohack we seek to develop stable strategic links with the aim of generating installed capacity within organizations and freeing up resources for the community: drawings, code, processes, documentation."
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -135,20 +130,20 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]]
 [[!template id=landing_page_section_bullets.tmpl 
 
-  section_id="recursos"
-  titulo="Recursos" 
+  section_id="resources"
+  titulo="Resources"
   item1_icon="fa-info-circle"
   item1_link="http://codex.bibliohack.org"
   item1_titulo="Codex"
-  item1_texto="Información técnica y documentación."
+  item1_texto="Technical information and documentation."
   item2_icon="fa-newspaper-o"
   item2_link="/posts/"
   item2_titulo="Blog"
-  item2_texto="Noticias sobre Bibliohack: proyectos, digitalizacion, instalación de dispositivos y artículos."
+  item2_texto="News about Bibliohack: projects, digitization, installation of devices and articles."
   item3_icon="fa-github"
   item3_link="https://github.com/bibliohack"
-  item3_titulo="Planos y Código"
-  item3_texto="Repositorio libre de Bibliohack con recursos de software y planos."
+  item3_titulo="Drawings and code"
+  item3_texto="Free repository with software resources and drawings."
 
 ]]
 [[!template id=landing_page_section_featured.tmpl 
@@ -159,12 +154,12 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]]
 [[!template id=landing_page_section_form.tmpl 
 
-   section_id="contacto"
-   title="Contacto"
-   label_name="Nombre"
-   label_email="Tu Email"
-   label_email_disclaimer="Nunca compartiremos tu email con nadie."
-   label_buttom="Enviar"
+   section_id="contact"
+   title="Contact"
+   label_name="Name"
+   label_email="Email"
+   label_email_disclaimer="we won’t share it"
+   label_buttom="Send"
    
 ]]
 [[!template id=landing_page_json.tmpl
