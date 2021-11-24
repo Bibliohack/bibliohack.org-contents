@@ -8,6 +8,8 @@ featured: yes
 ---
 [[!meta date="2020-05-11T12:00:00Z"]]
 
+Queremos agradecer a Revista Archivoz por esta extensa entrevista (que también nos sirvió a nosotros para repasar nuestra historia y los inicios de Bibliohack, y reflexionar sobre la mision y objetivos de este emprendimiento). ¡Muchas gracias!
+
 
 <div class="copy-paste" markdown="1">
 
