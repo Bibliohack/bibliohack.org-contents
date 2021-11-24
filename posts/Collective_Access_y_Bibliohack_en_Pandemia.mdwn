@@ -2,78 +2,19 @@
 title: "Collective Access y Bibliohack en Pandemia"
 summary: La Pandemia provocó que gran parte de los proyectos en curso queden suspendidos. Mientras tanto profundizamos nuestro trabajo con Collective Access.
 default_img: /uploads/posts/Collective_Access_y_Bibliohack_en_Pandemia/collectiveaccess.jpg
+default_img_alt: Collective Access es un software de código abierto para gestión y publicación de colecciones.
 ajax_content: last_posts
+tag: proyectos colective_access
 ---
 [[!meta date="2020-06-09T12:00:00Z" ]]
 
-Este año atipico marcó también el recorrido de nuestro proyecto. Con la totalidad de las instituciones culturales trabajando en la virtualidad tanto los proyectos de digitalizacion como los de despliegue de dispositivos quedaron en gran medida suspendidos. Pero el otro lado de la digitalizacion es justamente abrir la posibilidad del acceso a traves de internet a los acervos sin necesidad de la presencialidad, que hoy se vuelve una necesidad apremiante, especialmente en el ambito de la educación.
+Este año atípico de pandemia marcó también el recorrido de nuestro proyecto. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalizacion como los de despliegue de dispositivos quedaron en gran medida inactivos. 
 
-Desde 2018 iniciamos un proceso junto con IDA (Investigación en Diseño Argentino) de implementar Collective Access para la gestion de su colección
+Sin embargo, el otro lado de la digitalizacion es abrir la posibilidad del acceso a traves de internet a los acervos --sin necesidad de la presencialidad-- que hoy se vuelve una necesidad apremiante.
 
-<!--
+Desde 2018 iniciamos una alianza con IDA (Investigación en Diseño Argentino) de implementar Collective Access para la gestion de su colección. Gracias a su apoyo pudimos dar nuestro primeros pasos en el conocimiento, despliegue y configuración de esta herramienta, junto con el Museo de Arte Moderno, que tambien confio en nosotros para la analizar a traves de una prueba piloto la posibilidad de su implementacion. 
 
-tag: prensa proyectos eventos formación
-summary: Resumen que aparece abajo del titulo en el post
+Durante 2019 y 2020 otras instituciones como la Fundacion Klemm, la Fundación Magariños, o la Fundación Lariviere, entre otras, se interesaron por este software para sus colecciones y comenzaron junto con Bibliohack la planificacion previa para su despliegue, que implica abordar cuestiones como la definicion de la estructura de datos, el analisis de la migracion de los datos existentes, las opciones mas convenietes de acceso publico y presentacion, entre muchos aspectos que hacen a la complejidad a veces subvalorada de la implementacion de un software para la gestion de colecciones.
 
-ajax_content: last_posts/openglam/projects
-
-# imagen encabezado de post
-default_img: /ruta/imagen.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-# teasers
-short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
-# sale en portada?
-featured: yes
-
-# no se muestra en /posts
-hide: yes
-
-[[!meta date: "2018-09-13T12:00:00Z"]]
-
--->
-
-<big>Esto es un texto destacado</big>
-
-Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
-
-> En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
-
-Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
-
-### Subtitulo
-
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
-
- * item de lista
- * otro item
- * tercer elemento
-
-Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. 
-
-    bloque-de-texto = {"texto que sale en monospaced"};
-    otro_comando($a, $b);
-
-Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
-
-![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
-
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. 
-
-1. Sed aliquam ultrices mauris. 
-2. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. 
-3. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. 
-
-Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. 
-
----
-
-Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
+Este año hemos realizado grandes avances en este area y pronto vamos a tener más novedades para publicar.
 
