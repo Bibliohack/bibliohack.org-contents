@@ -1,0 +1,33 @@
+---
+title: "Revista Acción: Preservar y Difundir"
+summary: Nota en Revista Acción sobre la inauguración del Polo de Digitalización impulsado por el Instituto Movilizador de Fondos Cooperativos, con dispositivos de Bibliohack.
+teaserline: Nota sobre la inauguración del Polo de Digitalización impulsado por el Instituto Movilizador de Fondos Cooperativos.
+ajax_content: last_posts
+tag: prensa
+---
+[[!meta date: "2020-04-30T12:00:00Z"]]
+
+Acción, la revista del mundo cooperativo publicó la siguiente nota ([nota original aqui](https://accion.coop/sin-categoria/preservar-y-difundir/)):
+
+<div class="copy-paste" markdown="1">
+
+## Preservar y difundir
+
+*Gracias a un dispositivo de fabricación nacional, se escanearán y organizarán fotografías, archivos y materiales gráficos de entidades como el Archivo Histórico del Cooperativismo, el CCC, la Biblioteca Utopía y la Fundación Idelcoop.
+29 de abril de 2020*
+
+Mediante una iniciativa impulsada desde el Instituto Movilizador de Fondos Cooperativos (IMFC), se inauguró recientemente el Polo de Digitalización. Se trata de un proyecto compartido que integra al Centro Cultural de la Cooperación y su Biblioteca Utopía, el Instituto Universitario de la Cooperación (IUCOOP), Idelcoop y el Archivo Histórico del Cooperativismo Argentino. El despliegue de este nuevo espacio permitirá a esas entidades avanzar en la calidad de las investigaciones y en la conservación y el manejo del importante acervo con el que cuenta el movimiento cooperativo nucleado en el IMFC.
+
+Bajo esas premisas, el polo dio su primer paso con la adquisición de un escáner de fabricación nacional –se prevé la llegada de otra máquina complementaria– creado por BiblioHack, un proyecto independiente pensado a partir del uso de recursos de software abierto y materiales locales que busca preservar el patrimonio de instituciones, bibliotecas y archivos y facilitar el acceso a los bienes culturales.
+
+La iniciativa, que funcionará en la filial Buenos Aires del IMFC, fue inaugurada con un acto que contó con la presencia de Edgardo Form, presidente del IMFC; Ana Grondona, investigadora del Centro Cultural de la Cooperación; Pablo Imen, vicerrector de IUCOOP; Luis Pablo Giniger, de la dirección del CCC; Mirta Villalba, de la Biblioteca Utopía y María Millán y Daniel Plotinsky, del Archivo Histórico del Cooperativismo Argentino. Por BiblioHack estuvieron presentes Matías Butelman y Juan Pablo Suárez. «Esta iniciativa es producto de la integración cooperativa, del aporte invalorable del Banco Credicoop y de la voluntad que tenemos de avanzar en la tecnología. Se agrega el hecho de que estas herramientas están realizadas por manos y talentos argentinos, un valor agregado de enorme significación», manifestó Form. Por su parte, Grondona anunció que junto con la creación del espacio comenzaron a marchar las primeras acciones, como el Fondo Carlos Mallmann, un proyecto de digitalización del archivo del físico argentino y uno de los principales creadores de la Fundación Bariloche, lugar desde donde el investigador profundizó sobre la cuestión del desarrollo humano y social. Asimismo, Villalba mencionó la posibilidad de poner en valor el archivo del IMFC, «una memoria de muchísimos años», y Plotinsky se refirió a la oportunidad que brinda el polo para potenciar al archivo del cooperativismo: «Desde nuestro espacio hace 25 años que venimos recopilando material. Ahora queremos empezar a hacer una campaña sistemática de digitalización».
+
+### Sello argentino
+
+El escáner adquirido es una herramienta que, a través de una estructura de madera con una base en forma de «V» y la integración de dos cámaras fotográficas, permite la captura del material que luego es procesado en una PC mediante un software de código abierto. Tanto el escáner en «V» como el de base plana están construidos con elementos (maderas, hardware y terminaciones) que se consiguen fácilmente en cualquier comercio. Asimismo, a diferencia de los escáners elaborados por otros fabricantes de escala comercial, la herramienta de BiblioHack es mucho más económica y accesible. «Los planos de este aparato están publicados en internet y son libres. La idea es que se pueda replicar y construir en otros lugares sin la necesidad de nosotros», dijo Suárez en la presentación. «Detrás de este artefacto existen aportes de distintas partes, es la lógica de la cooperación tecnológica, buscamos que la herramienta integre en su realización, mejora y uso a instituciones, comerciantes, desarrolladores, entre otros», agregó Butelman.
+
+Con la mirada puesta en afianzar la integración cooperativa y además valorizar y democratizar la información, el Polo buscará convertirse en una importante fuente de consulta orientada ampliar el valioso acervo documental del movimiento y difundir y compartir el conocimiento.
+
+</div>
+
+El Archivo Histórico del Cooperativismo también publicó un artículo basado en esta nota [Preservar y difundir. Polo de Digitalización del IMFC](https://www.archivohistorico.coop/en/news/preservar-y-difundir-polo-de-digitalizacion-del-)
