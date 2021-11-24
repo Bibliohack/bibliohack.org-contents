@@ -6,6 +6,7 @@ featured: yes
 tag: proyectos
 cc_by_sa: yes
 ajax_content: projects
+default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 ---
 [[!meta date: "2020-05-05T12:00:00Z"]]
 
@@ -47,4 +48,5 @@ Desde fines de 2019 comenzamos a trabajar con Memoria Abierta en el desarrollo d
 Un limitante en la digitalizacion utilizando camaras digitales es la resolucion en megapixeles del sensor, que determina el tamaño maximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie movil que expone el documento por partes. En el caso de periodicos cada pagina puede ser capturada individualemnte, no asi todo todo el pliego desplegado. La base movil facilita esta tarea. Ademas el diseño es modular, de forma que se puedan desarrollar nuevas caracteristica segun requerimientos futuros, como reemplazar la base movil por un retroiluminador para transparencias, o un apoyo especial para biblioratos de gran tamaño.
 
 Un sistema portacámara permite colocar la camara en diferentes posiciones con precision adecuada y el sistema de luces es intercambiable. Toda la estructura esta construida en materiales de bajo costo (tablero de MDF) y facil replicabilidad (corte laser).
+
 
