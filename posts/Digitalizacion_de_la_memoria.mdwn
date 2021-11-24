@@ -10,43 +10,24 @@ default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 ---
 [[!meta date: "2020-05-05T12:00:00Z"]]
 
-
-<!--
-
-tag: prensa proyectos eventos formación
-summary: Resumen que aparece abajo del titulo en el post
-
-ajax_content: last_posts/openglam/projects
-
-# imagen encabezado de post
-default_img: /ruta/imagen.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-# teasers
-short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
-# sale en portada?
-featured: yes
-
-# no se muestra en /posts
-hide: yes
-
--->
+### Sobre Memoria Abierta
 
 > Memoria Abierta es una alianza de organizaciones de derechos humanos argentinas que promueve la memoria sobre las violaciones a los derechos humanos del pasado reciente, las acciones de resistencia y las luchas por la verdad y la justicia, para reflexionar sobre el presente y fortalecer la democracia.
 
 > Para ello, Memoria Abierta cataloga y da acceso a diversos archivos institucionales y personales; produce entrevistas audiovisuales que conforman un Archivo Oral; contribuye a dar visibilidad a los sitios utilizados en la represión a través de diversas herramientas y registros; elabora recursos temáticos para difusión y con fines educativos a partir de investigaciones, buscando promover debates sobre las formas de narrar lo sucedido y colabora, desde la especificidad de sus tareas, con la actuación de la justicia.
 
-Desde fines de 2019 comenzamos a trabajar con Memoria Abierta en el desarrollo de proyectos de digitalización de sus fondos documentales. Debido a la diversidad del material de su acervo, que incluye desde ficheros, fotografias, escritos judiciales o recortes peridisticos, a documentos de gran formato como afiches y periodicos, iniciamos el desarrollo de un estativo cenital (copy stand) de bajo costo que cubriera esta amplia gama de tipologias, tomando como marco tecnico las pautas establecidas por la iniciativa FADGI.
+(del sitio de [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
 
-Un limitante en la digitalizacion utilizando camaras digitales es la resolucion en megapixeles del sensor, que determina el tamaño maximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie movil que expone el documento por partes. En el caso de periodicos cada pagina puede ser capturada individualemnte, no asi todo todo el pliego desplegado. La base movil facilita esta tarea. Ademas el diseño es modular, de forma que se puedan desarrollar nuevas caracteristica segun requerimientos futuros, como reemplazar la base movil por un retroiluminador para transparencias, o un apoyo especial para biblioratos de gran tamaño.
+### Laboratorio de digitalización
 
-Un sistema portacámara permite colocar la camara en diferentes posiciones con precision adecuada y el sistema de luces es intercambiable. Toda la estructura esta construida en materiales de bajo costo (tablero de MDF) y facil replicabilidad (corte laser).
+Desde fines de 2019 comenzamos a trabajar con Memoria Abierta estudiando las opciones técnicas disponibles para mejorar y ampliar su proyecto de digitalización. Debido a la diversidad del material de su acervo, que incluye desde ficheros, fotografias, escritos judiciales o recortes peridísticos, a documentos de gran formato como afiches y periodicos, iniciamos el desarrollo de un estativo cenital (*copy stand*) de bajo costo que cubriera esta amplia gama de tipologias, tomando como marco técnico las pautas establecidas por la iniciativa FADGI(http://www.digitizationguidelines.gov/) y que permitiera mejoras incrementales en sus prestaciones.
 
+Un limitante en la digitalización utilizando cámaras digitales es la resolución en megapixeles del sensor, que determina el tamaño máximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie móvil que expone el documento por secciones. En el caso de periódicos cada página puede ser capturada individualmente, no asi todo el pliego desplegado. La base móvil facilita esta tarea. 
 
+El diseño del dispositivo es modular, de forma que se puedan desarrollar nuevas caracteristica segun requerimientos futuros o realizar mejoras a problemas descubiertos durante su uso en produccion. Por ejemplo, la base movil se podría reemplazar por un retroiluminador para transparencias o un apoyo especial para biblioratos de gran tamaño.
+
+Un sistema de soportes permite colocar la camara en diferentes angulos y distancias, con la precisión adecuada. La fuentes de luz son intercambiables y esto facilita su reemplazo por recursos de mejores prestaciones en el futuro. Toda la estructura esta construida en materiales de bajo costo (tablero de MDF) y facil replicabilidad (corte laser).
+
+### Diseño de proyecto con recursos libres
+
+En esta etapa iniciamos el desarrollo de los dispositivos en abierto utilizando FreeCAD, actualizando todo el proyecto en un repositorio git, explorando de esta manera la posibilidad de llevar adelante un proyecto CAD dentro de un sistema de control de versiones, donde cada cambio pueda ser gestionado y recuperado con facilidad, mejorando y profesionalizando el *mantenimiento del diseño*.
