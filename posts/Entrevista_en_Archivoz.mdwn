@@ -2,7 +2,7 @@
 title: "Entrevista en Archivoz"
 teaserline: Entrevista a Matias Butelman y Juan Suárez de Bibliohack
 default_img: /uploads/posts/Entrevista_en_Archivoz/nota-archivoz.jpg
-summary: Archivoz es una revista digital internacional sobre archivística y gestión documental con base en España. Hoy salió publicada una entrevista a los fundadores de Bibliohack 
+summary: Archivoz es una revista digital internacional sobre archivística y gestión documental con base en España. Hoy salió publicada una entrevista a los fundadores de Bibliohack. 
 ajax_content: last_posts
 featured: yes
 tag: prensa
@@ -11,7 +11,7 @@ tag: prensa
 
 Los amigos de [Archivoz: International Archives Magazine](https://www.archivozmagazine.org), con base en España, nos hicieron una entrevista sobre el trabajo que hacemos en bibliohack.  ¡Queremos agradecerles esta oportunidad de hacer visible nuestro proyecto e ideas en su espacio!. Hablamos de digitalización de patrimonio cultural, acceso abierto y políticas públicas, propiedad intelectual y reforma, open source en archivos, bibliotecas y museos, y la cultura hacker como parte de la tradición custodial. 
 
-Mientras nos tomábamos el trabajo de responder las preguntas, miles de organizaciones educativas y culturales de nuestra región y del mundo se aventuraron, algunas con mayor seguridad y otras con menos, a realizar sus tareas exclusivamente por internet.
+Mientras nos tomábamos el tiempo para responder las preguntas, miles de organizaciones educativas y culturales de nuestra región y del mundo se aventuraron, algunas con mayor seguridad y otras con menos, a realizar sus tareas exclusivamente por internet.
 
 Esta aventura no es por cierto poco accidentada. ¿Quizás haya un modo de transitar esta transformación digital súbita de un modo menos abrumador? ¿Qué podemos hacer quienes trabajamos en estas organizaciones? ¿Qué podrían hacer quienes diseñan y ejecutan políticas públicas para este sector?
 
