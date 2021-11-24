@@ -5,6 +5,7 @@ default_img: /uploads/posts/Entrevista_en_Archivoz/nota-archivoz.jpg
 summary: Archivoz es una revista digital internacional sobre archivística y gestión documental en español. Hoy salió publicada una entrevista a los fundadores de Bibliohack 
 ajax_content: last_posts
 featured: yes
+tag: prensa
 ---
 [[!meta date="2020-05-11T12:00:00Z"]]
 
