@@ -1,6 +1,6 @@
 ---
 title: "Collective Access y Bibliohack en Pandemia"
-summary: La Pandemia provocó que gran parte de los proyectos en curso queden suspendidos. Mientras tanto profundizamos nuestro trabajo con Collective Access.
+summary: La pandemia de COVID-19 provocó que la mayoria de los proyectos en los que veniamos trabajando quedaran inactivos, pero pudimos profundizar nuestro trabajo con Collective Access.
 default_img: /uploads/posts/Collective_Access_y_Bibliohack_en_Pandemia/collectiveaccess.jpg
 default_img_alt: Collective Access es un software de código abierto para gestión y publicación de colecciones.
 ajax_content: last_posts
@@ -8,13 +8,13 @@ tag: proyectos colective_access
 ---
 [[!meta date="2020-06-09T12:00:00Z" ]]
 
-Este año atípico de pandemia marcó también el recorrido de nuestro proyecto. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalizacion como los de despliegue de dispositivos quedaron en gran medida inactivos. 
+Este año atípico de pandemia marcó también el recorrido de nuestro proyecto. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalizacion como los de despliegue de dispositivos quedaron inactivos. 
 
-Sin embargo, el otro lado de la digitalizacion es abrir la posibilidad del acceso a traves de internet a los acervos --sin necesidad de la presencialidad-- que hoy se vuelve una necesidad apremiante.
+Sin embargo, el otro lado de la digitalizacion es posibilitar el acceso a traves de internet a los acervos ya digitalizados --sin necesidad de la presencia fisica. En el contexto actual esta posibilidad se vuelve una necesidad apremiante.
 
-Desde 2018 iniciamos una alianza con IDA (Investigación en Diseño Argentino) de implementar Collective Access para la gestion de su colección. Gracias a su apoyo pudimos dar nuestro primeros pasos en el conocimiento, despliegue y configuración de esta herramienta, junto con el Museo de Arte Moderno, que tambien confio en nosotros para la analizar a traves de una prueba piloto la posibilidad de su implementacion. 
+En 2018, a partir de una propuesta de IDA (Investigación en Diseño Argentino), surgió la idea de que Bibliohack se encargara de la implementación Collective Access para la gestion de su colección. Gracias a su apoyo pionero pudimos dar nuestros primeros pasos en el conocimiento, despliegue y configuración de esta herramienta de código abierto. 
 
-Durante 2019 y 2020 otras instituciones como la Fundacion Klemm, la Fundación Magariños, o la Fundación Lariviere, entre otras, se interesaron por este software para sus colecciones y comenzaron junto con Bibliohack la planificacion previa para su despliegue, que implica abordar cuestiones como la definicion de la estructura de datos, el analisis de la migracion de los datos existentes, las opciones mas convenietes de acceso publico y presentacion, entre muchos aspectos que hacen a la complejidad a veces subvalorada de la implementacion de un software para la gestion de colecciones.
+Al año siguiente el Museo de Arte Moderno también confió en nosotros para analizar a traves de una prueba piloto la posibilidad de migrar la gestion digital de su colección a Collective. Luego, Fundacion Klemm, Fundación Magariños y Fundación Lariviere se interesaron por este software para sus colecciones y comenzaron junto con Bibliohack la planificacion previa para su despliegue, que implica abordar cuestiones como la definicion de la estructura de datos, el analisis de la migracion de los datos existentes, las opciones mas convenientes de acceso publico y presentacion, entre muchos aspectos que hacen a la complejidad qye requiere la implementacion de un software para la gestion de colecciones.
 
 Este año hemos realizado grandes avances en este area y pronto vamos a tener más novedades para publicar.
 
