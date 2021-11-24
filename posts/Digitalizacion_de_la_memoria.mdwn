@@ -1,7 +1,7 @@
 ---
 title: "Digitalización de la memoria"
 summary: Diseñamos e instalamos de un estativo cenital (copy stand) para digitalizar fondos documentales del archivo Memoria Abierta en el Espacio Memoria y Derechos Humanos (Ex ESMA).
-teaserline: Estativo cenital (copy stand) para digitalizar fondos documentales del archivo Memoria Abierta en la Ex ESMA.
+teaserline: Instalación de un estativo cenital en el Espacio Memoria y Derechos Humanos (Ex Esma).
 featured: yes
 tag: proyectos
 cc_by_sa: yes
