@@ -1,10 +1,10 @@
 ---
 title: "Collective Access y Bibliohack en Pandemia"
 summary: La Pandemia provocó que gran parte de los proyectos en curso queden suspendidos. Mientras tanto profundizamos nuestro trabajo con Collective Access.
-cc_by_sa: yes
+default_img: /uploads/posts/Collective_Access_y_Bibliohack_en_Pandemia/collectiveaccess.jpg
 ajax_content: last_posts
 ---
-
+[[!meta date="2020-06-09T12:00:00Z" ]]
 
 Este año atipico marcó también el recorrido de nuestro proyecto. Con la totalidad de las instituciones culturales trabajando en la virtualidad tanto los proyectos de digitalizacion como los de despliegue de dispositivos quedaron en gran medida suspendidos. Pero el otro lado de la digitalizacion es justamente abrir la posibilidad del acceso a traves de internet a los acervos sin necesidad de la presencialidad, que hoy se vuelve una necesidad apremiante, especialmente en el ambito de la educación.
 
