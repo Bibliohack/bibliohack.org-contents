@@ -8,34 +8,57 @@ cc_by_sa: yes
 tag: articulos proyectos
 ajax_content: last_posts
 ---
+[[!field unite_gallery="tiles" gallery_1="cccoop"]]
 [[!meta date="2020-04-05T12:00:00Z"]]
 
-Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación (CCC), inaugurando el Polo de Digitalización. La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectada es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC. Biblioteca Utopia publicó un articulo sobre el dispositivo: [Nueva herramienta: escáner de libros de tecnologías abiertas](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas).
+Antes del inicio de la cuarentena instalamos [un dispositivo de digitalizacion "en V"](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas) en el Centro Cultural de la Cooperación (CCC), inaugurando el Polo de Digitalización. La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscan digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectado el dispositivo es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC.
+
+Queremos agradecer especialmente a Daniel Plotinsky, Ana Grondona y Edgardo Form (un honor haber conocido a uno de los referentes mas importantes del cooperativismo) por el impulso que le dieron al proyecto.
+
+<div id="cccoop" class="unite-gallery tiles" style="display:none;">
+create_unitegallery.sh: line 31: exiftool: command not found
+   <img alt="" src="/uploads/galleries/cccoop/300px/01.jpg"
+   data-image="/uploads/galleries/cccoop/1280px/01.jpg"
+   data-description="">
+create_unitegallery.sh: line 31: exiftool: command not found
+   <img alt="" src="/uploads/galleries/cccoop/300px/02.jpg"
+   data-image="/uploads/galleries/cccoop/1280px/02.jpg"
+   data-description="">
+create_unitegallery.sh: line 31: exiftool: command not found
+   <img alt="" src="/uploads/galleries/cccoop/300px/03.jpg"
+   data-image="/uploads/galleries/cccoop/1280px/03.jpg"
+   data-description="">
+create_unitegallery.sh: line 31: exiftool: command not found
+   <img alt="" src="/uploads/galleries/cccoop/300px/04.jpg"
+   data-image="/uploads/galleries/cccoop/1280px/04.jpg"
+   data-description="">
+</div>
 
 ## Cooperación tecnológica
 
-El desarrollo de los dispositivos de digitalización de Bibliohack esta inmerso desde sus inicios en la lógica de la cooperación tecnológica. Los diseños estan basados en el acervo de conocimientos publicados en foros o *wikis* colaborativos y abiertos como [diybookscanner.org](https://forum.diybookscanner.org) o [CHDK](https://chdk.fandom.com/wiki/CHDK), el codigo del software que implementamos para realizar las capturas y postprocesamiento esta publicado con licencias libres que permiten su reutilizacion en otros proyectos y nos permiten estudiar y adaptar su funcionamiento. A su vez cada proyecto de software libre esta rodeado por lo general de una comunidad que colabora en su mantenimiento y mejoramiento, y a la que es posible acudir en caso de necesitar ayuda. Por otro lado, las licencias nos permiten utilizar *comercialmente* estos recursos para brindar servicios y darle sostenibilidad económica a nuestro proyecto.
+Desde sus inicios el desarrollo de dispositivos de digitalización de Bibliohack estuvo inmerso en la lógica de la cooperación tecnológica. Los diseños estan basados en el acervo de conocimientos técnicos disponible en foros o *wikis* colaborativos, como [diybookscanner.org](https://forum.diybookscanner.org) o [CHDK](https://chdk.fandom.com/wiki/CHDK). La herramientas del software que implementamos para realizar las capturas y postprocesamiento de imagenes proviene de proyectos de software libre que permiten su reutilizacion. A su vez cada proyecto de software libre tiene una comunidad que colabora en su mantenimiento y mejoramiento, y a la que es posible acudir en caso de necesitar ayuda. Por otro lado, las licencias nos permiten utilizar estos recursos *comercialmente* para brindar servicios y darle sostenibilidad económica a nuestro proyecto.
 
-El ambito del hardware libre o abierto (en el cual se enmarca el diseño de nuestros dispositivos de digitalizacion) si bien menos formalizado y maduro que el del software reproduce las mismas prácticas y ofrece las misma ventajas para quien lo utiliza: independencia tecnológica (no quedar prisioneros del proveedor), reutilización de desarrollos y conocimientos existentes (no tener que volver a inventar la rueda), bajo costo y promoción del trabajo descentralizado y local.
+El ámbito del *hardware* libre o abierto (en el cual se enmarca el diseño de nuestros dispositivos) si bien menos formalizado y maduro que el del *software* reproduce las mismas prácticas y ofrece las misma ventajas para quien lo utilice: independencia tecnológica (no quedar prisioneros del proveedor), reutilización de desarrollos y conocimientos existentes (no tener que volver a inventar la rueda), bajo costo y promoción del trabajo descentralizado y local.
 
 ## Cuando las multinacionales cooperan
 
-Sin embargo no es en los ámbitos públicos o cooperativos donde nos gusta buscar ejemplos de desarrollo para explicar las ventajas de este modo de produccion de conocimiento. Para mostrar como la colaboracion y lo abierto potencian tanto el desarrollo técnico como el beneficio colectivo usamos un ejemplo bien diferente, el caso de "Linux":
+Sin embargo no es en el mundo cooperativo o de bien público donde nos gusta buscar ejemplos de desarrollo colaborativo para explicar las ventajas de este modo de producción. Para mostrar como la colaboracion y lo abierto potencian tanto el desarrollo técnico como el beneficio colectivo usamos un ejemplo bien diferente, el caso de "Linux":
 
-- "Linux" es el kernel (el núcleo) de sistemas operativos (como GNU o Android) que comenzó a programar un estudiante de informática en Finlandia llamado **Linus Torvals** en 1991 *"just for fun"* y liberó bajo una licencia de software libre, lo que promovió que colaboradores de todo el mundo comenzaran a ayudarle en el desarrollo, aun sin conocerse.
-- La última version del código de Linux tiene mas de **20 millones de lineas de código**, cada lanzamiento involucra unos **1000 desarrolladores** y actualmente se utiliza en millones de dispositivos, sostiene gran parte de la infraestructura internet (hace funcionar los servidores y routers, desde Wikipedia hasta Amazon), corre en 1500 millones de dispositivos moviles (android) y en supercomputadoras.
+- "Linux" es el *kernel* (el núcleo) de sistemas operativos (como GNU o Android) que comenzó a programar un estudiante de informática en Finlandia llamado **Linus Torvals** en 1991 *just for fun* y liberó bajo una licencia de software libre, lo que promovió que colaboradores de todo el mundo comenzaran a ayudarle en el desarrollo, aun sin conocerse.
+
+- La última versión del código de Linux tiene mas de 20 millones de lineas de código, cada lanzamiento involucra unos 1000 desarrolladores y actualmente se utiliza en millones de dispositivos, sostiene casi toda la infraestructura internet (hace funcionar los servidores y routers, desde Wikipedia hasta Amazon), corre en 1500 millones de dispositivos moviles (android) y en supercomputadoras.
 
 Pero lo mas interesante aparece aqui:
 
-- Según la Linux Fundation desde 2005 han contribuido un total de 13.594 desarrolladores pertenientes a **1340 compañias**. Entre los principales *sponsors* que financian el desarrollo están: Intel, Red Hat, Linaro, Samsung, IBM, Google, Oracle, entre otras. El 70% de los programadores que trabajan en el kernel **es empleado en alguna de estas compañias**.
+- Según la Linux Fundation desde 2005 han contribuido un total de 13.594 desarrolladores pertenientes a 1340 compañias privadas. Entre los principales *sponsors* que financian el desarrollo están: Intel, Red Hat, Linaro, Samsung, IBM, Google, Oracle, entre otras. El 70% de los programadores que trabajan en el kernel es empleado en alguna de estas compañias.
 
 Decía el Reporte de la *Linux Foundation* en 2016:
 
 > "La participación de corporaciones en el proceso es cucial, pero ninguna compañía en solitario domina el desarrollo del kernel. Entonces, mientras una empresa puede mejorar el kernel para su necesidad específica, ninguna puede conducir el desarrollo en una dirección que perjudique o restrinja para otros lo que el kernel puede hacer" 
 
-Estos hechos deberían interpelarnos fuertemente: si las grandes corporaciones multinacionales, que estan obligadas a actuar *en la forma más egoista posible* para asegurar las ganancias a sus accionistas y en un contexto de alta competencia (como ocurre en el campo tecnológico) son capaces de colaborar y compartir recursos, entonces nos hacemos la pregunta:
+Estos datos deberían interpelarnos fuertemente acerca de nuestra predisposicion a la colaboración: si las grandes corporaciones multinacionales, que están obligadas a actuar en la forma más egoista posible para asegurar sus ganancias y en un contexto de alta competencia (como ocurre en el campo tecnológico), son capaces de colaborar y compartir recursos, entonces nos hacemos la pregunta:
 
-¿cómo es que organizaciones cuya misión y visión esta definida por una ética de *valores* centrados en la solidaridad y el bien comun pueden optar por sistemas cerrados que no fomenten el beneficio colectivo o la colaboración cuando tienen a disposición estas opciones?
+¿cómo es que organizaciones cuya misión y visión esta definida por una ética de *valores* centrados en la solidaridad y el bien común pueden optar por sistemas cerrados que no fomenten el beneficio colectivo o la colaboración, cuando tienen a disposición estas opciones?
 
 En Bibliohack, promovemos el modelo abierto y colaborativo como una opción competitiva, rentable, sostenible y abierta al mercado, tanto para las empresas privadas como para instituciones públicas. 
 
