@@ -9,6 +9,8 @@ ajax_content: projects
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 ---
 [[!meta date="2021-05-05T12:00:00Z"]]
+[[!field unite_gallery="tiles" gallery_1="exma"]]
+[[!field unite_gallery="tiles" gallery_2="memoria_abierta"]]
 
 ### Sobre Memoria Abierta
 
@@ -17,6 +19,18 @@ default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 > Para ello, Memoria Abierta cataloga y da acceso a diversos archivos institucionales y personales; produce entrevistas audiovisuales que conforman un Archivo Oral; contribuye a dar visibilidad a los sitios utilizados en la represión a través de diversas herramientas y registros; elabora recursos temáticos para difusión y con fines educativos a partir de investigaciones, buscando promover debates sobre las formas de narrar lo sucedido y colabora, desde la especificidad de sus tareas, con la actuación de la justicia.
 
 (del sitio de [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
+
+<div id="exma" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/exma/300px/02.jpg"
+   data-image="/uploads/galleries/exma/1280px/02.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/exma/300px/03.jpg"
+   data-image="/uploads/galleries/exma/1280px/03.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/exma/300px/ESMA_2.jpg"
+   data-image="/uploads/galleries/exma/1280px/ESMA_2.jpg"
+   data-description="">
+</div>
 
 ### El Espacio Memoria y Derechos Humanos (Ex Esma)
 
@@ -31,6 +45,46 @@ default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 Desde fines de 2019 comenzamos a trabajar con Memoria Abierta estudiando las opciones técnicas disponibles para mejorar y ampliar su proyecto de digitalización. Debido a la diversidad del material de su acervo --que incluye desde ficheros, fotografias, escritos judiciales o recortes peridísticos, a documentos de gran formato como afiches y periodicos--iniciamos el desarrollo de un prototipo de estativo cenital (*copy stand*) de bajo costo que cubriera esta amplia gama de tipologías, tomando como marco técnico las pautas establecidas por la iniciativa [FADGI](http://www.digitizationguidelines.gov/). El laboratorio de digitalizacion quedo emplazado en uno de los pabellones de la Ex ESMA.
 
 Un limitante en la digitalización utilizando cámaras digitales es la resolución en megapixeles del sensor, que determina el tamaño máximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie móvil que expone el documento por secciones. En el caso de periódicos cada página puede ser capturada individualmente, no asi todo el pliego desplegado. La base móvil facilita esta tarea. 
+
+<div id="memoria_abierta" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/02.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/02.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/03.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/03.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/045.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/045.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/04.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/04.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/055.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/055.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/05.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/05.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/06.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/06.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/07.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/07.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/08.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/08.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/09.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/09.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/10.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/10.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/memoria_abierta/300px/11.jpg"
+   data-image="/uploads/galleries/memoria_abierta/1280px/11.jpg"
+   data-description="">
+</div>
+
 
 El diseño del dispositivo es modular, de forma que se puedan desarrollar nuevas prestaciones segun requerimientos futuros o realizar mejoras a problemas descubiertos durante el uso del prototipo en producción. Por ejemplo, la base movil se podría reemplazar por un retroiluminador para transparencias o un apoyo especial para biblioratos de gran tamaño.
 
