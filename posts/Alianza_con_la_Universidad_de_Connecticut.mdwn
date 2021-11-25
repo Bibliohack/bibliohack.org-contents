@@ -4,9 +4,12 @@ teaserline: Desarrollo de recursos para digitalización a bajo costo para museos
 summary: Iniciamos un proyecto de colaboración con UCONN, para desarrollar, evaluar y poner a prueba recursos de digitalización a bajo costo destinadas a organizaciones del Sur Global.
 cc_by_sa: yes
 ajax_content: last_posts
+default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1024x768.jpg
+default_img_alt: "Los miembros del equipo Juan Pablo Suárez (en gris), Juan Pablo Fili (en negro) y Facundo Martín (en rojo) trabajando con el escáner prototipo Bibliohack en el Departamento General de Irrigación en Mendoza, Argentina (Foto de Sergio Terrera)"
 featured: yes
 tag: proyectos uconn
 ---
+[[!meta date="2021-09-01T12:00:00Z"]]
 
 *Bibliohack Plus* es un proyecto llevado a cabo por un equipo de trabajo multidisciplinar, inicialmente de Connecticut, Buenos Aires y Mendoza, que bajo la dirección del Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut desarrollará y pondra a prueba recursos para la digitalización de acervos. 
 
@@ -47,6 +50,6 @@ featured: yes
 # no se muestra en /posts
 hide: yes
 
-[[!meta date: "2018-09-13T12:00:00Z"]]
+
 
 -->
