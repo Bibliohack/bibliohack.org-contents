@@ -93,7 +93,7 @@ Un sistema de soportes permite colocar la camara en diferentes angulos y distanc
 
 La instalación del estativo demando tres jornadas, la primera de transporte y armado, la segunda de pintura y la tercera de ajuste y puesta en funcionamiento.
 
-Las primeras pruebas realizadas por el dispositivo recibieron la aprobación de calidad por parte de los responsables del [programa MEAP](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) de la Universidad de California (UCLA).
+Las primeras pruebas realizadas por el dispositivo recibieron la aprobación de calidad por parte de los responsables del [programa MEAP](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) de la Universidad de California (UCLA), que contribuyó a financiar el proyecto.
 
 ![Ejemplo de revista digitalizada por el dispositivo (se ha reducido la resolución)](/uploads/posts/Digitalizacion_de_la_memoria/AR_SERPAJ_H_SPJAL_PJ_01_0001.jpg)
 
