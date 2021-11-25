@@ -9,9 +9,9 @@ tag: proyectos colective_access
 ---
 [[!meta date="2020-07-29T12:00:00Z" ]]
 
-Como no podría ser de otra manera este año atípico marcó fuertemente el recorrido de Bibliohack. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalización como los de despliegue de dispositivos quedaron inactivos o postergados.
+Como no podría ser de otra manera este año atípico marcó fuertemente el recorrido de Bibliohack. Con la totalidad de los archivos, bibliotecas o museos trabajando en la virtualidad, tanto los proyectos de digitalización como los de despliegue de dispositivos quedaron inactivos o postergados.
 
-Sin embargo, el otro lado de la digitalización es justamente dar la posibilidad de acceder a traves de internet a los acervos ya digitalizados sin necesidad de la presencia física. En el contexto actual disponer de este recurso se ha vuelto una necesidad apremiante.
+Si bien digitalizar es una actividad de presencialidad obligada, lo digitalizado es lo que habilita la posibilidad de acceder a traves de internet a los acervos sin necesidad de la presencia física. En el contexto actual disponer de este recurso se ha vuelto una necesidad apremiante.
 
 ## Software libre para gestionar y publicar colecciones
 
