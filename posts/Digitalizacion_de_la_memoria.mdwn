@@ -8,7 +8,7 @@ cc_by_sa: yes
 ajax_content: projects
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 ---
-[[!meta date: "2020-05-05T12:00:00Z"]]
+[[!meta date="2020-05-05T12:00:00Z"]]
 
 ### Sobre Memoria Abierta
 
