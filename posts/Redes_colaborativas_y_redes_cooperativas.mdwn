@@ -3,7 +3,7 @@ title: Redes colaborativas y redes cooperativas
 summary: El Polo de Digitalizacion inaugurado en el Centro Cultural de la Cooperación con el aporte de Bibliohack, nos invita a reflexionar sobre cooperativismo y colaboración.
 teaserline: El Polo de Digitalizacion en el Centro Cultural de la Cooperacion nos invita a reflexionar sobre cooperativismo y colaboración
 default_img: /uploads/posts/Redes_colaborativas_y_redes_cooperativas/Centro-Cultural-cooperacion.jpg
-default_img_alt: El Centro Cultural de Cooperación “Floreal Gorini” ([CC-BY-SA](https://es.wikipedia.org/wiki/Centro_Cultural_de_Cooperaci%C3%B3n_Floreal_Gorini#/media/Archivo:Buenos_Aires_-_Centro_Cultural_de_la_Cooperaci%C3%B3n_-_20071215a.jpg))
+default_img_alt: "El Centro Cultural de Cooperación 'Floreal Gorini' ([CC-BY-SA](https://es.wikipedia.org/wiki/Centro_Cultural_de_Cooperaci%C3%B3n_Floreal_Gorini#/media/Archivo:Buenos_Aires_-_Centro_Cultural_de_la_Cooperaci%C3%B3n_-_20071215a.jpg))"
 cc_by_sa: yes
 tag: articulos proyectos
 ajax_content: last_posts
