@@ -1,0 +1,49 @@
+---
+title: "Gestión de colecciones y diseño de catálogos digitales con Collective Access"
+short_title: Webinar en español sobre Collective Access
+summary: Webinar en español donde se compartieron experiencias de uso para la gestión de colecciones y el diseño catálogos digitales en Argentina. 
+teaserline: Experiencias sobre el uso de Collective Access para la gestión de colecciones. digitales.
+cc_by_sa: yes
+ajax_content: last_posts
+tag: eventos collective_access
+---
+[[!meta date="2021-05-27T12:00:00Z"]]
+
+[Collective Access](https://draft.bibliohack.org/posts/Collective_Access_y_Bibliohack_en_Pandemia/) es un software de código abierto para catalogar y publicar colecciones y fondos de museos y archivos. En este webinar en español compartimos diferentes experiencias de uso de Collective Access para la gestión de colecciones y el diseño catálogos digitales en Argentina.
+
+Invitó Bibliohack y participaron Helena Raspo del [Museo de Arte Moderno de Buenos Aires](https://museomoderno.org/), Mora Caraballo de [Fundación IDA](https://www.fundacionida.org/) y Juan Cruz Andrada del [Centro de Arte Victor Magariños D](https://magarinosd.com.ar/).
+
+Aprovechamos este encuentro para lanzar el [foro oficial de Collective Access en español](https://collectiveaccess.org/support/index.php?p=%2Fcategories%2Fspanish-language-users-group-para-usuarios-de-habla-hispana) y el [grupo de Telegram Collective Access en Español](https://t.me/collectiveaccess_es)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q61Whcu-IZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
+
+tag: prensa proyectos eventos formación
+
+
+ajax_content: last_posts/openglam/projects
+
+# imagen encabezado de post
+default_img: /ruta/imagen.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
+
+# teasers
+
+
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+# sale en portada?
+featured: yes
+
+# no se muestra en /posts
+hide: yes
+
+
+
+-->
+
