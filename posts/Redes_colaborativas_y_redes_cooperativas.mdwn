@@ -8,7 +8,7 @@ cc_by_sa: yes
 tag: articulos proyectos
 ajax_content: last_posts
 ---
-[[!meta date="2020-05-10T12:00:00Z"]]
+[[!meta date="2020-04-05T12:00:00Z"]]
 
 Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación, inaugurando el Polo de Digitalización. La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectada es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC. Biblioteca Utopia publicó un articulo sobre el dispositivo: [Nueva herramienta: escáner de libros de tecnologías abiertas](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas).
 
