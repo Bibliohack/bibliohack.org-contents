@@ -12,15 +12,17 @@ default_img_alt: Matias Butelman, Mora Caraballo, Helena Raspo y Juan Cruz Andra
 ---
 [[!meta date="2021-05-27T12:00:00Z"]]
 
-[Collective Access](https://draft.bibliohack.org/posts/Collective_Access_y_Bibliohack_en_Pandemia/) es un software de código abierto para catalogar y publicar colecciones y fondos de museos y archivos. En este webinar en español compartimos diferentes experiencias de uso de Collective Access para la gestión de colecciones y el diseño catálogos digitales en casos reales con instituciones Argentinas desarrollados con Bibliohack.
+[Collective Access](https://draft.bibliohack.org/tags/collective_access) es un software de código abierto para catalogar y publicar colecciones y fondos de museos y archivos. En este webinar en español compartimos diferentes experiencias de uso de Collective Access en casos reales con instituciones Argentinas desarrollados con Bibliohack.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q61Whcu-IZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Participaron Matias Butelman de Bibliohack, Helena Raspo del [Museo de Arte Moderno de Buenos Aires](https://museomoderno.org/), Mora Caraballo de [Fundación IDA](https://www.fundacionida.org/) y Juan Cruz Andrada del [Centro de Arte Victor Magariños D](https://magarinosd.com.ar/).
+Participaron Matías Butelman de Bibliohack, Helena Raspo del [Museo de Arte Moderno de Buenos Aires](https://museomoderno.org/), Mora Caraballo de [Fundación IDA](https://www.fundacionida.org/) y Juan Cruz Andrada del [Centro de Arte Victor Magariños D](https://magarinosd.com.ar/).
 
-Tambien aprovechamos este encuentro para lanzar el [Foro oficial de Collective Access en español](https://collectiveaccess.org/support/index.php?p=%2Fcategories%2Fspanish-language-users-group-para-usuarios-de-habla-hispana) y el [Grupo de Telegram Collective Access en Español](https://t.me/collectiveaccess_es).
+Aprovechamos este encuentro para anunciar dos lanzamientos:
+* El [Foro oficial de Collective Access en español](https://collectiveaccess.org/support/index.php?p=%2Fcategories%2Fspanish-language-users-group-para-usuarios-de-habla-hispana)
+* El [Grupo de Telegram Collective Access en Español](https://t.me/collectiveaccess_es).
 
-El evento se realizó por zoom el 26 de mayo de 2021 y el streaming se [hizo por Facebook](https://www.facebook.com/244379012730205/videos/312284497110196/) donde hubo mas de 100 asistentes presenciando en vivo.
+El evento se realizó por zoom el 26 de mayo de 2021 con *streaming* [en vivo por Facebook](https://www.facebook.com/244379012730205/videos/312284497110196/) donde hubo mas de 100 asistentes virtuales.
 
 ![Flyer del webinar Gestion de colecciones y diseño de catálogos online con Collective Access](/uploads/posts/Gestion_de_colecciones_con_Collective_Access/flyer_gestion_de_colecciones-2021.png)
 
