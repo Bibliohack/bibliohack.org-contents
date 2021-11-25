@@ -16,19 +16,12 @@ Antes del inicio de la cuarentena instalamos [un dispositivo de digitalizacion "
 Queremos agradecer especialmente a Daniel Plotinsky, Ana Grondona y Edgardo Form (un honor haber conocido a uno de los referentes mas importantes del cooperativismo) por el impulso que le dieron al proyecto.
 
 <div id="cccoop" class="unite-gallery tiles" style="display:none;">
-create_unitegallery.sh: line 31: exiftool: command not found
-   <img alt="" src="/uploads/galleries/cccoop/300px/01.jpg"
-   data-image="/uploads/galleries/cccoop/1280px/01.jpg"
-   data-description="">
-create_unitegallery.sh: line 31: exiftool: command not found
    <img alt="" src="/uploads/galleries/cccoop/300px/02.jpg"
    data-image="/uploads/galleries/cccoop/1280px/02.jpg"
    data-description="">
-create_unitegallery.sh: line 31: exiftool: command not found
    <img alt="" src="/uploads/galleries/cccoop/300px/03.jpg"
    data-image="/uploads/galleries/cccoop/1280px/03.jpg"
    data-description="">
-create_unitegallery.sh: line 31: exiftool: command not found
    <img alt="" src="/uploads/galleries/cccoop/300px/04.jpg"
    data-image="/uploads/galleries/cccoop/1280px/04.jpg"
    data-description="">
