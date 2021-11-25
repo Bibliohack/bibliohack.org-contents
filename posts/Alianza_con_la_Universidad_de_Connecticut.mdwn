@@ -1,6 +1,6 @@
 ---
-title: "GLAMgear: un engranaje que empieza girar entre Connecticut, Buenos Aires y Mendoza"
-short_title: "GLAMgear: un engranaje girando entre Connecticut, Buenos Aires y Mendoza"
+title: "GLAMGear: un engranaje que empieza girar entre Connecticut, Buenos Aires y Mendoza"
+short_title: "GLAMGear: un engranaje girando entre Connecticut, Buenos Aires y Mendoza"
 teaserline: Iniciamos un proyecto de colaboración con la Universidad de Connecticut
 summary: Iniciamos un proyecto de colaboración con la Universidad de Connecticut para desarrollar, evaluar y poner a prueba un kit de digitalización a bajo costo.
 cc_by_sa: yes
@@ -12,13 +12,13 @@ tag: proyectos uconn
 ---
 [[!meta date="2021-09-01T12:00:00Z"]]
 
-*Bibliohack Plus* es el nombre elegido para el proyecto de investigación y desarrollo sobre digitalizacion liderado por el Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut (UCONN). El equipo esta formado por investigadores de Connecticut, Buenos Aires y Mendoza y el objetivo es diseñar, documentar y evaluar recursos para la digitalización de acervos. 
+*Bibliohack Plus* es el nombre elegido para el proyecto de investigación y desarrollo en digitalización liderado por el Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut (UCONN). La propuesta ha conseguido financiación tras ganar recientemente una [beca de investigación en humanidades y artes](https://elin.uconn.edu/2021/01/07/mark-healey-wins-scharp-award/) de la Universidad. El equipo esta formado por investigadores de Connecticut, Buenos Aires y Mendoza y el objetivo es desarrollar, documentar y evaluar recursos para la digitalización de acervos. 
 
-El objetivo central es desarrollar un kit de herramientas abierto y de bajo costo –denominado *GLAMgear*–  para instituciones (como museos, archivos o bibliotecas) que no puedan hacer frente a los elevados costos que implica la compra de equipos y software de digitalizacion a precios de mercado. Mark ha observado que esta carencia ocurre tanto en organizaciones de países del Sur global como en areas desatendidas de Estados Unidos. El paquete podria incluir estativos, hardware, software, guias o documentacion tecnica que les permita a las organizaciones llevar adelante un flujo de trabajo eficiente en la digitalización de patrimonio cultural dentro de estandares profesionales. Los recursos de hardware, software y documentacion relevados o desarrollados por Bibliohack en estos años constituyen el punto de partida del kit.
+El objetivo concreto es producir un kit de herramientas abierto y de bajo costo –denominado *GLAMGear*–  para instituciones (como museos, archivos o bibliotecas) que no puedan hacer frente a los elevados costos que implica la compra de equipos comerciales de digitalización. Mark ha observado que esta carencia ocurre tanto en organizaciones de países del Sur Global, como Argentina, pero también en areas desatendidas de Estados Unidos. El paquete podría incluir estativos, hardware, software, guias o documentacion técnica que les permita a las organizaciones llevar adelante un flujo de trabajo eficiente en la digitalización de patrimonio cultural dentro de estandares profesionales. Los recursos de hardware, software y documentación relevados o desarrollados por Bibliohack en estos años constituyen el punto de partida del kit.
 
 El equipo está formado por Matías Butelman y Juan Suárez de Bibliohack (Buenos Aires), Facundo D. Martín (Investigador del Conicet, Mendoza), y Tom Scheinfeldt, Greg Colati, Michael Kemezis y Mark Healey de UCONN.
 
-Mas informacion (en ingles):
+Mas información (en ingles):
 
 * [OVPR Funds Five Projects in the Arts & Humanities](https://today.uconn.edu/2020/10/ovpr-funds-five-projects-arts-humanities/)
 * [Mark Healey Wins SCHARP Award](https://elin.uconn.edu/2021/01/07/mark-healey-wins-scharp-award/)
@@ -27,30 +27,5 @@ Mas informacion (en ingles):
 
 https://twitter.com/UConnResearch/status/1314279552496041990
 https://greenhousestudios.uconn.edu/design-process/
-
-tag: prensa proyectos eventos formación
-
-
-ajax_content: last_posts/openglam/projects
-
-# imagen encabezado de post
-default_img: /ruta/imagen.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-# teasers
-
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
-# sale en portada?
-featured: yes
-
-# no se muestra en /posts
-hide: yes
-
-
 
 -->
