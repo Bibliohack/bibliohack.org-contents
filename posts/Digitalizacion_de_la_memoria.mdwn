@@ -93,7 +93,7 @@ Un sistema de soportes permite colocar la cámara digital en diferentes ángulos
 
 La instalación del estativo demandó tres jornadas, la primera de transporte y armado, la segunda de pintura y la tercera de ajuste y puesta en funcionamiento.
 
-Las primeras pruebas realizadas por el dispositivo recibieron la aprobación de calidad por parte de los responsables del [programa MEAP](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) de la Universidad de California (UCLA), que contribuyó a financiar el proyecto. Utilizamos una cáma Canon EOS Rebel T7i, controlada remotamente con gPhoto2.
+Las primeras pruebas realizadas por el dispositivo recibieron la aprobación de calidad por parte de los responsables del [programa MEAP](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) de la Universidad de California (UCLA), que contribuyó a financiar el proyecto. Utilizamos una cámara reflex digital Canon EOS Rebel T7i, controlada remotamente con gPhoto2.
 
 ![Ejemplo de revista digitalizada por el dispositivo (se ha reducido la resolución)](/uploads/posts/Digitalizacion_de_la_memoria/AR_SERPAJ_H_SPJAL_PJ_01_0001.jpg)
 
