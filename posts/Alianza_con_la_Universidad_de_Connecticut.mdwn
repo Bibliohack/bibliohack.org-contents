@@ -1,5 +1,5 @@
 ---
-title: "Bibliohack Plus: proyecto con la Universidad de Connecticut"
+title: "GLAMgear, un engranaje que empieza girar entre Connecticut, Buenos Aires y Mendoza"
 teaserline: Desarrollo de recursos para digitalización a bajo costo para museos y archivos del Sur GLobal
 summary: Iniciamos un proyecto de colaboración con UCONN, para desarrollar, evaluar y poner a prueba recursos de digitalización a bajo costo destinadas a organizaciones del Sur Global.
 cc_by_sa: yes
@@ -11,9 +11,9 @@ tag: proyectos uconn
 ---
 [[!meta date="2021-09-01T12:00:00Z"]]
 
-*Bibliohack Plus* es un proyecto llevado a cabo por un equipo de trabajo multidisciplinar, inicialmente de Connecticut, Buenos Aires y Mendoza, que bajo la dirección del Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut desarrollará y pondra a prueba recursos para la digitalización de acervos. 
+*Bibliohack Plus* es el nombre elegido para el proyecto de investigación y desarrollo sobre digitalizacion liderado por el Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut (UCONN). El equipo esta formado por investigadores de Connecticut, Buenos Aires y Mendoza y el objetivo es diseñar, documentar y evaluar recursos para la digitalización de acervos. 
 
-Se trata de diseñar kit de herramientas de código abierto y bajo costo –denominado *GLAMGear*– que incluya recursos tanto materiales como informativos y de software, para que instituciones (como museos, archivos o universidades) del Sur Global o áreas desatendidas de Estados Unidos puedan llevar adelante un flujo de trabajo eficiente en la digitalización de patrimonio cultural. 
+El objetivo central es desarrollar un kit de herramientas abierto y de bajo costo –denominado *GLAMgear*–  para instituciones (como museos, archivos o bibliotecas) que no puedan hacer frente a los elevados costos que implica la compra de equipos y software de digitalizacion a precios de mercado. Mark ha observado que esta carencia ocurre tanto en organizaciones de países del Sur global como en areas desatendidas de Estados Unidos. El paquete podria incluir estativos, hardware, software, guias o documentacion tecnica que les permita a las organizaciones llevar adelante un flujo de trabajo eficiente en la digitalización de patrimonio cultural dentro de los esgtandares adecuados. Los recursos de hardware, software y documentacion relevados o desarrollados por Bibliohack en estos años constituyen el punto de partida del kit.
 
 El equipo está formado por Matías Butelman y Juan Pablo Suárez de Bibliohack (Buenos Aires), Facundo D. Martín (Investigador del Conicet, Mendoza), y Tom Scheinfeldt, Greg Colati, Michael Kemezis y Mark Healey de UCONN.
 
