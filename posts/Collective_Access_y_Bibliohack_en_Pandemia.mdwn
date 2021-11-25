@@ -1,6 +1,7 @@
 ---
 title: "Collective Access y Bibliohack en Pandemia"
-summary: La pandemia de COVID-19 provocó que la mayoria de los proyectos en los que veniamos trabajando quedaran inactivos, pero pudimos profundizar nuestro trabajo con Collective Access.
+summary: La pandemia de COVID-19 provocó que la mayoria de los proyectos en los que veniamos trabajando quedaran inactivos. En el caso de Collective Access nos dio tiempo para consolidar nuestros avances.
+teaserline: Como no podría ser de otra manera este año atípico de pandemia marcó fuertemente el recorrido de Bibliohack.
 default_img: /uploads/posts/Collective_Access_y_Bibliohack_en_Pandemia/collectiveaccess.jpg
 default_img_alt: Collective Access es un software de código abierto para gestión y publicación de colecciones.
 ajax_content: last_posts
