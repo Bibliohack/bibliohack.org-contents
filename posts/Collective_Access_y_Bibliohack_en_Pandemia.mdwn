@@ -7,17 +7,17 @@ default_img_alt: Collective Access es un software de código abierto para gesti�
 ajax_content: last_posts
 tag: proyectos colective_access
 ---
-[[!meta date="2020-06-09T12:00:00Z" ]]
+[[!meta date="2020-07-29T12:00:00Z" ]]
 
-Como no podría ser de otra manera este año atípico de pandemia marcó fuertemente el recorrido de Bibliohack. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalización como los de despliegue de dispositivos quedaron inactivos. 
+Como no podría ser de otra manera este año atípico marcó fuertemente el recorrido de Bibliohack. Con la totalidad de las instituciones culturales trabajando en la virtualidad, tanto los proyectos de digitalización como los de despliegue de dispositivos quedaron inactivos o postergados.
 
-Sin embargo, el otro lado de la digitalización es justamente dar la posibilidad del acceso a traves de internet a los acervos ya digitalizados sin necesidad de la presencia física. En el contexto actual disponer de este recurso se ha vuelto una necesidad apremiante.
+Sin embargo, el otro lado de la digitalización es justamente dar la posibilidad de acceder a traves de internet a los acervos ya digitalizados sin necesidad de la presencia física. En el contexto actual disponer de este recurso se ha vuelto una necesidad apremiante.
 
 ## Software libre para gestionar y publicar colecciones
 
 Nuestra exploración sobre Collective Access comenzó en 2018, a partir de una propuesta de IDA (Investigación en Diseño Argentino) que consistia en que Bibliohack se encargara de la implementación de este software para la gestión digital de su colección. Gracias a su apoyo pionero pudimos dar nuestros primeros pasos en el conocimiento, despliegue y configuración de esta herramienta de código abierto. 
 
-El Museo de Arte Moderno también confió en nosotros para evaluar a traves de una prueba piloto la posibilidad de migrar la gestion digital de su colección a Collective, que este año adoptó. Luego, Fundacion Klemm, Fundación Magariños y Fundación Lariviere, entre otras, se interesaron por este software para sus colecciones y Bibliohack comenzo a brindarles servicios en la planificacion previa para su despliegue, que implica abordar cuestiones como el modelado de los esquemas de metadatos, el analisis de la migracion de los recursos digitales existentes, las eleccion de permisos de acceso adecuados, el diseño de la presentacion digital, entre otros muchos aspectos que hacen a la complejidad de la gestion de una colección y que deben comprenderse y decidirse con detenimiento segun las caracteristicas de cada proyecto.
+El Museo de Arte Moderno también confió en nosotros para evaluar a través de una prueba piloto la posibilidad de migrar la gestion digital de su colección de TMS a Collective. Durante 2019 Fundacion Klemm, Fundación Magariños y Fundación Lariviere, entre otras, se interesaron por este software para sus colecciones y Bibliohack comenzó a brindarles servicios en la planificacion previa para su despliegue, que implica abordar cuestiones como el modelado de los esquemas de metadatos, el analisis de la migracion de los recursos digitales existentes, las eleccion de permisos de acceso adecuados, el diseño de la presentacion digital, entre otros muchos aspectos que hacen a la complejidad de la gestion de una colección y que deben comprenderse y decidirse con detenimiento segun las caracteristicas de cada proyecto.
 
 Este año hemos nos hemos dedicado intensamente a desarrollar este area de trabajo y logramos grandes avances. ¡Pronto vamos a tener más novedades para publicar!.
 
