@@ -1,8 +1,8 @@
 ---
 title: "GLAMgear: un engranaje que empieza girar entre Connecticut, Buenos Aires y Mendoza"
 short_title: "GLAMgear: un engranaje girando entre Connecticut, Buenos Aires y Mendoza"
-teaserline: Desarrollo de recursos para digitalización a bajo costo para museos y archivos del Sur GLobal
-summary: Iniciamos un proyecto de colaboración con UCONN, para desarrollar, evaluar y poner a prueba recursos de digitalización a bajo costo destinadas a organizaciones del Sur Global.
+teaserline: Iniciamos un proyecto de colaboración con la Universidad de Connecticut
+summary: Iniciamos un proyecto de colaboración con la Universidad de Connecticut para desarrollar, evaluar y poner a prueba un kit de digitalización a bajo costo.
 cc_by_sa: yes
 ajax_content: last_posts
 default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1024x768.jpg
