@@ -2,13 +2,17 @@
 title: Redes colaborativas y redes cooperativas
 summary: El Polo de Digitalizacion inaugurado en el Centro Cultural de la Cooperación con el aporte de Bibliohack, nos invita a reflexionar sobre cooperativismo y colaboración.
 teaserline: El Polo de Digitalizacion en el Centro Cultural de la Cooperacion nos invita a reflexionar sobre cooperativismo y colaboración
+default_img: /uploads/posts/Redes_colaborativas_y_redes_cooperativas/Centro-Cultural-cooperacion.jpg
+default_img_alt: El Centro Cultural de Cooperación “Floreal Gorini” ([CC-BY-SA](https://es.wikipedia.org/wiki/Centro_Cultural_de_Cooperaci%C3%B3n_Floreal_Gorini#/media/Archivo:Buenos_Aires_-_Centro_Cultural_de_la_Cooperaci%C3%B3n_-_20071215a.jpg))
 cc_by_sa: yes
 tag: articulos proyectos
 ajax_content: last_posts
 ---
 [[!meta date: "2020-05-10T12:00:00Z"]]
 
-Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación, inaugurando el Polo de Digitalización. La iniciativa ha sido impulsada desde el Instituto Movilizador de Fondos Cooperativos (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: Idelcoop (Fundación de Educación Cooperativa), Instituto Universitario de la Cooperación (IUCOOP), Archivo Histórico del Cooperativismo de Crédito y la Biblioteca Utopía.
+Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación, inaugurando el Polo de Digitalización. Biblioteca Utopia publicó un articulo sobre el dispositivo: ([Nueva herramienta: escáner de libros de tecnologías abiertas](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas)). La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectada es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC. 
+
+## Cooperación tecnológica
 
 El desarrollo de los dispositivos de digitalización de Bibliohack esta inmerso desde sus inicios en la lógica de la cooperación tecnológica. Los diseños estan basados en el acervo de conocimientos publicados en foros o *wikis* colaborativos y abiertos como [diybookscanner.org](https://forum.diybookscanner.org) o [CHDK](https://chdk.fandom.com/wiki/CHDK), el codigo del software que implementamos para realizar las capturas y postprocesamiento esta publicado con licencias libres que permiten su reutilizacion en otros proyectos y nos permiten descubrir y estudiar su funcionamiento. A su vez cada proyecto de software libre esta rodeado por lo general de una comunidad que colabora en su mantenimiento y mejoramiento, y a la que es posible acudir en caso de necesitar ayuda. 
 
@@ -16,22 +20,24 @@ El ambito del hardware libre o abierto (en el cual se enmarca el desarrolo de nu
 
 ## Cuando las multinacionales cooperan
 
-Sin embargo no es en los ámbitos publicos o cooperativos donde nos gusta buscar ejemplos para explicar las ventajas de este modo de produccion de conocimiento colaborativo y cooperativo. Para mostrar como la colaboracion y lo abierto potencian tanto el desarrollo tecnico como el beneficio común usamos un ejemplo donde las mayores corporaciones tecnologicas del planeta les resulta mas beneficiosa la cooperacion que la competencia y el secretismo. En muchas charlas nos referimos al caso de "Linux":
+Sin embargo no es en los ámbitos publicos o cooperativos donde nos gusta buscar ejemplos para explicar las ventajas de este modo de produccion de conocimiento colaborativo y cooperativo. Para mostrar como la colaboracion y lo abierto potencian tanto el desarrollo tecnico como el beneficio común usamos un ejemplo donde las mayores corporaciones tecnologicas del planeta les resulta mas beneficiosa la cooperacion que la competencia o el secretismo. En muchas charlas nos referimos al caso de "Linux":
 
-- "Linux" es el kernel de un sistema operativo que comenzo a programar un estudiante de informatica en Finlandia llamado **Linus Torvals** en 1991 *"just for fun"* y liberó bajo una licencia de software libre, lo que promovió que colaboradores de todo el mundo comenzaron a ayudarle en el desarrollo aun sin conocerse.
-- La ultima version del código de Linux tiene mas de **20 millones de lineas de código**, cada lanzamiento involucra unos **1000 desarrolladores** y actualmente se utiliza en millones de dispositivos, sostiene gran parte de la infraestructura internet (hace funcionar los servidores y routers), corre en 1500 millones de dispositivos moviles (android) y en supercomputadoras.
+- "Linux" es el kernel (el núcleo) de un sistema operativo que comenzó a programar un estudiante de informática en Finlandia llamado **Linus Torvals** en 1991 *"just for fun"* y liberó bajo una licencia de software libre, lo que promovió que colaboradores de todo el mundo comenzaran a ayudarle en el desarrollo, aun sin conocerse.
+- La última version del código de Linux tiene mas de **20 millones de lineas de código**, cada lanzamiento involucra unos **1000 desarrolladores** y actualmente se utiliza en millones de dispositivos, sostiene gran parte de la infraestructura internet (hace funcionar los servidores y routers), corre en 1500 millones de dispositivos moviles (android) y en supercomputadoras.
 
 Pero lo mas interesante aparece aqui:
 
-- Según la Linux Fundation desde 2005 han contribuido un total de 13.594 desarrolladores pertenientes a **1340 compañias**. Entre los principales *sponsors* que financian el desarrollo estan: **Intel**, **Red Hat**, **Linaro**, **Samsung**, **IBM**, **Google**, **Oracle**, etc. El 70% de los desarroladores trabaja en el kernel **trabaja como empleado en alguna de estas compañias**.
+- Según la Linux Fundation desde 2005 han contribuido un total de 13.594 desarrolladores pertenientes a **1340 compañias**. Entre los principales *sponsors* que financian el desarrollo estan: Intel, Red Hat, Linaro, Samsung, IBM, Google, Oracle, entre otras. El 70% de los desarrolladores que trabajan en el kernel **es empleado en alguna de estas compañias**.
 
-Decia el Reporte de la Linux Foundation en 2016:
+Decía el Reporte de la *Linux Foundation* en 2016:
 
-> "La participacion de corporaciones en el proceso es cucial, pero ninguna compañia en solitario domina el desarrollo del kernel. Entonces, mientras una empresa puede mejorar el kernel para su necesidad especifica, ninguna puede conducir el desarrollo en una direccion que perjudique o restrinja para otros lo que el kernel puede hacer" 
+> "La participacion de corporaciones en el proceso es cucial, pero ninguna compañia en solitario domina el desarrollo del kernel. Entonces, mientras una empresa puede mejorar el kernel para su necesidad especifica, ninguna puede conducir el desarrollo en una dirección que perjudique o restrinja para otros lo que el kernel puede hacer" 
 
-Estos hechos deberian interpelarnos fuertemente: si las grandes corporaciones multinacionales, que estan obligadas a actuar en la forma *mas egoista posible* para asegurar las ganancias a sus accionistas y en un contexto de fuerte competencia (como es el tecnologico) son capaces de colaborar y compartir recursos, nos hacemos la pregunta:
+Estos hechos deberian interpelarnos fuertemente: si las grandes corporaciones multinacionales, que estan obligadas a actuar en la forma *mas egoista posible* para asegurar las ganancias a sus accionistas y en un contexto de alta competencia (como ocurre en el campo tecnológico) son capaces de colaborar y compartir recursos, entonces nos hacemos la pregunta:
 
-¿cómo es que organizaciones cuya mision y vision esta definida por una ética de *valores* centrados en la solidaridad y el bien comun pueden optar por sistemas que no fomenten el beneficio colectivo o la colaboracion cuando tienen a disposicion estas opciones?
+¿cómo es que organizaciones cuya mision y vision esta definida por una ética de *valores* centrados en la solidaridad y el bien comun pueden optar por sistemas que no fomenten el beneficio colectivo o la colaboración cuando tienen a disposicion estas opciones?
+
+En Bibliohack, promovemos el modelo abierto y colaborativo como una opcion competitiva, rentable, sostenible y abierta al mercado, tanto para las empresas privadas como para instituciones publicas. A la vez, celebramos cuando convergen nuestros valores y los valores de las organizaciones con las que trabajamos.
 
 ---
 
