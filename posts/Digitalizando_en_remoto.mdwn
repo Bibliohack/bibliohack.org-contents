@@ -1,13 +1,13 @@
 ---
 title: Digitalizando en remoto por Colombia
 summary: Participamos del taller \"De la memoria colectiva a la representación digital\"  organizado por BibloRed Bogotá, mostrando el funcionamiento de un estativo Cenital
-teaserline: Participamos del taller 'De la memoria colectiva a la representación digital' 
+teaserline: Participamos del taller \"De la memoria colectiva a la representación digital\"
 cc_by_sa: yes
 tag: proyectos colombia
 ajax_content: last_posts
 featured: yes
 default_img: /uploads/posts/Digitalizando_en_remoto/bibliored2021.jpeg
-default_img_alt: Matias butelman desde Buenos AIres participando del taller 'De la memoria colectiva a la representación digital', a la izquiereda el dispositivo de digitalización en Bogotá.
+default_img_alt: "Matías Butelman desde Buenos Aires participando del taller \"De la memoria colectiva a la representación digital\", a la izquiereda el dispositivo de digitalización en Bogotá."
 ---
 [[!field unite_gallery="tiles" gallery_1="bibliored2021"]]
 [[!meta date="2021-11-09T12:00:00Z"]]
@@ -39,34 +39,8 @@ En el marco de la [Semana de Cultura Digital e Innovación](https://www.biblored
 
 Queremos agradecer a BiblioRed por darnos la oportunidad de participar de este evento y en especial a María Juana Espinosa (@ju_anacronica) por haber hecho posible este proyecto!
 
-![Estativo para digitalizacion cenital](/uploads/posts/Digitalizando_en_remoto/FDyum3FWYAIu57u.jpeg)
+
 
 <!--
 https://www.biblored.gov.co/sites/default/files/2021-10/Noticias/Broshure.pdf
-tag: prensa proyectos eventos formación
-summary: Resumen que aparece abajo del titulo en el post
-
-ajax_content: last_posts/openglam/projects
-
-# imagen encabezado de post
-default_img: /ruta/imagen.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-# teasers
-short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
-# sale en portada?
-featured: yes
-
-# no se muestra en /posts
-hide: yes
-
-[[!meta date: "2018-09-13T12:00:00Z"]]
-
 -->
