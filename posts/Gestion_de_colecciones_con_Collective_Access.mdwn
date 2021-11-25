@@ -12,13 +12,14 @@ default_img_alt: Matias Butelman, Mora Caraballo, Helena Raspo y Juan Cruz Andra
 ---
 [[!meta date="2021-05-27T12:00:00Z"]]
 
-[Collective Access](https://draft.bibliohack.org/tags/collective_access) es un software de código abierto para catalogar y publicar colecciones y fondos de museos y archivos. En este webinar en español compartimos diferentes experiencias de uso de Collective Access en casos reales con instituciones Argentinas desarrollados con Bibliohack.
+[Collective Access](https://draft.bibliohack.org/tags/collective_access) es un software de código abierto para catalogar y publicar colecciones y fondos de museos y archivos. En este webinar en español compartimos diferentes experiencias de aplicación de Collective Access en casos reales por parte de organizaciones de Argentina, desarrollados con Bibliohack.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q61Whcu-IZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Participaron Matías Butelman de Bibliohack, Helena Raspo del [Museo de Arte Moderno de Buenos Aires](https://museomoderno.org/), Mora Caraballo de [Fundación IDA](https://www.fundacionida.org/) y Juan Cruz Andrada del [Centro de Arte Victor Magariños D](https://magarinosd.com.ar/).
 
 Aprovechamos este encuentro para anunciar dos lanzamientos:
+
 * El [Foro oficial de Collective Access en español](https://collectiveaccess.org/support/index.php?p=%2Fcategories%2Fspanish-language-users-group-para-usuarios-de-habla-hispana)
 * El [Grupo de Telegram Collective Access en Español](https://t.me/collectiveaccess_es).
 
