@@ -6,12 +6,14 @@ cc_by_sa: yes
 tag: proyectos colombia
 ajax_content: last_posts
 featured: yes
+default_img: /uploads/posts/Digitalizando_en_remoto/bibliored2021.jpeg
+default_img_alt: Matias butelman desde Buenos AIres participando del taller 'De la memoria colectiva a la representación digital', a la derecha el dispositivo de digitalización en Bogotá.
 ---
 [[!meta date="2021-11-09T12:00:00Z"]]
 
 En septiembre de 2019 llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto [con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam](https://draft.bibliohack.org/posts/Se_armo_el_escaner/es.html). El dispositivo fue bautizado *la escaner* y quedo a cargo de la Red Distrital de Bibliotecas Públicas de Bogotá (BiblioRed).
 
-En el marco de la [Semana de Cultura Digital e Innovación](https://www.biblored.gov.co/index.php/noticias/semana-cultura-digital-2021) de BiblioRed, el 9 de noviembre se llevó a cabo un taller presencial y virtual en la Sala LabCo de la Biblioteca Pública El Tunal Gabriel García Márquez donde Matías Butelman desde Buenos Aires hablo de digitalización, acceso y tecnología abierta, y conversó con investigadores y custodios de diferentes museos, archivos y bibliotecas. Con un enlace remoto operó el dispositivo desde Argentina, realizando capturas y demostrando su uso.
+En el marco de la [Semana de Cultura Digital e Innovación](https://www.biblored.gov.co/index.php/noticias/semana-cultura-digital-2021) de BiblioRed, el 9 de noviembre se llevó a cabo un taller presencial y virtual en la Sala LabCo de la Biblioteca Pública El Tunal Gabriel García Márquez donde Matías desde Buenos Aires habló de digitalización, acceso y tecnología abierta, y conversó con investigadores y custodios de diferentes museos, archivos y bibliotecas. Con un enlace remoto operó el dispositivo desde Argentina, realizando capturas y demostrando su uso.
 
 Queremos agradecer a BiblioRed por darnos la oportunidad de participar de este evento y en especial a María Juana Espinosa (@ju_anacronica) por haber hecho posible este proyecto!
 
