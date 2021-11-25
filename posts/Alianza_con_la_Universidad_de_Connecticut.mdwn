@@ -1,0 +1,52 @@
+---
+title: "Bibliohack Plus: proyecto con la Universidad de Connecticut"
+teaserline: Desarrollo de recursos para digitalización a bajo costo para museos y archivos del Sur GLobal
+summary: Iniciamos un proyecto de colaboración con UCONN, para desarrollar, evaluar y poner a prueba recursos de digitalización a bajo costo destinadas a organizaciones del Sur Global.
+cc_by_sa: yes
+ajax_content: last_posts
+featured: yes
+tag: proyectos uconn
+---
+
+*Bibliohack Plus* es un proyecto llevado a cabo por un equipo de trabajo multidisciplinar, inicialmente de Connecticut, Buenos Aires y Mendoza, que bajo la dirección del Profesor Mark Healey del Departamento de Historia de la Universidad de Connecticut desarrollará y pondra a prueba recursos para la digitalización de acervos. 
+
+Se trata de diseñar kit de herramientas de código abierto y bajo costo –denominado *GLAMGear*– que incluya recursos tanto materiales como informativos y de software, para que instituciones (como museos, archivos o universidades) del Sur Global o áreas desatendidas de Estados Unidos puedan llevar adelante un flujo de trabajo eficiente en la digitalización de patrimonio cultural. 
+
+El equipo está formado por Matías Butelman y Juan Pablo Suárez de Bibliohack (Buenos Aires), Facundo D. Martín (Investigador del Conicet, Mendoza), y Tom Scheinfeldt, Greg Colati, Michael Kemezis y Mark Healey de UCONN.
+
+Mas informacion (en ingles):
+
+* [OVPR Funds Five Projects in the Arts & Humanities](https://today.uconn.edu/2020/10/ovpr-funds-five-projects-arts-humanities/)
+* [Mark Healey Wins SCHARP Award](https://elin.uconn.edu/2021/01/07/mark-healey-wins-scharp-award/)
+
+<!--
+
+https://twitter.com/UConnResearch/status/1314279552496041990
+https://greenhousestudios.uconn.edu/design-process/
+
+tag: prensa proyectos eventos formación
+
+
+ajax_content: last_posts/openglam/projects
+
+# imagen encabezado de post
+default_img: /ruta/imagen.jpg
+default_img_alt: Las imagenes siempre debe llevar epigrafe!
+
+# teasers
+
+
+# video encabezado de post
+default_video: /ruta/video.mp4
+default_video_alt: Texto que aparece como epigrafe 
+default_video_poster: /ruta/a/imagen_poster.jpg
+
+# sale en portada?
+featured: yes
+
+# no se muestra en /posts
+hide: yes
+
+[[!meta date: "2018-09-13T12:00:00Z"]]
+
+-->
