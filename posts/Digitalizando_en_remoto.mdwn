@@ -6,7 +6,7 @@ cc_by_sa: yes
 tag: proyectos colombia
 ajax_content: last_posts
 featured: yes
-default_img: /uploads/posts/Digitalizando_en_remoto/bibliored2021.jpeg
+default_img: /uploads/posts/Digitalizando_en_remoto/taller.jpeg
 default_img_alt: "Matías Butelman desde Buenos Aires participando del taller \"De la memoria colectiva a la representación digital\", a la izquiereda el dispositivo de digitalización en Bogotá."
 ---
 [[!field unite_gallery="tiles" gallery_1="bibliored2021"]]
