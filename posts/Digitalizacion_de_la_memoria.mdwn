@@ -7,6 +7,7 @@ tag: proyectos
 cc_by_sa: yes
 ajax_content: projects
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
+default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
 ---
 [[!meta date="2021-05-05T12:00:00Z"]]
 [[!field unite_gallery="tiles" gallery_1="exma"]]
