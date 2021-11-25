@@ -3,14 +3,14 @@ title: Redes colaborativas y redes cooperativas
 summary: El Polo de Digitalizacion inaugurado en el Centro Cultural de la Cooperación con el aporte de Bibliohack, nos invita a reflexionar sobre cooperativismo y colaboración.
 teaserline: El Polo de Digitalizacion en el Centro Cultural de la Cooperacion nos invita a reflexionar sobre cooperativismo y colaboración
 default_img: /uploads/posts/Redes_colaborativas_y_redes_cooperativas/Centro-Cultural-cooperacion.jpg
-default_img_alt: "El Centro Cultural de Cooperación 'Floreal Gorini' ([CC-BY-SA](https://es.wikipedia.org/wiki/Centro_Cultural_de_Cooperaci%C3%B3n_Floreal_Gorini#/media/Archivo:Buenos_Aires_-_Centro_Cultural_de_la_Cooperaci%C3%B3n_-_20071215a.jpg))"
+default_img_alt: "El Centro Cultural de Cooperación 'Floreal Gorini'"
 cc_by_sa: yes
 tag: articulos proyectos
 ajax_content: last_posts
 ---
 [[!meta date: "2020-05-10T12:00:00Z"]]
 
-Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación, inaugurando el Polo de Digitalización. Biblioteca Utopia publicó un articulo sobre el dispositivo: ([Nueva herramienta: escáner de libros de tecnologías abiertas](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas)). La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectada es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC. 
+Antes del inicio de la cuarentena instalamos un dispositivo de digitalizacion "en V" en el Centro Cultural de la Cooperación, inaugurando el Polo de Digitalización. La iniciativa ha sido impulsada desde el [Instituto Movilizador de Fondos Cooperativos](http://www.imfc.coop/) (IMFC). Participan del proyecto varias organizaciones cooperativas que buscar digitalizar acervos: [Idelcoop](https://www.idelcoop.org.ar/) (Fundación de Educación Cooperativa), [Instituto Universitario de la Cooperación](http://www.iucoop.edu.ar/) (IUCOOP), [Archivo Histórico del Cooperativismo de Crédito](https://www.archicoop.org.ar/) y la [Biblioteca Utopía](https://www.centrocultural.coop/biblioteca-utopia). El primer proyecto al que estará afectada es la digitalización del Archivo Mallmann, iniciativa coordinada por Ana Grondona, investigadora del CCC. Biblioteca Utopia publicó un articulo sobre el dispositivo: [Nueva herramienta: escáner de libros de tecnologías abiertas](https://www.centrocultural.coop/blogs/utopia/2020/03/nueva-herramienta-escaner-de-libros-de-tecnologias-abiertas).
 
 ## Cooperación tecnológica
 
@@ -41,74 +41,10 @@ En Bibliohack, promovemos el modelo abierto y colaborativo como una opcion compe
 
 ---
 
-
-https://www.idelcoop.org.ar/sites/www.idelcoop.org.ar/files/revista/articulos/pdf/2010_184989810.pdf
-
+Foto del CCC [CC-BY-SA](https://es.wikipedia.org/wiki/Centro_Cultural_de_Cooperaci%C3%B3n_Floreal_Gorini#/media/Archivo:Buenos_Aires_-_Centro_Cultural_de_la_Cooperaci%C3%B3n_-_20071215a.jpg)
 
 <!--
 
-tag: prensa proyectos eventos formación
-summary: Resumen que aparece abajo del titulo en el post
-
-ajax_content: last_posts/openglam/projects
-
-# imagen encabezado de post
-default_img: /ruta/imagen.jpg
-default_img_alt: Las imagenes siempre debe llevar epigrafe!
-
-# teasers
-short_title: Variante alternativa de titulo para teasers
-teaserline: Texto copete debajo del titulo solo en teasers
-
-# video encabezado de post
-default_video: /ruta/video.mp4
-default_video_alt: Texto que aparece como epigrafe 
-default_video_poster: /ruta/a/imagen_poster.jpg
-
-# sale en portada?
-featured: yes
-
-# no se muestra en /posts
-hide: yes
-
-[[!meta date: "2018-09-13T12:00:00Z"]]
+https://www.idelcoop.org.ar/sites/www.idelcoop.org.ar/files/revista/articulos/pdf/2010_184989810.pdf
 
 -->
-
-<big>Esto es un texto destacado</big>
-
-Donec sodales sagittis magna. «Sed consequat» leo eget bibendum sodales —augue velit cursus nunc. Quis gravida magna –mi a libero fusce vulputate– eleifend sapien. 
-
-> En teoría, teoría y práctica comfluyen, en la práctica, no (cita)
-
-Maecenas tempus, **texto en negrita**, *texto en cursiva*, [un enlace](http://wikipedia.org) y `texto en monospaced` tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc. 
-
-### Subtitulo
-
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. 
-
- * item de lista
- * otro item
- * tercer elemento
-
-Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. 
-
-    bloque-de-texto = {"texto que sale en monospaced"};
-    otro_comando($a, $b);
-
-Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
-
-![A test image](https://www.vialibre.org.ar/wp-content/uploads/2019/05/banner-ok.png)
-
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. 
-
-1. Sed aliquam ultrices mauris. 
-2. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. 
-3. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. 
-
-Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. 
-
----
-
-Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. 
-
