@@ -5,7 +5,7 @@ teaserline: Nota sobre la inauguración del Polo de Digitalización impulsado po
 ajax_content: last_posts
 tag: prensa
 default_img: /uploads/posts/Preservar_y_difundir/polo_de_digitalizacion.jpg
-default_img_alt: "Tecnología y memoria. Plotinsky, Grondona, Suárez, Form y Buttelman, en la inauguración. (Subcoop)"
+default_img_alt: "Tecnología y memoria. Plotinsky, Grondona, Suárez, Form y Butelman, en la inauguración. (Subcoop)"
 ---
 [[!meta date="2020-04-30T12:00:00Z"]] 
 
