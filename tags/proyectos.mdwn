@@ -4,6 +4,7 @@
    summary="Posts sobre proyectos de Bibliohack"
    body_class="taglist"
    hashtag="proyectos"
+   translatable="yes"
 ]]
 <div class="row">
 [[!inline pages="tagged(proyectos) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
