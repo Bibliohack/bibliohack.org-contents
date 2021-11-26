@@ -1,9 +1,10 @@
 ---
-tag: proyectos el-moderno 
+title: Open Source Technology and Modern Art Archives
+tag: projects el-moderno 
 default_img: /uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png
-default_img_alt: Esquema descriptivo y dimensiones de modelo de estativo cenital.
-summary: Crónica sobre el diseño y construcción de un estativo cenital para el proyecto de digitalización del Museo de Arte Moderno de Buenos Aires y algunas reflexiones sobre la realidad local de las instituciones que custodian patrimonio.
-teaserline: Desarrollo de estativo cenital para el Museo de Arte Moderno.
+default_img_alt: Descriptive diagram and dimensions of a DIY copy stand. 
+summary: Chronicle on the design and construction of a low cost copy stand for the digitization project of the Museum of Modern Art of Buenos Aires and some reflections on the local reality of the institutions that guard heritage. 
+teaserline: Development of a low cost copy stand for the Museum of Modern Art .
 featured: yes
 ajax_content: projects
 translatable: yes
