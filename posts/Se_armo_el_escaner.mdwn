@@ -1,5 +1,5 @@
 ---
-title: "Bogotá: se armó el escáner"
+title: "Bogotá: se armó la escáner"
 tag: eventos colombia proyectos
 default_img: /uploads/posts/Se_armo_el_escaner/20190928_115033.jpg
 default_img_alt: Construcción colectiva de un escáner cenital de Bibliohack
