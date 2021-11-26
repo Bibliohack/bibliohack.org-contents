@@ -1,9 +1,9 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!meta title="Proyectos de Bibliohack"]]
+[[!meta title="Projects"]]
 [[!field 
-   summary="Posts sobre proyectos de Bibliohack"
+   summary="Posts about projects"
    body_class="taglist"
-   hashtag="proyectos"
+   hashtag="projects"
    translatable="yes"
 ]]
 <div class="row">
