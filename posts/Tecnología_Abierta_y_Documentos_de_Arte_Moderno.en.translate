@@ -1,12 +1,12 @@
 ---
 title: Open Source Technology and Modern Art Archives
-tag: projects el-moderno 
+tag: proyectos el-moderno 
 default_img: /uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png
 default_img_alt: Descriptive diagram and dimensions of a DIY copy stand. 
 summary: Chronicle on the design and construction of a low cost copy stand for the digitization project of the Museum of Modern Art of Buenos Aires and some reflections on the local reality of the institutions that guard heritage. 
 teaserline: Development of a low cost copy stand for the Museum of Modern Art .
 featured: yes
-ajax_content: proyectos
+ajax_content: projects
 translatable: yes
 ---
 [[!meta date="2017-10-15T12:00:00Z"]]
