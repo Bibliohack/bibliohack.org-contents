@@ -10,7 +10,6 @@ unite_gallery: tiles
 gallery_1: acceso_utdt
 cc_by_sa: yes
 ajax_content: openglam
-translatable: yes
 ---
 [[!meta date="2019-03-30T12:00:00Z" ]]
 
