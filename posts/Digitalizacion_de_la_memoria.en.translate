@@ -1,13 +1,13 @@
 ---
-title: "Digitalización de la memoria"
-summary: Diseñamos e instalamos de un estativo cenital (copy stand) para digitalizar fondos documentales del archivo Memoria Abierta en el Espacio Memoria y Derechos Humanos (Ex ESMA).
-teaserline: Instalación de un estativo cenital en el Espacio Memoria y Derechos Humanos (Ex Esma).
+title: Memory Digitization
+summary: We designed and installed a low cost copy stand to digitize documentary collections from the Memoria Abierta archive in the Museum and Site of Memory ESMA.
+teaserline: Installation of a low cost copy stand in the the Museum and Site of Memory ESMA.
 featured: yes
 tag: proyectos
 cc_by_sa: yes
 ajax_content: projects
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
-default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
+default_img_alt: "copy stand in the the Museum and Site of Memory ESMA"
 translatable: yes
 ---
 [[!meta date="2021-05-05T12:00:00Z"]]
@@ -16,11 +16,11 @@ translatable: yes
 
 ### Sobre Memoria Abierta
 
-> Memoria Abierta es una alianza de organizaciones de derechos humanos argentinas que promueve la memoria sobre las violaciones a los derechos humanos del pasado reciente, las acciones de resistencia y las luchas por la verdad y la justicia, para reflexionar sobre el presente y fortalecer la democracia.
+> Memoria Abierta is an alliance of Argentine human rights organizations that promotes memory on the human rights violations committed in the recent past, the actions of resistance and efforts for truth and justice, to strengthen democracy reflecting on present issues.
 
-> Para ello, Memoria Abierta cataloga y da acceso a diversos archivos institucionales y personales; produce entrevistas audiovisuales que conforman un Archivo Oral; contribuye a dar visibilidad a los sitios utilizados en la represión a través de diversas herramientas y registros; elabora recursos temáticos para difusión y con fines educativos a partir de investigaciones, buscando promover debates sobre las formas de narrar lo sucedido y colabora, desde la especificidad de sus tareas, con la actuación de la justicia.
+> To do this, Memoria Abierta catalogs and provides access to various institutional and personal files; produces audiovisual interviews for the development of an Oral Archive; contributes to the visibility of the sites used in the repression through a variety of tools; develops thematic resources for dissemination and educational purposes, seeking to promote debates on the different ways to narrate what happened; and cooperates, from the specificity of their tasks, to the performance of justice.
 
-(del sitio de [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
+(extract from [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
 
 <div id="exma" class="unite-gallery tiles" style="display:none;">
    <img alt="Espacio Memoria y Derechos Humanos, ex ESMA" src="/uploads/galleries/exma/300px/ESMA_2.jpg"
@@ -36,11 +36,11 @@ translatable: yes
 
 ### El Espacio Memoria y Derechos Humanos (Ex Esma)
 
-> La ESMA (Escuela de Mecánica de la Armada) fue uno de los centros de detención, tortura y exterminio más importantes que implementó la última dictadura cívico militar en la Argentina entre 1976 y 1983. Aquí se cometieron crímenes contra la humanidad, que están siendo investigados y juzgados en los tribunales federales.
+> The ESMA (Navy School of Mechanic) was one of the most important detention, torture and extermination centers implemented by the last civic-military dictatorship in Argentina between 1976 and 1983. Crimes against humanity were committed here, which are being investigated and tried in federal courts. 
 
-> Hoy es un espacio abierto a la comunidad, que busca preservar la memoria y promover y defender los derechos humanos. Está ubicado en el barrio de Núñez, en la zona norte de la Ciudad de Buenos Aires.
+> Today it is a space open to the community, which seeks to preserve memory and promote and defend human rights. It is located in the Núñez neighborhood, in the north of the City of Buenos Aires. 
 
-(del sitio del [Espacio Memoria y Derechos Humanos](https://www.espaciomemoria.ar/lugar))
+(translated from [Espacio Memoria y Derechos Humanos](https://www.espaciomemoria.ar/lugar))
 
 ### Laboratorio de digitalización
 
