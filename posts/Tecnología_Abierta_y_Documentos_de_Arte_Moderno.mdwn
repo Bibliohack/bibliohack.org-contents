@@ -6,6 +6,7 @@ summary: Crónica sobre el diseño y construcción de un estativo cenital para e
 teaserline: Desarrollo de estativo cenital para el Museo de Arte Moderno.
 featured: yes
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2017-10-15T12:00:00Z"]]
 
