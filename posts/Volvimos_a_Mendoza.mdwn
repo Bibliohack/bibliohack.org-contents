@@ -6,7 +6,6 @@
   default_img="/uploads/posts/Volvimos_a_Mendoza/59152953_589684981532938_4371132618234658816_o.jpg"
   default_img_alt="Capacitación y mantenimiento del dispositivo en el Archivo de Agua, Mendoza." 
   unite_gallery="tiles" gallery_1="mendoza_2019"
-  translatable=yes
   hide=yes
 ]]
 ¡Volvimos a Mendoza a actualizar el escáner "en V" del Archivo del Agua!
