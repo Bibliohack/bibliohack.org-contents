@@ -7,7 +7,7 @@
    translatable="yes"
 ]]
 <div class="row">
-[[!inline pages="tagged(proyectos) and lang(es) and page(./posts/*) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
+[[!inline pages="tagged(proyectos) and page(./posts/*) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
 feeds=no id="2"]]
 </div>
-[[!inline pages="tagged(proyectos) and lang(es) and page(./posts/*) and field_null(hide)" feedonly=yes feedshow=30]]
+[[!inline pages="tagged(proyectos) and page(./posts/*) and field_null(hide)" feedonly=yes feedshow=30]]
