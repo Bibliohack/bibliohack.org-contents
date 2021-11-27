@@ -1,0 +1,13 @@
+[[!pagetemplate  template="page_postlist.tmpl" sylent]]
+[[!meta title="Eventos"]]
+[[!field 
+   summary="Participación en eventos"
+   body_class="taglist"
+   hashtag="eventos"
+   translatable="yes"
+]]
+<div class="row">
+[[!inline pages="tagged(eventos) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
+feeds=no id="2"]]
+</div>
+[[!inline pages="tagged(eventos) and lang(es) and field_null(hide)" feedonly=yes feedshow=30]]
