@@ -150,6 +150,7 @@ We organize public activities and meetings for information professionals, resear
 
    section_id="featured"
    show_items=12
+   lang_items="es"
 
 ]]
 [[!template id=landing_page_section_form.tmpl 
