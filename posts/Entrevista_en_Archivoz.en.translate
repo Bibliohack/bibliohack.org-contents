@@ -5,7 +5,10 @@ default_img: /uploads/posts/Entrevista_en_Archivoz/nota-archivoz.jpg
 summary: Archivoz is an international digital magazine on archival and document management based in Spain. Today an interview with the founders of Bibliohack was published.  
 ajax_content: last_posts
 featured: yes
-tag: press
+tag: prensa
+translated_tags: 
+  - tag: prensa
+    translated: press
 translatable: yes
 ---
 [[!meta date="2020-05-11T12:00:00Z"]]
