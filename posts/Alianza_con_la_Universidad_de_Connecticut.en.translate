@@ -8,7 +8,9 @@ default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1
 default_img_alt: "Team members Juan Pablo Suárez (in grey), Juan Pablo Fili (in black), and Facundo Martín (in red) working with Bibliohack prototype scanner at the Departamento General de Irrigación in Mendoza, Argentina (Photo by Sergio Terrera)"
 featured: yes
 tag: proyectos
-translated_tag: projects press
+translated_tag: 
+  - projects
+  - press
 translatable: yes
 ---
 [[!meta date="2021-09-01T12:00:00Z"]]
