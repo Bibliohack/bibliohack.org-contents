@@ -5,8 +5,8 @@ teaserline: Installation of a low cost copy stand in the the Museum and Site of 
 featured: yes
 tag: proyectos
 translated_tag: 
- - sarasa
- - projects
+ - ttag: sarasa
+ - ttag: projects
 cc_by_sa: yes
 ajax_content: projects
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
