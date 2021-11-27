@@ -1,15 +1,15 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!edittemplate  template="blogtemplate" match="posts/*" silent=yes]]
-[[!trailitems pages="page(./posts/*) and lang(es) and field_null(hide)" sort="age"]]
+[[!trailitems pages="page(./posts/*) and lang(en) and field_null(hide)" sort="age"]]
 [[!meta title="Posts"]]
 [[!field 
    postlist_home=yes
 ]]
 <!--   summary="Noticias y novedades sobre Bibliohack, digitalización, patrimonio, Acceso Abierto y OpenGLAM" -->
 <div class="row">
-[[!inline pages="page(./posts/*) and lang(es) and field_null(hide)" show="50" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
+[[!inline pages="page(./posts/*) and lang(en) and field_null(hide)" show="50" actions=yes timeformat="%d/%m/%Y" rootpage="posts" postform=no feeds=no id="2"]]
 </div>
 
-[[!inline pages="page(./posts/*) and lang(es) and field_null(hide)" show="50" rootpage="posts" feedonly=yes postform=no]]
+[[!inline pages="page(./posts/*) and lang(en) and field_null(hide)" show="50" rootpage="posts" feedonly=yes postform=no]]
 
 
