@@ -9,8 +9,8 @@ default_img_alt: "Team members Juan Pablo Suárez (in grey), Juan Pablo Fili (in
 featured: yes
 tag: proyectos
 translated_tag: 
-  - projects
-  - press
+  - 1: projects
+  - 2: press
 translatable: yes
 ---
 [[!meta date="2021-09-01T12:00:00Z"]]
