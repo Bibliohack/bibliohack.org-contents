@@ -1,4 +1,4 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
-[[!pagestats pages="./tags/*" among="./posts/*"]]
+[[!pagestats pages="./tags/*" among="./posts/*" lang="es"]]
 [[!meta title="Etiquetas" ]]
 
