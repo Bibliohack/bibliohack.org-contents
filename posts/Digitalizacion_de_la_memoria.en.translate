@@ -4,11 +4,11 @@ summary: We designed and installed a low cost copy stand to digitize documentary
 teaserline: Installation of a low cost copy stand in the the Museum and Site of Memory ESMA.
 featured: yes
 tag: proyectos
-translated_tag: 
- - ttag: sarasa
- - ttag: projects
+translated_tags: 
+  - tag: proyectos
+    translated: projects
 cc_by_sa: yes
-ajax_content: projects
+ajax_content: last_posts
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 default_img_alt: "copy stand in the the Museum and Site of Memory ESMA"
 translatable: yes
