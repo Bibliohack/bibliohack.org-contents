@@ -29,16 +29,16 @@ También impulsamos la construcción de redes profesionales e institucionales qu
 ### DIY Scanners y Tecnologías libres
 
 Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de procesos, colecciones digitales y publicación en línea (Collective Access, Omeka, Drupal).
-"""
-  item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
+""" 
+  item1_img="/uploads/landing_page/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
-  item2_img="/img/tecnologia_abierta/proceso.jpg"
+  item2_img="/uploads/landing_page/tecnologia_abierta/proceso.jpg"
   item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
-  item3_img="/img/tecnologia_abierta/github.jpg"
+  item3_img="/uploads/landing_page/tecnologia_abierta/github.jpg"
   item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
-  item4_img="/img/tecnologia_abierta/madera.jpg"
+  item4_img="/uploads/landing_page/tecnologia_abierta/madera.jpg"
   item4_txt="<span>&nbsp;Tecnología adecuada significa lo apropiado por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
-  item5_img="/img/tecnologia_abierta/lam3.jpg"
+  item5_img="/uploads/landing_page/tecnologia_abierta/lam3.jpg"
   item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
@@ -52,12 +52,12 @@ información, operación de dispositivos y software para digitalización,
 formulación de proyectos digitales, adopción de estándares de metadatos, 
 gestión de propiedad intelectual, licencias Creative Commons y 
 construcción de estativos con metodologías *do it yourself*.
-"""
-  item1_img="/img/capacitacion/capac_filo.jpg"
+""" 
+  item1_img="/uploads/landing_page/capacitacion/capac_filo.jpg"
   item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
-  item2_img="/img/capacitacion/capacitacion.jpg"
+  item2_img="/uploads/landing_page/capacitacion/capacitacion.jpg"
   item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
-  item3_img="/img/capacitacion/clinicas.jpg"
+  item3_img="/uploads/landing_page/capacitacion/clinicas.jpg"
   item3_txt="Clínica de Tecnología y Patrimonio en el Museo de Arte Moderno de Buenos Aires (2018)"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
@@ -70,15 +70,15 @@ construcción de estativos con metodologías *do it yourself*.
 Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno reforma de la propiedad intelectual y licencias libres, acceso abierto en instituciones culturales, desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
 
 """
-  item1_img="/img/politicas/politicas.jpg"
+  item1_img="/uploads/landing_page/politicas/politicas.jpg"
   item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el MALBA (Argentina, 2018)"
-  item2_img="/img/politicas/openglam.jpg"
+  item2_img="/uploads/landing_page/politicas/openglam.jpg"
   item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
-  item3_img="/img/politicas/utdt-matias.jpg"
+  item3_img="/uploads/landing_page/politicas/utdt-matias.jpg"
   item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella (Argentina, 2019)"
-  item4_img="/img/politicas/excepciones.jpg"
+  item4_img="/uploads/landing_page/politicas/excepciones.jpg"
   item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
-  item5_img="/img/politicas/matias-mamba.jpg"
+  item5_img="/uploads/landing_page/politicas/matias-mamba.jpg"
   item5_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
@@ -92,42 +92,42 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/mamba.png
+  logo=/uploads/landing_page/apoyos/mamba.png
   title="Museo de Arte Moderno de Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/anh.png
+  logo=/uploads/landing_page/apoyos/anh.png
   title="Academia Nacional de la Historia de la República Argentina"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/cnba.png
+  logo=/uploads/landing_page/apoyos/cnba.png
   title="Colegio Nacional Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/filo.png
+  logo=/uploads/landing_page/apoyos/filo.png
   title="Facultad de Filosofía y Letras de la UBA"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/iibicrit.png
+  logo=/uploads/landing_page/apoyos/iibicrit.png
   title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/ida.png
+  logo=/uploads/landing_page/apoyos/ida.png
   title="Fundación Investigación en Diseño Argentino"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/incihusa.png
+  logo=/uploads/landing_page/apoyos/incihusa.png
   title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/idelcoop2.png
+  logo=/uploads/landing_page/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
@@ -173,55 +173,55 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    json_id="landing_page_header_items"
    json_items="""
 {
-	"img": "/img/home/mendoza.jpg",
+	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
 	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
 },
 {
-	"img": "/img/home/0020.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
 	"caption": "Prueba y demostración de uso del estativo cenital. Museo Moderno, 2018."
 },
 {
-	"img": "/img/home/0040.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0040.jpg",
 	"caption": "Digitalización de libros con dispositivo \"en V\". Biblioteca Aysa, 2018."			
 },
 {
-	"img": "/img/home/0050.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0050.jpg",
 	"caption": "Jornada sobre acceso y patrimonio en el Moderno. De fondo, estativo plano de Bibliohack. 2019."
 },
 {
-	"img": "/img/home/0055.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0055.jpg",
 	"caption": "Matías hablando sobre Creative Commons y Bibliohack. Universidad Torcuato Di Tella, 2019."
 },
 {
-	"img": "/img/home/cnba_biblio.jpg",
+	"img": "/uploads/landing_page/header_slideshow/cnba_biblio.jpg",
 	"caption": "Escaner \"en V\" realizado con listones de madera de pino. Colegio Nacional Buenos Aires, 2013."
 },
 {
-	"img": "/img/home/0060.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0060.jpg",
 	"caption": "Piezas de corte laser en MDF para un estativo \"en V\" aún sin armar."
 },
 {
-	"img": "/img/home/0070.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0070.jpg",
 	"caption": "Jornadas sobre Acceso, Universidad Torcuato Di Tella. 2019."
 },
 {
-	"img": "/img/home/0080.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0080.jpg",
 	"caption": "Capacitación para el Incihusa/Conicet en el Archivo del Agua. Mendoza, 2018."
 },
 {
-	"img": "/img/home/0085.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0085.jpg",
 	"caption":	"Charla sobre propiedad intelecual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
 },
 {
-	"img": "/img/home/0090.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0090.jpg",
 	"caption":	"Primer encuentro OpenGLAM de Argentina. Buenos Aires 2017."	
 },
 {
-	"img": "/img/home/0100.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0100.jpg",
 	"caption": "Dispositivos de digitalización (Cenital y \"en V\") en la Academia Nacional de Historia. Buenos Aires, 2019."
 },
 {
-	"img": "/img/home/standart.jpg",
+	"img": "/uploads/landing_page/header_slideshow/standart.jpg",
 	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La PLata, 2012."
 }
 """

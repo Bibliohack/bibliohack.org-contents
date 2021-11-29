@@ -11,7 +11,7 @@
   content="""
 *Bibliohack* is an initiative that works for the **digital transformation** of **libraries**, **archives** and **museums**, with [appropriate technology](https://en.wikipedia.org/wiki/Appropriate_technology) to the specific context of the Global South, following **open access** and **open source** technology principles.
 
-We specialized in **digitizing books and documents**, and also in **managing collections and digital assets**. We provide services and trainging to GLAM organizations that face the challenge of incorporating computer technology into their work processes.
+We specialized in **digitizing books and documents**, and also in **managing collections and digital assets**. We provide services and trainging to GLAM organizations that face the challenge of incorporating information technology into their work processes.
 
 We also promote the development of professional and institutional networks that allow the **production and release of resources** for the community: drawings, code, processes and documentation, and also add critical mass to define public policies that facilitate the **preservation of cultural heritage**, **open access to knowledge** and **intellectual property reform**.
 """
@@ -30,15 +30,15 @@ We also promote the development of professional and institutional networks that 
 
 We design and build open specification digitizing devices using affordable and accessible materiales (appropriate technology); we develop free software for document digitization and processing, and implement open resources for processes management, digital collections and their online publication (Collective Access, Omeka, Drupal).
 """
-  item1_img="/img/tecnologia_abierta/tecnologia1.jpg"
+  item1_img="/uploads/landing_page/tecnologia_abierta/tecnologia1.jpg"
   item1_txt="<span>&nbsp;Open Hardware means sharing technical specifications, drawings and processes without restrictions.&nbsp;</span>"
-  item2_img="/img/tecnologia_abierta/proceso.jpg"
+  item2_img="/uploads/landing_page/tecnologia_abierta/proceso.jpg"
   item2_txt="<span>&nbsp;Describing the technical processes helps to generate installed capacity in each institution.&nbsp;</span>"
-  item3_img="/img/tecnologia_abierta/github.jpg"
+  item3_img="/uploads/landing_page/tecnologia_abierta/github.jpg"
   item3_txt="<span>&nbsp;We publish all our developments online in our open repository.&nbsp;</span>"
-  item4_img="/img/tecnologia_abierta/madera.jpg"
+  item4_img="/uploads/landing_page/tecnologia_abierta/madera.jpg"
   item4_txt="<span>&nbsp;Appropriate technology means appropriate for costs, resources, sustainability and in tune with the local context.&nbsp;</span>"
-  item5_img="/img/tecnologia_abierta/lam3.jpg"
+  item5_img="/uploads/landing_page/tecnologia_abierta/lam3.jpg"
   item5_txt="<span>&nbsp;We follow an iterative and incremental development model where each real life project involves a cycle of improvements in our products.&nbsp;</span>"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
@@ -48,11 +48,11 @@ We design and build open specification digitizing devices using affordable and a
 ### Training and consulting
 
 We provide training in new information management practices, operation of devices and software for digitization, digital exhibits project design, adoption of metadata standards, intellectual property management, Creative Commons licenses and the building of copy stands using the do-it-yourself techniques."""
-  item1_img="/img/capacitacion/capac_filo.jpg"
+  item1_img="/uploads/landing_page/capacitacion/capac_filo.jpg"
   item1_txt="Training at the Research Institutes – Faculty of Philosophy and Letters – University of Buenos Aires (2018)"
-  item2_img="/img/capacitacion/capacitacion.jpg"
+  item2_img="/uploads/landing_page/capacitacion/capacitacion.jpg"
   item3_txt="Training during the installation of a scanner in the Water Archive of Mendoza, Argentina (2019)"
-  item3_img="/img/capacitacion/clinicas.jpg"
+  item3_img="/uploads/landing_page/capacitacion/clinicas.jpg"
   item3_txt="Technology and Heritage course at the Museum of Modern Art of Buenos Aires (2018)"
 
 ]][[!template  id=landing_page_section_slides_item.tmpl 
@@ -65,15 +65,15 @@ We provide training in new information management practices, operation of device
 We organize public activities and meetings for information professionals, researchers, activists and cultural managers about intellectual property reform and free licenses, open access in cultural institutions, collaborative initiatives and technological pools comprising public and third sector organizations.
 
 """
-  item1_img="/img/politicas/politicas.jpg"
+  item1_img="/uploads/landing_page/politicas/politicas.jpg"
   item1_txt="Meeting on cultural heritage, intellectual property and access to culture - MALBA (Museo de Arte Latinoamericano de Buenos Aires)"
-  item2_img="/img/politicas/openglam.jpg"
+  item2_img="/uploads/landing_page/politicas/openglam.jpg"
   item2_txt="'First OpenGLAM Argentina Meeting' at the Museum of Modern Art in Buenos Aires, with more than 100 participants (we co-organized, 2017)"
-  item3_img="/img/politicas/utdt-matias.jpg"
+  item3_img="/uploads/landing_page/politicas/utdt-matias.jpg"
   item4_txt="Matias speaking at the 'Conference on cultural heritage, artistic practice and intellectual property' at the Universidad Torcuato Di Tella (Argentina, 2019)"
-  item4_img="/img/politicas/excepciones.jpg"
+  item4_img="/uploads/landing_page/politicas/excepciones.jpg"
   item4_txt="Debate on limitations and exceptions and enrichment of the public domain (Argentina, 2019)"
-  item5_img="/img/politicas/matias-mamba.jpg"
+  item5_img="/uploads/landing_page/politicas/matias-mamba.jpg"
   item5_txt="Matias at a meeting about digitization and digital archives organized by MAMBA and Bibliohack (Argentina, 2018)"
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
@@ -87,42 +87,42 @@ We organize public activities and meetings for information professionals, resear
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/mamba.png
+  logo=/uploads/landing_page/apoyos/mamba.png
   title="Museum of Modern Art of Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/anh.png
+  logo=/uploads/landing_page/apoyos/anh.png
   title="National Academy of History of the Argentine Republic"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/cnba.png
+  logo=/uploads/landing_page/apoyos/cnba.png
   title="Colegio Nacional Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/filo.png
+  logo=/uploads/landing_page/apoyos/filo.png
   title="Faculty of Philosophy and Letters – University of Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/iibicrit.png
+  logo=/uploads/landing_page/apoyos/iibicrit.png
   title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/ida.png
+  logo=/uploads/landing_page/apoyos/ida.png
   title="Fundación Investigación en Diseño Argentino IDA"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/incihusa.png
+  logo=/uploads/landing_page/apoyos/incihusa.png
   title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/img/apoyos/idelcoop2.png
+  logo=/uploads/landing_page/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
@@ -150,7 +150,7 @@ We organize public activities and meetings for information professionals, resear
 
    section_id="featured"
    show_items=12
-   lang_items="es"
+   lang_items="en"
 
 ]]
 [[!template id=landing_page_section_form.tmpl 
@@ -168,55 +168,55 @@ We organize public activities and meetings for information professionals, resear
    json_id="landing_page_header_items"
    json_items="""
 {
-	"img": "/img/home/mendoza.jpg",
+	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
 	"caption": "Bibliohack - Open Source Technology for Archives, Museums and Libraries"
 },
 {
-	"img": "/img/home/0020.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
 	"caption": "Test and demonstration of use of copy stand. Museum of Modern Art of Buenos Aires, 2018"
 },
 {
-	"img": "/img/home/0040.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0040.jpg",
 	"caption": "Digitization of books with V-cradle device. Aysa Library, 2018."
 },
 {
-	"img": "/img/home/0050.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0050.jpg",
 	"caption": "Conference on access and heritage in the MAMBA Museum. In the background, a flat Bibliohack stand. 2019."
 },
 {
-	"img": "/img/home/0055.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0055.jpg",
 	"caption": "Matías talking about Creative Commons and Bibliohack. Torcuato Di Tella University, 2019."
 },
 {
-	"img": "/img/home/cnba_biblio.jpg",
+	"img": "/uploads/landing_page/header_slideshow/cnba_biblio.jpg",
 	"caption": "V-cradle scanner made with pine wood slats. Colegio Nacional Buenos Aires, 2013."
 },
 {
-	"img": "/img/home/0060.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0060.jpg",
 	"caption": "Laser cut pieces in MDF for a V-cradle scanner (not yet assembled)."
 },
 {
-	"img": "/img/home/0070.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0070.jpg",
 	"caption": "Conference on Access, Universidad Torcuato Di Tella. 2019."
 },
 {
-	"img": "/img/home/0080.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0080.jpg",
 	"caption": "Training for Incihusa/Conicet in the \"Water Archive\". Mendoza, 2018."
 },
 {
-	"img": "/img/home/0085.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0085.jpg",
 	"caption":	"Talk about intellectual property and access restrictions at the MAMBA Museum. Buenos Aires, 2018."
 },
 {
-	"img": "/img/home/0090.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0090.jpg",
 	"caption":	"First OpenGLAM meeting of Argentina. Buenos Aires 2017."
 },
 {
-	"img": "/img/home/0100.jpg",
+	"img": "/uploads/landing_page/header_slideshow/0100.jpg",
 	"caption": "Digitization devices (copy stand and V-cradle) at the National Academy of History. Buenos Aires, 2019."
 },
 {
-	"img": "/img/home/standart.jpg",
+	"img": "/uploads/landing_page/header_slideshow/standart.jpg",
 	"caption": "Adaptation of the \"standard model\" from diybookscanner.org. La Plata, 2012."
 }
 """
