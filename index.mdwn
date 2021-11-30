@@ -101,21 +101,25 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/mamba.png
   title="Museo de Arte Moderno de Buenos Aires"
+  style="height: 64px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/uconn.png
   title="Universidad de Connecticut"
-
+  style="height: 67px;"
+  
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/ma.png
   title="Memoria Abierta"
+  style="height: 52px; margin-top: 33px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/ida.png
   title="Fundación Investigación en Diseño Argentino"
+  style="margin-top: 26px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -136,11 +140,13 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/iibicrit.png
   title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
-
+  style="height: 63px; margin-top: 32px;"
+  
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/incihusa.png
   title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
+style="height: 63px; margin-top: 32px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -151,6 +157,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/cc_ar.png
   title="Creative Commons de Argentina"
+  style="width: 181px; margin-top: 33px;"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
 
