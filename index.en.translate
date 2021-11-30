@@ -78,6 +78,14 @@ We organize public activities and meetings for information professionals, resear
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
 
+]][[!template id=landing_page_section_mp4video.tmpl
+
+  section_id="collective-access"
+  title="Collection management with Collective Access"
+  text="<b>Collective Access</b> is an open source software for management and online publication of collections, designed to respond to the specific needs of organizations that safeguard heritage such as museums, archives and libraries. Visit our <a target='_blank' href='https://collectiveaccess.bibliohack.org'><b>Collective Access microsite</b></a> (only in spanish) to learn more about our work with this tool.""
+  video=/uploads/landing_page/video/providence.mp4
+  video_link="https://collectiveaccess.bibliohack.org/"
+  
 ]]
 [[!template id=landing_page_section_logos_header.tmpl 
 
@@ -88,12 +96,37 @@ We organize public activities and meetings for information professionals, resear
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/mamba.png
-  title="Museum of Modern Art of Buenos Aires"
+  title="Modern Art Museum of Buenos Aires"
+  style="height: 64px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/anh.png
-  title="National Academy of History of the Argentine Republic"
+  logo=/uploads/landing_page/apoyos/uconn.png
+  title="University of Connecticut"
+  style="height: 67px;"
+  
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/ma2.png
+  title="Memoria Abierta"
+  style="height: 49px; margin-top: 34px;"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/ida.png
+  title="Fundación Investigación en Diseño Argentino"
+  style="margin-top: 26px; height: 64px;"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/gg.png
+  title="Gino Germani Research Institute (UBA)"
+  style="max-height: 83px; margin-top: 22px; margin-bottom: 0px;"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/filo.png
+  title="Faculty of Philosophy and Letters (UBA)"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -102,28 +135,26 @@ We organize public activities and meetings for information professionals, resear
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/filo.png
-  title="Faculty of Philosophy and Letters – University of Buenos Aires"
-
-]][[!template id=landing_page_section_logos_item.tmpl 
-
   logo=/uploads/landing_page/apoyos/iibicrit.png
   title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
-
-]][[!template id=landing_page_section_logos_item.tmpl 
-
-  logo=/uploads/landing_page/apoyos/ida.png
-  title="Fundación Investigación en Diseño Argentino IDA"
-
+  style="height: 63px; margin-top: 32px;"
+  
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/incihusa.png
   title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
+style="height: 63px; margin-top: 32px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/cc_ar.png
+  title="Creative Commons Argentina"
+  style="width: 181px; margin-top: 33px;"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
 
