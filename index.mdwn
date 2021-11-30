@@ -104,13 +104,18 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/anh.png
-  title="Academia Nacional de la Historia de la República Argentina"
+  logo=/uploads/landing_page/apoyos/uconn.png
+  title="Universidad de Connecticut"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/cnba.png
-  title="Colegio Nacional Buenos Aires"
+  logo=/uploads/landing_page/apoyos/ma.png
+  title="Memoria Abierta"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/ida.png
+  title="Fundación Investigación en Diseño Argentino"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -119,13 +124,13 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/iibicrit.png
-  title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
+  logo=/uploads/landing_page/apoyos/cnba.png
+  title="Colegio Nacional Buenos Aires"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/ida.png
-  title="Fundación Investigación en Diseño Argentino"
+  logo=/uploads/landing_page/apoyos/iibicrit.png
+  title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -136,6 +141,11 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/ccar.png
+  title="Creative Commons de Argentina"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
 
