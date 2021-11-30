@@ -85,6 +85,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_mp4video.tmpl
 
+  section_id="collective-access"
   title="Gestión digital de colecciones con Collective Access"
   text="Las instituciones que custodian patrimonio necesitan de una plataforma digital robusta y ubicua para describir y gestionar sus acervos, en especial si se trata de colecciones grandes y heterogéneas a cargo de equipos profesionales interfuncionales. Collective Access se integra en el tejido de una organización en aspectos determinantes."
   video=/uploads/video/providence.mp4
