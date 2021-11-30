@@ -114,13 +114,13 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/ma2.png
   title="Memoria Abierta"
-  style="height: 52px; margin-top: 33px;"
+  style="height: 49px; margin-top: 34px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/ida.png
   title="Fundación Investigación en Diseño Argentino"
-  style="margin-top: 26px;"
+  style="margin-top: 26px; height: 64px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
