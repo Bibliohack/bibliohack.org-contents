@@ -86,9 +86,9 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 ]][[!template id=landing_page_section_mp4video.tmpl
 
   section_id="collective-access"
-  title="Gestión digital de colecciones con Collective Access"
-  text="Las instituciones que custodian patrimonio necesitan de una plataforma digital robusta y ubicua para describir y gestionar sus acervos, en especial si se trata de colecciones grandes y heterogéneas a cargo de equipos profesionales interfuncionales. Collective Access se integra en el tejido de una organización en aspectos determinantes."
-  video=/uploads/video/providence.mp4
+  title="Gestión de colecciones con Collective Access"
+  text="Collective Access es un software de código abierto desarrollado para dar respuesta a las necesidades específicas de las organizaciones que custodian patrimonio como museos, archivos, instituciones académicas, fundaciones o bibliotecas. <a href="#">Visita nuestro micro-sitio sobre Collective Access para conocer más</a>.""
+  video=/uploads/landing_page/video/providence.mp4
   
 ]]
 [[!template id=landing_page_section_logos_header.tmpl 
