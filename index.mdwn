@@ -119,6 +119,11 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
+  logo=/uploads/landing_page/apoyos/gg.png
+  title="Instituto de Investigaciones Gino Germani"
+
+]][[!template id=landing_page_section_logos_item.tmpl 
+
   logo=/uploads/landing_page/apoyos/filo.png
   title="Facultad de Filosofía y Letras de la UBA"
 
@@ -144,7 +149,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/ccar.png
+  logo=/uploads/landing_page/apoyos/cc_ar.png
   title="Creative Commons de Argentina"
 
 ]][[!template id=landing_page_section_logos_footer.tmpl 
