@@ -87,7 +87,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   section_id="collective-access"
   title="Gestión de colecciones con Collective Access"
-  text="Collective Access es un software de código abierto desarrollado para dar respuesta a las necesidades específicas de las organizaciones que custodian patrimonio como museos, archivos, instituciones académicas, fundaciones o bibliotecas. <a href='#'>Visita nuestro micro-sitio sobre Collective Access para conocer más</a>."
+  text="<a href='https://collectiveaccess.bibliohack.org'>Collective Access</a> es un software de código abierto para gestion y publicación en línea de colecciones, desarrollado para dar respuesta a las necesidades específicas de las organizaciones que custodian patrimonio como museos, archivos y bibliotecas. <a href='https://collectiveaccess.bibliohack.org'><b>Visite nuestro micro-sitio sobre Collective Access para conocer más sobre nuestro trabajo con esta herramienta</b></a>."
   video=/uploads/landing_page/video/providence.mp4
   
 ]]
