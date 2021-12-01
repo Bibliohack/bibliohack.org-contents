@@ -5,7 +5,7 @@ teaserline: El Polo de Digitalizacion en el Centro Cultural de la Cooperacion no
 default_img: /uploads/posts/Redes_colaborativas_y_redes_cooperativas/Centro-Cultural-cooperacion.jpg
 default_img_alt: "El Centro Cultural de Cooperación 'Floreal Gorini'"
 cc_by_sa: yes
-tag: articulos proyectos
+tag: articulos proyectos idelcoop
 ajax_content: last_posts
 ---
 [[!field unite_gallery="tiles" gallery_1="cccoop"]]
