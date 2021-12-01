@@ -158,16 +158,16 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/idelcoop2.png
-  title="Instituto de la Cooperación"
-  link="/tags/idelcoop/"
-  
-]][[!template id=landing_page_section_logos_item.tmpl 
-
   logo=/uploads/landing_page/apoyos/mdh.png
   title="Museo del Holocausto"
   style="max-height: 70px; margin-top: 30px;"
 
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/idelcoop2.png
+  title="Instituto de la Cooperación"
+  link="/tags/idelcoop/"
+  
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/cc_ar.png
