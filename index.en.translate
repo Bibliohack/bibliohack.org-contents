@@ -82,7 +82,7 @@ We organize public activities and meetings for information professionals, resear
 
   section_id="collective-access"
   title="Collection management with Collective Access"
-  text="<b>Collective Access</b> is open-source collections management and presentation software designed for museums, archives, and special collections. It is designed to handle large, heterogeneous collections that have complex cataloguing requirements and require support for a variety of metadata standards and media formats. Visit our <b>Collective Access microsite</b></a> (only in spanish) to learn more about our work with this tool."
+  text="<a target='_blank' href='https://collectiveaccess.org'><b>Collective Access</b></a> is open-source collections management and presentation software designed for museums, archives, and special collections. It is designed to handle large, heterogeneous collections that have complex cataloguing requirements and require support for a variety of metadata standards and media formats. Visit our <a target='_blank' href='https://collectiveaccess.bibliohack.org/'><b>Collective Access microsite</b></a> (only in spanish) to learn more about our work with this tool."
   video=/uploads/landing_page/video/providence.mp4
   video_link="https://collectiveaccess.bibliohack.org/"
   
