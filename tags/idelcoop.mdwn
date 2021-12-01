@@ -1,9 +1,9 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="idelcoop"]]
 [[!field 
-	summary="Publicaciones relacionadas con idelcoop"
+	summary="Publicaciones relacionadas con Idelcoop"
 	body_class="taglist"
-	hashtag="#idelcoop"
+	hashtag="idelcoop"
 ]]
 <div class="row">
 [[!inline pages="tagged(idelcoop) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
