@@ -103,18 +103,21 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
   logo=/uploads/landing_page/apoyos/mamba.png
   title="Museo de Arte Moderno de Buenos Aires"
   style="height: 64px;"
+  link="/tags/el-moderno/"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/uconn.png
   title="Universidad de Connecticut"
   style="height: 67px;"
+  link="/tags/uconn/"
   
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/ma2.png
   title="Memoria Abierta"
   style="height: 49px; margin-top: 34px;"
+  link="/tags/memoria-abierta/"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
@@ -132,28 +135,38 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 
   logo=/uploads/landing_page/apoyos/filo.png
   title="Facultad de Filosofía y Letras de la UBA"
-
+  link="/tags/filo-uba/"
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/cnba.png
   title="Colegio Nacional Buenos Aires"
+  link="/tags/cnba/"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/iibicrit.png
   title="Instituto de Investigaciones Bibliográficas y Crítica Textual - CONICET"
   style="height: 63px; margin-top: 32px;"
-  
+  link="/tags/secrit/"
+    
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
-  logo=/uploads/landing_page/apoyos/incihusa.png
-  title="Instituto de Ciencias Humanas, Sociales y Ambientales - CONICET"
-style="height: 63px; margin-top: 32px;"
+  logo=/uploads/landing_page/apoyos/aagua.png
+  title="Archivo Histórico del Agua de la Provincia de Mendoza"
+  style="height: 60px; margin-top: 30px;"
+  link="/tags/archivo-del-agua/"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
   logo=/uploads/landing_page/apoyos/idelcoop2.png
   title="Instituto de la Cooperación"
+  link="/tags/idelcoop/"
+  
+]][[!template id=landing_page_section_logos_item.tmpl 
+
+  logo=/uploads/landing_page/apoyos/mdh.png
+  title="Museo del Holocausto"
+  style="max-height: 70px; margin-top: 30px;"
 
 ]][[!template id=landing_page_section_logos_item.tmpl 
 
