@@ -8,7 +8,6 @@ teaserline: Construcción colectiva de un escáner cenital de bibliohack durante
 featured: yes
 unite_gallery: tiles
 gallery_1: se_armo
-translatable: yes
 cc_by_sa: yes
 ajax_content: last_posts
 ---
