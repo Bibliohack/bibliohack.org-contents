@@ -1,7 +1,7 @@
 ---
 title: Digitalizando en remoto por Colombia
-summary: Participamos del taller \"De la memoria colectiva a la representación digital\"  organizado por BibloRed Bogotá, mostrando el funcionamiento de un estativo Cenital
-teaserline: Participamos del taller \"De la memoria colectiva a la representación digital\"
+summary: "Participamos del taller \"De la memoria colectiva a la representación digital\"  organizado por BibloRed Bogotá, mostrando el funcionamiento de un estativo Cenital"
+teaserline: "Participamos del taller \"De la memoria colectiva a la representación digital\""
 cc_by_sa: yes
 tag: proyectos colombia
 ajax_content: last_posts
