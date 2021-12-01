@@ -1,9 +1,9 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="memoria-abierta"]]
 [[!field 
-	summary="Publicaciones relacionadas con memoria-abierta"
+	summary="Publicaciones relacionadas con Memoria Abierta"
 	body_class="taglist"
-	hashtag="#memoria-abierta"
+	hashtag="memoria-abierta"
 ]]
 <div class="row">
 [[!inline pages="tagged(memoria-abierta) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
