@@ -184,13 +184,13 @@ We organize public activities and meetings for information professionals, resear
   item3_texto="Free repository with software resources and drawings."
 
 ]]
-[[!template id=landing_page_section_featured.tmpl 
+<!-- [[!template id=landing_page_section_featured.tmpl 
 
    section_id="featured"
    show_items=12
    lang_items="en"
 
-]]
+]] -->
 [[!template id=landing_page_section_form.tmpl 
 
    section_id="contact"
