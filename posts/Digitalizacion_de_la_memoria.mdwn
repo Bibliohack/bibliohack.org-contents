@@ -5,7 +5,7 @@ teaserline: Instalación de un estativo cenital en el Espacio Memoria y Derechos
 featured: yes
 tag: proyectos
 cc_by_sa: yes
-ajax_content: projects
+ajax_content: projects memoria-abierta
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
 default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
 ---
