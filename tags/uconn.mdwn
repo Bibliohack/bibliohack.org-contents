@@ -1,9 +1,9 @@
 [[!pagetemplate  template="page_postlist.tmpl" sylent]]
 [[!meta title="uconn"]]
 [[!field 
-	summary="Publicaciones relacionadas con uconn"
+	summary="Publicaciones relacionadas con Universidad de Connecticut"
 	body_class="taglist"
-	hashtag="#uconn"
+	hashtag="uconn"
 ]]
 <div class="row">
 [[!inline pages="tagged(uconn) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
