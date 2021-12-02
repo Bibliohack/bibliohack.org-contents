@@ -9,7 +9,7 @@ tag: prensa
 ---
 [[!meta date="2020-05-11T12:00:00Z"]]
 
-Los amigos de [Archivoz: International Archives Magazine](https://www.archivozmagazine.org), con base en España, nos hicieron una entrevista sobre el trabajo que hacemos en bibliohack.  ¡Queremos agradecerles esta oportunidad de hacer visible nuestro proyecto e ideas en su espacio!. Hablamos de digitalización de patrimonio cultural, acceso abierto y políticas públicas, propiedad intelectual y reforma, open source en archivos, bibliotecas y museos, y la cultura hacker como parte de la tradición custodial. 
+Los amigos de [Archivoz: International Archives Magazine](https://www.archivozmagazine.org), con base en España, nos hicieron una entrevista sobre el trabajo que hacemos en Bibliohack.  ¡Queremos agradecerles esta oportunidad de hacer visible nuestro proyecto e ideas en su espacio!. Hablamos de digitalización de patrimonio cultural, acceso abierto y políticas públicas, propiedad intelectual y reforma, *open source* en archivos, bibliotecas y museos, y la cultura *hacker* como parte de la tradición custodial. 
 
 Mientras nos tomábamos el tiempo para responder las preguntas, miles de organizaciones educativas y culturales de nuestra región y del mundo se aventuraron, algunas con mayor seguridad y otras con menos, a realizar sus tareas exclusivamente por internet.
 

@@ -19,7 +19,7 @@ default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
 
 > Para ello, Memoria Abierta cataloga y da acceso a diversos archivos institucionales y personales; produce entrevistas audiovisuales que conforman un Archivo Oral; contribuye a dar visibilidad a los sitios utilizados en la represión a través de diversas herramientas y registros; elabora recursos temáticos para difusión y con fines educativos a partir de investigaciones, buscando promover debates sobre las formas de narrar lo sucedido y colabora, desde la especificidad de sus tareas, con la actuación de la justicia.
 
-(del sitio de [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
+(fuente: [Memoria Abierta](http://memoriaabierta.org.ar/wp/sobre-memoria-abierta/))
 
 <div id="exma" class="unite-gallery tiles" style="display:none;">
    <img alt="Espacio Memoria y Derechos Humanos, ex ESMA" src="/uploads/galleries/exma/300px/ESMA_2.jpg"
@@ -39,11 +39,11 @@ default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
 
 > Hoy es un espacio abierto a la comunidad, que busca preservar la memoria y promover y defender los derechos humanos. Está ubicado en el barrio de Núñez, en la zona norte de la Ciudad de Buenos Aires.
 
-(del sitio del [Espacio Memoria y Derechos Humanos](https://www.espaciomemoria.ar/lugar))
+(fuente: [Espacio Memoria y Derechos Humanos](https://www.espaciomemoria.ar/lugar))
 
 ### Laboratorio de digitalización
 
-Desde fines de 2019 comenzamos a trabajar con Memoria Abierta estudiando las opciones técnicas disponibles para mejorar y ampliar su proyecto de digitalización. Debido a la diversidad del material de su acervo –que incluye desde ficheros, fotografias, escritos judiciales o recortes peridísticos, a documentos de gran formato como afiches y periodicos–iniciamos el desarrollo de un prototipo de estativo cenital (*copy stand*) de bajo costo que cubriera esta amplia gama de tipologías, tomando como marco técnico las pautas establecidas por la iniciativa [FADGI](http://www.digitizationguidelines.gov/). El laboratorio de digitalizacion quedo emplazado en uno de los pabellones de la Ex ESMA.
+Desde fines de 2019 comenzamos a trabajar con Memoria Abierta estudiando las opciones técnicas disponibles para mejorar y ampliar su proyecto de digitalización. Debido a la diversidad del material de su acervo –que incluye desde ficheros, fotografías, escritos judiciales o recortes periodísticos, a documentos de gran formato como afiches y periódicos– iniciamos el desarrollo de un prototipo de estativo cenital (*copy stand*) de bajo costo que cubriera esta amplia gama de tipologías, tomando como marco técnico las pautas establecidas por la iniciativa [FADGI](http://www.digitizationguidelines.gov/). El laboratorio de digitalización quedo emplazado en uno de los pabellones de la Ex ESMA.
 
 Un limitante en la digitalización utilizando cámaras digitales es la resolución en megapixeles del sensor, que determina el tamaño máximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie móvil que expone el documento por secciones. En el caso de periódicos cada página puede ser capturada individualmente, no asi todo el pliego desplegado. La base móvil facilita esta tarea. 
 
@@ -87,9 +87,9 @@ Un limitante en la digitalización utilizando cámaras digitales es la resoluci�
 </div>
 
 
-El diseño del dispositivo es modular, de forma que se puedan desarrollar nuevos accesorios según requerimientos futuros o realizar mejoras a problemas que se detecten durante el uso del prototipo en producción. Por ejemplo, la base movil se podría reemplazar por un retroiluminador para transparencias o podria desarrollarese un apoyo especial para biblioratos de gran tamaño.
+El diseño del dispositivo es modular, de forma que se puedan desarrollar nuevos accesorios según requerimientos futuros o realizar mejoras a problemas que se detecten durante el uso del prototipo en producción. Por ejemplo, la base móvil se podría reemplazar por un retroiluminador para transparencias o podria desarrollarese un apoyo especial para biblioratos de gran tamaño.
 
-Un sistema de soportes permite colocar la cámara digital en diferentes ángulos y distancias, con la precisión adecuada. La fuentes de luz son intercambiables y esto facilita su reemplazo por recursos alternativos en el futuro. Toda la estructura está construida en materiales de bajo costo (tablero de MDF) y fácil replicabilidad (corte laser).
+Un sistema de soportes permite colocar la cámara digital en diferentes ángulos y distancias, con la precisión adecuada. La fuentes de luz son intercambiables y esto facilita su reemplazo por recursos alternativos en el futuro. Toda la estructura está construida en materiales de bajo costo (tablero de MDF) y fácil replicabilidad (corte láser).
 
 La instalación del estativo demandó tres jornadas, la primera de transporte y armado, la segunda de pintura y la tercera de ajuste y puesta en funcionamiento.
 
