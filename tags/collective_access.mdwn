@@ -2,6 +2,7 @@
 [[!meta title="collective access"]]
 [[!field 
 	summary="Publicaciones relacionadas con Collective Access"
+	addendum="(Visite nuestro [micro-sitio sobre Collective Access](https://collectiveaccess.bibliohack.org/) para más información.)"
 	body_class="taglist"
 	hashtag="collective access"
 ]]
