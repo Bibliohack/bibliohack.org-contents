@@ -14,8 +14,8 @@ default_img_alt: Dispositivo de digitalizacion cenital en el Museo Moderno
 
 Entre el 23 y el 25 de noviembre de 2021 se realizó la [tercera edición del **Encuentro de Archivos Históricos**](https://www.buenosaires.gob.ar/cultura/patrimonio-de-la-ciudad/noticias/3er-encuentro-de-archivos-patrimonio-digital-accesibilidad), que anualmente organiza el Archivo Histórico de la Ciudad de Buenos Aires junto al Archivo Histórico de AySA. El propósito del encuentro es intercambiar experiencias, métodos y opiniones con respecto a temáticas como la digitalización de documentos históricos para su conservación, accesibilidad y difusión a través de distintos medios; así como las actividades pedagógicas de los archivos históricos y las publicaciones en soporte digital o papel.
 
-En el transcurso del encuentro se desarrolló el Conversatorio **“Digitalización, gestión y acceso a colecciones y fondos. Perspectivas y desafíos.”**, donde participaron **Helena Raspo** (Coordinadora de Patrimonio, Museo de Arte Moderno de la Ciudad de Buenos Aires)
-**Celina Flores** (Coordinadora del área de Patrimonio Documental de Memoria Abierta) y
+En el transcurso del encuentro se desarrolló el Conversatorio **“Digitalización, gestión y acceso a colecciones y fondos. Perspectivas y desafíos.”**, donde participaron **Helena Raspo** (Coordinadora de Patrimonio, [Museo de Arte Moderno](/tags/el-moderno/) de la Ciudad de Buenos Aires)
+**Celina Flores** (Coordinadora del área de Patrimonio Documental de [Memoria Abierta](/tags/memoria-abierta/)) y
 **Mora Caraballo** (Coordinadora, Fundación IDA). Moderó **Matías Butelman** de Bibliohack.
 
 El registro completo de la actividad puede verse a continuación:
