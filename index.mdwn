@@ -223,11 +223,11 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/uconn.jpg",
-	"caption": "Armado de dispositivo en V de Bibliohack en la Universidad de Connecticut. 2021."
+	"caption": "Armado de dispositivo de Bibliohack en la Universidad de Connecticut. 2021."
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
-	"caption": "Despliegue de dispositivo en V, en Mendoza. Archivo del Agua,2018"
+	"caption": "Despliegue de dispositivo \"en V\". Mendoza, Archivo del Agua, 2018"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
@@ -271,7 +271,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0085.jpg",
-	"caption":	"Charla sobre propiedad intelecual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
+	"caption":	"Charla sobre propiedad intelectual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0090.jpg",
