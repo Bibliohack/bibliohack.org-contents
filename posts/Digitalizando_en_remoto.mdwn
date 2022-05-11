@@ -12,7 +12,7 @@ default_img_alt: "Matías Butelman desde Buenos Aires participando del taller \"
 [[!field unite_gallery="tiles" gallery_1="bibliored2021"]]
 [[!meta date="2021-11-09T12:00:00Z"]]
 
-En septiembre de 2019 llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto [con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam](https://draft.bibliohack.org/posts/Se_armo_el_escaner/es.html). El dispositivo fue bautizado *la escaner* y quedo a cargo de la Red Distrital de Bibliotecas Públicas de Bogotá (BiblioRed).
+En septiembre de 2019 llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto [con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam](/posts/Se_armo_el_escaner/). El dispositivo fue bautizado *la escaner* y quedo a cargo de la Red Distrital de Bibliotecas Públicas de Bogotá (BiblioRed).
 
 En el marco de la [Semana de Cultura Digital e Innovación](https://www.biblored.gov.co/index.php/noticias/semana-cultura-digital-2021) de BiblioRed, el 9 de noviembre se llevó a cabo un taller presencial y virtual en la Biblioteca Pública Gabriel García Márquez (Parque El Tunal), donde Matías desde Buenos Aires habló de digitalización, acceso y tecnología abierta, y conversó con investigadores y custodios de diferentes museos, archivos y bibliotecas. Con un enlace remoto operó el dispositivo desde Argentina, realizando capturas y demostrando su uso.
 
