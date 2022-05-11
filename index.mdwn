@@ -218,12 +218,24 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    json_id="landing_page_header_items"
    json_items="""
 {
+	"img": "/uploads/landing_page/header_slideshow/ciudad2.jpg",
+	"caption": "Instalación de laboratorio de digitalización. Archivo de la Ciudad de Buenos Aires, 2022"
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/uconn.jpg",
+	"caption": "Armado de dispositivo en V de Bibliohack en la Universidad de Connecticut. 2021."
+},
+{
 	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
-	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
+	"caption": "Despliegue de dispositivo en V, en Mendoza. Archivo del Agua,2018"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
 	"caption": "Prueba y demostración de uso del estativo cenital. Museo Moderno, 2018."
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/colombia1.jpg",
+	"caption": "Pruebas y taller con dispositivo cenital en Bogotá. Biblioteca Gabriel García Márquez, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0040.jpg",
@@ -232,6 +244,10 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 {
 	"img": "/uploads/landing_page/header_slideshow/0050.jpg",
 	"caption": "Jornada sobre acceso y patrimonio en el Moderno. De fondo, estativo plano de Bibliohack. 2019."
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/memoriaabierta.jpg",
+	"caption": "Dispositivo cenital en Memoria Abierta. Ex-ESMA, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0055.jpg",
