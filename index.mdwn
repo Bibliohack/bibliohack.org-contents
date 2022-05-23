@@ -2,6 +2,7 @@
 [[!field
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
+     hcaptcha_script="https://js.hcaptcha.com/1/api.js"
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
@@ -211,6 +212,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    label_email="Tu Email"
    label_email_disclaimer="Nunca compartiremos tu email con nadie."
    label_buttom="Enviar"
+   label_hcaptcha_key="211f2d85-2d37-49f8-91c2-85c2824fdd7f"
    
 ]]
 [[!template id=landing_page_json.tmpl
@@ -218,12 +220,24 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    json_id="landing_page_header_items"
    json_items="""
 {
+	"img": "/uploads/landing_page/header_slideshow/ciudad2.jpg",
+	"caption": "Instalación de laboratorio de digitalización. Archivo de la Ciudad de Buenos Aires, 2022"
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/uconn.jpg",
+	"caption": "Armado de dispositivo de Bibliohack en la Universidad de Connecticut. 2021."
+},
+{
 	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
-	"caption": "Bibliohack - Tecnología libre para Archivos, Museos y Bibliotecas."
+	"caption": "Despliegue de dispositivo \"en V\". Mendoza, Archivo del Agua, 2018"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
 	"caption": "Prueba y demostración de uso del estativo cenital. Museo Moderno, 2018."
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/colombia1.jpg",
+	"caption": "Pruebas y taller con dispositivo cenital en Bogotá. Biblioteca Gabriel García Márquez, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0040.jpg",
@@ -232,6 +246,10 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 {
 	"img": "/uploads/landing_page/header_slideshow/0050.jpg",
 	"caption": "Jornada sobre acceso y patrimonio en el Moderno. De fondo, estativo plano de Bibliohack. 2019."
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/memoriaabierta.jpg",
+	"caption": "Dispositivo cenital en Memoria Abierta. Ex-ESMA, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0055.jpg",
@@ -255,7 +273,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0085.jpg",
-	"caption":	"Charla sobre propiedad intelecual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
+	"caption":	"Charla sobre propiedad intelectual y restricciones al acceso en el Moderno. Buenos Aires, 2018."
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0090.jpg",
@@ -267,7 +285,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/standart.jpg",
-	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La PLata, 2012."
+	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La Plata, 2012."
 }
 """
 ]]
