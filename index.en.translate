@@ -2,6 +2,7 @@
 [[!field
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
+     hcaptcha_script='<script src="https://js.hcaptcha.com/1/api.js" async defer></script>'
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
@@ -199,6 +200,7 @@ We organize public activities and meetings for information professionals, resear
    label_email="Email"
    label_email_disclaimer="we won’t share it"
    label_buttom="Send"
+   label_hcaptcha_key="211f2d85-2d37-49f8-91c2-85c2824fdd7f"
    
 ]]
 [[!template id=landing_page_json.tmpl

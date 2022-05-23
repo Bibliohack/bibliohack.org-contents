@@ -2,6 +2,7 @@
 [[!field
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
+     hcaptcha_script='<script src="https://js.hcaptcha.com/1/api.js" async defer></script>'
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
@@ -211,6 +212,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    label_email="Tu Email"
    label_email_disclaimer="Nunca compartiremos tu email con nadie."
    label_buttom="Enviar"
+   label_hcaptcha_key="211f2d85-2d37-49f8-91c2-85c2824fdd7f"
    
 ]]
 [[!template id=landing_page_json.tmpl
