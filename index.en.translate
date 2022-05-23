@@ -2,7 +2,7 @@
 [[!field
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
-     hcaptcha_script='<script src="https://js.hcaptcha.com/1/api.js" async defer></script>'
+     hcaptcha_script="https://js.hcaptcha.com/1/api.js"
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
@@ -208,12 +208,24 @@ We organize public activities and meetings for information professionals, resear
    json_id="landing_page_header_items"
    json_items="""
 {
+	"img": "/uploads/landing_page/header_slideshow/ciudad2.jpg",
+	"caption": "Installation of digitization laboratory. Historical archive of the city of Buenos Aires, 2022"
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/uconn.jpg",
+	"caption": "Construction of bibliohack device at the University of Connecticut. 2021."
+},
+{
 	"img": "/uploads/landing_page/header_slideshow/mendoza.jpg",
-	"caption": "Bibliohack - Open Source Technology for Archives, Museums and Libraries"
+	"caption": "Installation of V-cradle device in \"Water Archive\". Mendoza, 2018."
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0020.jpg",
 	"caption": "Test and demonstration of use of copy stand. Museum of Modern Art of Buenos Aires, 2018"
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/colombia1.jpg",
+	"caption": "Copy stand performance tests and training workshop at Bogotá. Gabriel García Márquez Library, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0040.jpg",
@@ -222,6 +234,10 @@ We organize public activities and meetings for information professionals, resear
 {
 	"img": "/uploads/landing_page/header_slideshow/0050.jpg",
 	"caption": "Conference on access and heritage in the MAMBA Museum. In the background, a flat Bibliohack stand. 2019."
+},
+{
+	"img": "/uploads/landing_page/header_slideshow/memoriaabierta.jpg",
+	"caption": "Copy stand installed in Memoria Abierta. Ex-ESMA, 2021"
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0055.jpg",

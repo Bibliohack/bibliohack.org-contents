@@ -2,7 +2,7 @@
 [[!field
      extra_bottom_line=yes
      scroll_class="js-scroll-trigger"
-     hcaptcha_script='<script src="https://js.hcaptcha.com/1/api.js" async defer></script>'
+     hcaptcha_script="https://js.hcaptcha.com/1/api.js"
 ]]
 [[!template id=landing_page_section_top.tmpl 
 
@@ -273,7 +273,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0085.jpg",
-	"caption":	"Charla sobre propiedad intelectual y restricciones al aceso en el Moderno. Buenos Aires, 2018."
+	"caption":	"Charla sobre propiedad intelectual y restricciones al acceso en el Moderno. Buenos Aires, 2018."
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/0090.jpg",
@@ -285,7 +285,7 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 },
 {
 	"img": "/uploads/landing_page/header_slideshow/standart.jpg",
-	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La PLata, 2012."
+	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La Plata, 2012."
 }
 """
 ]]
