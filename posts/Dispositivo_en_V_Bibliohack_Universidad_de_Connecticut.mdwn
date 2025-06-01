@@ -1,0 +1,56 @@
+---
+title: "Prueba piloto en Connecticut"
+teaserline: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
+summary: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
+cc_by_sa: yes
+ajax_content: proyectos
+default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1024x768.jpg
+default_img_alt: "Los miembros del equipo Juan Pablo Suárez (en gris), Juan Pablo Fili (en negro) y Facundo Martín (en rojo) trabajando con el escáner prototipo Bibliohack en el Departamento General de Irrigación en Mendoza, Argentina (Foto de Sergio Terrera)"
+featured: yes
+tag: proyectos uconn
+---
+[[!meta date="2023-01-01T12:00:00Z"]]
+
+En el marco de la [alianza con la Universidad de Connecticut](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), durante el año 2022 cortaron la piezas y ensamblaron un dispositivo *cuna en V* diseñado por Bibliohack.
+El proceso tenía por objetivo primario analizar la viabilidad de su construcción y la elaboración de documentación y guías de armado. El corte, a diferencia
+de los fabricados por nosotros, no se realizo con corte laser, sino con un *Cnc router*. Con nuestra documentación y algunas sesiones por video conferencia 
+lograron finalizar un dispositivo completamente funcional en pocos días.
+
+[[!field unite_gallery="tiles" gallery_1="uconn_version"]]
+
+
+<div id="uconn_version" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/01_piezas.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/01_piezas.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/03_Piece_Inventory.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/03_Piece_Inventory.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/04_IMG_5658.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/04_IMG_5658.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/05_STEP_6B.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/05_STEP_6B.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/06_IMG_5703.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/06_IMG_5703.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/07_PXL_20211008_141435899.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/07_PXL_20211008_141435899.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/08_IMG_6199.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/08_IMG_6199.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/08_lat.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/08_lat.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/09_videoconf.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/09_videoconf.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/11_guide.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/11_guide.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/12_uconn.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/12_uconn.jpg"
+   data-description="">
+</div>
