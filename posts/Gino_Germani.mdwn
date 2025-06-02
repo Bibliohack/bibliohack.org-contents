@@ -1,0 +1,61 @@
+---
+title: Digitalización del Fondo Gino Germani
+cc_by_sa: yes
+ajax_content: last_posts
+tag: proyectos gino-germani cenital
+summary: El Fondo Gino Germani se digitaliza con un dispositivo de Bibliohack
+featured: yes
+default_img: /uploads/posts/Gino_Germani/168358-gino.jpeg
+---
+[[!meta date="2023-04-04T12:00:00Z"]]
+
+En mayo de 2020 la Facultad de Ciencias Sociales de la UBA comenzó [la repatriación del Archivo](https://www.pagina12.com.ar/346661-repatriaron-el-archivo-gino-germani) 
+del reconocido y destacado sociólogo de origen italiano-argentino **Gino Germani** para su incorporación al acervo del Instituto de Investigaciones que lleva su nombre. Germani llegó a la Argentina en 1934 como exiliado del fascismo y se convirtió en una figura clave de la sociología argentina y latinoamericana. Desde su fallecimiento en 1979 se realizaron diversos esfuerzos para acceder y trasladar ese archivo, que estaba en Roma.
+
+El fondo reúne documentos personales, correspondencia, libros, artículos, revistas académicas, apuntes, proyectos de investigación, informes, recortes de diarios y revistas, audios, desgrabaciones y transcripciones de cursos, conferencias y congresos, manuscritos y borradores. 
+
+**Durante 2022 realizamos la instalación de un dispositivo cenital** de gran formato en la sede del Instituto de Investigaciones Gino Germani, que depende la Universidad de Buenos Aires. El dispositivo **permite capturar la variada tipología de documentos que contiene el fondo**, dispone de una base móvil y de un complemento para documentos de tamaño mediano.
+
+El fondo de encuentra en proceso de organización física y catalogación. El plan de  digitalización comenzó en 2023 y continua hasta la fecha. Agradecemos a **Ana Grondona** la oportunidad de que Bibliohack pueda participar de este valiosos proyecto.
+
+[[!field unite_gallery="tiles" gallery_1="gg_22_23"]]
+
+
+<div id="gg_22_23" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/01_construccion.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/01_construccion.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/02b-construccion.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/02b-construccion.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/02-construccion.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/02-construccion.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/03a-pruebas.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/03a-pruebas.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/03bb-pruebas.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/03bb-pruebas.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/gg_22_23/300px/03b-pruebas.jpg"
+   data-image="/uploads/galleries/gg_22_23/1280px/03b-pruebas.jpg"
+   data-description="">
+</div>
+
+
+[Página del Fondo Gino Germani](https://iigg.sociales.uba.ar/cdi-2/fondo-documental-gino-germani/)
+
+<!--
+
+https://twitter.com/BiblioHack/status/1460766282366730246
+
+hilo de Ana Grondona
+https://twitter.com/Anag78Anitag/status/1362188635601264640
+
+https://www.facebook.com/pg/Fondo-Documental-Gino-Germani-111301568018392/posts/
+
+Preservación digital y acceso abierto potencialidades y desafíos del trabajo con archivos en el IIGG 01:13:20
+https://www.youtube.com/watch?v=_VasDQ8h8mw
+
+-->
+
