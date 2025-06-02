@@ -5,6 +5,7 @@ default_img_alt: Valeria Semilla, Ramiro Ouviña, Matías Butelman, Inés Alfonz
 summary: Presentación del proyecto de digitalización, puesta en valor y acceso de los fondos documentales de la biblioteca del Moderno.
 teaserline: Proyecto de digitalización, puesta en valor y acceso de fondos documentales.
 cc_by_sa: yes
+featured: yes
 ajax_content: projects
 ---
 [[!meta date="2017-11-08T12:00:00Z"]]

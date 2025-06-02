@@ -1,5 +1,5 @@
 ---
-tag: artículos
+tag: artículos v-cradle
 summary: Algunas reflexiones sobre tecnología adecuada y métodos de autoconstrucción para nuestros estativos.
 teaserline: Algunas reflexiones sobre tecnología adecuada y autoconstrucción.
 default_img: /uploads/posts/De_la_carpintería_al_láser/listones.jpg

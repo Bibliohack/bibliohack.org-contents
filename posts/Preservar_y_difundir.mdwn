@@ -3,13 +3,13 @@ title: "Revista Acción: Preservar y Difundir"
 summary: Nota en Revista Acción sobre la inauguración del Polo de Digitalización impulsado por el Instituto Movilizador de Fondos Cooperativos, con dispositivos de Bibliohack.
 teaserline: Nota sobre la inauguración del Polo de Digitalización impulsado por el Instituto Movilizador de Fondos Cooperativos.
 ajax_content: last_posts
-tag: prensa idelcoop
+tag: prensa idelcoop v-cradle
 default_img: /uploads/posts/Preservar_y_difundir/polo_de_digitalizacion.jpg
 default_img_alt: "Tecnología y memoria. Plotinsky, Grondona, Suárez, Form y Butelman, en la inauguración. (Subcoop)"
 ---
 [[!meta date="2020-04-30T12:00:00Z"]] 
 
-Reproducimos la nota publica en la revista Acción ([nota original aqui](https://accion.coop/sin-categoria/preservar-y-difundir/)):
+Reproducimos la nota publicada en la Revista Acción ([nota original aqui](https://accion.coop/sin-categoria/preservar-y-difundir/)):
 
 <div class="copy-paste" markdown="1">
 
@@ -32,4 +32,4 @@ Con la mirada puesta en afianzar la integración cooperativa y además valorizar
 
 </div>
 
-El Archivo Histórico del Cooperativismo también publicó un artículo basado en esta nota [Preservar y difundir. Polo de Digitalización del IMFC](https://www.archivohistorico.coop/en/news/preservar-y-difundir-polo-de-digitalizacion-del-)
+El Archivo Histórico del Cooperativismo también publicó un artículo basado en esta nota: [Preservar y difundir. Polo de Digitalización del IMFC](https://www.archivohistorico.coop/en/news/preservar-y-difundir-polo-de-digitalizacion-del-)

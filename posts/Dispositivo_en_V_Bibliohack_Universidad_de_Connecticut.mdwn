@@ -3,21 +3,22 @@ title: "Prueba piloto en Connecticut"
 teaserline: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
 summary: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
 cc_by_sa: yes
-ajax_content: proyectos
-default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1024x768.jpg
-default_img_alt: "Los miembros del equipo Juan Pablo Suárez (en gris), Juan Pablo Fili (en negro) y Facundo Martín (en rojo) trabajando con el escáner prototipo Bibliohack en el Departamento General de Irrigación en Mendoza, Argentina (Foto de Sergio Terrera)"
+ajax_content: proyectos v-cradle uconn
+default_img: /uploads/posts/Dispositivo_en_V_Bibliohack_Universidad_de_Connecticut/ucon.jpg
+default_img_alt: ""
 featured: yes
-tag: proyectos uconn
+tag: proyectos uconn v-cradle
 ---
 [[!meta date="2023-01-01T12:00:00Z"]]
 
-En el marco de la [alianza con la Universidad de Connecticut](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), durante el año 2022 cortaron la piezas y ensamblaron un dispositivo *cuna en V* diseñado por Bibliohack.
-El proceso tenía por objetivo primario analizar la viabilidad de su construcción y la elaboración de documentación y guías de armado. El corte, a diferencia
-de los fabricados por nosotros, no se realizo con corte laser, sino con un *Cnc router*. Con nuestra documentación y algunas sesiones por video conferencia 
-lograron finalizar un dispositivo completamente funcional en pocos días.
+En el marco de la [alianza con UConn](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), durante el año 2022 cortaron la piezas y ensamblaron un dispositivo *cuna en V* diseñado por Bibliohack en la Universidad de Connecticut.
+
+El proceso tenía por objetivo primario **analizar la viabilidad de su construcción y la elaboración de documentación y guías de armado**. El corte, a diferencia
+de los fabricados por nosotros, no se realizo con corte laser, sino con un *Cnc router*. Con nuestra documentación y algunas sesiones por videoconferencia lograron finalizar un dispositivo completamente funcional en pocos días.
+
+Queremos agradecer a Michael Vertefeuille y a todo el equipo de UConn que llevó adelante el proyecto, ¡Muchas gracias!
 
 [[!field unite_gallery="tiles" gallery_1="uconn_version"]]
-
 
 <div id="uconn_version" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/uconn_version/300px/01_piezas.jpg"
@@ -46,6 +47,9 @@ lograron finalizar un dispositivo completamente funcional en pocos días.
    data-description="">
    <img alt="" src="/uploads/galleries/uconn_version/300px/09_videoconf.jpg"
    data-image="/uploads/galleries/uconn_version/1280px/09_videoconf.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/10_IMG_6203.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/10_IMG_6203.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/uconn_version/300px/11_guide.jpg"
    data-image="/uploads/galleries/uconn_version/1280px/11_guide.jpg"

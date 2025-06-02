@@ -1,6 +1,6 @@
 ---
 title: "Bogotá: se armó la escáner"
-tag: eventos colombia proyectos
+tag: eventos colombia proyectos la-escaner
 default_img: /uploads/posts/Se_armo_el_escaner/20190928_115033.jpg
 default_img_alt: Construcción colectiva de un escáner cenital de Bibliohack
 summary: Llevamos adelante la experiencia de construir uno de nuestros estativos de diseño abierto con voluntarias y proveedores de Bogotá, en el marco de OpenCon Latam 2019
