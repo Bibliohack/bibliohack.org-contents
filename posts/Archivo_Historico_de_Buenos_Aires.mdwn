@@ -1,0 +1,125 @@
+---
+title: Laboratorio de digitalización en el Archivo Histórico de Buenos Aires
+cc_by_sa_plus: yes
+ajax_content: proyectos
+tag: proyectos archivo-ciudad v-cradle cenital
+summary: Instalamos un laboratorio de digitalización en el Archivo Histórico de Buenos Aires
+default_img: /uploads/posts/Archivo_Historico_de_Buenos_Aires/esquema_default_low.png
+featured: yes
+---
+[[!meta date="2023-09-13T12:00:00Z"]]
+
+### Sobre el Archivo Histórico
+
+El **Archivo Histórico de la Ciudad de Buenos Aires** posee uno de los acervos archivísticos más importantes del país. Conserva más de 2.000.000 de documentos y **el más antiguo data de 1771**. Cuenta con una biblioteca especializada en la historia de la Ciudad con más de 5.000 volúmenes. Su acervo tiene el potencial de relatar la historia de la propia institución municipal desde su origen, así como de la construcción de la ciudad, su infraestructura, sus espacios públicos y privados.
+
+Entre sus fondos, para citar algunos ejemplos, el archivo posee el conjunto de los expedientes y planos de mensuras producidos por el Archivo de Mensuras de la Dirección General de Tierras Geodesia desde 1771 o el conjunto de los expedientes administrativos producidos por la estructura política que gobernó la ciudad entre 1854 y 1882. Otro fondo relevante es el compuesto por los planos, fotografías, dibujos, objetos y correspondencia producidos por Jules Charles Thays y Carlos León Thays en sus actividades como paisajistas y directores de Parques y Paseos de la Ciudad de Buenos Aires.
+
+[[!field unite_gallery="tiles" gallery_1="archivo_ciudad_edificio"]]
+
+<div id="archivo_ciudad_edificio" class="unite-gallery tiles" style="display:none;">
+   <img alt="Edificio histórico, originalmente la sede de la Editorial Estrada, donde se encuentra actualmente el Archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/edificio_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/edificio_ok.jpg"
+   data-description="">
+   <img alt="Interior del edificio" src="/uploads/galleries/archivo_ciudad_edificio/300px/interior.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/interior.jpg"
+   data-description="">
+   <img alt="Deposito actual del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/deposito.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/deposito.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/plano.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/plano.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/actas.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/actas.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/ilustracion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/ilustracion.jpg"
+   data-description="">
+
+</div>
+
+### Puesta valor y proyecto
+
+En el marco de un proyecto general de **puesta en valor instituciónal**, inicialmente colaboramos en tareas de relevamiento y diagnóstico de los insumos IT existentes para digitalización y en la planificación del proceso de selección e implementación de nuevos recursos. Además intervinimos en la elaboración de proyectos y en el diseño de una estrategia de digitalización (establecimiento de criterios de selección de material, alcance del proyecto y establecimiento de prioridades). 
+
+Nuestra participación se extendió durante más de dos años, entre 2021 y 2023, bajo la dirección de los coordinadores del proyecto Martín Capeluto e Izaskun Martínez Castillo y participamos por Bibliohack Matías Butelman, Juan Suárez y Victoria Lopresto.
+
+### Laboratorio de digitalización y gestión archivística
+
+Durante el desarrollo del proyecto estuvimos a cargo de múltiples tareas:
+
+ * La instalación y desarrollo del **laboratorio de digitalización**, que incluyó la construcción de dos dispositivos *open hardware*, el despliegue del software de captura y la adecuación de escaneres existentes.
+ * El despliegue de [**Collective Access**](https://collectiveaccess.bibliohack.org/) para la gestión archivística y publicación del patrimonio digitalizado, junto con la selección, adecuación y homologación de esquemas de metadatos y la migración de las bases de datos existentes.
+ * La **capacitación** del personal en el uso de los estativos y su software de captura, en el manejo de las herramientas de catalogación, en la carga de datos y en nociones sobre propiedad intelectual, entre otros.
+ * Elaboramos manuales y guías con los **protocolos de digitalización**.
+
+En el laboratorio de digitalización instalamos nuestro [**estativo cenital con base móvil**](https://github.com/Bibliohack/Cenital) de [especificaciones abiertas](https://es.wikipedia.org/wiki/Hardware_libre), que puede capturar documentos no encuadernados de tamaño estándar, periódicos de gran formato o planos de tamaño mediano, según el accesorio seleccionado. Este dispositivo en particular permite digitalizar materiales que por su tipología, fragilidad o relieves **no pueden procesarse en equipos convencionales**. 
+
+También llevamos a cabo las tareas de **reacondicionamiento** y puesta en funcionamiento de los equipos existentes, como el escáner de planos de gran formato Contex HD5450. 
+
+En el área de biblioteca instalamos nuestro [**dispositivo "en V"**](https://github.com/Bibliohack/V-cradle), para material encuadernado, que admite volúmenes hasta tamaño tabloide y utiliza dos cámaras digitales reflex para la captura simultanea.
+
+[[!field unite_gallery="tiles" gallery_2="archivo_ciudad_estativos"]]
+
+<div id="archivo_ciudad_estativos" class="unite-gallery tiles" style="display:none;">
+   <img alt="Esquema del laboratorio de digitalización" src="/uploads/galleries/archivo_ciudad_estativos/300px/esquema_laboratorio_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/esquema_laboratorio_ok.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/laboratorio_instalado_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/laboratorio_instalado_ok.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/20220602_163556.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/20220602_163556.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/20220602_161626.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/20220602_161626.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/IMG_20220602_163020_719.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/IMG_20220602_163020_719.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/captura_gestor.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/captura_gestor.jpg"
+   data-description="">
+   <img alt="Manual del usuario del estativo cenital" src="/uploads/galleries/archivo_ciudad_estativos/300px/manual.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/manual.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-13.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-13.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-14.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-14.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-17.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-17.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-21.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-21.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/presentacion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/presentacion.jpg"
+   data-description="">
+</div>
+
+Este proyecto en el Archivo Histórico de la Ciudad ejemplifica como puede llevarse a cabo de manera virtuosa **todo el proceso de captura, postprocesamiento, catalogación y publicación del patrimonio** utilizando sólo **recursos abiertos**, desde el *software* hasta los mismos dispositivos de captura, sin que la institución deba atarse a licencias limitantes, ni depender excesivamente del fabricante o proveedor del equipamiento. Y también, contribuyendo a mejorar recursos abiertos que estarán universalmente disponibles.
+
+### Presentación del proyecto en el archivo
+
+Durante el mes de septiembre de 2022 se hizo la inauguracion oficial del laboratorio ante las autoridades de la ciudad.
+ 
+[[!field unite_gallery="tiles" gallery_3="archivo_ciudad_evento"]]
+
+<div id="archivo_ciudad_evento" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion1.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion1.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion2.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion2.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion.jpg"
+   data-description="">
+</div>
+
+
+[**Presentación sobre el laboratorio de digitalización**](/Archivo_Historico_de_Buenos_Aires/INAUGURACION_LABORATORIO.pdf)
