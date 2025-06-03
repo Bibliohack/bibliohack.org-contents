@@ -1,0 +1,23 @@
+
+## Menciones a Bibliohack en artículos, trabajos o presentaciones acádemicos:
+
+- 2021/07/01. José Antonio Motilla Chávez y Rodrigo Antonio Esqueda López, «Memoria, patrimonio y producción artística: el centro de documentación artística Jesús Ramos Frías y el sistema de documentación de la práctica artística de San Luis Potosí», H-ART (Revista de historia, teoría y crítica de arte), n.o 9 (2021): 79-100. [DOI](https://doi.org/10.25025/hartaop.2021.05). *Se menciona a Bibliohack y la utilización de los planos del dispositivo de digitalización en V en el proyecto*
+
+- 2021/01. Rafael Díaz-Salgado Collado, «Procesos de digitalización cultural: Del Caso Mondrian a Travis Scott en Fornite», Trabajo de Final de Máster de Gestión Cultural, Universitat Oberta de Catalunya (UOC). [URI](http://hdl.handle.net/10609/128530) [PDF](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/128530/6/rafadiazTFM0121memoria.pdf). *Menciona el proyecto y toma como referencia el concepto de digitalización expresado por los fundadores de Bibliohack en una entrevista en revista Archivoz, acerca de que digitalizar "no es un mero cambio de soporte, es volver a editar una obra en un nuevo formato"*.
+
+- 2020/12/17. Facundo Martín, Mark Healey, Juan Pablo Fili, Nicolás Parise y Anabella Engelman, «El Archivo Histórico del Agua del Departamento General de Irrigación de la Provincia de Mendoza, Argentina», Corpus [En línea], Vol. 10, Nº. 2 | 2020. [URL](http://journals.openedition.org/corpusarchivos/3976); [DOI](https://doi.org/10.4000/corpusarchivos.3976). *Mención de Bibliohack y la metodología DIY en el proyecto de digitalización del archivo*.
+
+- 2019/03/09. María Soledad Segura y Silvio Waisbord, "Between Data Capitalism and Data Citizenship», Television & New Media, 2019;20(4):412-419. [DOI](https://doi.org/10.1177%2F1527476419834519). [PDF](https://democratizarcomunicacion.fcc.unc.edu.ar/wp-content/blogs.dir/27/files/sites/27/1527476419834519.pdf). *Menciona el proyecto Bibliohack en el contexto del activismo de datos en América Latina*.
+
+- 2018/11. Gabriela Edith Striker, Agustina Miguens y Ileana Betsabé Campagno Pizarro, «El proyecto de digitalización de las revistas Incipit», Presentación en el III Congreso Internacional de la Asociación de Humanidades Digitales (AAHD) "La cultura de los datos", realizado del 7 al 9 de noviembre de 2018 en Rosario, Argentina. En la Mesa "Diseño y Construcción de Archivos" coordinada por Juan José Mendoza. [URL](http://rephip.unr.edu.ar/handle/2133/13812). *Describe el proceso de digitalización de las revistas INCIPIT llevado adelante junto a Bibliohack*.
+
+- 2018/10 Leonardo Funes, «Una excursión al mundo de las humanidades digitales en el Cono Sur: objetos y prácticas»,
+Humanidades, (revista de la Universidad de la República, Facultad de Humanidades y Ciencias de la Educación), 4;10-2018;73-86. [URI](http://hdl.handle.net/11336/100961). [PDF](https://ri.conicet.gov.ar/bitstream/handle/11336/100961/CONICET_Digital_Nro.0c46ff0b-61e2-4ba1-9ef0-aac71e262528_A-37-44.pdf). *Mención a Matías Butelman y Juan Suárez en relación al desarrollo del dispositivo de digitalización en V para Instituto de Investigaciones Bibliográficas y Crítica Textual*
+
+- 2018. Gabriela Edith Striker, Agustina Miguens y Ileana Betsabé Campagno Pizarro, «El proyecto de digitalización de las revistas INCIPIT: Comentarios sobre su primera etapa», Actas del Tercer Congreso de la Asociación Argentina de Humanidades Digitales "La Cultura de los Datos", Asociación Argentina de Humanidades Digitales, Rosario. [URL](https://www.aacademica.org/congreso.aahd2018/35). *Describe el proceso de digitalización de las revistas INCIPIT llevado adelante junto a Bibliohack*.
+
+<!--
+
+- 2015/11/13. Michel Géneréux, Juan Pablo Suárez, Martín Williman, Pablo Montepagano, Nicolás Rucks y Ana Sanllorenti, «Mejora en los textos obtenidos por digitalización y OCR» Presentación en la VI Jornada temas actuales en bibliotecología, Buenos Aires 
+
+-->

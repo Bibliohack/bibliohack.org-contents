@@ -4,6 +4,7 @@
 	summary="Publicaciones relacionadas con Universidad de Connecticut"
 	body_class="taglist"
 	hashtag="uconn"
+	translatable="yes"
 ]]
 <div class="row">
 [[!inline pages="tagged(uconn) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"

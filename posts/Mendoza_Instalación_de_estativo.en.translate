@@ -1,0 +1,144 @@
+---
+tag: proyectos v-cradle
+translated_tags: 
+  - tag: proyectos
+    translated: projects
+  - tag: v-cradle
+    translated: v-cradle
+cc_by_sa_plus: yes
+title: Installation of V-shaped Scanner at the Historical Water Archive in Mendoza
+default_img: /uploads/posts/Mendoza_Instalación_de_estativo/mendoza_grupal.jpeg
+default_img_alt: Installation of a 'V' stand in the Water Archive, Mendoza.
+featured: yes
+summary: Over the course of three days in the city of Mendoza, we assembled a V-shaped scanner, configured the software, and trained the device's users.
+teaserline: The scanner will be used to digitize historical documents.
+ajax_content: projects
+translated: yes
+---
+[[!meta date="2018-09-12T12:00:00Z"]]
+
+The history of Mendoza is closely tied to the use of water. The need to build infrastructure and resolve conflicts over this scarce resource led to the creation of water management institutions as early as colonial times. In 1884, the first water law was enacted, and the General Department of Waters was established—today known as the [**Departamento General de Irrigación**](https://www.irrigacion.gov.ar/web/) (DGI), an autonomous and influential institution in the province whose main role is still the general administration of public waters.
+
+Talking about the history of water in what is now the province of Mendoza is directly linked to the recovery and interpretation of minutes, plans, reports, illustrations, photographs, or books produced over the last two centuries by the entities responsible for managing this resource. Much of this documentation is held in general archives geographically dispersed across what is known as the *passive archive* of the General Department of Irrigation. To improve access and highlight the value of this collection, the **Library and Historical Water Archive** is being established at the central offices of Irrigation in the city of Mendoza.
+
+Below are some images of the archive as we surveyed the different types of documents.
+
+[[!field unite_gallery="tiles" gallery_1="archivo"]]
+
+<div id="archivo" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/01.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/10.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/20.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/25.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/30.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/40.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/40.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/45.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/45.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/50.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/50.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/archivo/300px/55.jpg"
+   data-image="/uploads/galleries/mendoza_2018/archivo/1280px/55.jpg"
+   data-description="">
+</div>
+
+As part of the project to highlight the value of this collection—and in collaboration with the [**Institute of Human, Social and Environmental Sciences at CONICET**](https://www.mendoza.conicet.gov.ar/portal/incihusa/) (Incihusa/CONICET)—we traveled to Mendoza in September 2018 to build and install a *V-shaped* scanner for the library. The device will digitize a collection of books, photographs, and historical magazines that are not currently easily accessible to researchers.
+
+The laser cutting of parts and material procurement were entirely carried out with local suppliers in the city of Mendoza, coordinated by members of Incihusa. Upon our arrival, all materials were ready to begin assembling the device.
+
+[[!field unite_gallery="tiles" gallery_2="armado"]]
+
+<div id="armado" class="unite-gallery tiles" style="display:none;">
+   <img alt="Unpacking the MDF pieces delivered by the supplier" src="/uploads/galleries/mendoza_2018/armado/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/01.jpg"
+   data-description="">
+   <img alt="Sorting the pieces" src="/uploads/galleries/mendoza_2018/armado/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/10.jpg"
+   data-description="">
+   <img alt="Assembling the components" src="/uploads/galleries/mendoza_2018/armado/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/20.jpg"
+   data-description="">
+   <img alt="Some of the tools used" src="/uploads/galleries/mendoza_2018/armado/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/25.jpg"
+   data-description="">
+   <img alt="Assembling the lamp holder" src="/uploads/galleries/mendoza_2018/armado/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/30.jpg"
+   data-description="">
+   <img alt="All components assembled" src="/uploads/galleries/mendoza_2018/armado/300px/40.jpg"
+   data-image="/uploads/galleries/mendoza_2018/armado/1280px/40.jpg"
+   data-description="">
+</div>
+
+On the second day, we began masking and painting the scanner in an open area within the Irrigation building.
+
+[[!field unite_gallery="tiles" gallery_3="pintado"]]
+
+<div id="pintado" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/011.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/011.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/pintado/300px/012.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/012.jpg"
+   data-description="">
+   <img alt="Assembled and masked structure" src="/uploads/galleries/mendoza_2018/pintado/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/01.jpg"
+   data-description="">
+   <img alt="Spray painting" src="/uploads/galleries/mendoza_2018/pintado/300px/02.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/02.jpg"
+   data-description="">
+   <img alt="Some parts already painted" src="/uploads/galleries/mendoza_2018/pintado/300px/03.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/03.jpg"
+   data-description="">
+   <img alt="The finished structure" src="/uploads/galleries/mendoza_2018/pintado/300px/04.jpg"
+   data-image="/uploads/galleries/mendoza_2018/pintado/1280px/04.jpg"
+   data-description="">
+</div>
+
+Finally, on our last day in Mendoza, we carried out the final adjustments, positioned the device in its permanent location, installed its electrical system, programmed the cameras, and installed the capture and post-processing software on a laptop designated to operate the scanner. At the end of the day, we did a test run and provided training to members of the Library and Incihusa, which continued over the following weeks in a virtual format.
+
+[[!field unite_gallery="tiles" gallery_4="capacitacion"]]
+
+<div id="capacitacion" class="unite-gallery tiles" style="display:none;">
+   <img alt="Device ready" src="/uploads/galleries/mendoza_2018/capacitacion/300px/01.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/01.jpg"
+   data-description="">
+   <img alt="Testing the lighting" src="/uploads/galleries/mendoza_2018/capacitacion/300px/05.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/05.jpg"
+   data-description="">
+   <img alt="Testing the cameras" src="/uploads/galleries/mendoza_2018/capacitacion/300px/10.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/10.jpg"
+   data-description="">
+   <img alt="Starting a capture test" src="/uploads/galleries/mendoza_2018/capacitacion/300px/15.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/15.jpg"
+   data-description="">
+   <img alt="Final adjustments before starting the training" src="/uploads/galleries/mendoza_2018/capacitacion/300px/16.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/16.jpg"
+   data-description="">
+   <img alt="Training on how the scanner works" src="/uploads/galleries/mendoza_2018/capacitacion/300px/20.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/20.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/mendoza_2018/capacitacion/300px/25.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/25.jpg"
+   data-description="">
+   <img alt="At the end of day 3, training on how to operate the device" src="/uploads/galleries/mendoza_2018/capacitacion/300px/27.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/27.jpg"
+   data-description="">
+   <img alt="Already digitizing" src="/uploads/galleries/mendoza_2018/capacitacion/300px/30.jpg"
+   data-image="/uploads/galleries/mendoza_2018/capacitacion/1280px/30.jpg"
+   data-description="">
+</div>
+
+We would like to extend special thanks to **Mark Healey**, **Facundo Martín**, and **Sergio Terrera** for their trust in Bibliohack to carry out this project.

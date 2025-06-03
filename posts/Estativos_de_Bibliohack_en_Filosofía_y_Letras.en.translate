@@ -1,0 +1,111 @@
+---
+title: Bibliohack Stands at the Faculty of Philosophy and Humanities
+tag: proyectos v-cradle
+translated_tags:
+  - tag: proyectos
+    translated: projects
+  - tag: v-cradle
+    translated: v-cradle
+cc_by_sa: yes
+default_img: /uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/01.jpg
+default_img_alt: Pintura del estativo en el patio de Filo.
+summary: Assembly of devices and training sessions as part of the Faculty's digitization projects.
+teaserline: Assembly of devices and training.
+ajax_content: projects
+translatable: yes
+---
+[[!meta date="2018-09-30T12:00:00Z"]]
+
+The Faculty of Philosophy and Humanities (Facultad de Filosofía y Letras) at the University of Buenos Aires was founded in 1896 and currently has more than 15,000 students. Its main campus is located on Puan Street, in the Buenos Aires neighborhood of Caballito. In the basement of the building (originally a tobacco factory) operates the **library of the Faculty "Augusto Raúl Cortazar"**. The institution manages and safeguards one of Argentina’s most important collections in the Humanities and Social Sciences, dating back to 1897. It currently holds a collection of more than 390,000 volumes, not including the materials of the 20 specialized libraries of the Research Institutes.
+
+The Faculty has an open-access web platform for its scientific, pedagogical, and institutional output called [*Filo Digital*](http://bibliotecas.filo.uba.ar/filo-digital), which offers a set of services for managing digital materials created by the university's academic community to increase visibility, dissemination, and impact.
+
+### Bibliohack at Filo
+
+In May of this year, we began building a low-cost *V-shaped* digitization stand prototype, made entirely with laser cutting and assembled on-site. The device allows digitization up to tabloid size. We carried out the assembly in the library space and painted all parts in the faculty courtyard. The device will be used by the library as part of its digitization program. We thank **María Rosa Mostaccio**, Deputy Secretary of Libraries, for trusting our proposal. For us, this is the first iteration of a new construction model that will be modified in design as we advance in building and testing new prototypes.
+
+[[!field unite_gallery="tiles" gallery_1="filo_puan_2018"]]
+
+<div id="filo_puan_2018" class="unite-gallery tiles" style="display:none;">
+   <img alt="Painting the stand in the courtyard of the Faculty of Philosophy and Letters." src="/uploads/galleries/filo_puan_2018/300px/01.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/01.jpg"
+   data-description="">
+   <img alt="Painting the stand in the courtyard of the Faculty of Philosophy and Letters." src="/uploads/galleries/filo_puan_2018/300px/02.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/02.jpg"
+   data-description="">
+   <img alt="Assembled sets of parts." src="/uploads/galleries/filo_puan_2018/300px/03.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/03.jpg"
+   data-description="">
+   <img alt="Painting the stand in the courtyard of the Faculty of Philosophy and Letters." src="/uploads/galleries/filo_puan_2018/300px/04.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/04.jpg"
+   data-description="">
+   <img alt="The device in the Library, during a Library presentation held as part of Open Access Week 2018." src="/uploads/galleries/filo_puan_2018/300px/05.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/05.jpg"
+   data-description="">
+   <img alt="The courtyard of the Faculty of Philosophy and Letters." src="/uploads/galleries/filo_puan_2018/300px/06.jpg"
+   data-image="/uploads/galleries/filo_puan_2018/1280px/06.jpg"
+   data-description="">
+</div>
+
+The Library's digitization program focuses on three priority areas for materials included in the digital repository: digitization of theses deposited in the Central Library, bibliographic collections of patrimonial value, and teaching support materials.
+
+The Library's digitization team already had experience using "DIY" devices and post-processing software. The library is one of the **pioneers in the use of free software and also in experimenting with low-cost “do-it-yourself” scanners**. In this [Flickr photo gallery](https://www.flickr.com/photos/derechoaleer/albums/72157647768825905), you can see some of the devices built by Juan Suárez [in 2012](http://derechoaleer.org/blog/2011/08/nuestro-do-it-yourself-book-scanner.html) for the Faculty of Philosophy and Letters of UBA and the University of La Plata.
+
+![Filo is a pioneer in the use of "DIY Book Scanners": stand based on the design by Daniel Reetz built by Juan Suárez in August 2011 for the Faculty of Philosophy and Letters. Presentation photo at the Rectorate.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/escaner__95__dal.png)
+
+### The Experience at 25 de Mayo
+
+A second stage of this project was the installation of a second prototype (also *V-shaped*) at the **25 de Mayo campus of the Faculty**, launching the operation of a **digitization lab** for use by the research institutes housed in that space.
+
+The 25 de Mayo campus is located in an impressive building in the heart of downtown, inaugurated in 1906 as the *Palace Hotel*, one of the most luxurious of its time. It now houses institutions under the Faculty, such as the Paco Urondo Cultural Center, the Language Lab, and the headquarters of several institutes.
+
+The device, painted and pre-assembled, was taken in parts to the 25 de Mayo site and assembled on-site. Within a few days, the scanner was up and running and ready for training sessions to begin.
+
+<video style="margin: 2rem 0; width: 700px;" src="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.mp4" poster="/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/25m-filo-armado.png" controls></video>
+
+The training course delivered by Bibliohack in September 2018 included participants from the Institute of Performing Arts "Dr. Raúl H. Castagnino", the Institute of Hispanic-American Literature, the Institute of History of Spain "Claudio Sánchez-Albornoz", the Institute of Archaeology, and the Institute of Theory and History of Art “Julio E. Payró”, among others, along with staff from the Central Library.
+
+The course consisted of several theoretical and practical sessions. In addition to using the device and addressing technical aspects of digitization, we discussed broader issues: how to organize a successful digitization project, how to make a strategic selection of materials, or the political advantages of installed capacity over outsourcing services.
+
+We also provided both remote and in-person support for several weeks during the capture and post-processing phase, helping each Institute carry out its digitization projects.
+
+![Matías Butelman with members of various research institutes of the Faculty of Philosophy and Letters and the Central Library, during the training at 25 de Mayo.](/uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/mbutel-25m.jpg)
+
+[[!field unite_gallery="tiles" gallery_2="filo_25m_2018"]]
+
+<div id="filo_25m_2018" class="unite-gallery tiles" style="display:none;">
+   <img alt="25 de Mayo campus of the Faculty of Philosophy and Letters of UBA." src="/uploads/galleries/filo_25m_2018/300px/001.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/001.jpg"
+   data-description="">
+   <img alt="The research institutes’ site was, in the early 20th century, a luxurious hotel." src="/uploads/galleries/filo_25m_2018/300px/005.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/005.jpg"
+   data-description="">
+   <img alt="Adjusting assembled parts in the digitization lab." src="/uploads/galleries/filo_25m_2018/300px/010.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/010.jpg"
+   data-description="">
+   <img alt="Accessories, screws, and tools." src="/uploads/galleries/filo_25m_2018/300px/015.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/015.jpg"
+   data-description="">
+   <img alt="Digitization test." src="/uploads/galleries/filo_25m_2018/300px/022.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/022.jpg"
+   data-description="">
+   <img alt="Digitization test." src="/uploads/galleries/filo_25m_2018/300px/033.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/033.jpg"
+   data-description="">
+   <img alt="Digitization test." src="/uploads/galleries/filo_25m_2018/300px/035.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/035.jpg"
+   data-description="">
+   <img alt="Capture preview on screen." src="/uploads/galleries/filo_25m_2018/300px/037.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/037.jpg"
+   data-description="">
+   <img alt="Digitization test using a laptop." src="/uploads/galleries/filo_25m_2018/300px/040.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/040.jpg"
+   data-description="">
+   <img alt="Device with the screen placed behind to facilitate capture." src="/uploads/galleries/filo_25m_2018/300px/060.jpg"
+   data-image="/uploads/galleries/filo_25m_2018/1280px/060.jpg"
+   data-description="">
+</div>
+
+<!--
+- https://twitter.com/danavido/status/1055633991397793793
+-->

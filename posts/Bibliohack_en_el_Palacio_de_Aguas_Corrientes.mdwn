@@ -1,5 +1,5 @@
 ---
-tag: proyectos aysa 
+tag: proyectos aysa v-cradle
 summary: Instalación de estativo en V y capacitación en la Biblioteca Ing. Agustín González de AySA.
 teaserline: Instalación de estativo en V para la Biblioteca de AySA.
 default_img: /uploads/posts/Bibliohack_en_el_Palacio_de_Aguas_Corrientes/Palacio-de-aguas-corrientes.jpg

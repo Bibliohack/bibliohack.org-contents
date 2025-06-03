@@ -1,5 +1,5 @@
 ---
-tag: proyectos rosario uca
+tag: proyectos rosario uca v-cradle
 default_img: /uploads/posts/Estativo_en_V_en_UCA_Rosario/0IMG-20190426-WA0068.jpg
 default_img_alt: Dispositivo de digitalización en V de Bibliohack instalado en el área de Colecciones Especiales y Archivos de la Biblioteca Central de la UCA Rosario.
 unite_gallery: tiles
@@ -7,6 +7,7 @@ gallery_1: uca_rosario_estativo_v
 ajax_content: projects
 cc_by_sa_plus: yes
 teaserline: Instalamos un dispositivo de digitalización en el área de Colecciones Especiales de la Biblioteca.
+translatable: yes
 ---
 [[!meta date="2019-07-12T12:00:00Z" ]]
 

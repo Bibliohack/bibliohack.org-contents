@@ -1,12 +1,12 @@
 ---
-tag: proyectos filo-uba 
+tag: proyectos filo-uba v-cradle
 cc_by_sa: yes
 default_img: /uploads/posts/Estativos_de_Bibliohack_en_Filosofía_y_Letras/01.jpg
 default_img_alt: Pintura del estativo en el patio de Filo.
 summary: Ensamblado de dispositivos y capacitaciones en el marco de proyectos de digitalización de la Facultad.
 teaserline: Ensamblado de dispositivos y capacitaciones.
-featured: yes
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2018-09-30T12:00:00Z"]]
 

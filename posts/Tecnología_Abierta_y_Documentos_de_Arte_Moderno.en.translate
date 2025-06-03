@@ -1,0 +1,87 @@
+---
+title: Open Source Technology and Modern Art Archives
+tag: proyectos
+translated_tags:
+  - tag: proyectos
+    translated: projects
+default_img: /uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/estativo.esquema.png
+default_img_alt: Descriptive diagram and dimensions of a DIY copy stand. 
+summary: Chronicle on the design and construction of a low cost copy stand for the digitization project of the Museum of Modern Art of Buenos Aires and some reflections on the local reality of the institutions that guard heritage. 
+teaserline: Development of a low cost copy stand for the Museum of Modern Art .
+featured: yes
+ajax_content: last_posts
+translatable: yes
+---
+[[!meta date="2017-10-15T12:00:00Z"]]
+
+In April 2017, we began initial working meetings with **Valeria Semilla** and **Helena Raspo** from the Modern Art Museum - and **Ines Esteves** from the museum's library - to analyze the possibility of designing and building a low-cost overhead capture stand for the institution, while developing and adapting *software* resources to efficiently process digitized materials. This initiative was part of an ambitious project to digitize the museum's documentary collection on the history of Argentine modern art.
+
+The **Library of the Modern Art Museum of Buenos Aires** was established in the 1960s, just a few years after the museum's founding, with the mission to gather, preserve, organize, and disseminate specialized bibliographic, periodical, and documentary heritage on 20th and 21st century visual arts. It holds over 7,000 volumes, including books and exhibition catalogs. The library also contains all publications edited by the museum since its foundation. Its collections include donations from prominent figures in the art world such as art critic José León Pagano, collector Ignacio Pirovano, and artist Alberto Heredia.
+
+The museum's [modest early years](https://es.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Buenos_Aires) reflect a history of setbacks and challenges overcome through the determination of its founder, art critic **Rafael Squirru**. Without a permanent location, the museum remained itinerant until it secured space in the upper floors of the Teatro General San Martín. However, it wasn't until 2018, *62 years after its founding*, that the museum finally [obtained a complete headquarters](https://www.nueva-ciudad.com.ar/notas/201807/37911-el-moderno-se-renueva.html) at its current location on Avenida San Juan in San Telmo. Although the building (formerly the Piccardo Tobacco Factory) was granted in 1987 and the move occurred two years later, the Moderno still faced periods of bureaucratic and budgetary neglect that even forced its temporary closure in the early 2000s.
+
+In recent years, the museum received special attention as a **priority project for the city government**, part of a strategy to regain Buenos Aires' prominence in the influential contemporary art scene. While funds flowed abundantly for building expansion and renovations, challenges in maintaining sustainable digitization projects [persisted](/posts/Financiaci%C3%B3n_colectiva_para_digitalizar_el_archivo_del_Moderno/), as is common with most libraries and museums in the city. This clearly illustrates **the structural limitations of cultural institutions in developing countries** and demonstrates where Bibliohack and **open technologies** can contribute. The question remains: If the Modern Art Museum faces such limitations, what about other museums with even smaller budgets?
+
+### Custom Development
+
+Our initiative was chosen not just for cost-effectiveness, but also for its **horizontal work approach**, **openness**, **technical appropriation**, **cross-department integration**, and adaptability to **changing contexts**. As part of the *"Modern Art Documents"* project, we began prototyping and refining a new stand model to expand open technology options for systematically working with pamphlets, photographs, maps, posters, ephemera, and other materials.
+
+[![Flat stand, general reference](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)
+
+[![Dimensions and connections](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)
+
+[![Lighting system](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)
+
+[![Pressure plate](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)
+
+The project required collaboration between different museum departments to establish guidelines for **conservation**, **lighting**, **document selection**, **archival description**, **data management**, **format specifications**, and **online publication** from a practical perspective. For capture and post-processing *software*, we developed new features and adapted configurations based on the materials' specific characteristics, analyzing digital access and preservation conditions through constant *feedback* with museum and library staff. The stand's development involved testing various structural configurations considering space limitations and usability.
+
+[[!field unite_gallery="tiles" gallery_1="cenital_el_moderno"]]
+
+<div id="cenital_el_moderno" class="unite-gallery tiles" style="display:none;">
+   <img alt="Assembling the pieces" src="/uploads/galleries/cenital_el_moderno/300px/01.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/01.jpg"
+   data-description="">
+   <img alt="Painting" src="/uploads/galleries/cenital_el_moderno/300px/20.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/20.jpg"
+   data-description="">
+   <img alt="Assembling painted pieces" src="/uploads/galleries/cenital_el_moderno/300px/30.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/30.jpg"
+   data-description="">
+   <img alt="Mounting lights on the structure" src="/uploads/galleries/cenital_el_moderno/300px/35.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/35.jpg"
+   data-description="">
+   <img alt="Testing lights" src="/uploads/galleries/cenital_el_moderno/300px/40.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/40.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/50.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/50.jpg"
+   data-description="">
+   <img alt="Starting a capture test" src="/uploads/galleries/cenital_el_moderno/300px/55.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/55.jpg"
+   data-description="">
+   <img alt="First capture tests" src="/uploads/galleries/cenital_el_moderno/300px/60.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/60.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/70.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/70.jpg"
+   data-description="">
+   <img alt="Color calibration card" src="/uploads/galleries/cenital_el_moderno/300px/77.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/77.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/80.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/80.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/82.jpg"
+   data-image="/uploads/galleries/cenital_el_moderno/1280px/82.jpg"
+   data-description="">
+</div>
+
+Ultimately, this year-long collaboration with the museum reinforced our belief that beyond the priorities and limitations that sometimes lead to discouraging policies, it's the **strategic cooperation** between **direct collection custodians** and the adoption of **free/libre open-source software and hardware** - plus **context-appropriate technology** - that enables **capacity building** and long-term **resource resilience**.
+
+<!--
+https://www.museomoderno.org/es/noticias/tecnologia-y-gestion-de-patrimonio-cultural-clinica
+https://www.museomoderno.org/es/noticias/clinica-de-proyectos
+https://www.museomoderno.org/es/biblioteca
+http://archivo.museomoderno.org/index.php/biblioteca-y-centro-de-documentacion-del-museo-de-arte-moderno-de-buenos-aires
+-->

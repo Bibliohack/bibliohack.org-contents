@@ -7,7 +7,6 @@ cc_by_sa: yes
 ajax_content: last_posts
 default_img: /uploads/posts/Alianza_con_la_Universidad_de_Connecticut/IMG_2148-1024x768.jpg
 default_img_alt: "Los miembros del equipo Juan Pablo Suárez (en gris), Juan Pablo Fili (en negro) y Facundo Martín (en rojo) trabajando con el escáner prototipo Bibliohack en el Departamento General de Irrigación en Mendoza, Argentina (Foto de Sergio Terrera)"
-featured: yes
 tag: proyectos uconn
 ---
 [[!meta date="2021-09-01T12:00:00Z"]]

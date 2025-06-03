@@ -1,5 +1,5 @@
 ---
-tag: archivo-del-agua proyectos conicet mendoza
+tag: archivo-del-agua proyectos conicet mendoza v-cradle
 cc_by_sa_plus: yes
 title: Instalación de estativo en el Archivo Histórico del Agua en Mendoza
 default_img: /uploads/posts/Mendoza_Instalación_de_estativo/mendoza_grupal.jpeg
@@ -8,6 +8,7 @@ featured: yes
 summary: Durante tres días en la ciudad de Mendoza armamos un estativo en V, configuramos el software y capacitamos a los usuarios del dispositivo.
 teaserline: El estativo se usará para digitalizar documentación histórica.
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2018-09-12T12:00:00Z"]]
 

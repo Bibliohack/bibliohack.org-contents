@@ -1,0 +1,67 @@
+---
+title: "Pilot Test at Connecticut University"
+teaserline: A Bibliohack V-shaped cradle digitization stand is manufactured and assembled at UConn
+summary: A Bibliohack V-shaped cradle digitization stand is manufactured and assembled at UConn
+cc_by_sa: yes
+ajax_content: proyectos v-cradle uconn
+default_img: /uploads/posts/Dispositivo_en_V_Bibliohack_Universidad_de_Connecticut/ucon.jpg
+default_img_alt: ""
+featured: yes
+tag: proyectos uconn v-cradle
+translated_tags: 
+  - tag: proyectos
+    translated: projects
+  - tag: v-cradle
+    translated: v-cradle
+  - tag: uconn
+    translated: uconn
+translatable: yes
+---
+[[!meta date="2023-01-01T12:00:00Z"]]
+
+As part of the [alliance with UConn](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), during 2022 they cut the pieces and assembled a *V-cradle* device designed by Bibliohack at the University of Connecticut.
+
+The primary objective of this process was **to analyze the feasibility of its construction and to produce assembly documentation and guides**. Unlike our own manufacturing process, the cutting wasn't done with laser cutting but with a *CNC router*. Using our documentation and some videoconference sessions, they managed to complete a fully functional device in just a few days.
+
+We want to thank Michael Vertefeuille and the entire UConn team who carried out this project - Thank you very much!
+
+[[!field unite_gallery="tiles" gallery_1="uconn_version"]]
+
+<div id="uconn_version" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/01_piezas.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/01_piezas.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/03_Piece_Inventory.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/03_Piece_Inventory.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/04_IMG_5658.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/04_IMG_5658.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/05_STEP_6B.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/05_STEP_6B.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/06_IMG_5703.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/06_IMG_5703.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/07_PXL_20211008_141435899.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/07_PXL_20211008_141435899.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/08_IMG_6199.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/08_IMG_6199.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/08_lat.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/08_lat.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/09_videoconf.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/09_videoconf.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/10_IMG_6203.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/10_IMG_6203.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/11_guide.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/11_guide.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/uconn_version/300px/12_uconn.jpg"
+   data-image="/uploads/galleries/uconn_version/1280px/12_uconn.jpg"
+   data-description="">
+</div>
