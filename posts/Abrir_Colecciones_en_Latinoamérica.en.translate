@@ -17,66 +17,65 @@ translatable: yes
 ---
 [[!meta date="2019-09-26T12:00:00Z"]]
 
-El 24 de septiembre de 2019 se realizó en La Universidad de los Andes en Bogotá el conversatorio **"Abrir colecciones en Latinoamérica Diálogos regionales sobre bibliotecas, archivos, museos y tecnología digital"**, donde se compartieron experiencias sobre las estrategias de diferentes instituciones para brindar acceso e incentivar la apropiación de contenidos digitales por parte de la ciudadanía.
+On September 24, 2019, the discussion **"Opening Collections in Latin America: Regional Dialogues about Libraries, Archives, Museums and Digital Technology"** took place at the University of Los Andes in Bogotá, where experiences were shared about different institutions' strategies for providing access and encouraging public engagement with digital content.
 
-Hoy en día museos, archivos y bibliotecas en todo el mundo se enfrentan al reto de su transformación digital: ofrecer la información de sus colecciones y fondos a través de Internet a públicos cada vez más amplios, digitalizar y preservar formatos cada vez más distintos, agregar y refinar metadatos de muchísimas fuentes de información, enriquecer registros y conectarlos de formas antes insospechadas.
+Today, museums, archives and libraries worldwide face the challenge of digital transformation: making their collections available online to increasingly broad audiences, digitizing and preserving diverse formats, aggregating and refining metadata from countless information sources, and enriching records by connecting them in unprecedented ways.
 
-Todas estas tareas engrosan la nueva dimensión digital de la misión de estas instituciones, que deben adquirir o desarrollar nuevas tecnologías, desplegar nuevas habilidades o incorporar otros perfiles a sus equipos de trabajo. Pero si la misión exige a bibliotecas archivos y museos comprometerse con este futuro digital, nuestro continente les plantea obstáculos muy particulares. Déficits económicos, tecnológicos, profesionales y legales de larga data actúan como barreras en todos los pasos de este proceso de apertura.
+All these tasks expand the digital dimension of these institutions' missions, requiring them to acquire or develop new technologies, deploy new skills, and incorporate different professional profiles into their teams. But while their mission demands commitment to this digital future, our continent presents unique obstacles. Long-standing economic, technological, professional and legal deficits create barriers at every step of this opening process.
 
-¿Hay un modo latinoamericano –o varios– de superar esos obstáculos? A través de las diferentes presentaciones conocimos las experiencias de algunas instituciones referentes,  tanto públicas como privadas, como el Banco de Archivos Digitales de Artes en Colombia (BADAC), banrepcultural.org (el Portal Cultural del Banco de la República), la Biblioteca Digital de Bogotá – BibloRed, el Museo de Arte Moderno de Buenos Aires, o Memoria Chilena entre otros.
+Is there a Latin American way - or ways - to overcome these obstacles? Through various presentations, we learned about experiences from leading institutions, both public and private, such as the Digital Arts Archive Bank of Colombia (BADAC), banrepcultural.org (Cultural Portal of the Bank of the Republic), Bogotá's Digital Library - BibloRed, the Modern Art Museum of Buenos Aires, and Memoria Chilena, among others.
 
-Pariciparon **María José Afanador Llach** (Maestría en Humanidades Digitales, Universidad de los Andes), **María Camila Amado** (Secretaría de Cultura, Recreación y Deporte de Bogotá), **Juan Pablo Angarita** (Biblioteca Digital de Bogotá, BibloRed), **Matías Butelman** (Bibliohack / Museo de Arte Moderno de Buenos Aires), **Camilo Páez Jaramillo** (Biblioteca Nacional de Colombia), **Camilo Martínez** (Banco de Archivos Digitales de Artes en Colombia), **Elder Manuel Tobar** (Biblioteca Nacional de Colombia), **Irene Tobón** (banrepcultural.org, Banco de la República) y por videoconferencía **Daniela Schütte** (Memoria Chilena, Biblioteca Nacional Digital).
+Participants included **María José Afanador Llach** (Digital Humanities Master's program, University of Los Andes), **María Camila Amado** (Bogotá's Secretary of Culture, Recreation and Sports), **Juan Pablo Angarita** (Bogotá Digital Library, BibloRed), **Matías Butelman** (Bibliohack / Modern Art Museum of Buenos Aires), **Camilo Páez Jaramillo** (National Library of Colombia), **Camilo Martínez** (Digital Arts Archive Bank of Colombia), **Elder Manuel Tobar** (National Library of Colombia), **Irene Tobón** (banrepcultural.org, Bank of the Republic) and via videoconference **Daniela Schütte** (Memoria Chilena, National Digital Library).
 
-### Galería de imágenes:
-
+### Image Gallery:
 
 <div id="abrir_colecciones" class="unite-gallery tiles" style="display:none;">
-   <img alt="Camilo Martinez habla sobre el BADAC (Banco de Archivos Digitales de Artes de Colombia) y sobre como tratar las colecciones como datos" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
+   <img alt="Camilo Martinez talks about BADAC (Digital Arts Archive Bank of Colombia) and how to treat collections as data" src="/uploads/galleries/abrir_colecciones/300px/aEFQO8dDX4AAKmmU.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQO8dDX4AAKmmU.jpg"
    data-description="">
-   <img alt="Camilo Páez Jaramillo y Elder Manuel Tobar de la Biblioteca Nacional de Colombia.." src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
+   <img alt="Camilo Páez Jaramillo and Elder Manuel Tobar from the National Library of Colombia" src="/uploads/galleries/abrir_colecciones/300px/aEFQV9okXoAAMRIQ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQV9okXoAAMRIQ.jpg"
    data-description="">
-   <img alt="Camilo Páez Jaramillo, sobre colecciones digitales en manos de coleccionistas privados." src="/uploads/galleries/abrir_colecciones/300px/aEFQVCCLXYAAEoe0.jpg"
+   <img alt="Camilo Páez Jaramillo on digital collections held by private collectors" src="/uploads/galleries/abrir_colecciones/300px/aEFQVCCLXYAAEoe0.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVCCLXYAAEoe0.jpg"
    data-description="">
-   <img alt="Elder Manuel Tobar nos habla sobre contenidos para públicos no especializados." src="/uploads/galleries/abrir_colecciones/300px/aEFQVjZWW4AAgxQv.jpg"
+   <img alt="Elder Manuel Tobar discusses content for non-specialized audiences" src="/uploads/galleries/abrir_colecciones/300px/aEFQVjZWW4AAgxQv.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVjZWW4AAgxQv.jpg"
    data-description="">
-   <img alt="Camilo Páez Jaramillo sobre redes latinoamericanas de bibliotecas digitales." src="/uploads/galleries/abrir_colecciones/300px/aEFQVn0KXoAAloK_.jpg"
+   <img alt="Camilo Páez Jaramillo on Latin American networks of digital libraries" src="/uploads/galleries/abrir_colecciones/300px/aEFQVn0KXoAAloK_.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/aEFQVn0KXoAAloK_.jpg"
    data-description="">
-   <img alt="Discusión: ¡cómo vincular instituciones centrales con comunidades más bien alejadas de la vida institucional?" src="/uploads/galleries/abrir_colecciones/300px/b0EFQYkceXYAA7z72.jpg"
+   <img alt="Discussion: how to connect central institutions with communities distant from institutional life?" src="/uploads/galleries/abrir_colecciones/300px/b0EFQYkceXYAA7z72.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b0EFQYkceXYAA7z72.jpg"
    data-description="">
-   <img alt="¿las instituciones de la memoria no solo deben promover el acceso, sino instruir y enseñar a ejercer la memoria en comunidad?" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYj8dXYAEhIyo.jpg"
+   <img alt="Should memory institutions not only promote access but also teach how to exercise collective memory?" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYj8dXYAEhIyo.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYj8dXYAEhIyo.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/b1EFQYjZOXoAEXPdd.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/b1EFQYjZOXoAEXPdd.jpg"
    data-description="">
-   <img alt="Camila Amado Rivera y Juan Pablo Angarita comparten la historia de la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQbdjBWsAE9e-4.jpg"
+   <img alt="Camila Amado Rivera and Juan Pablo Angarita share the history of Bogotá's Digital Library" src="/uploads/galleries/abrir_colecciones/300px/EFQbdjBWsAE9e-4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbdjBWsAE9e-4.jpg"
    data-description="">
-   <img alt="Camila Amado Rivera y Juan Pablo Angarita ¿Cómo debe ser la biblioteca pública digital de una ciudad como Bogotá, que es tantas ciudades en una?" src="/uploads/galleries/abrir_colecciones/300px/EFQbeEVXoAEdZ9B.jpg"
+   <img alt="Camila Amado Rivera and Juan Pablo Angarita: What should the digital public library look like for a city like Bogotá, which is so many cities in one?" src="/uploads/galleries/abrir_colecciones/300px/EFQbeEVXoAEdZ9B.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbeEVXoAEdZ9B.jpg"
    data-description="">
-   <img alt="Camila Amado Rivera y Juan Pablo Angarita sobre la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQbelnWsAUEWf9.jpg"
+   <img alt="Camila Amado Rivera and Juan Pablo Angarita about Bogotá's Digital Library" src="/uploads/galleries/abrir_colecciones/300px/EFQbelnWsAUEWf9.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbelnWsAUEWf9.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/abrir_colecciones/300px/EFQbfFwXsAI342q.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQbfFwXsAI342q.jpg"
    data-description="">
-   <img alt=" Juan Pablo Angarita (Biblioteca Digital de Bogotá, BibloRed)" src="/uploads/galleries/abrir_colecciones/300px/EFQea-3X4AAw_s5.jpg"
+   <img alt="Juan Pablo Angarita (Bogotá Digital Library, BibloRed)" src="/uploads/galleries/abrir_colecciones/300px/EFQea-3X4AAw_s5.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQea-3X4AAw_s5.jpg"
    data-description="">
-   <img alt=" Juan Pablo Angarita nos habla sobre agregadores, metabuscadores y colecciones curadas por usuarios." src="/uploads/galleries/abrir_colecciones/300px/EFQeZSmW4AAD52M.jpg"
+   <img alt="Juan Pablo Angarita discusses aggregators, metasearch engines and user-curated collections" src="/uploads/galleries/abrir_colecciones/300px/EFQeZSmW4AAD52M.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQeZSmW4AAD52M.jpg"
    data-description="">
-   <img alt="Irene Tobon sobre banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjF72XoAQOTds.jpg"
+   <img alt="Irene Tobon about banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjF72XoAQOTds.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjF72XoAQOTds.jpg"
    data-description="">
-   <img alt="Irene Tobon  presenta todas las iniciativas digitales de la Red Cultural del Banco de la República (Colombia)" src="/uploads/galleries/abrir_colecciones/300px/EFQjFaAX4AA3jfJ.jpg"
+   <img alt="Irene Tobon presents all digital initiatives of the Cultural Network of the Bank of the Republic (Colombia)" src="/uploads/galleries/abrir_colecciones/300px/EFQjFaAX4AA3jfJ.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjFaAX4AA3jfJ.jpg"
    data-description="">
    <img alt="Irene Tobon, banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjG5oXsAI_zWg.jpg"
@@ -85,25 +84,25 @@ Pariciparon **María José Afanador Llach** (Maestría en Humanidades Digitales,
    <img alt="Irene Tobon, banrepcultural.org" src="/uploads/galleries/abrir_colecciones/300px/EFQjGXWW4AEVfHI.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQjGXWW4AEVfHI.jpg"
    data-description="">
-   <img alt="Camila Amado Rivera, Irene Tobon y Juan Pablo Angarita responden preguntas sobre gestión de derechos de autor en banrepcultural.org y la Biblioteca Digital de Bogotá." src="/uploads/galleries/abrir_colecciones/300px/EFQkiwPXoAAczzy.jpg"
+   <img alt="Camila Amado Rivera, Irene Tobon and Juan Pablo Angarita answer questions about copyright management at banrepcultural.org and Bogotá's Digital Library" src="/uploads/galleries/abrir_colecciones/300px/EFQkiwPXoAAczzy.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/EFQkiwPXoAAczzy.jpg"
    data-description="">
-   <img alt="Presentación de Daniela Schütte por videoconferencia." src="/uploads/galleries/abrir_colecciones/300px/zEFQ3NzOXkAAfUe5.jpg"
+   <img alt="Daniela Schütte's presentation via videoconference" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3NzOXkAAfUe5.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3NzOXkAAfUe5.jpg"
    data-description="">
-   <img alt="presentacion de Daniela Schütte sobre Memoria Chilena" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3OS7WwAEcgo7.jpg"
+   <img alt="Daniela Schütte's presentation about Memoria Chilena" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3OS7WwAEcgo7.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3OS7WwAEcgo7.jpg"
    data-description="">
-   <img alt="Presentacion de Daniela Schütte, diferentes aspectos operativos que hacen posible Memoria Chilena" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3Oy3XYAEgcWR.jpg"
+   <img alt="Daniela Schütte's presentation, operational aspects that make Memoria Chilena possible" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3Oy3XYAEgcWR.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3Oy3XYAEgcWR.jpg"
    data-description="">
-   <img alt="Presentacion de Daniela Schütte por videoconferencia." src="/uploads/galleries/abrir_colecciones/300px/zEFQ3POmX4AYMwft.jpg"
+   <img alt="Daniela Schütte's presentation via videoconference" src="/uploads/galleries/abrir_colecciones/300px/zEFQ3POmX4AYMwft.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zEFQ3POmX4AYMwft.jpg"
    data-description="">
-   <img alt="María José Afanador Llach sobre Humanidades Digitales en Latinoamérica y el diálogo con las instituciones de la cultura." src="/uploads/galleries/abrir_colecciones/300px/zzEFQ30zxWwAAR-C4.jpg"
+   <img alt="María José Afanador Llach on Digital Humanities in Latin America and dialogue with cultural institutions" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ30zxWwAAR-C4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ30zxWwAAR-C4.jpg"
    data-description="">
-   <img alt="El gráfico proyectado es la DH Wheel (expandida) de Patrick Sale, traducido por Gimena del Río Grande" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ315LXUAAZQI4.jpg"
+   <img alt="The projected graphic is Patrick Sale's DH Wheel (expanded), translated by Gimena del Río Grande" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ315LXUAAZQI4.jpg"
    data-image="/uploads/galleries/abrir_colecciones/1280px/zzEFQ315LXUAAZQI4.jpg"
    data-description="">
    <img alt="María José Afanador Llach" src="/uploads/galleries/abrir_colecciones/300px/zzEFQ31UMXkAACISN.jpg"
@@ -114,12 +113,11 @@ Pariciparon **María José Afanador Llach** (Maestría en Humanidades Digitales,
    data-description="">
 </div>
 
-
-### Flyer del evento:
+### Event Flyer:
 
 ![](/uploads/posts/Abrir_Colecciones_en_Latinoamerica/abrir-colecciones-800.jpg)
 
-Enlaces: [bibliored](https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica), [uniandes](https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/)
+Links: [bibliored](https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica), [uniandes](https://facartes.uniandes.edu.co/evento/abrir-colecciones-en-latinoamerica-dialogos-regionales-sobre-bibliotecas-archivos-museos-y-tecnologia-digital/)
 
 <!--
 - https://web.archive.org/web/20200323094456/https://www.biblored.gov.co/noticias/abrir-colecciones-en-latinoamerica 

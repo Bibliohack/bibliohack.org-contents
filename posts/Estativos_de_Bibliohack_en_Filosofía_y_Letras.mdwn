@@ -6,6 +6,7 @@ default_img_alt: Pintura del estativo en el patio de Filo.
 summary: Ensamblado de dispositivos y capacitaciones en el marco de proyectos de digitalización de la Facultad.
 teaserline: Ensamblado de dispositivos y capacitaciones.
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2018-09-30T12:00:00Z"]]
 

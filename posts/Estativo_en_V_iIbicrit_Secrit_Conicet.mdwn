@@ -10,10 +10,11 @@ teaserline: Digitalización de los fondos bibliográficos del Seminario de Edici
 unite_gallery: tiles
 gallery_1: secrit_2017
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2017-03-16T12:00:00Z"]]
 
-En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)][1] del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la ["Revista Incipit"][2] en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
+En marzo de 2017 instalamos un estativo en "V" para el [Seminario de Edición y Crítica Textual (SECRIT) / Instituto de Investigaciones Bibliográficas y Crítica Textual (IIBICRIT)][1] del Conicet. El objetivo del proyecto fue digitalizar 29 tomos de la [Revista Incipit][2] en el marco del proyecto "Digitalización de los fondos bibliográficos del Seminario de Edición y Crítica Textual". La revista se publicó sólo en papel desde 1978 hasta 2009.
 
 [1]: http://www.iibicrit-conicet.gov.ar/
 [2]: http://www.iibicrit-conicet.gov.ar/ojsindex-phpincipitindex/
@@ -65,7 +66,7 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 <img alt="" src="/uploads/galleries/secrit_2017/300px/IMG_20170316_173950.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/IMG_20170316_173950.jpg"
    data-description="">
-<img alt="Portada de la 'Revista Incipit'" src="/uploads/galleries/secrit_2017/300px/incipit.jpg"
+<img alt="Portada de la Revista Incipit" src="/uploads/galleries/secrit_2017/300px/incipit.jpg"
    data-image="/uploads/galleries/secrit_2017/1280px/incipit.jpg"
    data-description="">
 <img alt="Captura ampliada 1:1 para ver en detalle la resolución de la imagen" src="/uploads/galleries/secrit_2017/300px/capura.png"
@@ -81,6 +82,6 @@ Actualmente todos los números digitalizados en este proyecto están disponibles
 
 ["El proyecto de digitalización de las revistas Incipit"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/STRIKER_Gabriela_etal-Digitalización_Revistas_Incipit-Congreso_AAHD.pdf): PDF de la presentación a cargo de Gabriela Striker, Agustina Miguens e Ileana Campagno Pizarro (UBA) en la "Mesa Diseño y Construcción de Archivos" coordinada por Juan Mendoza, en el III Congreso Internacional de la Asociación Argentina de Humanidades Digitales realizado en Rosario entre el 7 y 9 de Noviembre de 2018.
 
-["La “Informática Humanística”: notas volanderas desde el ámbito hispánico"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/251-872-1-PB.pdf) Un artículo de la "Revista Incipit" en PDF, ejemplo del resultado final del proceso de digitalización.
+["La “Informática Humanística”: notas volanderas desde el ámbito hispánico"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/251-872-1-PB.pdf) Un artículo de la Revista Incipit en PDF, ejemplo del resultado final del proceso de digitalización.
 
 ["Informe del proyecto Incipit"](/uploads/posts/Estativo_en_V_iIbicrit_Secrit_Conicet/Informe_Proyecto_Incipit.pdf) Informe elaborado por Gabriela Striker, Agustina Miguens e Ileana Campagno con detalles sobre la realización del proyecto, las dificultades encontradas y las sugerencias de mejoras al proceso desarrollado por Bibliohack.

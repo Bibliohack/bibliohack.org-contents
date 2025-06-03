@@ -1,23 +1,29 @@
 ---
-title: "Prueba piloto en Connecticut"
-teaserline: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
-summary: Un estativo en V de Bibliohack es producido y ensamblado en la Universidad de Connecticut
+title: "Pilot Test at Connecticut University"
+teaserline: A Bibliohack V-shaped cradle digitization stand is manufactured and assembled at UConn
+summary: A Bibliohack V-shaped cradle digitization stand is manufactured and assembled at UConn
 cc_by_sa: yes
 ajax_content: proyectos v-cradle uconn
 default_img: /uploads/posts/Dispositivo_en_V_Bibliohack_Universidad_de_Connecticut/ucon.jpg
 default_img_alt: ""
 featured: yes
 tag: proyectos uconn v-cradle
+translated_tags: 
+  - tag: proyectos
+    translated: projects
+  - tag: v-cradle
+    translated: v-cradle
+  - tag: uconn
+    translated: uconn
 translatable: yes
 ---
 [[!meta date="2023-01-01T12:00:00Z"]]
 
-En el marco de la [alianza con UConn](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), durante el año 2022 cortaron la piezas y ensamblaron un dispositivo *cuna en V* diseñado por Bibliohack en la Universidad de Connecticut.
+As part of the [alliance with UConn](https://bibliohack.org/posts/Alianza_con_la_Universidad_de_Connecticut/), during 2022 they cut the pieces and assembled a *V-cradle* device designed by Bibliohack at the University of Connecticut.
 
-El proceso tenía por objetivo primario **analizar la viabilidad de su construcción y la elaboración de documentación y guías de armado**. El corte, a diferencia
-de los fabricados por nosotros, no se realizo con corte laser, sino con un *Cnc router*. Con nuestra documentación y algunas sesiones por videoconferencia lograron finalizar un dispositivo completamente funcional en pocos días.
+The primary objective of this process was **to analyze the feasibility of its construction and to produce assembly documentation and guides**. Unlike our own manufacturing process, the cutting wasn't done with laser cutting but with a *CNC router*. Using our documentation and some videoconference sessions, they managed to complete a fully functional device in just a few days.
 
-Queremos agradecer a Michael Vertefeuille y a todo el equipo de UConn que llevó adelante el proyecto, ¡Muchas gracias!
+We want to thank Michael Vertefeuille and the entire UConn team who carried out this project - Thank you very much!
 
 [[!field unite_gallery="tiles" gallery_1="uconn_version"]]
 

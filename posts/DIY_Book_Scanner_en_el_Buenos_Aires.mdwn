@@ -5,8 +5,9 @@ tag: proyectos cnba
 cc_by_sa_plus: yes
 default_img: /uploads/posts/DIY_Book_Scanner_en_el_Buenos_Aires/diybookscanner-cnba.jpg
 default_img_alt: Estativo en V realizado con técnicas autoconstructivas en la Biblioteca del Colegio Nacional Buenos Aires
-teaserline: Dispositivo de digitalización para libros antiguos en la Biblioteca del Colegio Nacional Buenos Aires
+teaserline: Dispositivo de digitalización para libros antiguos en la Biblioteca del Colegio Nacional Buenos Aires.
 ajax_content: projects
+translatable: yes
 ---
 [[!meta date="2014-09-13T12:00:00Z"]]
 
@@ -60,9 +61,7 @@ El otro desafío fue articular el *software* existente para generar un mecanismo
 
 Para solucionar este problema comenzamos a desarrollar para el proyecto del Nacional Buenos Aires un software sencillo que controlara las cámaras remotamente desde una PC, y permitiera la previsualización, descarga y procesamiento las imágenes. *"Cannon Hack Develpment Kit"* es un recurso de software desarrollado con ingenieria inversa sobre las cámaras Canon (en especial de la linea de gama media *Powershot*) por una comunidad global de programadores. El objetivo de CHDK es expandir la funcionalidad de la cámara otorgándole funciones no provistas (y en algunos casos, no previstas) por el fabricante, sí disponibles en modelos mucho más caros. Por ejemplo, capacidades PTP (por [*Picture Transfer Protocol*](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_im%C3%A1genes)) que permiten el manejo remoto de la cámara y la descarga de las imágenes usando enlaces USB. Una bibioteca de software llamada [chdkptp](https://app.assembla.com/wiki/show/chdkptp) nos permitió hacer el enlace entre nuestro software y el CHDK que se ejecutaba en el dispositivo, habilitando la prestaciones requeridas.
 
-Si bien el software se desarrolló rápidamente utilizando estos recursos libres existentes, cumplió con el objetivo de mínima propuesto y permitió avanzar en la captura de decenas de publicaciones durante ese año, tarea que estuvo a cargo de Santiago [...]
-
-[ejemplos de capturas]
+Si bien el software se desarrolló rápidamente utilizando estos recursos libres existentes, cumplió con el objetivo de mínima propuesto y permitió avanzar en la captura de decenas de publicaciones durante ese año, tarea que estuvo a cargo de Santiago Sorter.
 
 ### Breve referencia técnica del dispositivo de digitalización
 

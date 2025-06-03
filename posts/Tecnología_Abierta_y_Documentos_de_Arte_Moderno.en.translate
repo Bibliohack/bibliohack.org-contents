@@ -14,59 +14,59 @@ translatable: yes
 ---
 [[!meta date="2017-10-15T12:00:00Z"]]
 
-En abril de 2017 comenzamos las primeras reuniones de trabajo con **Valeria Semilla** y **Helena Raspo** del Museo de Arte Moderno –e **Ines Esteves** de la biblioteca del museo– para analizar la posibilidad de diseñar y construir un estativo cenital de bajo costo para la institución, y de desarrollar y adaptar recursos de *software* para poder procesar el material digitalizado de manera práctica y eficiente. La idea se enmarcaba en un ambicioso proyecto de digitalización del acervo documental que posee el Museo sobre la historia del arte moderno argentino.
+In April 2017, we began initial working meetings with **Valeria Semilla** and **Helena Raspo** from the Modern Art Museum - and **Ines Esteves** from the museum's library - to analyze the possibility of designing and building a low-cost overhead capture stand for the institution, while developing and adapting *software* resources to efficiently process digitized materials. This initiative was part of an ambitious project to digitize the museum's documentary collection on the history of Argentine modern art.
 
-La **Biblioteca del Museo de Arte Moderno de Buenos Aires** fue creada en la década del sesenta, a pocos años de la fundación del Museo, con la misión de reunir, conservar, organizar y difundir el patrimonio bibliográfico, hemerográfico y documental especializado en artes visuales de los siglos XX y XXI. Cuenta con más de 7000 volúmenes, incluyendo material librario y catálogos de exhibiciones. En ella se pueden encontrar, además, todas las publicaciones editadas por el Museo desde su fundación hasta la actualidad. La biblioteca cuenta con fondos donados al Museo por parte de relevantes personalidades del campo artístico como el crítico de arte José León Pagano, el coleccionista Ignacio Pirovano y el artista Alberto Heredia.
+The **Library of the Modern Art Museum of Buenos Aires** was established in the 1960s, just a few years after the museum's founding, with the mission to gather, preserve, organize, and disseminate specialized bibliographic, periodical, and documentary heritage on 20th and 21st century visual arts. It holds over 7,000 volumes, including books and exhibition catalogs. The library also contains all publications edited by the museum since its foundation. Its collections include donations from prominent figures in the art world such as art critic José León Pagano, collector Ignacio Pirovano, and artist Alberto Heredia.
 
-Los [modestos primeros años](https://es.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Buenos_Aires) del Museo dan cuenta de una historia de contratiempos y precariedades superadas gracias a la voluntad y entusiasmo de su fundador, el crítico de arte **Rafael Squirru**. La ausencia de una sede propia mantuvo al museo en condición itinerante hasta que consiguió su primer espacio en uno de los pisos altos del Teatro General San Martín. Pero no fue hasta 2018, *62 años despues de su fundación*, que el museo realmente [contó por primera vez con una sede completa](https://www.nueva-ciudad.com.ar/notas/201807/37911-el-moderno-se-renueva.html), la actual, en la Av. San Juan en el barrio de San Telmo. El edificio le fue otorgado en 1987 (donde antiguamente funcionaba la Tabacalera Piccardo) y la mudanza a esta sede definitiva ocurrió dos años despues, pero esto no salvó al Moderno de una larga historia que intercala momentos de esplendor con postergaciones burocráticas y presupuestarias, que lo llevó incluso a cerrar sus puertas durante varios años a principios del nuevo milenio.
+The museum's [modest early years](https://es.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Buenos_Aires) reflect a history of setbacks and challenges overcome through the determination of its founder, art critic **Rafael Squirru**. Without a permanent location, the museum remained itinerant until it secured space in the upper floors of the Teatro General San Martín. However, it wasn't until 2018, *62 years after its founding*, that the museum finally [obtained a complete headquarters](https://www.nueva-ciudad.com.ar/notas/201807/37911-el-moderno-se-renueva.html) at its current location on Avenida San Juan in San Telmo. Although the building (formerly the Piccardo Tobacco Factory) was granted in 1987 and the move occurred two years later, the Moderno still faced periods of bureaucratic and budgetary neglect that even forced its temporary closure in the early 2000s.
 
-Durante los últimos años el museo recibió especial atención y se transformó en un **proyecto prioritario para gobierno porteño** como parte de una estrategia para que la ciudad recuperara un lugar preponderante en el influyente ámbito del arte contemporaneo. Entonces los fondos fluyeron con abundancia, en especial para ampliar y reformar la estructura edilicia. A pesar de la inusual precedencia, las dificultades para sostener un proyecto de digitalizacion sustentable [se mantuvieron](/posts/Financiaci%C3%B3n_colectiva_para_digitalizar_el_archivo_del_Moderno/), tal como ocurre en la mayor parte de las bibliotecas y museos de la ciudad. Esto constituye una muestra muy clara de **las limitaciones estructurales de las instituciones culturales de países en vías de desarrollo** y un lugar desde donde Bibliohack y las **tecnologías abiertas** pueden hacer su aporte. La pregunta que surge es clara ¿Si el Museo de Arte Moderno tiene limitaciones, qué queda para los demas museos mas postergados en el presupuesto?
+In recent years, the museum received special attention as a **priority project for the city government**, part of a strategy to regain Buenos Aires' prominence in the influential contemporary art scene. While funds flowed abundantly for building expansion and renovations, challenges in maintaining sustainable digitization projects [persisted](/posts/Financiaci%C3%B3n_colectiva_para_digitalizar_el_archivo_del_Moderno/), as is common with most libraries and museums in the city. This clearly illustrates **the structural limitations of cultural institutions in developing countries** and demonstrates where Bibliohack and **open technologies** can contribute. The question remains: If the Modern Art Museum faces such limitations, what about other museums with even smaller budgets?
 
-### Desarrollo a medida
+### Custom Development
 
-Sin embargo la elección de nuestra iniciativa no solo estuvo relacionada con la adecuacion de costos, sino también con una vision de **trabajo horizontal**, de **apertura**, de **apropiación técnica**, **integración de áreas** y adecuación a **contextos cambiantes**. En el marco del proyecto *"Documentos de Arte Moderno"* comenzamos un proceso de prototipado y ajuste de un nuevo modelo de estativo que ampliara la disponibilidad de tecnología abierta para trabajar de modo sistemático con folletos, fotografías, mapas, afiches, efémera, entre otros. 
+Our initiative was chosen not just for cost-effectiveness, but also for its **horizontal work approach**, **openness**, **technical appropriation**, **cross-department integration**, and adaptability to **changing contexts**. As part of the *"Modern Art Documents"* project, we began prototyping and refining a new stand model to expand open technology options for systematically working with pamphlets, photographs, maps, posters, ephemera, and other materials.
 
-[![Estativo plano, referencia general](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)
+[![Flat stand, general reference](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam1.jpg)
 
-[![Dimensiones y conexiones](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)
+[![Dimensions and connections](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam2.jpg)
 
-[![Sistema de iluminación](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)
+[![Lighting system](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam3.jpg)
 
-[![Plátina o prensa](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)
+[![Pressure plate](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)](/uploads/posts/Tecnología_Abierta_y_Documentos_de_Arte_Moderno/lam4.jpg)
 
-El desarrollo del proyecto implicó la colaboración entre distintas áreas del Museo para ajustar y definir pautas de **conservación**, **iluminación**, **selección de documentos**, **descripción archivística**, **gestión de datos**, **características de formatos** o **publicación en línea**, desde una perspectiva realista y utilitaria. Para el *software* de captura y postprocesamiento desarrollamos nuevas funcionalidades y adaptamos configuraciones atendiendo las particularidades del material a digitalizar, analizando las condiciones de acceso y conservación digital, en *feedback* constante con el personal del Museo y la Biblioteca. Para el desarrollo del estativo probamos distintas configuraciones estructurales tomando en cuenta limitaciones de espacio y practicidad de uso.
+The project required collaboration between different museum departments to establish guidelines for **conservation**, **lighting**, **document selection**, **archival description**, **data management**, **format specifications**, and **online publication** from a practical perspective. For capture and post-processing *software*, we developed new features and adapted configurations based on the materials' specific characteristics, analyzing digital access and preservation conditions through constant *feedback* with museum and library staff. The stand's development involved testing various structural configurations considering space limitations and usability.
 
 [[!field unite_gallery="tiles" gallery_1="cenital_el_moderno"]]
 
 <div id="cenital_el_moderno" class="unite-gallery tiles" style="display:none;">
-   <img alt="Ensamble de las piezas" src="/uploads/galleries/cenital_el_moderno/300px/01.jpg"
+   <img alt="Assembling the pieces" src="/uploads/galleries/cenital_el_moderno/300px/01.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/01.jpg"
    data-description="">
-   <img alt="Pintura" src="/uploads/galleries/cenital_el_moderno/300px/20.jpg"
+   <img alt="Painting" src="/uploads/galleries/cenital_el_moderno/300px/20.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/20.jpg"
    data-description="">
-   <img alt="Ensamble de las piezas ya pintadas" src="/uploads/galleries/cenital_el_moderno/300px/30.jpg"
+   <img alt="Assembling painted pieces" src="/uploads/galleries/cenital_el_moderno/300px/30.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/30.jpg"
    data-description="">
-   <img alt="Montando las luces en la estructura" src="/uploads/galleries/cenital_el_moderno/300px/35.jpg"
+   <img alt="Mounting lights on the structure" src="/uploads/galleries/cenital_el_moderno/300px/35.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/35.jpg"
    data-description="">
-   <img alt="Probando las luces" src="/uploads/galleries/cenital_el_moderno/300px/40.jpg"
+   <img alt="Testing lights" src="/uploads/galleries/cenital_el_moderno/300px/40.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/40.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/50.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/50.jpg"
    data-description="">
-   <img alt="Iniciando un test de captura" src="/uploads/galleries/cenital_el_moderno/300px/55.jpg"
+   <img alt="Starting a capture test" src="/uploads/galleries/cenital_el_moderno/300px/55.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/55.jpg"
    data-description="">
-   <img alt="Primeros test de captura" src="/uploads/galleries/cenital_el_moderno/300px/60.jpg"
+   <img alt="First capture tests" src="/uploads/galleries/cenital_el_moderno/300px/60.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/60.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/70.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/70.jpg"
    data-description="">
-   <img alt="Tarjeta de calibracion de color" src="/uploads/galleries/cenital_el_moderno/300px/77.jpg"
+   <img alt="Color calibration card" src="/uploads/galleries/cenital_el_moderno/300px/77.jpg"
    data-image="/uploads/galleries/cenital_el_moderno/1280px/77.jpg"
    data-description="">
    <img alt="" src="/uploads/galleries/cenital_el_moderno/300px/80.jpg"
@@ -77,7 +77,7 @@ El desarrollo del proyecto implicó la colaboración entre distintas áreas del 
    data-description="">
 </div>
 
-Como corolario, el trabajo con el Museo durante este año afianzó nuestra idea de que más alla de las prioridades y limitaciones que a veces determinan políticas desalentadoras, es la **cooperación estratégica** entre los **custodios directos de las colecciones** y la adopción de herramientas basadas en **software y hardware libre** –y **tecnología adecuada** al contexto– lo que posibilita el desarrollo de **capacidad instalada** y la **resiliencia** de los recursos a través del tiempo.
+Ultimately, this year-long collaboration with the museum reinforced our belief that beyond the priorities and limitations that sometimes lead to discouraging policies, it's the **strategic cooperation** between **direct collection custodians** and the adoption of **free/libre open-source software and hardware** - plus **context-appropriate technology** - that enables **capacity building** and long-term **resource resilience**.
 
 <!--
 https://www.museomoderno.org/es/noticias/tecnologia-y-gestion-de-patrimonio-cultural-clinica

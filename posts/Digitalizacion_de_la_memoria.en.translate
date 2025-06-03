@@ -3,10 +3,12 @@ title: Memory Digitization
 summary: We designed and installed a low cost copy stand to digitize documentary collections from Memoria Abierta archive in the Museum and Site of Memory ESMA.
 teaserline: Installation of a low cost copy stand in the the Museum and Site of Memory ESMA.
 featured: yes
-tag: proyectos
+tag: proyectos cenital
 translated_tags: 
   - tag: proyectos
     translated: projects
+  - tag: cenital
+    translated: cenital
 cc_by_sa: yes
 ajax_content: last_posts
 default_img: /uploads/posts/Digitalizacion_de_la_memoria/memoria_abierta-614.jpg
@@ -45,11 +47,11 @@ translatable: yes
 
 (translated from [Espacio Memoria y Derechos Humanos](https://www.espaciomemoria.ar/lugar))
 
-### Laboratorio de digitalización
+### Digitization Lab
 
-Desde fines de 2019 comenzamos a trabajar con Memoria Abierta estudiando las opciones técnicas disponibles para mejorar y ampliar su proyecto de digitalización. Debido a la diversidad del material de su acervo –que incluye desde ficheros, fotografias, escritos judiciales o recortes peridísticos, a documentos de gran formato como afiches y periodicos–iniciamos el desarrollo de un prototipo de estativo cenital (*copy stand*) de bajo costo que cubriera esta amplia gama de tipologías, tomando como marco técnico las pautas establecidas por la iniciativa [FADGI](http://www.digitizationguidelines.gov/). El laboratorio de digitalizacion quedo emplazado en uno de los pabellones de la Ex ESMA.
+Since late 2019, we began working with Memoria Abierta to study available technical options for improving and expanding their digitization project. Given the diversity of materials in their collection - which includes index cards, photographs, judicial documents, press clippings, as well as large-format materials like posters and newspapers - we began developing a prototype low-cost overhead capture stand (*copy stand*) that could handle this wide range of materials, using the technical framework established by the [FADGI](http://www.digitizationguidelines.gov/) initiative. The digitization lab was set up in one of the pavilions of the former ESMA.
 
-Un limitante en la digitalización utilizando cámaras digitales es la resolución en megapixeles del sensor, que determina el tamaño máximo del documento a ser digitalizado en una sola captura. Para esto el dispositivo cuenta con una superficie móvil que expone el documento por secciones. En el caso de periódicos cada página puede ser capturada individualmente, no asi todo el pliego desplegado. La base móvil facilita esta tarea. 
+One limitation in camera-based digitization is the sensor's megapixel resolution, which determines the maximum document size that can be digitized in a single capture. To address this, the device features a movable surface that exposes the document section by section. For newspapers, each page can be captured individually, though not the entire spread at once. The mobile base facilitates this process.
 
 <div id="memoria_abierta" class="unite-gallery tiles" style="display:none;">
    <img alt="" src="/uploads/galleries/memoria_abierta/300px/02.jpg"
@@ -90,17 +92,29 @@ Un limitante en la digitalización utilizando cámaras digitales es la resoluci�
    data-description="">
 </div>
 
+The device has a modular design, allowing for:
 
-El diseño del dispositivo es modular, de forma que se puedan desarrollar nuevos accesorios según requerimientos futuros o realizar mejoras a problemas que se detecten durante el uso del prototipo en producción. Por ejemplo, la base movil se podría reemplazar por un retroiluminador para transparencias o podria desarrollarese un apoyo especial para biblioratos de gran tamaño.
+- Development of new accessories as future needs arise
+- Improvements to address issues identified during prototype use
+For example, the mobile base could be replaced with a light table for transparencies or a special support could be developed for large binders.
 
-Un sistema de soportes permite colocar la cámara digital en diferentes ángulos y distancias, con la precisión adecuada. La fuentes de luz son intercambiables y esto facilita su reemplazo por recursos alternativos en el futuro. Toda la estructura está construida en materiales de bajo costo (tablero de MDF) y fácil replicabilidad (corte laser).
+A support system allows precise positioning of the digital camera at various angles and distances. The light sources are interchangeable, facilitating future replacement with alternative resources. The entire structure is built from low-cost materials (MDF board) and designed for easy replication (laser cutting).
 
-La instalación del estativo demandó tres jornadas, la primera de transporte y armado, la segunda de pintura y la tercera de ajuste y puesta en funcionamiento.
+Installation required three work sessions:
 
-Las primeras pruebas realizadas por el dispositivo recibieron la aprobación de calidad por parte de los responsables del [programa MEAP](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) de la Universidad de California (UCLA), que contribuyó a financiar el proyecto. Utilizamos una cámara reflex digital Canon EOS Rebel T7i, controlada remotamente con gPhoto2.
+1. Transport and assembly
+2. Painting
+3. Calibration and commissioning
 
-![Ejemplo de revista digitalizada por el dispositivo (se ha reducido la resolución)](/uploads/posts/Digitalizacion_de_la_memoria/AR_SERPAJ_H_SPJAL_PJ_01_0001.jpg)
+Initial tests received quality approval from the [MEAP program](https://meap.library.ucla.edu/memoria-abierta) (*Modern Endangered Archives Program*) at UCLA, which helped fund the project. We used a Canon EOS Rebel T7i DSLR camera, remotely controlled with gPhoto2.
 
-### Diseño de proyecto con recursos libres
+![Example of magazine digitized by the device (resolution has been reduced)](/uploads/posts/Digitalizacion_de_la_memoria/AR_SERPAJ_H_SPJAL_PJ_01_0001.jpg)
 
-En esta etapa iniciamos el desarrollo de los dispositivos en abierto utilizando FreeCAD, actualizando todo el proyecto [en un repositorio git](https://github.com/Bibliohack/Cenital), explorando de esta manera la posibilidad de llevar adelante un proyecto CAD dentro de un sistema de control de versiones, donde cada cambio pueda ser gestionado y recuperado con facilidad, mejorando y profesionalizando el mantenimiento de nuestros diseños.
+### Open Resource Project Design
+
+At this stage, we began developing the devices as open hardware using FreeCAD, documenting the entire project [in a git repository](https://github.com/Bibliohack/Cenital). This approach allowed us to:
+
+- Manage a CAD project within a version control system
+- Track and recover each change easily
+- Improve and professionalize design maintenance
+

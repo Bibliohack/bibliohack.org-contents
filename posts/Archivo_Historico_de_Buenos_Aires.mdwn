@@ -6,6 +6,7 @@ tag: proyectos archivo-ciudad v-cradle cenital
 summary: Instalamos un laboratorio de digitalización en el Archivo Histórico de Buenos Aires
 default_img: /uploads/posts/Archivo_Historico_de_Buenos_Aires/esquema_default_low.png
 featured: yes
+translatable: yes
 ---
 [[!meta date="2023-09-13T12:00:00Z"]]
 

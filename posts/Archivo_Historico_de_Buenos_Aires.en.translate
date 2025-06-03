@@ -1,0 +1,140 @@
+---
+title: Digitization Laboratory at the Historical Archives of Buenos Aires
+cc_by_sa_plus: yes
+ajax_content: projects
+tag: proyectos cenital v-cradle
+translated_tags: 
+  - tag: proyectos
+    translated: projects
+  - tag: cenital
+    translated: cenital
+  - tag: v-cradle
+    translated: v-cradle
+summary: We installed a digitization laboratory in the Historical Archive of Buenos Aires
+default_img: /uploads/posts/Archivo_Historico_de_Buenos_Aires/esquema_default_low.png
+featured: yes
+translatable: yes
+---
+[[!meta date="2023-09-13T12:00:00Z"]]
+
+### About the Historical Archive
+
+The **Historical Archive of the City of Buenos Aires** holds one of the most important archival collections in the country. It preserves over 2,000,000 documents, with **the oldest dating back to 1771**. It includes a specialized library on the City's history containing more than 5,000 volumes. Its collection can narrate the history of the municipal institution from its origins, as well as the city's construction - its infrastructure, public spaces, and private areas.
+
+Among its holdings, to cite a few examples, the archive contains:
+- The complete set of survey records and plans produced by the Survey Archive of the General Directorate of Lands and Geodesy since 1771
+- The administrative records produced by the political structure that governed the city between 1854 and 1882
+- Another significant collection includes plans, photographs, drawings, objects, and correspondence produced by Jules Charles Thays and Carlos León Thays during their work as landscape architects and directors of Parks and Walkways of the City of Buenos Aires
+
+[[!field unite_gallery="tiles" gallery_1="archivo_ciudad_edificio"]]
+
+<div id="archivo_ciudad_edificio" class="unite-gallery tiles" style="display:none;">
+   <img alt="Historic building, originally the headquarters of Editorial Estrada, where the Archive is currently located" src="/uploads/galleries/archivo_ciudad_edificio/300px/edificio_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/edificio_ok.jpg"
+   data-description="">
+   <img alt="Interior of the building" src="/uploads/galleries/archivo_ciudad_edificio/300px/interior.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/interior.jpg"
+   data-description="">
+   <img alt="Current file repository" src="/uploads/galleries/archivo_ciudad_edificio/300px/deposito.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/deposito.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/plano.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/plano.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/actas.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/actas.jpg"
+   data-description="">
+   <img alt="Documentos del archivo" src="/uploads/galleries/archivo_ciudad_edificio/300px/ilustracion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_edificio/1280px/ilustracion.jpg"
+   data-description="">
+
+</div>
+
+### Value Enhancement and Project
+
+As part of a comprehensive **institutional value enhancement project**, we initially collaborated on:
+- Surveying and assessing existing IT resources for digitization
+- Planning the selection and implementation of new resources
+- Developing projects and designing a digitization strategy (establishing material selection criteria, project scope, and priorities)
+
+Our involvement spanned over two years, between 2021 and 2023, under the direction of project coordinators **Martín Capeluto** and **Izaskun Martínez Castillo**. The Bibliohack team included **Matías Butelman**, **Juan Suárez**, and **Victoria Lopresto**.
+
+### Digitization Lab and Archival Management
+
+During the project development, we were responsible for multiple tasks:
+
+- Installation and development of the **digitization lab**, which included: Building two *open hardware* devices; Deploying capture software; Adapting existing scanners
+- Implementation of [**Collective Access**](https://collectiveaccess.bibliohack.org/) for archival management and publication of digitized heritage, including: Selection, adaptation, and standardization of metadata schemas; Migration of existing databases
+- **Staff training** on: Using the stands and their capture software; Cataloging tools operation; Data entry; Intellectual property concepts
+- Development of manuals and guides for **digitization protocols**
+
+In the digitization lab, we installed our [**mobile-based overhead stand**](https://github.com/Bibliohack/Cenital) with [open specifications](https://en.wikipedia.org/wiki/Open-source_hardware), which can capture unbound standard-sized documents, large-format newspapers and medium-sized plans (depending on the selected accessory). This device is particularly useful for digitizing materials that **cannot be processed with conventional equipment** due to their typology, fragility, or relief features.
+
+We also performed **refurbishment** and reactivation of existing equipment, such as the large-format Contex HD5450 plotter scanner.
+
+In the library area, we installed our [**V-cradle device**](https://github.com/Bibliohack/V-cradle) for bound materials, which accommodates volumes up to tabloid size and uses two DSLR cameras for simultaneous capture
+
+[[!field unite_gallery="tiles" gallery_2="archivo_ciudad_estativos"]]
+
+<div id="archivo_ciudad_estativos" class="unite-gallery tiles" style="display:none;">
+   <img alt="Esquema del laboratorio de digitalización" src="/uploads/galleries/archivo_ciudad_estativos/300px/esquema_laboratorio_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/esquema_laboratorio_ok.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/laboratorio_instalado_ok.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/laboratorio_instalado_ok.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/20220602_163556.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/20220602_163556.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/20220602_161626.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/20220602_161626.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/IMG_20220602_163020_719.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/IMG_20220602_163020_719.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/captura_gestor.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/captura_gestor.jpg"
+   data-description="">
+   <img alt="Manual del usuario del estativo cenital" src="/uploads/galleries/archivo_ciudad_estativos/300px/manual.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/manual.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-13.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-13.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-14.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-14.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-17.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-17.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/photo_2023-12-28_17-58-21.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/photo_2023-12-28_17-58-21.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_estativos/300px/presentacion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_estativos/1280px/presentacion.jpg"
+   data-description="">
+</div>
+
+This project at the Historical Archive of the City exemplifies how the **entire process of capture, post-processing, cataloging, and heritage publication** can be successfully implemented using only **open resources** - from *software* to the capture devices themselves - without the institution being bound by restrictive licenses or becoming overly dependent on equipment manufacturers or suppliers. Additionally, it contributes to improving open resources that will be universally available.
+
+### Project Presentation at the Archive
+
+The official inauguration of the lab took place in **September 2022** before city authorities.
+
+[[!field unite_gallery="tiles" gallery_3="archivo_ciudad_evento"]]
+
+<div id="archivo_ciudad_evento" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion1.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion1.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion2.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion2.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/archivo_ciudad_evento/300px/presentacion.jpg"
+   data-image="/uploads/galleries/archivo_ciudad_evento/1280px/presentacion.jpg"
+   data-description="">
+</div>
+
+[**Presentation on the digitization laboratory (spanish)**](/Archivo_Historico_de_Buenos_Aires/INAUGURACION_LABORATORIO.pdf)
+
+
