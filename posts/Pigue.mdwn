@@ -1,0 +1,91 @@
+---
+title: "Laboratorio de digitalización en Pigüé"
+summary: "Instalamos un laboratorio donde se digitalizará la historia de la inmigración francesa a Pigüé"
+teaserline: Instalación de un estativo cenital en Pigüé.
+featured: yes
+tag: proyectos cenital
+cc_by_sa: yes
+ajax_content: projects
+default_img: /uploads/posts/Pigue/07_PXL_20240216_211137229.jpg
+default_img_alt: "Dispositivo de digitalización cenital (copy stand)"
+translatable: yes
+---
+[[!meta date="2024-03-05T12:00:00Z"]]
+
+**La ciudad de Pigüé** se encuentra en el suroeste de la Provincia de Buenos Aires, a 560 km de Capital Federal. Fue fundada en 1884 con la llegada de 40 familias francesas del departamento de Aveyrón. Con el tiempo recibió a inmigrantes de toda Europa y aun perduran casonas de estilo europeo de principios del siglo XX. **Amicale** es una organización pigüense que se dedica a mantener vivo el vínculo de los descendientes de inmigrantes y sus antepasados franceses y tiene acceso valiosos documentos que reconstruyen la historia de esa inmigración.
+
+Durante el mes de febrero de 2024 estuvimos instalando un **estativo cenital para capturar documentación histórica**, que generalmente no puede ser digitalizada por dispositivos convencionales ya sea por su tamaño, tipología o fragilidad (afiches, diarios, cuadros, memorabilia, etc.). De esta forma logramos poner en marcha un laboratorio de digitalización para la organización, un proyecto cuyos preparativos y planificación había comenzado mucho tiempo antes, a partir de la iniciativa de Amicale y la colaboración del Museo y Archivo de Pigüé, el Municipio, y la comunidad pigüense que aportó los recursos para materializar el proyecto.
+
+[[!field unite_gallery="tiles" gallery_1="pigue_patrimonio"]]
+
+<div id="pigue_patrimonio" class="unite-gallery tiles" style="display:none;">
+   <img alt="Museo y archivo de Pigüé" src="/uploads/galleries/pigue_patrimonio/300px/01_PXL_20240215_131051917.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/01_PXL_20240215_131051917.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/02_IMG_8934.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/02_IMG_8934.jpg"
+   data-description="">
+   <img alt="Analizando las tipologías documentales" src="/uploads/galleries/pigue_patrimonio/300px/03_IMG_8980.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/03_IMG_8980.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/04_PXL_20240216_170411662.MP.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/04_PXL_20240216_170411662.MP.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/05_IMG_8981.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/05_IMG_8981.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/06_IMG_8982.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/06_IMG_8982.jpg"
+   data-description="">
+   <img alt="Manuscrito de uno de los fundadores de la ciudad" src="/uploads/galleries/pigue_patrimonio/300px/07_IMG_9016.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/07_IMG_9016.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/08_IMG_9018.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/08_IMG_9018.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_patrimonio/300px/09_IMG_9027.jpg"
+   data-image="/uploads/galleries/pigue_patrimonio/1280px/09_IMG_9027.jpg"
+   data-description="">
+</div>
+
+[[!field unite_gallery="tiles" gallery_2="pigue_armado"]]
+
+<div id="pigue_armado" class="unite-gallery tiles" style="display:none;">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/01_PXL_20240215_203537803.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/01_PXL_20240215_203537803.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/02_PXL_20240215_133643044.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/02_PXL_20240215_133643044.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/03_PXL_20240215_224938243.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/03_PXL_20240215_224938243.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/04_PXL_20240216_181102489.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/04_PXL_20240216_181102489.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/05_PXL_20240215_224547590.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/05_PXL_20240215_224547590.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/06_7D5BD9C7-2BDA-4FBE-9AAE-3545D15BB284.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/06_7D5BD9C7-2BDA-4FBE-9AAE-3545D15BB284.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/07_PXL_20240216_211137229.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/07_PXL_20240216_211137229.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/08_PXL_20240217_154509074.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/08_PXL_20240217_154509074.jpg"
+   data-description="">
+   <img alt="" src="/uploads/galleries/pigue_armado/300px/09_PXL_20240217_190005648.jpg"
+   data-image="/uploads/galleries/pigue_armado/1280px/09_PXL_20240217_190005648.jpg"
+   data-description="">
+</div>
+
+### Digitalización y redes
+
+Los proyectos de digitalización de los fondos documentales no sólo contribuyen a poner en valor el patrimonio histórico y difundirlo, también **generan lazos de colaboración** entre los encargados de preservarlo. Los encargados de preservar el patrimonio no son sólo las instituciones oficiales, como los museos y archivos, sino también las **parroquias, empresas, cooperativas, clubes o personas particulares**, que muchas veces guardan documentos únicos que estos procesos ayudan a revalorizar
+
+Creemos que los proyectos gestados en estos contextos generan sinergias que involucran y animan iniciativas similares en comunidades cercanas, a partir de los recursos ya establecidos. Dejar **capacidades instaladas** en las comunidades que son los principales custodios de su patrimonio, es un factor esencial para dar sustentabilidad a los proyectos de preservación y gestión de los acervos
+
+Participamos del proyecto por Bibliohack Matías Butelman, Juan Suárez y Victoria Lopresto. Agradecemos a Maria Malia Rodriguez, Lujan Tranco y a todo el equipo de Amicale. ¡Gracias Pigüé!
+
+![¡Gracias Pigüé!](/uploads/posts/Pigue/gracias.jpg)
