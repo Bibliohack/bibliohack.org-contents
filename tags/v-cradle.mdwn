@@ -4,6 +4,7 @@
 	summary="Proyectos donde se utiliza el dispositivo de digitalización 'Cuna en V'"
 	body_class="taglist"
 	hashtag="v-cradle"
+	translatable="yes"
 ]]
 <div class="row">
 [[!inline pages="tagged(v-cradle) and lang(es) and field_null(hide)" show="30" actions="no" timeformat="%d/%m/%Y"
