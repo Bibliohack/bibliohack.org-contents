@@ -8,79 +8,158 @@
 
   section_id="que_es_bibliohack"
   title="¿Qué es Bibliohack?" 
-  img=/img/bibliohack_bkg.png
   content="""
-*Bibliohack* es una iniciativa que trabaja en la **transformación digital** de **bibliotecas**, **archivos** y **museos** con *tecnología adecuada* al contexto específico del Sur Global, siguiendo los principios del **acceso abierto** y la **tecnología libre**. 
+*Bibliohack* es una iniciativa que trabaja en la transformación digital de **bibliotecas**, **archivos** y **museos**. Buscamos hacer accesibles *las herramientas* que sirven para **digitalizar**, **gestionar** y **publicar** en línea fondos y colecciones de manera sostenible, fortaleciendo la capacidad instalada de las organizaciones. 
 
-Nos especializamos en **digitalización de libros y documentos** y en **gestión de colecciones y fondos digitales**. Brindamos servicios y capacitación a las organizaciones GLAM que enfrentan el desafío de incorporar tecnología informática a sus procesos de trabajo.
+Para esto, combinamos dos enfoques: **tecnología abierta** y **estándares abiertos** que favorecen la **interoperabilidad** y la **reutilización** de recursos, y **tecnología adecuada** que brinda **soluciones eficaces** en contextos desafiantes. 
 
-También impulsamos la construcción de redes profesionales e institucionales que permitan **producir y liberar recursos** para la comunidad: planos, código, procesos y documentación, y también sumar masa crítica para definir políticas públicas que favorezcan la **preservación del patrimonio cultural**, **el acceso abierto al conocimiento** y la **reforma de la propiedad intelectual**.
+Tenemos experiencia desarrollando **infraestructura de digitalización**, implementando **sistemas de gestión patrimonial**, integrando **estándares de metadatos** y procesando bases de datos especializadas. 
+
+Brindamos **servicios**, **capacitación** y **consultoría** a organizaciones vinculadas con el patrimonio cultural que enfrentan el desafío de incorporar tecnología informática a sus procesos de trabajo.
 """
 ]]
+[[!template id=landing_page_section_map.tmpl 
+
+  title="Mapa de despliegues de Bibliohack"
+  map_url="https://umap.openstreetmap.fr/es/map/bibliohacks-document-scanning-stands_1231486?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&fullscreenControl=null&captionControl=null&editinosmControl=false#3/11.52/-67.68"
+  section_id="embedded_map"
+  content="""<iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/bibliohacks-document-scanning-stands_1231486?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&fullscreenControl=null&captionControl=null&editinosmControl=false#3/11.52/-67.68"></iframe>"""
+]]
+[[!template id=landing_page_section_timeline_header.tmpl 
+
+  section_id="timeline"
+  titulo="Línea de tiempo de desarrollo de dispositivos" 
+  texto="En Bibliohack llevamos un modelo iterativo y creciente, donde cada proyecto con una institución implica un proceso de mejoras capitalizados en los siguientes ciclos"
+
+]][[!template id=landing_page_section_timeline_item.tmpl 
+
+  item_bkg="/uploads/landing_page/timeline/cnba.png"
+  item_link="/posts/DIY_Book_Scanner_en_el_Buenos_Aires/"
+  item_texto="Dispositivo 'Cuna en V' de listones de madera"
+  item_year="2014"
+  item_class="timeline-first"
+ 
+]][[!template id=landing_page_section_timeline_item.tmpl 
+
+  item_bkg="/uploads/landing_page/timeline/segunda_iteracion.jpg"
+  item_link="/posts/Tecnolog%C3%ADa_Abierta_y_Documentos_de_Arte_Moderno/es.html"
+  item_texto="Copy stand en MDF y corte laser"
+  item_year="2017"
+
+]][[!template id=landing_page_section_timeline_item.tmpl 
+
+  item_bkg="/uploads/landing_page/timeline/v-shape-bp.png"
+  item_link="/tags/v-cradle/"
+  item_titulo="Cuna en V"
+  item_texto="Dispositivo 'Cuna en V' en MDF y corte laser"
+  item_year="2018"
+
+]][[!template id=landing_page_section_timeline_item.tmpl 
+
+  item_bkg="/uploads/landing_page/timeline/la-escaner.png"
+  item_link="/tags/la-escaner/"
+  item_titulo="La escáner"
+  item_texto="Copy stand en MDF y corte laser"
+  item_year="2019"
+
+]][[!template id=landing_page_section_timeline_item.tmpl 
+
+  item_bkg="/uploads/landing_page/timeline/cenital_3d.jpg"
+  item_link="/tags/cenital/"
+  item_titulo="Cenital"
+  item_texto="Copy stand en MDF y corte laser, con base móvil para diarios"
+  item_year="2021"
+  item_class="timeline-last"
+    
+]][[!template id=landing_page_section_timeline_footer.tmpl 
+
+]]
+
 [[!template id=landing_page_section_slides_header.tmpl
 
   section_id="que_hacemos"
   title="¿Qué hacemos?"
 
-]][[!template id=landing_page_section_slides_item.tmpl 
+]][[!template id=landing_page_section_slides_item_cuartos.tmpl 
 
   cid=1
-  margin_left=1
+  class="slide-red"
   content="""
-### DIY Scanners y Tecnologías libres
+### Desarrollamos dispositivos de digitalización
 
-Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas usando materiales económicos y accesibles (tecnología adecuada); desarrollamos software libre para digitalización y procesamiento de documentos, e implementamos recursos libres para la gestión de procesos, colecciones digitales y publicación en línea (Collective Access, Omeka, Drupal).
+Diseñamos y construímos dispositivos de digitalización de especificaciones abiertas ([open hardware](https://es.wikipedia.org/wiki/Hardware_libre)) 
+orientados a escanear documentos que por su tipología, tamaño o fragilidad no pueden ser procesados por equipamiento estándar. 
+Proyectamos nuestros estativos para que puedan fabricarse con herramientas y materiales simples ([tecnología adecuada](https://es.wikipedia.org/wiki/Tecnolog%C3%ADa_adecuada)), 
+y desarrollamos o adaptamos aplicaciones de [código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto) para la captura y post-procesamiento de imágenes. 
 """ 
-  item1_img="/uploads/landing_page/tecnologia_abierta/tecnologia1.jpg"
-  item1_txt="<span>&nbsp;Open Hardware significa compartir especificaciones técnicas,planos y procesos sin restricciones.&nbsp;</span>"
-  item2_img="/uploads/landing_page/tecnologia_abierta/proceso.jpg"
-  item2_txt="<span>&nbsp;Describir los procesos técnicos ayuda a generar capacidad instalada en cada institución.&nbsp;</span>"
-  item3_img="/uploads/landing_page/tecnologia_abierta/github.jpg"
-  item3_txt="<span>&nbsp;Publicamos todos nuestros desarrollos en línea en nuestro repositorio abierto.&nbsp;</span>"
-  item4_img="/uploads/landing_page/tecnologia_abierta/madera.jpg"
-  item4_txt="<span>&nbsp;Tecnología adecuada significa lo apropiado por costos, recursos, sostenibilidad y en sintonia con el contexto local.&nbsp;</span>"
-  item5_img="/uploads/landing_page/tecnologia_abierta/lam3.jpg"
-  item5_txt="<span>&nbsp;Seguimos un modelo de desarrollo iterativo y creciente donde cada proyecto implica un ciclo de mejoras.&nbsp;</span>"
+  item1_img="/uploads/landing_page/tecnologia_abierta/v-coop_550.jpg"
+  item1_txt="<span>Dispositivo 'en V' para material encuadernado instalado en laboratorio de digitalización de IdelCoop (2022)</span>"
+  item2_img="/uploads/landing_page/tecnologia_abierta/memoria.jpg"
+  item2_txt="<span>Dispositivo cenital para documentos de gran formato instalado en la Ex-ESMA (Memoria Abierta, 2021)</span>"
+  item3_img="/uploads/landing_page/tecnologia_abierta/cenital-moderno_550.jpg"
+  item3_txt="<span>Copy stand realizado en corte laser para documentos sueltos (Museo de Arte Moderno, 2017)</span>"
+  item4_img="/uploads/landing_page/tecnologia_abierta/cnba_500.jpg"
+  item4_txt="<span>Estativo 'en V' fabricado con listones de madera 'pino-clear' (Colegio Nacional Buenos Aires, 2014)</span>"
 
-]][[!template  id=landing_page_section_slides_item.tmpl 
+]][[!template id=landing_page_section_slides_item_cuartos.tmpl 
 
   cid=2
-  content="""
-### Capacitación y consultorías
-
-Ofrecemos capacitaciones sobre nuevas prácticas de gestión de 
-información, operación de dispositivos y software para digitalización, 
-formulación de proyectos digitales, adopción de estándares de metadatos, 
-gestión de propiedad intelectual, licencias Creative Commons y 
-construcción de estativos con metodologías *do it yourself*.
-""" 
-  item1_img="/uploads/landing_page/capacitacion/capac_filo.jpg"
-  item1_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
-  item2_img="/uploads/landing_page/capacitacion/capacitacion.jpg"
-  item3_txt="Capacitacion durante la instalación de un estativo en el Archivo del Agua de Mendoza, Argentina (2019)"
-  item3_img="/uploads/landing_page/capacitacion/clinicas.jpg"
-  item3_txt="Clínica de Tecnología y Patrimonio en el Museo de Arte Moderno de Buenos Aires (2018)"
-
-]][[!template  id=landing_page_section_slides_item.tmpl 
-
-  cid=3
+  class="slide-red"
   margin_left=1
   content="""
-### Actividades y eventos
+### Implementamos sistemas de gestión digital de colecciones
 
-Organizamos actividades públicas y encuentros para profesionales de la información, investigadores, activistas y gestores en torno reforma de la propiedad intelectual y licencias libres, acceso abierto en instituciones culturales, desarrollo colaborativo y consorcios tecnológicos entre organizaciones del sector público y del tercer sector.
+Los sistemas diseñados especificamente con este fin, como [*Collective Access*](https://collectiveacces.bibliohack.org), 
+permiten estructurar la información de forma flexible siguiendo estandares archivistivos rigurosos y 
+resolviendo tareas de la gestion habitual de las acervos, como ingresos, egresos, localización, etc. 
+Además de la implementación, realizamos migraciones de datos a partir de formatos y volumen diverso y 
+diseño de frontend, creando una experiencia visual y funcional consistente con las tendencias actuales.
+""" 
+  item1_img="/uploads/landing_page/tecnologia_abierta/collective.jpg"
+  item1_txt="<span>Portada del catálogo digital del Museo de Arte Moderno de Buenos Aires</span>"
+  item2_img="/uploads/landing_page/tecnologia_abierta/chambi-detail_550.jpg"
+  item2_txt="<span>Página de exploración del sitio de la coleccion del fotógrafo Martín Chambi (Perú)</span>"
+  item3_img="/uploads/landing_page/tecnologia_abierta/archivociudad_visor_550.jpg"
+  item3_txt="<span>Sitio de la coleccion del Archivo Historico de la Ciudad de Buenos Aires (Vista del explorador multimedia)</span>"
+  item4_img="/uploads/landing_page/tecnologia_abierta/inm-detalle_550.jpg"
+  item4_txt="<span>Detalle de registro sonoro del catálogo digital del Instituto Nacional de la Música</span>"
 
+]][[!template  id=landing_page_section_slides_item_single.tmpl 
+
+  cid=3
+  class="slide-gray"
+  content="""
+### Capacitación y consultoría
+
+Capacitamos al personal de las organizaciones encargado de la digitalización, catalogación y carga de información 
+en la operación de los estativos, cámaras, luces y software de captura, en el establecimiento de protocolos de digitalización efectivos 
+y en la administración de los sistemas de gestión digital. 
+Tambien relizamos consultoría en la formulación efectiva de proyectos para solicitar financiamiento, en la planificacion estratégica del plan de digitalización 
+y en tareas especificas de la gestion archivistica como la selección y modelado de esquemas de metadatos.
+""" 
+  img="/uploads/landing_page/capacitacion/capac_filo.jpg"
+  caption_txt="Capacitación para los Institutos de Investigación de la Facultad de Filosofía y Letras de la UBA (2018)"
+
+]][[!template  id=landing_page_section_slides_item_cuartos.tmpl 
+
+  cid=4
+  class="slide-gray"
+  margin_left=1
+  content="""
+### Presentaciones y eventos
+
+Participamos y colaboramos en la organización de actividades abiertas a profesionales de la información, investigadores, funcionarios y activistas 
+para reflexionar sobre temáticas que nos competen e interesan: la transformación digital en las instituciones culturales; las políticas de gestión digital del patrimonio desde el sector público y privado; 
+las tensiones entre acceso y propiedad intelectual; el uso de los datos en el desafiante contexto tecnológico actual signado por las LLMs.
 """
-  item1_img="/uploads/landing_page/politicas/politicas.jpg"
-  item1_txt="Encuentro sobre patrimonio cultural, propiedad intelectual y acceso a la cultura, realizado en el MALBA (Argentina, 2018)"
+  item1_img="/uploads/landing_page/politicas/matias-neuquen.jpg"
+  item1_txt="'Cómo construir colecciones digitales en bibiotecas y archivos', organizado porla Legislatura de Neuquen (Neuquen, Argentina, 2023)"
   item2_img="/uploads/landing_page/politicas/openglam.jpg"
   item2_txt="'Primer Encuentro OpenGLAM Argentina' en el Museo de Arte Moderno de Buenos Aires, con más de 100 participantes (co-organizamos, 2017)"
-  item3_img="/uploads/landing_page/politicas/utdt-matias.jpg"
-  item4_txt="Matias exponiendo en las 'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' en la Universidad Torcuato Di Tella (Argentina, 2019)"
-  item4_img="/uploads/landing_page/politicas/excepciones.jpg"
-  item4_txt="Debate sobre limitaciones y excepciones y enriquecimiento del dominio público (Argentina, 2019)"
-  item5_img="/uploads/landing_page/politicas/matias-mamba.jpg"
-  item5_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al MAMBA (Argentina, 2018)"
+  item3_img="/uploads/landing_page/politicas/acceso_550.jpg"
+  item3_txt="'Jornadas sobre patrimonio cultural, práctica artística y propiedad intelectual' co-organizadas por Bibliohack en la Universidad Torcuato Di Tella (2019)"
+  item4_img="/uploads/landing_page/politicas/raaa.jpg"
+  item4_txt="Matias en un encuentro sobre digitalización y archivos digitales organizado junto al Museo de Arte Moderno de Buenos Aires (2018)"
 
 ]][[!template id=landing_page_section_slides_footer.tmpl 
 
@@ -213,7 +292,9 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
    label_email_disclaimer="Nunca compartiremos tu email con nadie."
    label_buttom="Enviar"
    label_hcaptcha_key="211f2d85-2d37-49f8-91c2-85c2824fdd7f"
-   
+   img=/img/bibliohack_bkg.png
+   imgcat=/uploads/landing_page/cat.jpg
+   moviecat="http://files.bibliohack.org/cenital.mp4"
 ]]
 [[!template id=landing_page_json.tmpl
 
@@ -288,4 +369,8 @@ Organizamos actividades públicas y encuentros para profesionales de la informac
 	"caption": "Adaptación del \"modelo estandar\" de diybookscanner.org. La Plata, 2012."
 }
 """
+]][[!template id=landing_page_section_slides_item_cuartos_js.tmpl 
+
+]][[!template id=landing_page_section_timeline_js.tmpl 
+
 ]]
