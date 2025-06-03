@@ -265,13 +265,13 @@ the tensions between access and intellectual property; and the use of data in to
   item3_texto="Free repository with software resources and drawings."
 
 ]]
-<!-- [[!template id=landing_page_section_featured.tmpl 
+[[!template id=landing_page_section_featured.tmpl 
 
    section_id="featured"
-   show_items=12
+   show_items=9
    lang_items="en"
 
-]] -->
+]] 
 [[!template id=landing_page_section_form.tmpl 
 
    section_id="contact"
